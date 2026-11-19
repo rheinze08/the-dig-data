@@ -1,0 +1,885 @@
+{
+  "asOf": "2026-11-19",
+  "collectedAt": "2026-11-19T04:54:05.295Z",
+  "window": {
+    "start": "2026-11-19",
+    "end": "2026-12-02",
+    "timeZone": "America/Chicago"
+  },
+  "area": {
+    "lat": 29.529,
+    "lng": -95.135,
+    "radiusMiles": 25
+  },
+  "coverage": {
+    "EstateSales.net": {
+      "status": "reached",
+      "detail": "Read the public sale sitemap. Checked 51/51 local candidate details.",
+      "candidates": 32,
+      "included": 24
+    },
+    "EstateSales.org": {
+      "status": "reached",
+      "detail": "Read 28 Houston directory cards over 2 pages. Checked 4/4 in-person local candidate details.",
+      "candidates": 4,
+      "included": 3
+    },
+    "EstateSale.com": {
+      "status": "blocked",
+      "detail": "https://www.estatesale.com/cities/view/1363/Estate-Sales-Friendswood-TX.html — Incapsula challenge in HTTP 200 response",
+      "candidates": 0,
+      "included": 0
+    },
+    "Craigslist Houston": {
+      "status": "reached",
+      "detail": "13 directory listings discovered; 1 in-window estate listings before radius filtering",
+      "candidates": 1,
+      "included": 1
+    },
+    "GSALR.com": {
+      "status": "blocked",
+      "detail": "https://gsalr.com/garage-sales-friendswood-tx.html — HTTP 403 Forbidden",
+      "candidates": 0,
+      "included": 0
+    }
+  },
+  "counts": {
+    "candidates": 37,
+    "listings": 28,
+    "sales": 25,
+    "duplicates": 3,
+    "outsideRadius": 8,
+    "unlocatedListings": 0
+  },
+  "unlocated": [],
+  "geocodingNotes": [],
+  "sales": [
+    {
+      "id": "917efdb9740a5300",
+      "title": "A Lifetime of Memories, Beautifully Collected: Decor, Beatles, Star Wars & More!",
+      "company": "Virtue Estate Sales",
+      "streetAddress": "14219 Ridgewood Lake Court",
+      "city": "Houston",
+      "zip": "77062",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77062/5135811"
+        }
+      ],
+      "lat": 29.5907995,
+      "lng": -95.135576,
+      "approximate": false
+    },
+    {
+      "id": "297bcc2d690b4b51",
+      "title": "Warehouse sale",
+      "company": "C & M Estate Sales",
+      "streetAddress": "5530 cr 166",
+      "city": "Alvin",
+      "zip": "77511",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Alvin/77511/5162373"
+        }
+      ],
+      "lat": 29.373381,
+      "lng": -95.207595,
+      "approximate": false
+    },
+    {
+      "id": "fe09cfffd54a085a",
+      "title": "Emergency PopUp Estate Sale",
+      "company": "Family Tree Estate Sales",
+      "streetAddress": "3119 SilverSprings Dr.",
+      "city": "La Porte",
+      "zip": "77571",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/La-Porte/77571/5157048"
+        }
+      ],
+      "lat": 29.626681,
+      "lng": -95.024068,
+      "approximate": false
+    },
+    {
+      "id": "e1946804b0f8f3fd",
+      "title": "Fabulous Heights Sale- Antique, Mid-Century, Architecturale & Historic Home",
+      "company": "Treasure Hunt Auction Co.",
+      "streetAddress": "1425 Columbia St",
+      "city": "Houston",
+      "zip": "77008",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77008/5152926"
+        }
+      ],
+      "lat": 29.797206,
+      "lng": -95.3933285,
+      "approximate": false
+    },
+    {
+      "id": "7421d47c515af257",
+      "title": "The Grand Estate Extravaganza | High-End Furniture & One-of-a-Kind Finds from River Oaks",
+      "company": "Sharp Family Estate Sales",
+      "streetAddress": "2014 Engelmohr st",
+      "city": "Houston",
+      "zip": "77054",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:30"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "16:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77054/5159607"
+        }
+      ],
+      "lat": 29.681483,
+      "lng": -95.4012959,
+      "approximate": false
+    },
+    {
+      "id": "08f28c2e19aa308d",
+      "title": "MUST GO BY FRIDAY + more - MCM Antique - River Oaks Teardown 77019 Steal these Deals",
+      "company": "By Ronnalynn",
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77019",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "11:00",
+          "end": "16:15"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:30",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77019/5165301"
+        }
+      ],
+      "lat": 29.7540053,
+      "lng": -95.4007196,
+      "approximate": true
+    },
+    {
+      "id": "e63bb709aa2c9ce4",
+      "title": "Yard, Estate sale",
+      "company": null,
+      "streetAddress": "11306 Christian",
+      "city": "Houston",
+      "zip": "77044",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "8:00 (AM/PM unspecified)",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Houston",
+          "url": "https://www.craigslist.org/view/d/houston-yard-estate-sale/t4yFe4GwxgT1scL3wi2Jzp"
+        }
+      ],
+      "lat": 29.878055045631,
+      "lng": -95.154208971048,
+      "approximate": false
+    },
+    {
+      "id": "46d5f50c6f4dafd9",
+      "title": "A and S Estate Sales....Eclectic sale to say the least....",
+      "company": "A And S Estate Sales",
+      "streetAddress": "3318 Deerwood lane",
+      "city": "Missouri City",
+      "zip": "77459",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "15:30"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Missouri-City/77459/5164497"
+        }
+      ],
+      "lat": 29.5706355,
+      "lng": -95.5388768,
+      "approximate": false
+    },
+    {
+      "id": "780dc1aaf34cab51",
+      "title": "Collector’s Corner on Camden by Heritage Estate Sales",
+      "company": "Heritage Estate Sales",
+      "streetAddress": null,
+      "city": "Pasadena",
+      "zip": "77502",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "12:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Pasadena/77502/5161326"
+        }
+      ],
+      "lat": 29.6808784,
+      "lng": -95.2042463,
+      "approximate": true
+    },
+    {
+      "id": "a9e67e831f781fda",
+      "title": "Pearland estate sale",
+      "company": "Yolanda's Estate Sales",
+      "streetAddress": null,
+      "city": "Pearland",
+      "zip": "77581",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Pearland/77581/5160993"
+        }
+      ],
+      "lat": 29.5605101,
+      "lng": -95.2650553,
+      "approximate": true
+    },
+    {
+      "id": "823b4cd74da69572",
+      "title": "West University Estate Sale!",
+      "company": "Dominique Kendall Estate Sales",
+      "streetAddress": null,
+      "city": "West University Place",
+      "zip": "77005",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77005/5161413"
+        }
+      ],
+      "lat": 29.7206266,
+      "lng": -95.4207825,
+      "approximate": true
+    },
+    {
+      "id": "1552ae954159c57f",
+      "title": "Willow Meadows Estate Sale",
+      "company": "Yolanda's Estate Sales",
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77035",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77035/5133270"
+        }
+      ],
+      "lat": 29.6561547,
+      "lng": -95.4749091,
+      "approximate": true
+    },
+    {
+      "id": "c63b83155d9796a0",
+      "title": "WOODSIDE ESTATE SALE - 610 & Stella Link",
+      "company": "Two Moms Estate Sales",
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77025",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77025/5164365"
+        }
+      ],
+      "lat": 29.6884618,
+      "lng": -95.4297609,
+      "approximate": true
+    },
+    {
+      "id": "5ec58abcc986b831",
+      "title": "60% OFF SALE Blowout",
+      "company": "Kingdom Realty Estate Sales",
+      "streetAddress": null,
+      "city": "Missouri City",
+      "zip": "77489",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/missouri-city/77489/60-off-two-days-sale-2474184"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Missouri-City/77489/5163759"
+        }
+      ],
+      "lat": 29.5993958,
+      "lng": -95.5133017,
+      "approximate": true
+    },
+    {
+      "id": "b5c48691b6fb568f",
+      "title": "Estate Sale by Family Tree Estates",
+      "company": "Family Tree Estate Sales",
+      "streetAddress": null,
+      "city": "League City",
+      "zip": "77573",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/League-City/77573/5146677"
+        }
+      ],
+      "lat": 29.4988871,
+      "lng": -95.0991214,
+      "approximate": true
+    },
+    {
+      "id": "770f8455c94feb76",
+      "title": "Houston Estate Sale!",
+      "company": "Elite Estate Sales Inc",
+      "streetAddress": "6635 Sewanee Ave",
+      "city": "West University Place",
+      "zip": "77005",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/houston/77005/houston-estate-sale-2461570"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77005/5071545"
+        }
+      ],
+      "lat": 29.7206266,
+      "lng": -95.4207825,
+      "approximate": true
+    },
+    {
+      "id": "e74c90b9852b95c2",
+      "title": "Texas City Downsizing Estate Sale",
+      "company": "Patrice's Estate Sales",
+      "streetAddress": "2618 14th St N",
+      "city": "Texas City",
+      "zip": "77590",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/texas-city-/77590/texas-city-downsizing-estate-sale-2474169"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Texas-City/77590/5163102"
+        }
+      ],
+      "lat": 29.4089021,
+      "lng": -94.9146776,
+      "approximate": false
+    },
+    {
+      "id": "cac6c44b629d8beb",
+      "title": "Highland Village Mansion Estate Sale TREASURES for ALL!",
+      "company": "Margie Beegle Sales",
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77027",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77027/5149494"
+        }
+      ],
+      "lat": 29.7413958,
+      "lng": -95.4487318,
+      "approximate": true
+    },
+    {
+      "id": "131cf95e8fb2e961",
+      "title": "THE BELLAIRE COLLECTION – An Extraordinary Estate of Fine Art, Antiques & Global Treasures",
+      "company": "River Oaks Estate Sales",
+      "streetAddress": null,
+      "city": "Bellaire",
+      "zip": "77401",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:30",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Bellaire/77401/5138013"
+        }
+      ],
+      "lat": 29.7040045,
+      "lng": -95.4639582,
+      "approximate": true
+    },
+    {
+      "id": "8bd880d82eda54d5",
+      "title": "Estate Sale by Family Tree Estates",
+      "company": "Family Tree Estate Sales",
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77034",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77034/5159586"
+        }
+      ],
+      "lat": 29.639752,
+      "lng": -95.2284686,
+      "approximate": true
+    },
+    {
+      "id": "bb9090b41a98fa85",
+      "title": "Estate Sale by Family Tree Estates",
+      "company": "Family Tree Estate Sales",
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77062",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77062/5156793"
+        }
+      ],
+      "lat": 29.5750991,
+      "lng": -95.1319716,
+      "approximate": true
+    },
+    {
+      "id": "510a1b9fb19e4d83",
+      "title": "Estate Sale by Family Tree Estates",
+      "company": "Family Tree Estate Sales",
+      "streetAddress": null,
+      "city": "Kemah",
+      "zip": "77565",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Kemah/77565/5156790"
+        }
+      ],
+      "lat": 29.5411706,
+      "lng": -95.0295891,
+      "approximate": true
+    },
+    {
+      "id": "60ec3b8089dbba26",
+      "title": "THANKSGIVING PICKER ESTATE",
+      "company": "Family Tree Estate Sales",
+      "streetAddress": null,
+      "city": "Santa Fe",
+      "zip": "77517",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Santa-Fe/77517/5107233"
+        }
+      ],
+      "lat": 29.3856773,
+      "lng": -95.1281039,
+      "approximate": true
+    },
+    {
+      "id": "c413e5c1a71b0b80",
+      "title": "Montrose Museum Quality Estate!",
+      "company": "Aloha Estate Sales Of Houston",
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77006",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "11:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "12:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77006/5148879"
+        }
+      ],
+      "lat": 29.7422405,
+      "lng": -95.3902848,
+      "approximate": true
+    },
+    {
+      "id": "2a7a411e458e6dad",
+      "title": "A World of Wonder: A Legacy of Love, Art and Exploration",
+      "company": "Virtue Estate Sales",
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77059",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-02",
+          "start": "09:00",
+          "end": "18:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77059/5148087"
+        }
+      ],
+      "lat": 29.5991448,
+      "lng": -95.1188624,
+      "approximate": true
+    }
+  ]
+}
