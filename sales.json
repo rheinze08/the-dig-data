@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-19",
-  "collectedAt": "2026-11-19T23:03:03.415Z",
+  "asOf": "2026-11-20",
+  "collectedAt": "2026-11-20T12:01:21.438Z",
   "window": {
-    "start": "2026-11-19",
-    "end": "2026-12-02",
+    "start": "2026-11-20",
+    "end": "2026-12-03",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,13 +14,13 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 51/51 local candidate details.",
-      "candidates": 32,
-      "included": 25
+      "detail": "Read the public sale sitemap. Checked 53/53 local candidate details.",
+      "candidates": 33,
+      "included": 26
     },
     "EstateSales.org": {
-      "status": "reached",
-      "detail": "Read 30 Houston directory cards over 2 pages. Checked 4/4 in-person local candidate details.",
+      "status": "partial",
+      "detail": "Read 31 Houston directory cards over 2 pages. Checked 4/5 in-person local candidate details. https://estatesales.org/estate-sales/tx/kemah/77565/estate-sale-2474736 — Bad control character in string literal in JSON at position 741 (line 23 column 49)",
       "candidates": 4,
       "included": 3
     },
@@ -32,8 +32,8 @@
     },
     "Craigslist Houston": {
       "status": "reached",
-      "detail": "17 directory listings discovered; 2 in-window estate listings before radius filtering",
-      "candidates": 2,
+      "detail": "19 directory listings discovered; 3 in-window estate listings before radius filtering",
+      "candidates": 3,
       "included": 2
     },
     "GSALR.com": {
@@ -44,14 +44,16 @@
     }
   },
   "counts": {
-    "candidates": 38,
-    "listings": 30,
-    "sales": 27,
+    "candidates": 40,
+    "listings": 31,
+    "sales": 28,
     "duplicates": 3,
     "outsideRadius": 7,
-    "unlocatedListings": 0
+    "unlocatedListings": 1
   },
-  "unlocated": [],
+  "unlocated": [
+    "https://www.craigslist.org/view/d/friendswood-estate-sale-in-friendswood/8REqEVcECsToTBrbnGQgZy"
+  ],
   "geocodingNotes": [],
   "sales": [
     {
@@ -245,46 +247,6 @@
       "approximate": false
     },
     {
-      "id": "7421d47c515af257",
-      "title": "The Grand Estate Extravaganza | High-End Furniture & One-of-a-Kind Finds from River Oaks",
-      "company": "Sharp Family Estate Sales",
-      "streetAddress": "2014 Engelmohr st",
-      "city": "Houston",
-      "zip": "77054",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "start": "10:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "16:30"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "09:00",
-          "end": "16:30"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Houston/77054/5159607"
-        }
-      ],
-      "lat": 29.681483,
-      "lng": -95.4012959,
-      "approximate": false
-    },
-    {
       "id": "e63bb709aa2c9ce4",
       "title": "Yard, Estate sale",
       "company": null,
@@ -418,10 +380,10 @@
       "id": "823b4cd74da69572",
       "title": "West University Estate Sale!",
       "company": "Dominique Kendall Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "4204 Oberlin Street",
       "city": "West University Place",
       "zip": "77005",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-20",
@@ -440,9 +402,9 @@
           "url": "https://www.estatesales.net/TX/Houston/77005/5161413"
         }
       ],
-      "lat": 29.7206266,
-      "lng": -95.4207825,
-      "approximate": true
+      "lat": 29.7117941,
+      "lng": -95.4454381,
+      "approximate": false
     },
     {
       "id": "1552ae954159c57f",
@@ -682,6 +644,46 @@
       "approximate": false
     },
     {
+      "id": "7421d47c515af257",
+      "title": "The Grand Estate Extravaganza | High-End Furniture & One-of-a-Kind Finds from River Oaks",
+      "company": "Sharp Family Estate Sales",
+      "streetAddress": "2014 Engelmohr st",
+      "city": "Houston",
+      "zip": "77054",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:30"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "16:30"
+        },
+        {
+          "date": "2026-11-23",
+          "start": "10:30",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77054/5159607"
+        }
+      ],
+      "lat": 29.681483,
+      "lng": -95.4012959,
+      "approximate": false
+    },
+    {
       "id": "cde9db70e3835f53",
       "title": "HUGE Garage & Moving Sale with Hundreds of Items",
       "company": null,
@@ -797,41 +799,6 @@
       "approximate": true
     },
     {
-      "id": "510a1b9fb19e4d83",
-      "title": "Estate Sale by Family Tree Estates",
-      "company": "Family Tree Estate Sales",
-      "streetAddress": null,
-      "city": "Kemah",
-      "zip": "77565",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "10:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-29",
-          "start": "10:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Kemah/77565/5156790"
-        }
-      ],
-      "lat": 29.5411706,
-      "lng": -95.0295891,
-      "approximate": true
-    },
-    {
       "id": "bb9090b41a98fa85",
       "title": "Estate Sale by Family Tree Estates",
       "company": "Family Tree Estate Sales",
@@ -864,6 +831,41 @@
       ],
       "lat": 29.5750991,
       "lng": -95.1319716,
+      "approximate": true
+    },
+    {
+      "id": "510a1b9fb19e4d83",
+      "title": "Estate Sale by Family Tree Estates",
+      "company": "Family Tree Estate Sales",
+      "streetAddress": null,
+      "city": "Kemah",
+      "zip": "77565",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Kemah/77565/5156790"
+        }
+      ],
+      "lat": 29.5411706,
+      "lng": -95.0295891,
       "approximate": true
     },
     {
@@ -974,6 +976,46 @@
       ],
       "lat": 29.5991448,
       "lng": -95.1188624,
+      "approximate": true
+    },
+    {
+      "id": "59e88589a519be1a",
+      "title": "THE BEST ESTATE SALE before CHRISTMAS Ever!!! by GET RID OF IT...Estate Services - MUST SEE!!",
+      "company": "Get Rid Of It",
+      "streetAddress": null,
+      "city": "Friendswood",
+      "zip": "77546",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "08:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "08:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "08:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Friendswood/77546/5160081"
+        }
+      ],
+      "lat": 29.5244089,
+      "lng": -95.191409,
       "approximate": true
     }
   ]
