@@ -7,6 +7,7 @@ import {collectCl, collectCom, collectGsalr} from './lib/com-cl.mjs';
 import {createLocator} from './lib/locate.mjs';
 import {groupSales, hasSessionInWindow, mergeGroup, milesBetween} from './lib/pool.mjs';
 import {categorize} from './lib/categories.mjs';
+import {lostSources} from './lib/rules.mjs';
 import {defaultHome, dirUrl, findCity, loadCities, paths, readJson, writeJson} from './lib/config.mjs';
 
 const usage = `Usage: node collector/collect.mjs [--city SLUG] [--date YYYY-MM-DD] [--report-only] [--config DIR] [--out DIR]
@@ -86,19 +87,17 @@ async function fetchSource(name, collect) {
 }
 
 // A source that cannot be read today must not quietly empty a published feed.
-// When the sources blocked on this run supplied half or more of the listings in
-// the feed being replaced, the run fails and the previous feed stays.
+// The rule is lostSources in lib/rules.mjs.
 function checkAgainstPrevious(previous, coverage) {
-  const before = Object.entries(previous?.coverage ?? {}).filter(([, source]) => source.included > 0);
-  const total = before.reduce((sum, [, source]) => sum + source.included, 0);
-  const lost = before.filter(([name]) => coverage[name]?.status === 'blocked');
-  const share = lost.reduce((sum, [, source]) => sum + source.included, 0);
-  for (const [name, source] of lost) {
-    console.log(`WARNING ${city.slug}: ${name} is blocked on this run. It supplied ${source.included} of ${total} listings in the previous feed. ${coverage[name].detail}`);
+  const {lost, share, total, tooMany} = lostSources(previous?.coverage, coverage);
+  // On GitHub Actions the warning also shows on the run's summary page.
+  const prefix = process.env.GITHUB_ACTIONS === 'true' ? '::warning title=Source blocked::' : 'WARNING ';
+  for (const {name, included} of lost) {
+    console.log(`${prefix}${city.slug}: ${name} is blocked on this run. It supplied ${included} of ${total} listings in the previous feed. ${coverage[name].detail}`);
   }
-  if (total && share * 2 >= total) {
+  if (tooMany) {
     throw Error(`Blocked sources supplied ${share} of ${total} listings in the previous ${city.slug} feed. The previous feed has been retained. `
-      + lost.map(([name]) => name + ': ' + coverage[name].detail).join(' | '));
+      + lost.map(({name}) => name + ': ' + coverage[name].detail).join(' | '));
   }
 }
 

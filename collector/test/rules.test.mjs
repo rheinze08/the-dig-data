@@ -2,7 +2,7 @@
 import assert from 'node:assert/strict';
 import {test} from 'node:test';
 import {categorize, CATEGORIES} from '../lib/categories.mjs';
-import {advanceStreak, promotionDecision} from '../lib/rules.mjs';
+import {advanceStreak, lostSources, promotionDecision} from '../lib/rules.mjs';
 
 test('a streak counts consecutive clean days', () => {
   let run = advanceStreak(undefined, {date: '2026-11-20', ok: true});
@@ -88,4 +88,24 @@ test('every tag is one of the twelve categories', () => {
   assert.equal(CATEGORIES.length, 12);
   assert.deepEqual(CATEGORIES, ['tools', 'furniture', 'vinyl & records', 'jewelry', 'collectibles', 'vehicles',
     'kitchen', 'clothing', 'books', 'art', 'electronics', 'toys & games']);
+});
+
+test('a blocked source that supplied half or more of the previous feed fails the collection', () => {
+  const previous = {'EstateSales.net': {included: 25}, 'EstateSales.org': {included: 4}, 'Craigslist Houston': {included: 2},
+    'GSALR.com': {included: 0}};
+  const now = blocked => Object.fromEntries(Object.keys(previous).map(name => [name, {status: blocked.includes(name) ? 'blocked' : 'reached'}]));
+  // The main source is blocked: 25 of 31 listings would vanish.
+  let result = lostSources(previous, now(['EstateSales.net']));
+  assert.deepEqual([result.share, result.total, result.tooMany], [25, 31, true]);
+  // A small source is blocked: the feed still publishes, with a warning.
+  result = lostSources(previous, now(['Craigslist Houston']));
+  assert.deepEqual([result.share, result.total, result.tooMany], [2, 31, false]);
+  assert.deepEqual(result.lost, [{name: 'Craigslist Houston', included: 2}]);
+  // A source that never supplied anything can stay blocked forever.
+  result = lostSources(previous, now(['GSALR.com']));
+  assert.deepEqual([result.lost.length, result.tooMany], [0, false]);
+  // Exactly half counts as too many.
+  assert.equal(lostSources({A: {included: 5}, B: {included: 5}}, {A: {status: 'blocked'}, B: {status: 'reached'}}).tooMany, true);
+  // A first collection has nothing to compare against.
+  assert.equal(lostSources(undefined, {A: {status: 'blocked'}}).tooMany, false);
 });

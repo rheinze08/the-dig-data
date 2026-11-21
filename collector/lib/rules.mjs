@@ -31,3 +31,17 @@ export function promotionDecision(city, run, sales) {
   const promote = run.cleanRuns >= PROMOTION.cleanRuns && Number.isFinite(sales) && sales >= PROMOTION.sales;
   return {promote, reason: facts};
 }
+
+// What a collection lost, measured against the feed it would replace. A source
+// counts as lost when it supplied listings to the previous feed and is blocked
+// now. When the lost sources supplied half or more of the previous feed's
+// listings, publishing would quietly empty the feed, so the collection fails
+// and the previous feed stays.
+export function lostSources(previousCoverage, coverage) {
+  const before = Object.entries(previousCoverage ?? {}).filter(([, source]) => source.included > 0);
+  const total = before.reduce((sum, [, source]) => sum + source.included, 0);
+  const lost = before.filter(([name]) => coverage[name]?.status === 'blocked')
+    .map(([name, source]) => ({name, included: source.included}));
+  const share = lost.reduce((sum, source) => sum + source.included, 0);
+  return {lost, share, total, tooMany: total > 0 && share * 2 >= total};
+}
