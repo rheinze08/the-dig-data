@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-20",
-  "collectedAt": "2026-11-21T02:32:04.562Z",
+  "collectedAt": "2026-11-21T03:05:39.165Z",
   "window": {
     "start": "2026-11-20",
     "end": "2026-12-03",
@@ -26,7 +26,7 @@
     },
     "Craigslist Austin": {
       "status": "reached",
-      "detail": "46 directory listings discovered; 5 in-window estate listings before radius filtering",
+      "detail": "47 directory listings discovered; 5 in-window estate listings before radius filtering",
       "candidates": 5,
       "included": 2
     },
@@ -708,7 +708,7 @@
       "id": "438808997173b381",
       "title": "Kerr",
       "company": null,
-      "streetAddress": "5004 Interlachen Lane Austin Tx 78747",
+      "streetAddress": "5004 Interlachen Lane",
       "city": "Austin",
       "state": "TX",
       "zip": "78747",
@@ -732,8 +732,8 @@
         }
       ],
       "categories": [],
-      "lat": 30.140516,
-      "lng": -97.777465,
+      "lat": 30.1405465,
+      "lng": -97.7773959,
       "approximate": false
     },
     {

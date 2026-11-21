@@ -202,6 +202,11 @@
     "lng": -97.777465,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:5004 interlachen ln:78747": {
+    "lat": 30.1405465,
+    "lng": -97.7773959,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:560 jaylee:78133": {
     "lat": 29.885668,
     "lng": -98.166222,

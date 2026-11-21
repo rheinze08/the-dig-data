@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-20",
-  "collectedAt": "2026-11-21T02:27:41.135Z",
+  "collectedAt": "2026-11-21T03:01:16.170Z",
   "window": {
     "start": "2026-11-20",
     "end": "2026-12-03",
@@ -25,14 +25,14 @@
       "included": 4
     },
     "EstateSale.com": {
-      "status": "blocked",
-      "detail": "https://www.estatesale.com/cities/view/1363/Estate-Sales-Friendswood-TX.html — Incapsula challenge in HTTP 200 response",
-      "candidates": 0,
+      "status": "reached",
+      "detail": "8 directory listings discovered; 6 in-window estate listings before radius filtering",
+      "candidates": 6,
       "included": 0
     },
     "Craigslist Houston": {
       "status": "reached",
-      "detail": "22 directory listings discovered; 3 in-window estate listings before radius filtering",
+      "detail": "23 directory listings discovered; 3 in-window estate listings before radius filtering",
       "candidates": 3,
       "included": 2
     },
@@ -44,11 +44,11 @@
     }
   },
   "counts": {
-    "candidates": 40,
+    "candidates": 46,
     "listings": 31,
     "sales": 28,
     "duplicates": 3,
-    "outsideRadius": 7,
+    "outsideRadius": 13,
     "unlocatedListings": 1
   },
   "unlocated": [

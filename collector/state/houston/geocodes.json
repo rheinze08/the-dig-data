@@ -13,6 +13,9 @@
   "nominatim:street:11306 christian:77044": {
     "retryAfter": 1795668845293
   },
+  "nominatim:street:11830 duxbury:75218": {
+    "retryAfter": 1795834871009
+  },
   "nominatim:street:2505 shadybend dr:77581": {
     "retryAfter": 1795734173387
   },
@@ -70,6 +73,11 @@
     "lng": -95.4012959,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:212 timber lake dr:76092": {
+    "lat": 32.939229,
+    "lng": -97.16323,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:2505 shadybend dr:77581": {
     "lat": 29.5499358,
     "lng": -95.2589919,
@@ -99,6 +107,11 @@
     "lat": 29.626681,
     "lng": -95.024068,
     "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3204 rustic meadows dr:76021": {
+    "lat": 32.8525587,
+    "lng": -97.101481,
+    "basis": "OpenStreetMap Nominatim"
   },
   "street:3318 deerwood ln:77459": {
     "lat": 29.5706355,
@@ -130,6 +143,11 @@
     "lng": -95.207595,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:5531 pebblebrook dr:75229": {
+    "lat": 32.897006,
+    "lng": -96.811438,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:620 britt bailey blvd:77515": {
     "lat": 29.156177,
     "lng": -95.50688,
@@ -139,6 +157,11 @@
     "lat": 29.707844,
     "lng": -95.430615,
     "basis": "Public listing map: EstateSales.net"
+  },
+  "street:809 cold springs ct:75094": {
+    "lat": 33.027318,
+    "lng": -96.5967043,
+    "basis": "OpenStreetMap Nominatim"
   },
   "street:8309 montridge dr:77055": {
     "lat": 29.8081533,
@@ -164,6 +187,16 @@
     "lat": 29.82935,
     "lng": -95.387266,
     "basis": "Public listing map: EstateSales.net"
+  },
+  "zip:75087": {
+    "lat": 32.9436463,
+    "lng": -96.4391713,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75218": {
+    "lat": 32.8446042,
+    "lng": -96.7030279,
+    "basis": "OpenStreetMap Nominatim"
   },
   "zip:77005": {
     "lat": 29.7206266,

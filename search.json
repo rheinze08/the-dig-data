@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T02:33:26.962Z",
+  "generatedAt": "2026-11-21T03:07:01.032Z",
   "categories": [
     "tools",
     "furniture",
@@ -22,7 +22,7 @@
       "state": "TX",
       "status": "live",
       "sales": 28,
-      "collectedAt": "2026-11-21T02:27:41.135Z"
+      "collectedAt": "2026-11-21T03:01:16.170Z"
     },
     {
       "slug": "dallas-fort-worth",
@@ -30,7 +30,7 @@
       "state": "TX",
       "status": "proving",
       "sales": 110,
-      "collectedAt": "2026-11-21T02:31:02.750Z"
+      "collectedAt": "2026-11-21T03:04:36.874Z"
     },
     {
       "slug": "austin",
@@ -38,7 +38,7 @@
       "state": "TX",
       "status": "proving",
       "sales": 26,
-      "collectedAt": "2026-11-21T02:32:04.562Z"
+      "collectedAt": "2026-11-21T03:05:39.165Z"
     },
     {
       "slug": "san-antonio",
@@ -46,7 +46,7 @@
       "state": "TX",
       "status": "proving",
       "sales": 43,
-      "collectedAt": "2026-11-21T02:33:26.943Z"
+      "collectedAt": "2026-11-21T03:07:01.016Z"
     }
   ],
   "sales": [
@@ -1030,11 +1030,11 @@
       ]
     },
     {
-      "id": "7b1745a5aa38f1a7",
+      "id": "dcc8fa3388f97b80",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
       "status": "proving",
-      "title": "Dazzling in Dallas 25% OFF",
+      "title": "Dazzling in Dallas 50% OFF",
       "company": "Chickadee Lane Estate And Moving Sales, LLC",
       "categories": [],
       "firstDate": "2026-11-19",
@@ -1045,7 +1045,7 @@
       "sources": [
         {
           "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/dallas/75229/dazzling-in-dallas-2473573"
+          "url": "https://estatesales.org/estate-sales/tx/dallas/75229/dazzling-in-dallas-25-off-2473573"
         },
         {
           "name": "EstateSales.net",
@@ -1074,7 +1074,7 @@
       ]
     },
     {
-      "id": "c78e1e21c6fb0634",
+      "id": "0b0109343b47586d",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
       "status": "proving",
@@ -1089,7 +1089,7 @@
       "sources": [
         {
           "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/dallas/75248/midcentury-delight-in-dallas-2473570"
+          "url": "https://estatesales.org/estate-sales/tx/dallas/75248/midcentury-delight-in-dallas-25-2473570"
         },
         {
           "name": "EstateSales.net",
@@ -1851,6 +1851,26 @@
       ]
     },
     {
+      "id": "c4e6bad9cfe373f0",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "25% OFF Saturday!!!James Major Estate Sales : Bachelor Pad Blowout in Richardson",
+      "company": "James Major Estate Sales",
+      "categories": [],
+      "firstDate": "2026-11-20",
+      "lastDate": "2026-11-22",
+      "lat": 32.9427049,
+      "lng": -96.7137708,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Richardson/75081/5160756"
+        }
+      ]
+    },
+    {
       "id": "a4440405f38113a9",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
@@ -1930,26 +1950,6 @@
         {
           "name": "EstateSales.net",
           "url": "https://www.estatesales.net/TX/Frisco/75035/5162727"
-        }
-      ]
-    },
-    {
-      "id": "c4e6bad9cfe373f0",
-      "citySlug": "dallas-fort-worth",
-      "cityName": "Dallas–Fort Worth",
-      "status": "proving",
-      "title": "James Major Estate Sales : Bachelor Pad Blowout in Richardson",
-      "company": "James Major Estate Sales",
-      "categories": [],
-      "firstDate": "2026-11-20",
-      "lastDate": "2026-11-22",
-      "lat": 32.9427049,
-      "lng": -96.7137708,
-      "approximate": false,
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Richardson/75081/5160756"
         }
       ]
     },
@@ -3310,8 +3310,8 @@
       "categories": [],
       "firstDate": "2026-11-21",
       "lastDate": "2026-11-22",
-      "lat": 30.140516,
-      "lng": -97.777465,
+      "lat": 30.1405465,
+      "lng": -97.7773959,
       "approximate": false,
       "sources": [
         {
@@ -4250,7 +4250,7 @@
       "citySlug": "san-antonio",
       "cityName": "San Antonio",
       "status": "proving",
-      "title": "South San Antonio Treasure Hunt! Saturday & Sunday ONLY!",
+      "title": "South San Antonio Treasure Hunt!",
       "company": "Overstreet Estates, LLC",
       "categories": [],
       "firstDate": "2026-11-21",
