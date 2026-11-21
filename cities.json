@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "defaultCity": "houston",
+  "cities": [
+    {
+      "slug": "houston",
+      "name": "Houston",
+      "timeZone": "America/Chicago",
+      "enabled": true,
+      "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/houston/sales.json",
+      "sales": 28,
+      "collectedAt": "2026-11-21T01:26:19.206Z",
+      "center": {
+        "lat": 29.529,
+        "lng": -95.135,
+        "label": "Friendswood, Texas"
+      },
+      "radiusMiles": 25
+    },
+    {
+      "slug": "dallas-fort-worth",
+      "name": "Dallas–Fort Worth",
+      "timeZone": "America/Chicago",
+      "enabled": false,
+      "feedUrl": null,
+      "sales": null,
+      "collectedAt": null,
+      "center": {
+        "lat": 32.9,
+        "lng": -97.04,
+        "label": "DFW Airport"
+      },
+      "radiusMiles": 25
+    },
+    {
+      "slug": "austin",
+      "name": "Austin",
+      "timeZone": "America/Chicago",
+      "enabled": false,
+      "feedUrl": null,
+      "sales": null,
+      "collectedAt": null,
+      "center": {
+        "lat": 30.267,
+        "lng": -97.743,
+        "label": "downtown Austin"
+      },
+      "radiusMiles": 25
+    },
+    {
+      "slug": "san-antonio",
+      "name": "San Antonio",
+      "timeZone": "America/Chicago",
+      "enabled": false,
+      "feedUrl": null,
+      "sales": null,
+      "collectedAt": null,
+      "center": {
+        "lat": 29.424,
+        "lng": -98.494,
+        "label": "downtown San Antonio"
+      },
+      "radiusMiles": 25
+    }
+  ]
+}
