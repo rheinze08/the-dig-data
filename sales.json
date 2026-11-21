@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-20",
-  "collectedAt": "2026-11-21T03:01:16.170Z",
+  "collectedAt": "2026-11-21T04:55:57.601Z",
   "window": {
     "start": "2026-11-20",
     "end": "2026-12-03",
@@ -25,14 +25,14 @@
       "included": 4
     },
     "EstateSale.com": {
-      "status": "reached",
-      "detail": "8 directory listings discovered; 6 in-window estate listings before radius filtering",
-      "candidates": 6,
+      "status": "blocked",
+      "detail": "https://www.estatesale.com/cities/view/1363/Estate-Sales-Friendswood-TX.html — Incapsula challenge in HTTP 200 response",
+      "candidates": 0,
       "included": 0
     },
     "Craigslist Houston": {
       "status": "reached",
-      "detail": "23 directory listings discovered; 3 in-window estate listings before radius filtering",
+      "detail": "24 directory listings discovered; 3 in-window estate listings before radius filtering",
       "candidates": 3,
       "included": 2
     },
@@ -44,11 +44,11 @@
     }
   },
   "counts": {
-    "candidates": 46,
+    "candidates": 40,
     "listings": 31,
     "sales": 28,
     "duplicates": 3,
-    "outsideRadius": 13,
+    "outsideRadius": 7,
     "unlocatedListings": 1
   },
   "unlocated": [
@@ -96,6 +96,42 @@
       "categories": [
         "collectibles"
       ],
+      "contactPhone": "(832) 567-2189",
+      "contactUrl": "http://www.virtueestatesales.com",
+      "photoCount": 522,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5135811/1-1/bf52abd2-f859-4977-be3d-80bcd4a7cd19.jpg",
+        "https://picturescdn.estatesales.net/5135811/1-1/00a4ed16-2c43-44c5-a276-cdb806db2f7f.jpg",
+        "https://picturescdn.estatesales.net/5135811/1-1/dc96c9cc-4163-4b52-9261-6486e2598731.jpg",
+        "https://picturescdn.estatesales.net/5135811/1-1/1092154f-d6bb-4fef-898f-2be473e29a0c.jpg",
+        "https://picturescdn.estatesales.net/5135811/1-1/89b7ec00-dfc4-47cb-9b49-8a8f5efbcf33.jpg",
+        "https://picturescdn.estatesales.net/5135811/1-1/408a5594-6067-4bc9-963b-9d9833a32959.jpg",
+        "https://picturescdn.estatesales.net/5135811/1-1/03c3b857-3912-48d4-9569-cb98e46e3066.jpg",
+        "https://picturescdn.estatesales.net/5135811/1-1/87ce347a-3c99-462d-9efc-0e6ae67453c6.jpg",
+        "https://picturescdn.estatesales.net/5135811/1-1/2b2544e0-1ea1-453e-9165-098d87cfaf94.jpg",
+        "https://picturescdn.estatesales.net/5135811/1-1/07b4f0a5-33f2-4ce6-9fdc-5d97019d8755.jpg",
+        "https://picturescdn.estatesales.net/5135811/1-1/42ae82a3-ad54-449a-9822-25c123bc3449.jpg",
+        "https://picturescdn.estatesales.net/5135811/1-1/047caa50-80cb-4294-b96c-aebe3f48efb3.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "522 photos",
+        "tools, furniture and vinyl & records in the listing",
+        "runs 4 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "art",
+        "electronics",
+        "toys & games",
+        "china"
+      ],
+      "contentsLine": "Tools, furniture, vinyl & records, collectibles and kitchen.",
       "lat": 29.5907995,
       "lng": -95.135576,
       "approximate": false
@@ -138,6 +174,37 @@
         }
       ],
       "categories": [],
+      "contactPhone": "(281) 787-6626",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Alvin/77511/166307",
+      "photoCount": 70,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5162373/1-1/2c2b7e3b-4e7d-4ab4-87e3-cbd52d294253.jpg",
+        "https://picturescdn.estatesales.net/5162373/1-1/d8dd58f8-166b-4762-a2df-49a6c5ab8c02.jpg",
+        "https://picturescdn.estatesales.net/5162373/1-1/de9c9dd6-cb0b-4d43-8345-3485a61ee750.jpg",
+        "https://picturescdn.estatesales.net/5162373/1-1/691dd755-02fe-4377-a77d-4353f9a33ea9.jpg",
+        "https://picturescdn.estatesales.net/5162373/1-1/57826b16-5972-43d5-b351-9ef012f33501.jpg",
+        "https://picturescdn.estatesales.net/5162373/1-1/119d26ed-5ba7-47dc-b568-e9f8f9e221cb.jpg",
+        "https://picturescdn.estatesales.net/5162373/1-1/0b75d683-cd77-4b66-a0ad-d51467bf504f.jpg",
+        "https://picturescdn.estatesales.net/5162373/1-1/3d27d4c9-b902-41b1-aed4-f2ee8f97f369.jpg",
+        "https://picturescdn.estatesales.net/5162373/1-1/079822f0-34ab-4629-9760-97ad382e2038.jpg",
+        "https://picturescdn.estatesales.net/5162373/1-1/c7b580fb-15cf-4a44-9ab3-b0e38f1316d9.jpg",
+        "https://picturescdn.estatesales.net/5162373/1-1/8616475c-a551-4826-9bd3-97d1cc31d712.jpg",
+        "https://picturescdn.estatesales.net/5162373/1-1/76bcab32-fb07-4ab2-975f-766c5b533374.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "70 photos",
+        "tools, furniture and jewelry in the listing",
+        "runs 4 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "antiques",
+        "silver"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, antiques and silver.",
       "lat": 29.373381,
       "lng": -95.207595,
       "approximate": false
@@ -175,6 +242,42 @@
         }
       ],
       "categories": [],
+      "contactPhone": "8322676961",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Kemah/77565/135479",
+      "photoCount": 159,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5157048/1-1/3ef8c21e-9b1d-45c3-895c-1ea9f6afe67d.jpg",
+        "https://picturescdn.estatesales.net/5157048/1-1/27b1cc36-d8d0-4480-a41b-15902d8a4cbe.jpg",
+        "https://picturescdn.estatesales.net/5157048/1-1/78f6b251-36c6-4b6e-b485-26fc821b2e3f.jpg",
+        "https://picturescdn.estatesales.net/5157048/1-1/0cdf54c1-c183-4f40-9542-6028ead3ad44.jpg",
+        "https://picturescdn.estatesales.net/5157048/1-1/bed4ddb4-310f-4559-8657-f68354f2dc86.jpg",
+        "https://picturescdn.estatesales.net/5157048/1-1/c376d781-c42a-4f0b-be50-ea5d3329fbb7.jpg",
+        "https://picturescdn.estatesales.net/5157048/1-1/1f82836d-1ed5-4ac4-8ef1-1fc558d81451.jpg",
+        "https://picturescdn.estatesales.net/5157048/1-1/bb7e6599-1e0f-4c72-a984-f829810f144c.jpg",
+        "https://picturescdn.estatesales.net/5157048/1-1/e0253747-3b91-401c-a18d-57545fc46ab1.jpg",
+        "https://picturescdn.estatesales.net/5157048/1-1/e0bb7513-917f-46fa-a054-8c73c44c0103.jpg",
+        "https://picturescdn.estatesales.net/5157048/1-1/af55a4ce-3fcb-43fe-9eb3-3bb8c67149af.jpg",
+        "https://picturescdn.estatesales.net/5157048/1-1/ed5768cf-dcb8-4af4-9280-6fddc5725752.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "159 photos",
+        "tools, furniture and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "toys & games",
+        "figurines",
+        "rugs"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, kitchen and clothing.",
       "lat": 29.626681,
       "lng": -95.024068,
       "approximate": false
@@ -217,6 +320,38 @@
         }
       ],
       "categories": [],
+      "contactPhone": "(713) 494-7221",
+      "contactUrl": "http://estatesales-auctions.com",
+      "photoCount": 174,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5152926/1-1/497b8226-9984-4217-afd1-0ba1c9497b21.jpg",
+        "https://picturescdn.estatesales.net/5152926/1-1/34c2dd27-b65a-4ed7-8b22-2a6a0c682d79.jpg",
+        "https://picturescdn.estatesales.net/5152926/1-1/10156de5-d1d7-41de-b27d-d8f3d9e0a11f.jpg",
+        "https://picturescdn.estatesales.net/5152926/1-1/d11e9964-72c4-47bd-b03b-4f9fe40a4fa8.jpg",
+        "https://picturescdn.estatesales.net/5152926/1-1/38f07b95-c543-4736-84c0-71ee043c3161.jpg",
+        "https://picturescdn.estatesales.net/5152926/1-1/4a1bfe55-6947-4368-9ed7-f8c8d44c6dc1.jpg",
+        "https://picturescdn.estatesales.net/5152926/1-1/6212c2dc-57cf-4eba-b136-5ce9042ffdee.jpg",
+        "https://picturescdn.estatesales.net/5152926/1-1/1923de68-eafb-4a5c-9679-91311db8c8f4.jpg",
+        "https://picturescdn.estatesales.net/5152926/1-1/6d2b89aa-c7c9-4287-8cc4-7804ba52a5d7.jpg",
+        "https://picturescdn.estatesales.net/5152926/1-1/8a4bf3a8-4667-434b-9335-1453f49f0ee3.jpg",
+        "https://picturescdn.estatesales.net/5152926/1-1/488d8c96-b98d-4deb-a9a5-d62b4fd47ccd.jpg",
+        "https://picturescdn.estatesales.net/5152926/1-1/c1e4c43e-0414-45c4-a238-aac16b7a619d.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "174 photos",
+        "tools, jewelry and collectibles in the listing",
+        "runs 4 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "jewelry",
+        "collectibles",
+        "art",
+        "antiques",
+        "mid-century"
+      ],
+      "contentsLine": "Tools, jewelry, collectibles, art and antiques.",
       "lat": 29.797206,
       "lng": -95.3933285,
       "approximate": false
@@ -249,6 +384,41 @@
         }
       ],
       "categories": [],
+      "contactPhone": "(713) 594-8027",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Missouri-City/77459/6041",
+      "photoCount": 187,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5164497/1-1/3ab7230b-f826-4ada-8889-83756b6c0848.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/985699fa-38a6-466a-911b-f625c155da85.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/842536f5-cf0e-498a-8a9c-9fd196b1f55e.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/c1af5ebc-c9e4-4340-822d-0450e3a706bd.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/4ca38953-f636-4243-9710-e3e7026ab64c.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/2842943a-2106-4adf-87ad-a898acf272ff.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/52cf206f-67fe-4f8f-8d0e-96894f85f26c.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/197185db-194a-4f45-b127-25135e5a097c.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/0aaea622-f0d1-4997-94b9-d89d5a0e809d.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/9d9f6b0e-1158-4cf4-acbe-8b3a4c82800f.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/99eeb204-9918-4afe-ba54-a4fbda5f14cd.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/09f87660-9ce6-4b3c-add8-25153bd2c0c8.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "187 photos",
+        "furniture, vinyl & records and collectibles in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "vinyl & records",
+        "collectibles",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "toys & games",
+        "crystal",
+        "cameras"
+      ],
+      "contentsLine": "Furniture, vinyl & records, collectibles, clothing and books.",
       "lat": 29.5706355,
       "lng": -95.5388768,
       "approximate": false
@@ -288,6 +458,37 @@
       "categories": [
         "collectibles"
       ],
+      "contactPhone": "(281) 222-5515",
+      "contactUrl": "https://www.facebook.com/profile.php?id=100092423936366",
+      "photoCount": 601,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5161326/1-1/71b004d7-a7a9-4166-9aed-b1d4f6588e45.jpg",
+        "https://picturescdn.estatesales.net/5161326/1-1/fe7a74ac-20f8-47e8-b37f-9ecb5b1245d5.jpg",
+        "https://picturescdn.estatesales.net/5161326/1-1/39fc5879-b2d6-40fa-9ab8-c19bbb97c5eb.jpg",
+        "https://picturescdn.estatesales.net/5161326/1-1/42cbec8b-738c-4387-8097-6d56b1697feb.jpg",
+        "https://picturescdn.estatesales.net/5161326/1-1/c38a5966-3853-4a52-85d6-c419de1288f1.jpg",
+        "https://picturescdn.estatesales.net/5161326/1-1/e8fe2285-3766-4c6d-bab1-db82ec2e7108.jpg",
+        "https://picturescdn.estatesales.net/5161326/1-1/214a67d1-9999-448c-905f-81314f8e7a0a.jpg",
+        "https://picturescdn.estatesales.net/5161326/1-1/f94ab0e0-292c-4126-a7e5-a0739c704931.jpg",
+        "https://picturescdn.estatesales.net/5161326/1-1/ec41be1b-fa48-4b43-8f7a-a8c6bb37e33a.jpg",
+        "https://picturescdn.estatesales.net/5161326/1-1/fb68ce92-dcd9-43f3-a98b-9d23da04eb0d.jpg",
+        "https://picturescdn.estatesales.net/5161326/1-1/4078706f-a870-45c3-84ca-e2bacefa9f10.jpg",
+        "https://picturescdn.estatesales.net/5161326/1-1/3ed8cf63-9ba3-4ffe-b10d-7128942a0c81.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "601 photos",
+        "furniture, collectibles and kitchen in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "figurines",
+        "crystal"
+      ],
+      "contentsLine": "Furniture, collectibles, kitchen, figurines and crystal.",
       "lat": 29.6736904,
       "lng": -95.1962186,
       "approximate": false
@@ -325,6 +526,32 @@
         }
       ],
       "categories": [],
+      "contactPhone": "(281) 788-4110",
+      "contactUrl": "https://www.estatesales.net/companies/TX/La-Porte/77571/143945",
+      "photoCount": 103,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5160993/1-1/79447ff0-9ae8-432b-8f56-f8410e079a70.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/03df597d-7097-464c-9424-320a3dd82168.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/d4e3f938-4986-4698-b434-ab5a11fa5a70.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/b993d0bf-5bfa-4056-b58f-93d90ef4b13e.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/5e9d782a-940c-41da-b875-633b1866974e.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/c06f56ed-9887-4c94-89c5-385b73d21c70.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/68dabec0-d4da-4e29-bb62-d9d61ec4121f.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/5991cb03-5649-41d8-9f6f-f52a263f9831.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/7290f8c0-78f2-4701-9191-1af1dd5977b3.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/33ef4b9e-b382-4e5e-a355-989a8926946f.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/90815ba8-2e7a-43ec-8fa3-812f113f7a00.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/013d0afd-b405-498a-bb69-9a606f8caca5.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "103 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "vinyl & records"
+      ],
+      "contentsLine": "Vinyl & records.",
       "lat": 29.5499358,
       "lng": -95.2589919,
       "approximate": false
@@ -357,6 +584,41 @@
         }
       ],
       "categories": [],
+      "contactPhone": "(713) 383-8331",
+      "contactUrl": "https://dominiquekendallestatesaleservices.com",
+      "photoCount": 97,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5161413/1-1/68fc6921-3132-481d-b2f1-5ef60407d939.jpg",
+        "https://picturescdn.estatesales.net/5161413/1-1/58e53d8f-aa03-4eac-afd2-6d50240bd7d6.jpg",
+        "https://picturescdn.estatesales.net/5161413/1-1/88135620-9079-448e-ba98-7869f12ea2f0.jpg",
+        "https://picturescdn.estatesales.net/5161413/1-1/88709d6d-1cc9-4a98-b812-44247ea60e8d.jpg",
+        "https://picturescdn.estatesales.net/5161413/1-1/534ff87c-19b6-4ead-b147-c388014501e1.jpg",
+        "https://picturescdn.estatesales.net/5161413/1-1/28335a53-a599-40b4-9fba-b577a74b5afa.jpg",
+        "https://picturescdn.estatesales.net/5161413/1-1/17eb881b-7654-4f2c-9c78-337d1acd02f3.jpg",
+        "https://picturescdn.estatesales.net/5161413/1-1/e2f34549-72c9-49c7-9bc3-ccfe049dbef9.jpg",
+        "https://picturescdn.estatesales.net/5161413/1-1/32d54263-d85b-4d9d-b3c9-eb0e4478d46f.jpg",
+        "https://picturescdn.estatesales.net/5161413/1-1/1581c1d2-3aff-4db9-b598-309369d6da5f.jpg",
+        "https://picturescdn.estatesales.net/5161413/1-1/494223de-ff95-4f4b-a153-4892fe06ab7f.jpg",
+        "https://picturescdn.estatesales.net/5161413/1-1/3e80d64b-ee32-4793-bd77-9bc07f86bc13.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "97 photos",
+        "furniture, collectibles and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "books",
+        "art",
+        "electronics",
+        "china",
+        "antiques",
+        "mid-century",
+        "rugs"
+      ],
+      "contentsLine": "Furniture, collectibles, kitchen, books and art.",
       "lat": 29.7117941,
       "lng": -95.4454381,
       "approximate": false
@@ -394,6 +656,39 @@
         }
       ],
       "categories": [],
+      "contactPhone": "(281) 788-4110",
+      "contactUrl": "https://www.estatesales.net/companies/TX/La-Porte/77571/143945",
+      "photoCount": 129,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5133270/1-1/047c98cd-bb7e-4ba3-a96e-e2b63fa178fe.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/850858bd-100d-4d3b-b25b-98a04ef6865f.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/b335d31f-4bb4-4b89-903a-7e6d72bd1d41.jpg",
+        "https://picturescdn.estatesales.net/5133270/3-1/8a9713fc-09e3-4890-9f62-5d1af983479d.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/0cc257a2-bcbe-437c-829b-9467f84817af.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/5b11efce-8a4f-4ad3-843e-043043d349d8.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/b9148fce-a2de-460e-8203-f09bab4c3bd6.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/e9e7a56e-8863-4e6d-be0a-01bf48979d84.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/99d2b9b2-6b0f-4c9d-a255-2cb477355aa7.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/df006b60-5806-4fb8-a4b5-949089f24dd0.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/5cc7ea9b-f620-4be8-99f4-466d1dc4d115.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/85a02e4a-e84d-46e1-b5c0-7838cc1b1586.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "129 photos",
+        "collectibles, kitchen and art in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "collectibles",
+        "kitchen",
+        "art",
+        "toys & games",
+        "china",
+        "crystal",
+        "christmas decor"
+      ],
+      "contentsLine": "Collectibles, kitchen, art, toys & games and china.",
       "lat": 29.6716301,
       "lng": -95.4492793,
       "approximate": false
@@ -426,6 +721,41 @@
         }
       ],
       "categories": [],
+      "contactPhone": "(281) 507-8576",
+      "contactUrl": "http://www.twomomsestatesales.com",
+      "photoCount": 143,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5164365/1-1/a422d27f-6cb3-4085-bf59-254bab9cff2f.jpg",
+        "https://picturescdn.estatesales.net/5164365/7-1/9c1a4f47-eafc-430e-98a3-3a056833df2a.jpg",
+        "https://picturescdn.estatesales.net/5164365/7-1/a28bdc11-4a16-4e8b-96b8-83863145abb3.jpg",
+        "https://picturescdn.estatesales.net/5164365/3-1/49af58a6-6644-4bf0-942c-cddbaad187d2.jpg",
+        "https://picturescdn.estatesales.net/5164365/1-1/8ab44e93-68ab-49c4-9705-f84c68b918b2.jpg",
+        "https://picturescdn.estatesales.net/5164365/1-1/277afda5-b0cd-4838-aabc-37218cf7b6a0.jpg",
+        "https://picturescdn.estatesales.net/5164365/1-1/a7d405f5-c0c5-4fd0-a692-fcd4e9783696.jpg",
+        "https://picturescdn.estatesales.net/5164365/1-1/8bd0a7a8-03ae-426f-8d74-880df930909d.jpg",
+        "https://picturescdn.estatesales.net/5164365/1-1/b853be55-127e-4eaf-8c04-3752a3b4e72b.jpg",
+        "https://picturescdn.estatesales.net/5164365/1-1/b98acd63-37eb-4554-a5f7-29d305109137.jpg",
+        "https://picturescdn.estatesales.net/5164365/1-1/3904c103-1db9-4f91-91dc-cea814ed2aef.jpg",
+        "https://picturescdn.estatesales.net/5164365/1-1/c518bfc8-f566-4a6a-acfa-39495eb9bc14.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "143 photos",
+        "tools, furniture and jewelry in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "toys & games"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
       "lat": 29.6828267,
       "lng": -95.4373251,
       "approximate": false
@@ -470,6 +800,35 @@
       "categories": [
         "furniture"
       ],
+      "contactPhone": "(346) 816-8240",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Houston/77021/166826",
+      "photoCount": 235,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5159607/1-1/6857f399-7f13-4a4b-abdb-51e7689f46fa.jpg",
+        "https://picturescdn.estatesales.net/5159607/1-1/3ff89423-737c-4718-94b9-84b955748125.jpg",
+        "https://picturescdn.estatesales.net/5159607/1-1/dc11497a-e4d5-4de1-8f42-720cbf60cf20.jpg",
+        "https://picturescdn.estatesales.net/5159607/1-1/b1cdf615-61bd-43d8-84fe-cb76626b902e.jpg",
+        "https://picturescdn.estatesales.net/5159607/1-1/b37c8e35-293e-48c9-b202-044d75efb188.jpg",
+        "https://picturescdn.estatesales.net/5159607/1-1/d4c2c06d-28b4-41ac-97c1-630e8565e076.jpg",
+        "https://picturescdn.estatesales.net/5159607/1-1/1ca502c9-cf9d-4048-a8f1-8855835afde7.jpg",
+        "https://picturescdn.estatesales.net/5159607/1-1/8dfb74ec-f438-43ec-9581-38e9d4f0da10.jpg",
+        "https://picturescdn.estatesales.net/5159607/1-1/9f619a8a-8bc8-4c62-b888-2f19858a5014.jpg",
+        "https://picturescdn.estatesales.net/5159607/1-1/b1a57d00-39ae-43c4-b4a3-f05d6bc1ce36.jpg",
+        "https://picturescdn.estatesales.net/5159607/1-1/8c52c2ab-8842-4763-a87e-23e9be25863e.jpg",
+        "https://picturescdn.estatesales.net/5159607/1-1/857ff606-9e12-403d-813e-b5a7aae3d6a7.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "235 photos",
+        "furniture and collectibles in the listing",
+        "runs 4 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, collectibles and christmas decor.",
       "lat": 29.681483,
       "lng": -95.4012959,
       "approximate": false
@@ -506,6 +865,41 @@
         }
       ],
       "categories": [],
+      "contactPhone": "(832) 791-1389",
+      "contactUrl": "https://www.eliteestatesalesinc.com",
+      "photoCount": 274,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5071545/1-1/355a12f8-6d59-4ebe-b5ac-31448a9d2f68.jpg",
+        "https://picturescdn.estatesales.net/5071545/1-1/1e60f003-12fa-44d3-81f8-0900c7e66ced.jpg",
+        "https://picturescdn.estatesales.net/5071545/1-1/587c6832-e9d6-4621-8843-523576e26d16.jpg",
+        "https://picturescdn.estatesales.net/5071545/1-1/80c863b9-a208-4c73-8d4d-9c757d1c590c.jpg",
+        "https://picturescdn.estatesales.net/5071545/1-1/642da8b0-24aa-4e2d-959d-82eb21c328f6.jpg",
+        "https://picturescdn.estatesales.net/5071545/1-1/f1a835a3-2db7-4377-a4e6-3b84e405338b.jpg",
+        "https://picturescdn.estatesales.net/5071545/1-1/c62e6e1b-261c-43d8-a62e-a0d57c33e531.jpg",
+        "https://picturescdn.estatesales.net/5071545/1-1/218c8104-8586-4c7b-ad26-94cc29074f90.jpg",
+        "https://picturescdn.estatesales.net/5071545/1-1/f88712ad-1fce-4cd5-a78f-96ceaad18c4b.jpg",
+        "https://picturescdn.estatesales.net/5071545/1-1/6b24c696-bb20-4388-b14d-44ac1f012f36.jpg",
+        "https://picturescdn.estatesales.net/5071545/1-1/06086653-fe16-4734-9615-efff2a56bc29.jpg",
+        "https://picturescdn.estatesales.net/5071545/1-1/97ff7ad4-142e-4fb5-ac89-74d88cc954a3.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "274 photos",
+        "tools, furniture and collectibles in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "electronics",
+        "toys & games",
+        "china",
+        "rugs",
+        "lamps",
+        "mirrors"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, kitchen and electronics.",
       "lat": 29.707844,
       "lng": -95.430615,
       "approximate": false
@@ -542,6 +936,36 @@
         }
       ],
       "categories": [],
+      "contactPhone": "(832) 264-7286",
+      "contactUrl": "http://www.kingdomrealtyestatesales.com",
+      "photoCount": 94,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5163759/1-1/3ad25128-8009-4140-bae5-78015766c921.jpg",
+        "https://picturescdn.estatesales.net/5163759/1-1/ba354ab2-ccde-4ef5-89d5-d1973d9a5fec.jpg",
+        "https://picturescdn.estatesales.net/5163759/1-1/c31f6827-733a-45b4-9d02-b7544d60472a.jpg",
+        "https://picturescdn.estatesales.net/5163759/1-1/96177596-1579-4f40-bfa7-29ecbb0148e4.jpg",
+        "https://picturescdn.estatesales.net/5163759/1-1/4dfc6af8-bda4-4543-be92-36b0c927dd22.jpg",
+        "https://picturescdn.estatesales.net/5163759/1-1/1f87df60-c39e-4a2d-b277-9c5d11f3d49f.jpg",
+        "https://picturescdn.estatesales.net/5163759/1-1/c3fa3808-559c-4182-a83e-bb0750e7467b.jpg",
+        "https://picturescdn.estatesales.net/5163759/1-1/5c9090d7-b134-40f8-b7fc-bb899fdd8056.jpg",
+        "https://picturescdn.estatesales.net/5163759/1-1/bc759bc0-e600-49bf-a1a3-959f5da0194f.jpg",
+        "https://picturescdn.estatesales.net/5163759/1-1/dca37a6d-f02f-4649-adff-a546ee2905b1.jpg",
+        "https://picturescdn.estatesales.net/5163759/1-1/3373ec42-5888-4aca-9c28-c6dc92135285.jpg",
+        "https://picturescdn.estatesales.net/5163759/1-1/0c9e833c-5ae0-4535-974b-02ef188405ec.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "94 photos",
+        "furniture, clothing and books in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "clothing",
+        "books",
+        "toys & games",
+        "rugs"
+      ],
+      "contentsLine": "Furniture, clothing, books, toys & games and rugs.",
       "lat": 29.5824494,
       "lng": -95.5317175,
       "approximate": false
@@ -579,6 +1003,29 @@
         }
       ],
       "categories": [],
+      "contactPhone": "8322676961",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Kemah/77565/135479",
+      "photoCount": 119,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5146677/1-1/0e9a3d8a-b890-474c-8fbb-e5ac326dc628.jpg",
+        "https://picturescdn.estatesales.net/5146677/1-1/fdd946cf-a079-4e24-9d22-1368e6541cb5.jpg",
+        "https://picturescdn.estatesales.net/5146677/1-1/a8e6f4f8-d712-46fa-b763-807cae99de9b.jpg",
+        "https://picturescdn.estatesales.net/5146677/1-1/0750d477-9fdb-4ec1-97a0-8603d110d0aa.jpg",
+        "https://picturescdn.estatesales.net/5146677/1-1/78cd113d-2543-4c18-9b02-a975a74905e0.jpg",
+        "https://picturescdn.estatesales.net/5146677/1-1/47a65fb5-a4d1-4e07-9bc4-ed1d613a9d46.jpg",
+        "https://picturescdn.estatesales.net/5146677/1-1/5bbead7b-ce97-4456-8f0c-b35ba7f4f167.jpg",
+        "https://picturescdn.estatesales.net/5146677/1-1/7306ce65-e93d-4f53-8aa0-934579648105.jpg",
+        "https://picturescdn.estatesales.net/5146677/1-1/7f55d812-f587-416d-b347-b3eb5fed0361.jpg",
+        "https://picturescdn.estatesales.net/5146677/1-1/1d38289b-1426-4bfa-9e15-126be79d3d77.jpg",
+        "https://picturescdn.estatesales.net/5146677/1-1/da798a26-3066-4436-9a32-fa83c1daaa02.jpg",
+        "https://picturescdn.estatesales.net/5146677/1-1/3c4d8666-59a8-4e82-b425-537f01013739.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "119 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [],
       "lat": 29.5290373,
       "lng": -95.0612558,
       "approximate": false
@@ -616,6 +1063,37 @@
         }
       ],
       "categories": [],
+      "contactPhone": "(832) 899-0081",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Houston/77034/160097",
+      "photoCount": 129,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5166603/1-1/ad99a7f1-a75f-4a74-89e1-8673e86c46ec.jpg",
+        "https://picturescdn.estatesales.net/5166603/1-1/34c45fc5-967f-4938-8063-922ba16d814e.jpg",
+        "https://picturescdn.estatesales.net/5166603/1-1/d09751e0-d346-4631-866d-85c331dff888.jpg",
+        "https://picturescdn.estatesales.net/5166603/1-1/4ec826c0-c47d-45cd-a57b-6357dc1cb5e7.jpg",
+        "https://picturescdn.estatesales.net/5166603/1-1/d1b72bda-e99c-4ebc-9b24-f20e0847b80e.jpg",
+        "https://picturescdn.estatesales.net/5166603/1-1/17053c0e-d3f5-46f4-aaf9-36290a2e5ae6.jpg",
+        "https://picturescdn.estatesales.net/5166603/1-1/9c9e7606-26df-46c2-af34-e600265bade9.jpg",
+        "https://picturescdn.estatesales.net/5166603/1-1/98d6b6aa-aaae-4da8-81c2-244ea71fcc3e.jpg",
+        "https://picturescdn.estatesales.net/5166603/1-1/8320c920-f9e8-4094-af5e-887f6aadeea6.jpg",
+        "https://picturescdn.estatesales.net/5166603/1-1/19f4709a-c4b9-46fc-9344-28cdabc18e24.jpg",
+        "https://picturescdn.estatesales.net/5166603/1-1/d69018f0-cc76-453b-b06f-4f66718a21ec.jpg",
+        "https://picturescdn.estatesales.net/5166603/1-1/252244b8-aa0c-48d6-8c13-478b2f1ef6c5.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "129 photos",
+        "tools, furniture and clothing in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "clothing",
+        "books",
+        "mid-century"
+      ],
+      "contentsLine": "Tools, furniture, clothing, books and mid-century.",
       "lat": 29.5173354,
       "lng": -95.2004314,
       "approximate": false
@@ -652,6 +1130,37 @@
         }
       ],
       "categories": [],
+      "contactPhone": "(713) 384-8361",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Galveston/77550/10769",
+      "photoCount": 66,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5163102/1-1/8f60a71a-c95a-43fc-b094-63370bdd8c81.jpg",
+        "https://picturescdn.estatesales.net/5163102/1-1/f0560a07-c0b9-4977-abd4-4bef5fd56a8a.jpg",
+        "https://picturescdn.estatesales.net/5163102/1-1/a3373276-eb0a-4085-ab7e-3212d465d464.jpg",
+        "https://picturescdn.estatesales.net/5163102/1-1/776d2c19-cfbd-45b4-a69f-7eb7fb563b75.jpg",
+        "https://picturescdn.estatesales.net/5163102/1-1/6c053195-8fc9-4681-b1d5-9f5c66dbec1f.jpg",
+        "https://picturescdn.estatesales.net/5163102/1-1/9e1520c5-4e94-40e3-9e98-90eaa2309689.jpg",
+        "https://picturescdn.estatesales.net/5163102/1-1/9dfb1af5-c4e0-4339-ad15-2a9af9fae2f6.jpg",
+        "https://picturescdn.estatesales.net/5163102/1-1/1f201e22-f5fb-42b6-a1af-03c97dcfc2c6.jpg",
+        "https://picturescdn.estatesales.net/5163102/1-1/5322ffec-07f4-47f4-a5cd-deadfac84eee.jpg",
+        "https://picturescdn.estatesales.net/5163102/1-1/2071a5b3-8bf5-4a97-9ebc-4853f68d30cc.jpg",
+        "https://picturescdn.estatesales.net/5163102/1-1/788dc041-2ea0-474b-b1d4-f279862c70cd.jpg",
+        "https://picturescdn.estatesales.net/5163102/1-1/953a6f09-1666-4d7d-a002-bee2b7ee8d49.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "66 photos",
+        "furniture, jewelry and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "kitchen",
+        "clothing",
+        "books",
+        "china"
+      ],
+      "contentsLine": "Furniture, jewelry, kitchen, clothing and books.",
       "lat": 29.4089021,
       "lng": -94.9146776,
       "approximate": false
@@ -679,6 +1188,32 @@
         }
       ],
       "categories": [],
+      "photoCount": 9,
+      "photoUrls": [
+        "https://images.craigslist.org/00X0X_3LA9Tgv8lOa_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00n0n_kWYD0f4AWnK_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00i0i_1LI5XwMo1h6_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00m0m_imtr227V3sm_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00c0c_2KgEdBOSZDF_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/01111_la7jurFsZ8c_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00404_5gVP8cGOrv2_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00e0e_dFLSrXmSIWA_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00I0I_fC7M5BXtkrV_13O0Nm_600x450.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "9 photos",
+        "tools, furniture and collectibles in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "clothing",
+        "electronics",
+        "toys & games"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, clothing and electronics.",
       "lat": 29.5293998,
       "lng": -95.2010447,
       "approximate": true
@@ -706,6 +1241,36 @@
         }
       ],
       "categories": [],
+      "photoCount": 22,
+      "photoUrls": [
+        "https://images.craigslist.org/00l0l_3r1cbqYjy8T_02q02i_600x450.jpg",
+        "https://images.craigslist.org/00404_5gVP8cGOrv2_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/01111_la7jurFsZ8c_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00e0e_dFLSrXmSIWA_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00j0j_5KMeAV7wBL3_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00I0I_fC7M5BXtkrV_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00m0m_imtr227V3sm_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00c0c_2KgEdBOSZDF_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00n0n_kWYD0f4AWnK_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/01313_cGk3nHN5rNM_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00W0W_dUUhUt74mzU_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00O0O_4I9N7rMExKp_0jK0qk_600x450.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "22 photos",
+        "tools, furniture and collectibles in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "clothing",
+        "art",
+        "electronics",
+        "toys & games"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, clothing and art.",
       "lat": 29.5293998,
       "lng": -95.2010447,
       "approximate": true
@@ -733,6 +1298,21 @@
         }
       ],
       "categories": [],
+      "photoCount": 1,
+      "photoUrls": [
+        "https://estatesales.org/2036244653/css/images/nophoto_sales_800x800.png"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "furniture, jewelry and clothing in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "clothing",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, jewelry, clothing and christmas decor.",
       "lat": 29.5411706,
       "lng": -95.0295891,
       "approximate": true
@@ -765,6 +1345,41 @@
         }
       ],
       "categories": [],
+      "contactPhone": "7134783293",
+      "contactUrl": "http://www.margiebeeglesales.com",
+      "photoCount": 374,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5149494/1-1/ef3f15a1-773d-49ac-a2ba-8a040bfb9454.jpg",
+        "https://picturescdn.estatesales.net/5149494/1-1/67f92286-b05a-4554-8c17-94d105868645.jpg",
+        "https://picturescdn.estatesales.net/5149494/1-1/36b5e8cc-ea06-41e3-ae87-7da68fbad3d1.jpg",
+        "https://picturescdn.estatesales.net/5149494/1-1/731c8815-528d-40d7-80a8-49819f50e396.jpg",
+        "https://picturescdn.estatesales.net/5149494/1-1/a39488f3-4fc7-4b8a-9a37-ee5884396d6a.jpg",
+        "https://picturescdn.estatesales.net/5149494/1-1/a9d57c31-75ba-4864-afcd-5138ec81dc5d.jpg",
+        "https://picturescdn.estatesales.net/5149494/1-1/e6638b90-4402-48ce-b5b4-7f55c9671125.jpg",
+        "https://picturescdn.estatesales.net/5149494/1-1/4b0649cb-8b72-4939-bf45-683b59897404.jpg",
+        "https://picturescdn.estatesales.net/5149494/1-1/e6458ab9-872b-4939-a4eb-7e06608bc812.jpg",
+        "https://picturescdn.estatesales.net/5149494/1-1/aedec01e-1582-40b3-9d15-583a258cdddf.jpg",
+        "https://picturescdn.estatesales.net/5149494/1-1/02db2903-4f4a-453a-85ef-00ff1e61efab.jpg",
+        "https://picturescdn.estatesales.net/5149494/1-1/b741ff11-6631-45e8-9215-3324f7437883.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "374 photos",
+        "tools, furniture and collectibles in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "china",
+        "crystal"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, kitchen and clothing.",
       "lat": 29.7413958,
       "lng": -95.4487318,
       "approximate": true
@@ -799,6 +1414,32 @@
       "categories": [
         "art"
       ],
+      "contactPhone": "(713) 248-0608",
+      "contactUrl": "https://www.riveroaksestatessales.com",
+      "photoCount": 287,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5138013/1-1/1d372fca-1d79-4915-b589-4cce7d8dc34a.jpg",
+        "https://picturescdn.estatesales.net/5138013/1-1/87dace44-1b06-4045-9473-f4d75a929f08.jpg",
+        "https://picturescdn.estatesales.net/5138013/1-1/2e90acc8-18ad-4deb-958c-05e3de896c59.jpg",
+        "https://picturescdn.estatesales.net/5138013/1-1/2a665ce1-0e4b-4a36-bc9f-724d53737066.jpg",
+        "https://picturescdn.estatesales.net/5138013/1-1/b7a61004-db94-434a-9d10-1c0048029a16.jpg",
+        "https://picturescdn.estatesales.net/5138013/1-1/0d10e769-fc85-4c9d-8a52-ff6ec73a9ee3.jpg",
+        "https://picturescdn.estatesales.net/5138013/1-1/07147875-897a-4a0d-894b-b2b49e2b55da.jpg",
+        "https://picturescdn.estatesales.net/5138013/1-1/56e0fbff-575a-472d-a8de-3cf285449907.jpg",
+        "https://picturescdn.estatesales.net/5138013/1-1/2c2e52a6-025d-43a5-a787-eba30ff38380.jpg",
+        "https://picturescdn.estatesales.net/5138013/1-1/4f23f27b-f2a3-45e6-a1cf-95b66dea352d.jpg",
+        "https://picturescdn.estatesales.net/5138013/1-1/545c7c40-bbea-4a8c-9cca-bd8561f10018.jpg",
+        "https://picturescdn.estatesales.net/5138013/1-1/3a7129bc-8c76-4069-873c-b28c62bf2589.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "287 photos"
+      ],
+      "photoKeywords": [
+        "art",
+        "antiques"
+      ],
+      "contentsLine": "Art and antiques.",
       "lat": 29.7125865,
       "lng": -95.4527704,
       "approximate": false
@@ -831,6 +1472,28 @@
         }
       ],
       "categories": [],
+      "contactPhone": "8322676961",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Kemah/77565/135479",
+      "photoCount": 98,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5159586/1-1/9848c2fb-7a90-4ebd-afb7-c76ee4ed4b9a.jpg",
+        "https://picturescdn.estatesales.net/5159586/1-1/657d362a-322f-48c8-adb3-7a569773caba.jpg",
+        "https://picturescdn.estatesales.net/5159586/1-1/7f9401b5-d0f2-41a8-a1e7-47ac0bb7df7e.jpg",
+        "https://picturescdn.estatesales.net/5159586/1-1/b4dfe9e0-efa7-4a1a-a80c-68ec79aee735.jpg",
+        "https://picturescdn.estatesales.net/5159586/1-1/7d1ff501-fec7-40ab-8cd9-2fc3e825e97c.jpg",
+        "https://picturescdn.estatesales.net/5159586/1-1/9377f9c6-c747-4b25-b500-11932b0be56d.jpg",
+        "https://picturescdn.estatesales.net/5159586/1-1/285a3474-27ea-4802-8ed5-c9da93a3bddd.jpg",
+        "https://picturescdn.estatesales.net/5159586/1-1/48349e2d-93d5-4c1d-95d8-281c4f76f1ba.jpg",
+        "https://picturescdn.estatesales.net/5159586/1-1/829b471b-351e-4eb5-94a7-6f2c2b9a1a50.jpg",
+        "https://picturescdn.estatesales.net/5159586/1-1/580df631-5365-47dc-8fe0-9bf638d32d6c.jpg",
+        "https://picturescdn.estatesales.net/5159586/1-1/aab6c662-0173-4052-9283-8d9022f62b9d.jpg",
+        "https://picturescdn.estatesales.net/5159586/1-1/88653401-427c-4d17-ab01-fc0f86f87f5d.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "98 photos"
+      ],
+      "photoKeywords": [],
       "lat": 29.6454992,
       "lng": -95.2357832,
       "approximate": false
@@ -868,6 +1531,29 @@
         }
       ],
       "categories": [],
+      "contactPhone": "8322676961",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Kemah/77565/135479",
+      "photoCount": 49,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5156790/1-1/585cc2ce-346c-4d96-88e4-63c2fdfbf87e.jpg",
+        "https://picturescdn.estatesales.net/5156790/1-1/d655ac53-fa8c-40e5-9fc5-ff3ff7218eca.jpg",
+        "https://picturescdn.estatesales.net/5156790/1-1/4198eb78-8a19-4528-b9db-fb07715290e4.jpg",
+        "https://picturescdn.estatesales.net/5156790/1-1/0e02e33b-4ba9-4836-b1fe-27e3d8ef231a.jpg",
+        "https://picturescdn.estatesales.net/5156790/1-1/fc3a7d36-6c10-4bff-a8d7-ff7f29313010.jpg",
+        "https://picturescdn.estatesales.net/5156790/1-1/a744b45f-2042-4658-9d6e-4303fd00f102.jpg",
+        "https://picturescdn.estatesales.net/5156790/1-1/b367341e-9330-4eea-b815-c3ddaf62bd7b.jpg",
+        "https://picturescdn.estatesales.net/5156790/1-1/bc4b1d4a-0796-4c98-8292-e4e8d56bc925.jpg",
+        "https://picturescdn.estatesales.net/5156790/1-1/547bca0a-e565-4857-b2fa-79914afe8efe.jpg",
+        "https://picturescdn.estatesales.net/5156790/1-1/cdd33391-615f-40ac-9d0c-80adf8b130f9.jpg",
+        "https://picturescdn.estatesales.net/5156790/1-1/0af7ff58-726d-49ba-bc22-fa4a6c754c81.jpg",
+        "https://picturescdn.estatesales.net/5156790/1-1/a14afd9f-2547-4a5c-8276-117787f577f5.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "49 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [],
       "lat": 29.5411706,
       "lng": -95.0295891,
       "approximate": true
@@ -905,6 +1591,19 @@
         }
       ],
       "categories": [],
+      "contactPhone": "8322676961",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Kemah/77565/135479",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5156793/1-1/d19e0307-8ff8-438e-b360-80594ca51b52.jpg"
+      ],
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "runs 3 days",
+        "only 1 photo",
+        "few details in the listing"
+      ],
+      "photoKeywords": [],
       "lat": 29.5750991,
       "lng": -95.1319716,
       "approximate": true
@@ -942,6 +1641,42 @@
         }
       ],
       "categories": [],
+      "contactPhone": "8322676961",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Kemah/77565/135479",
+      "photoCount": 312,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5107233/1-1/4ccfdbc2-a8f2-4f41-8061-73500017eb94.jpg",
+        "https://picturescdn.estatesales.net/5107233/1-1/f0ab858e-91cf-4771-8924-9659ca1e9c9c.jpg",
+        "https://picturescdn.estatesales.net/5107233/1-1/17f98505-f853-4990-9885-24d3151dcc18.jpg",
+        "https://picturescdn.estatesales.net/5107233/1-1/395ac13f-724f-4cb7-9036-62cb6f754ca0.jpg",
+        "https://picturescdn.estatesales.net/5107233/1-1/2afde849-ca55-4170-9585-5d8c723da715.jpg",
+        "https://picturescdn.estatesales.net/5107233/1-1/ee339190-123c-4a37-a1c4-b2eefc4b2c06.jpg",
+        "https://picturescdn.estatesales.net/5107233/1-1/e8631577-fb15-4548-b668-022fd5f70f2b.jpg",
+        "https://picturescdn.estatesales.net/5107233/1-1/d1fb90d3-7b5a-4348-a37d-eb837e305e67.jpg",
+        "https://picturescdn.estatesales.net/5107233/1-1/57d96223-43ad-4d40-9aeb-fc5d115aae46.jpg",
+        "https://picturescdn.estatesales.net/5107233/1-1/05ff8b9d-684d-4c56-81d5-40cf80252874.jpg",
+        "https://picturescdn.estatesales.net/5107233/1-1/c7336c9b-854e-422f-80ec-d8216c365633.jpg",
+        "https://picturescdn.estatesales.net/5107233/1-1/ceae1c95-be5c-45e0-b87e-cf9de5c3b343.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "312 photos",
+        "furniture, collectibles and vehicles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "art",
+        "toys & games",
+        "figurines",
+        "lamps",
+        "coins",
+        "dolls"
+      ],
+      "contentsLine": "Furniture, collectibles, vehicles, kitchen and art.",
       "lat": 29.3856773,
       "lng": -95.1281039,
       "approximate": true
@@ -979,6 +1714,26 @@
         }
       ],
       "categories": [],
+      "contactUrl": "https://www.facebook.com/AlohaEstateSalesofHouston/",
+      "photoCount": 2,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5148879/1-1/c6b971c5-b4cc-4d9c-9e99-907e1ec988b4.jpg",
+        "https://picturescdn.estatesales.net/5148879/1-1/97f57d73-f0a6-4e15-a705-8fe79e91c608.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "vinyl & records, jewelry and clothing in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "vinyl & records",
+        "jewelry",
+        "clothing",
+        "books",
+        "art",
+        "silver"
+      ],
+      "contentsLine": "Vinyl & records, jewelry, clothing, books and art.",
       "lat": 29.7422405,
       "lng": -95.3902848,
       "approximate": true
@@ -1023,6 +1778,42 @@
       "categories": [
         "art"
       ],
+      "contactPhone": "(832) 567-2189",
+      "contactUrl": "http://www.virtueestatesales.com",
+      "photoCount": 789,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5148087/1-1/5c964968-19f8-4638-afff-d2a4627efee6.jpg",
+        "https://picturescdn.estatesales.net/5148087/1-1/d4aee3a0-63bf-4871-8ed6-6764e59f5668.jpg",
+        "https://picturescdn.estatesales.net/5148087/1-1/992c775c-fd54-480a-975f-12b2ab02dba7.jpg",
+        "https://picturescdn.estatesales.net/5148087/1-1/daf43e43-8841-4e18-9327-3aa349f7892c.jpg",
+        "https://picturescdn.estatesales.net/5148087/1-1/79ee8e09-d6ef-4649-9ec6-fac3769bb0d3.jpg",
+        "https://picturescdn.estatesales.net/5148087/1-1/5fba1dec-2303-4d44-962d-46e1fc484d61.jpg",
+        "https://picturescdn.estatesales.net/5148087/1-1/8b9418b0-710a-4f22-8423-7456aaddac54.jpg",
+        "https://picturescdn.estatesales.net/5148087/1-1/06d0f8d0-3371-4648-a57c-fcdf4b16dfeb.jpg",
+        "https://picturescdn.estatesales.net/5148087/1-1/1d7adfdf-f78d-4c86-b854-d86902e6943d.jpg",
+        "https://picturescdn.estatesales.net/5148087/1-1/3c2e0b33-e30b-4f01-a6fe-5d619c891d91.jpg",
+        "https://picturescdn.estatesales.net/5148087/1-1/75a9ac9f-f9b1-43db-b579-ef7055333d14.jpg",
+        "https://picturescdn.estatesales.net/5148087/1-1/dafe3e56-211c-4d6c-b568-d46e9ad62281.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "789 photos",
+        "furniture, jewelry and collectibles in the listing",
+        "runs 4 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "toys & games",
+        "china",
+        "crystal"
+      ],
+      "contentsLine": "Furniture, jewelry, collectibles, clothing and books.",
       "lat": 29.5991448,
       "lng": -95.1188624,
       "approximate": true
@@ -1065,6 +1856,42 @@
         }
       ],
       "categories": [],
+      "contactPhone": "(281) 250-1238",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Friendswood/77546/22205",
+      "photoCount": 117,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5160081/1-1/c7783b5b-fdb4-434a-bad7-caf69cfaba57.jpg",
+        "https://picturescdn.estatesales.net/5160081/1-1/91749f26-1284-4cf0-bb9f-0f067ac7b338.jpg",
+        "https://picturescdn.estatesales.net/5160081/1-1/2467f066-cb7f-4f7a-802c-397017caccde.jpg",
+        "https://picturescdn.estatesales.net/5160081/1-1/ab1c086c-d608-477c-bb26-952b7f1bed0f.jpg",
+        "https://picturescdn.estatesales.net/5160081/5-1/31634381-86b4-4d6f-bef8-557d265536bd.jpg",
+        "https://picturescdn.estatesales.net/5160081/1-1/76df8d8e-ff67-45f4-8e63-f76b348907d6.jpg",
+        "https://picturescdn.estatesales.net/5160081/1-1/e0a59d05-cedb-4e20-b783-60407de99dfd.jpg",
+        "https://picturescdn.estatesales.net/5160081/1-1/a5d9e762-a027-42c3-9322-09a5e0fad9f7.jpg",
+        "https://picturescdn.estatesales.net/5160081/1-1/9dc26c37-a880-4ae0-82d7-24cba37eb71a.jpg",
+        "https://picturescdn.estatesales.net/5160081/1-1/a62883e8-e4b3-4ac2-bcdb-774a677a6c23.jpg",
+        "https://picturescdn.estatesales.net/5160081/1-1/6161c03e-a831-4add-8f54-6d338330ab4a.jpg",
+        "https://picturescdn.estatesales.net/5160081/1-1/9240a31a-441a-495b-a7c7-b393b37e2733.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "117 photos",
+        "furniture, jewelry and collectibles in the listing",
+        "runs 4 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "art",
+        "toys & games",
+        "china",
+        "crystal",
+        "antiques",
+        "lamps"
+      ],
+      "contentsLine": "Furniture, jewelry, collectibles, kitchen and art.",
       "lat": 29.5244089,
       "lng": -95.191409,
       "approximate": true
