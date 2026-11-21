@@ -1,0 +1,302 @@
+{
+  "note": "Hand-checked map points from the first Houston survey (2026-11-19). The locator uses one only when no current lookup or listing map supplies the point.",
+  "pins": [
+    {
+      "streetAddress": "14219 Ridgewood Lake Court",
+      "city": "Houston",
+      "zip": "77062",
+      "location": {
+        "lat": 29.590582,
+        "lng": -95.135121,
+        "precision": "street",
+        "basis": "Public sale listing map for published address"
+      }
+    },
+    {
+      "streetAddress": "3119 SilverSprings Dr.",
+      "city": "La Porte",
+      "zip": "77571",
+      "location": {
+        "lat": 29.626681,
+        "lng": -95.024068,
+        "precision": "street",
+        "basis": "Public sale listing map for published address"
+      }
+    },
+    {
+      "streetAddress": "5530 cr 166",
+      "city": "Alvin",
+      "zip": "77511",
+      "location": {
+        "lat": 29.373381,
+        "lng": -95.207595,
+        "precision": "street",
+        "basis": "Public sale listing map for published address"
+      }
+    },
+    {
+      "streetAddress": "2014 Engelmohr st",
+      "city": "Houston",
+      "zip": "77054",
+      "location": {
+        "lat": 29.681314,
+        "lng": -95.400806,
+        "precision": "street",
+        "basis": "Public sale listing map for published address"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77019",
+      "location": {
+        "lat": 29.7533436,
+        "lng": -95.412855,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": "11306 Christian",
+      "city": "Houston",
+      "zip": "77044",
+      "location": {
+        "lat": 29.878055045631,
+        "lng": -95.154208971048,
+        "precision": "street",
+        "basis": "Census interpolated street address"
+      }
+    },
+    {
+      "streetAddress": "1425 Columbia St",
+      "city": "Houston",
+      "zip": "77008",
+      "location": {
+        "lat": 29.797273,
+        "lng": -95.393733,
+        "precision": "street",
+        "basis": "Public sale listing map for published address"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "League City",
+      "zip": "77573",
+      "location": {
+        "lat": 29.5037354,
+        "lng": -95.0872441,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Pearland",
+      "zip": "77581",
+      "location": {
+        "lat": 29.5615973,
+        "lng": -95.2797591,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Pasadena",
+      "zip": "77502",
+      "location": {
+        "lat": 29.6798536,
+        "lng": -95.1995906,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": "2618 14th St N",
+      "city": "Texas City",
+      "zip": "77590",
+      "location": {
+        "lat": 29.408832250308,
+        "lng": -94.914688261335,
+        "precision": "street",
+        "basis": "Census interpolated street address"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77025",
+      "location": {
+        "lat": 29.6857064,
+        "lng": -95.4347635,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": "6635 Sewanee Ave",
+      "city": "West University Place",
+      "zip": "77005",
+      "location": {
+        "lat": 29.708559737397,
+        "lng": -95.43088240494,
+        "precision": "street",
+        "basis": "Census interpolated street address; matched Sewanee St"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "West University Place",
+      "zip": "77005",
+      "location": {
+        "lat": 29.7184351,
+        "lng": -95.4235554,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77035",
+      "location": {
+        "lat": 29.6551165,
+        "lng": -95.4725781,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": "3318 Deerwood lane",
+      "city": "Missouri City",
+      "zip": "77459",
+      "location": {
+        "lat": 29.569811,
+        "lng": -95.53866,
+        "precision": "street",
+        "basis": "Public sale listing map for published address"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77034",
+      "location": {
+        "lat": 29.6148296,
+        "lng": -95.1929991,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Bellaire",
+      "zip": "77401",
+      "location": {
+        "lat": 29.704019,
+        "lng": -95.4609047,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77062",
+      "location": {
+        "lat": 29.5757811,
+        "lng": -95.1343339,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Kemah",
+      "zip": "77565",
+      "location": {
+        "lat": 29.5381423,
+        "lng": -95.0328789,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Santa Fe",
+      "zip": "77517",
+      "location": {
+        "lat": 29.370573,
+        "lng": -95.1465245,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77006",
+      "location": {
+        "lat": 29.7408613,
+        "lng": -95.3913032,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77057",
+      "location": {
+        "lat": 29.7440679,
+        "lng": -95.4892098,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Missouri City",
+      "zip": "77489",
+      "location": {
+        "lat": 29.6004979,
+        "lng": -95.5155369,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Galveston",
+      "zip": "77551",
+      "location": {
+        "lat": 29.2764975,
+        "lng": -94.8421164,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Galveston",
+      "zip": "77551",
+      "location": {
+        "lat": 29.2764975,
+        "lng": -94.8421164,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    },
+    {
+      "streetAddress": null,
+      "city": "Houston",
+      "zip": "77027",
+      "location": {
+        "lat": 29.7393144,
+        "lng": -95.4464243,
+        "precision": "zip",
+        "basis": "Census ZCTA representative internal point, not the sale site"
+      }
+    }
+  ]
+}

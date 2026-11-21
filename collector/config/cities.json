@@ -1,0 +1,139 @@
+{
+  "defaultCity": "houston",
+  "publicFeedBase": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main",
+  "cities": [
+    {
+      "slug": "houston",
+      "name": "Houston",
+      "state": {
+        "code": "TX",
+        "name": "Texas"
+      },
+      "center": {
+        "lat": 29.529,
+        "lng": -95.135,
+        "label": "Friendswood, Texas"
+      },
+      "radiusMiles": 25,
+      "timeZone": "America/Chicago",
+      "status": "live",
+      "historicalPins": "historical-pins.json",
+      "sources": {
+        "estateSalesNet": {
+          "directory": "https://www.estatesales.net/TX/Friendswood/77546"
+        },
+        "estateSalesOrg": {
+          "directory": "https://estatesales.org/estate-sales/tx/houston?sort=date_to&radius=50"
+        },
+        "estateSaleCom": {
+          "directory": "https://www.estatesale.com/cities/view/1363/Estate-Sales-Friendswood-TX.html",
+          "place": "Friendswood"
+        },
+        "craigslist": {
+          "name": "Craigslist Houston",
+          "directory": "https://www.craigslist.org/search/city/friendswood-tx?cat=gms&postal=77546&radius=35"
+        },
+        "gsalr": {
+          "directory": "https://gsalr.com/garage-sales-friendswood-tx.html",
+          "place": "Friendswood"
+        }
+      }
+    },
+    {
+      "slug": "dallas-fort-worth",
+      "name": "Dallas–Fort Worth",
+      "state": {
+        "code": "TX",
+        "name": "Texas"
+      },
+      "center": {
+        "lat": 32.9,
+        "lng": -97.04,
+        "label": "DFW Airport"
+      },
+      "radiusMiles": 25,
+      "timeZone": "America/Chicago",
+      "status": "proving",
+      "sources": {
+        "estateSalesNet": {
+          "directory": "https://www.estatesales.net/TX/Grapevine/76051"
+        },
+        "estateSalesOrg": {
+          "directory": "https://estatesales.org/estate-sales/tx/grapevine?sort=date_to&radius=50"
+        },
+        "craigslist": {
+          "name": "Craigslist Dallas / Fort Worth",
+          "directory": "https://www.craigslist.org/search/city/grapevine-tx?cat=gms&postal=76051&radius=35"
+        },
+        "gsalr": {
+          "directory": "https://gsalr.com/garage-sales-grapevine-tx.html",
+          "place": "Grapevine"
+        }
+      }
+    },
+    {
+      "slug": "austin",
+      "name": "Austin",
+      "state": {
+        "code": "TX",
+        "name": "Texas"
+      },
+      "center": {
+        "lat": 30.267,
+        "lng": -97.743,
+        "label": "downtown Austin"
+      },
+      "radiusMiles": 25,
+      "timeZone": "America/Chicago",
+      "status": "proving",
+      "sources": {
+        "estateSalesNet": {
+          "directory": "https://www.estatesales.net/TX/Austin/78701"
+        },
+        "estateSalesOrg": {
+          "directory": "https://estatesales.org/estate-sales/tx/austin?sort=date_to&radius=50"
+        },
+        "craigslist": {
+          "name": "Craigslist Austin",
+          "directory": "https://www.craigslist.org/search/city/austin-tx?cat=gms&postal=78701&radius=35"
+        },
+        "gsalr": {
+          "directory": "https://gsalr.com/garage-sales-austin-tx.html",
+          "place": "Austin"
+        }
+      }
+    },
+    {
+      "slug": "san-antonio",
+      "name": "San Antonio",
+      "state": {
+        "code": "TX",
+        "name": "Texas"
+      },
+      "center": {
+        "lat": 29.424,
+        "lng": -98.494,
+        "label": "downtown San Antonio"
+      },
+      "radiusMiles": 25,
+      "timeZone": "America/Chicago",
+      "status": "proving",
+      "sources": {
+        "estateSalesNet": {
+          "directory": "https://www.estatesales.net/TX/San-Antonio/78205"
+        },
+        "estateSalesOrg": {
+          "directory": "https://estatesales.org/estate-sales/tx/san-antonio?sort=date_to&radius=50"
+        },
+        "craigslist": {
+          "name": "Craigslist San Antonio",
+          "directory": "https://www.craigslist.org/search/city/san-antonio-tx?cat=gms&postal=78205&radius=35"
+        },
+        "gsalr": {
+          "directory": "https://gsalr.com/garage-sales-san-antonio-tx.html",
+          "place": "San Antonio"
+        }
+      }
+    }
+  ]
+}

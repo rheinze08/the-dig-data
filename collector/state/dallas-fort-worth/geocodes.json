@@ -1,0 +1,727 @@
+{
+  "city:arlington": {
+    "lat": 32.7355816,
+    "lng": -97.1071186,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "city:bedford": {
+    "lat": 32.844017,
+    "lng": -97.1430671,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "city:carrolton": {
+    "retryAfter": 1795828641481
+  },
+  "city:desoto": {
+    "lat": 32.5897831,
+    "lng": -96.8570183,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "city:duncanville": {
+    "lat": 32.6518004,
+    "lng": -96.9083366,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "city:fort worth": {
+    "lat": 32.753177,
+    "lng": -97.3327459,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "city:richardson": {
+    "lat": 32.9481789,
+    "lng": -96.7297206,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "nominatim:street:109 a janis st:76009": {
+    "retryAfter": 1795828525865
+  },
+  "nominatim:street:1137 conveyor ln unit 114:75237": {
+    "retryAfter": 1795828565625
+  },
+  "nominatim:street:118 oriole dr arlington tx 76010 usa near 112 parkview dr:arlington": {
+    "retryAfter": 1795828598553
+  },
+  "nominatim:street:11830 duxbury:75218": {
+    "retryAfter": 1795828579883
+  },
+  "nominatim:street:12732 red cedar dr:76040": {
+    "retryAfter": 1795828512780
+  },
+  "nominatim:street:1505 starshadow dr richardson 75081 near blake:richardson": {
+    "retryAfter": 1795828604945
+  },
+  "nominatim:street:1605 trailridge dr 76012:76012": {
+    "retryAfter": 1795828557885
+  },
+  "nominatim:street:1713 creek point dr:75067": {
+    "retryAfter": 1795828509533
+  },
+  "nominatim:street:201 lyndhurst:75098": {
+    "retryAfter": 1795828591038
+  },
+  "nominatim:street:2037 oxford cr:75051": {
+    "retryAfter": 1795828559987
+  },
+  "nominatim:street:205 exchange pl allen texas:75002": {
+    "retryAfter": 1795828533721
+  },
+  "nominatim:street:2107 higgens dr:76117": {
+    "retryAfter": 1795828555545
+  },
+  "nominatim:street:2325 san marcus dallas:75228": {
+    "retryAfter": 1795828591805
+  },
+  "nominatim:street:309 lakecove dr:75068": {
+    "retryAfter": 1795828527195
+  },
+  "nominatim:street:3205 watley:75043": {
+    "retryAfter": 1795828583186
+  },
+  "nominatim:street:3217 green ridge near willowview:desoto": {
+    "retryAfter": 1795828603001
+  },
+  "nominatim:street:3585 cr 338:75454": {
+    "retryAfter": 1795828552255
+  },
+  "nominatim:street:4800 spring valley rd:75244": {
+    "retryAfter": 1795828546855
+  },
+  "nominatim:street:4903 bellerive:75287": {
+    "retryAfter": 1795828532337
+  },
+  "nominatim:street:5012 bellerive dr:75287": {
+    "retryAfter": 1795828585380
+  },
+  "nominatim:street:527 summitt dr:75077": {
+    "retryAfter": 1795828520522
+  },
+  "nominatim:street:535 talbert dr:75093": {
+    "retryAfter": 1795828550061
+  },
+  "nominatim:street:5415 pomona ave:76114": {
+    "retryAfter": 1795828571081
+  },
+  "nominatim:street:5600 egg farm rd unit 430:76244": {
+    "retryAfter": 1795828517025
+  },
+  "nominatim:street:5901 royalcrest dr:76017": {
+    "retryAfter": 1795828581885
+  },
+  "nominatim:street:678 cr 1110:76234": {
+    "retryAfter": 1795828548236
+  },
+  "nominatim:street:8116 salado springs:75025": {
+    "retryAfter": 1795828561005
+  },
+  "nominatim:street:8213 silver creek rd:76108": {
+    "retryAfter": 1795828580924
+  },
+  "nominatim:street:867 highland village:75077": {
+    "retryAfter": 1795828518205
+  },
+  "street:104 forest hill dr:76262": {
+    "lat": 32.9908693,
+    "lng": -97.179411,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1046 plateau dr:75116": {
+    "lat": 32.650435,
+    "lng": -96.9322798,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:10500 cascade dr:76207": {
+    "lat": 33.1437328,
+    "lng": -97.236173,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:107 lewis ln:76052": {
+    "lat": 32.9713266,
+    "lng": -97.3488598,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:109 a janis st:76009": {
+    "lat": 32.414429,
+    "lng": -97.209142,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:1137 conveyor ln unit 114:75237": {
+    "lat": 32.806064,
+    "lng": -96.856081,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:118 oriole dr:76010": {
+    "lat": 32.737744,
+    "lng": -97.0783422,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:11830 duxbury dr:75218": {
+    "lat": 32.8556514,
+    "lng": -96.6981298,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:11830 duxbury:75218": {
+    "lat": 32.855619,
+    "lng": -96.698134,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:12114 shiremont dr:75230": {
+    "lat": 32.9136614,
+    "lng": -96.7929829,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1242 robin dr:76262": {
+    "lat": 32.953063,
+    "lng": -97.2209465,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:12732 red cedar dr:76040": {
+    "lat": 32.81783,
+    "lng": -97.087928,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:1310 briarmeade dr:duncanville": {
+    "lat": 32.6310642,
+    "lng": -96.9391299,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:14620 waterview cir:addison": {
+    "lat": 32.9444721,
+    "lng": -96.8479184,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:14849 bell manor ct:75180": {
+    "lat": 32.7083723,
+    "lng": -96.588802,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1501 hemphill st:76104": {
+    "lat": 32.7278756,
+    "lng": -97.3311963,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1501 martha dr:76022": {
+    "lat": 32.833788,
+    "lng": -97.152344,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1605 trailridge dr 76012:76012": {
+    "lat": 32.758084,
+    "lng": -97.143168,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:162 cotillion rd:76134": {
+    "lat": 32.6365045,
+    "lng": -97.3234362,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1705 rainbow dr:75081": {
+    "lat": 32.9413364,
+    "lng": -96.6929557,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1709 douglas dr:75041": {
+    "lat": 32.868742,
+    "lng": -96.6538067,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1713 creek point dr:75067": {
+    "lat": 33.026016,
+    "lng": -97.032168,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:1713 creekpoint dr:75067": {
+    "lat": 33.0265888,
+    "lng": -97.032282,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:17307 earthwind dr:75248": {
+    "lat": 32.9835197,
+    "lng": -96.7963046,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1801 rockridge terrace:76110": {
+    "lat": 32.7254914,
+    "lng": -97.3527238,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1808 lake crest ln:75023": {
+    "lat": 33.047921,
+    "lng": -96.7291045,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1808 tyler ave:76040": {
+    "lat": 32.828754,
+    "lng": -97.112078,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1829 melton dr:carrollton": {
+    "lat": 33.0410945,
+    "lng": -96.8849473,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1908 baylor dr:75081": {
+    "lat": 32.9317246,
+    "lng": -96.6877199,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:201 lyndhurst:75098": {
+    "lat": 33.014262,
+    "lng": -96.521341,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2021 queen st:76103": {
+    "lat": 32.7477854,
+    "lng": -97.2486485,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:203 brookwood dr:75116": {
+    "lat": 32.6502264,
+    "lng": -96.9200159,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2037 oxford cr:75051": {
+    "lat": 32.716087,
+    "lng": -97.017758,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:205 exchange pl allen texas:75002": {
+    "lat": 33.114877,
+    "lng": -96.668274,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2107 higgens dr:76117": {
+    "lat": 32.790921,
+    "lng": -97.285769,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:212 timber lake dr:76092": {
+    "lat": 32.9390208,
+    "lng": -97.1633392,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:215 washington st:75154": {
+    "lat": 32.5321126,
+    "lng": -96.7765363,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2167 southern pl:75006": {
+    "lat": 32.9755787,
+    "lng": -96.8809726,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2201 stacia ct:75025": {
+    "lat": 33.092326,
+    "lng": -96.734061,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2211 canterbury dr:76063": {
+    "lat": 32.590178,
+    "lng": -97.102601,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2325 san marcus dallas:75228": {
+    "lat": 32.831858,
+    "lng": -96.677018,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2441 pinebluff dr:75228": {
+    "lat": 32.8042785,
+    "lng": -96.7045451,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2813 carriage ln:75006": {
+    "lat": 32.9657302,
+    "lng": -96.8586204,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2980 hillside dr:75077": {
+    "lat": 33.0914397,
+    "lng": -97.0631559,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:3031 plaudit pl:75229": {
+    "lat": 32.881257,
+    "lng": -96.8736496,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:309 lakecove dr:75068": {
+    "lat": 33.217804,
+    "lng": -96.940927,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3204 rustic meadows dr:76021": {
+    "lat": 32.8525587,
+    "lng": -97.101481,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:3205 watley:75043": {
+    "lat": 32.878625,
+    "lng": -96.616802,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3501 barber creek ct:76244": {
+    "lat": 32.942968,
+    "lng": -97.2846,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:3585 cr 338:75454": {
+    "lat": 33.253073,
+    "lng": -96.588833,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3601 wendell dr:76117": {
+    "lat": 32.815303,
+    "lng": -97.254982,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:3732 sevenoaks dr:76244": {
+    "lat": 32.9023914,
+    "lng": -97.3031223,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:3766 w 6th st:76107": {
+    "lat": 32.752455,
+    "lng": -97.3729967,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4002 commonwealth dr:75043": {
+    "lat": 32.8684859,
+    "lng": -96.6153066,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4109 cooper creek rd:76208": {
+    "lat": 33.2591537,
+    "lng": -97.0795122,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4159 ladera ct:76133": {
+    "lat": 32.6472987,
+    "lng": -97.3820602,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4413 el campo ave:76107": {
+    "lat": 32.7363656,
+    "lng": -97.3847287,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4616 brook meadow ln:75093": {
+    "lat": 33.0208542,
+    "lng": -96.7884953,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4800 spring valley rd:75244": {
+    "lat": 32.938712,
+    "lng": -96.828842,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:4843 fallon pl:75227": {
+    "lat": 32.7842086,
+    "lng": -96.709281,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4903 bellerive:75287": {
+    "lat": 32.99424,
+    "lng": -96.824728,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:4929 borden dr:76116": {
+    "lat": 32.7016201,
+    "lng": -97.4388737,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:5012 bellerive dr:75287": {
+    "lat": 32.993406,
+    "lng": -96.822303,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:5217 grovewood dr:75071": {
+    "lat": 33.2429476,
+    "lng": -96.6842174,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:5218 saratoga ln:76017": {
+    "lat": 32.6619347,
+    "lng": -97.2186131,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:527 summitt dr:75077": {
+    "lat": 33.097624,
+    "lng": -97.097518,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:5311 high trail ct:76017": {
+    "lat": 32.6660864,
+    "lng": -97.1886115,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:535 talbert dr:75093": {
+    "lat": 33.009628,
+    "lng": -96.778876,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:5415 pomona ave:76114": {
+    "lat": 32.787562,
+    "lng": -97.401853,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:5531 pebblebrook dr:75229": {
+    "lat": 32.897006,
+    "lng": -96.811438,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:5600 egg farm rd unit 430:76244": {
+    "lat": 32.943031,
+    "lng": -97.258341,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:5616 netherland ct:75229": {
+    "lat": 32.8931789,
+    "lng": -96.8122697,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:5732 havana dr:76180": {
+    "lat": 32.8511293,
+    "lng": -97.2328882,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:5901 royalcrest dr:76017": {
+    "lat": 32.650235,
+    "lng": -97.131658,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:5908 still forest dr:75252": {
+    "lat": 32.9923218,
+    "lng": -96.8068265,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:5923 royal ln:75230": {
+    "lat": 32.8946172,
+    "lng": -96.806983,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:678 cr 1110:76234": {
+    "lat": 33.238079,
+    "lng": -97.674564,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:703 corinthian pl:75137": {
+    "lat": 32.6288918,
+    "lng": -96.9228032,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:710 ballybunion cir:75044": {
+    "lat": 32.9591497,
+    "lng": -96.6218168,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:7148 hunters ridge dr:75248": {
+    "lat": 32.9560052,
+    "lng": -96.7847125,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:809 cold springs ct:75094": {
+    "lat": 33.027318,
+    "lng": -96.5967043,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:809 windsong trail:75081": {
+    "lat": 32.9427049,
+    "lng": -96.7137708,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:8116 salado springs:75025": {
+    "lat": 33.089944,
+    "lng": -96.758693,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:8213 silver creek rd:76108": {
+    "lat": 32.771693,
+    "lng": -97.461282,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:867 highland village:75077": {
+    "lat": 33.09384,
+    "lng": -97.046935,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:9220 clearhurst dr:75238": {
+    "lat": 32.8705223,
+    "lng": -96.7277974,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:9301 freeport dr:76207": {
+    "lat": 33.1410987,
+    "lng": -97.2500646,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:n a:75225": {
+    "lat": 32.864454,
+    "lng": -96.81022039999999,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:preston vineyard dr:75035": {
+    "lat": 33.136182,
+    "lng": -96.792207,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "zip:75023": {
+    "lat": 33.0579749,
+    "lng": -96.7454322,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75025": {
+    "lat": 33.0902532,
+    "lng": -96.7464336,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75041": {
+    "lat": 32.8799326,
+    "lng": -96.6494099,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75069": {
+    "lat": 33.1774118,
+    "lng": -96.6336383,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75071": {
+    "lat": 33.2212814,
+    "lng": -96.6727286,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75088": {
+    "lat": 32.8938141,
+    "lng": -96.5508436,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75089": {
+    "lat": 32.9271805,
+    "lng": -96.5418413,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75093": {
+    "lat": 33.0395247,
+    "lng": -96.8103301,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75094": {
+    "lat": 33.017001,
+    "lng": -96.6145919,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75098": {
+    "lat": 33.0168666,
+    "lng": -96.5579547,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75116": {
+    "lat": 32.6572383,
+    "lng": -96.9121977,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75149": {
+    "lat": 32.7681983,
+    "lng": -96.6075687,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75180": {
+    "lat": 32.7243047,
+    "lng": -96.6138618,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75205": {
+    "lat": 32.8366956,
+    "lng": -96.7888596,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75207": {
+    "lat": 32.7891032,
+    "lng": -96.8216938,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75229": {
+    "lat": 32.8918835,
+    "lng": -96.864441,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75230": {
+    "lat": 32.8972495,
+    "lng": -96.7955588,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75244": {
+    "lat": 32.9238138,
+    "lng": -96.8375907,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75454": {
+    "lat": 33.2889826,
+    "lng": -96.5633718,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76012": {
+    "lat": 32.7460752,
+    "lng": -97.1413755,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76013": {
+    "lat": 32.7223455,
+    "lng": -97.142663,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76017": {
+    "lat": 32.6630829,
+    "lng": -97.1614206,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76034": {
+    "lat": 32.8871682,
+    "lng": -97.1409625,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76063": {
+    "lat": 32.5660053,
+    "lng": -97.1262109,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76107": {
+    "lat": 32.7393726,
+    "lng": -97.3792404,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76109": {
+    "lat": 32.7025269,
+    "lng": -97.3809922,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76112": {
+    "lat": 32.7583875,
+    "lng": -97.2270583,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76114": {
+    "lat": 32.7737534,
+    "lng": -97.4011847,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76132": {
+    "lat": 32.6687902,
+    "lng": -97.4188113,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76209": {
+    "lat": 33.2285581,
+    "lng": -97.1031977,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76226": {
+    "lat": 33.1404442,
+    "lng": -97.1695557,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76258": {
+    "lat": 33.395345,
+    "lng": -96.9530676,
+    "basis": "OpenStreetMap Nominatim"
+  }
+}

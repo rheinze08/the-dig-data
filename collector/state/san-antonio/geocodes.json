@@ -1,0 +1,288 @@
+{
+  "city:devine": {
+    "lat": 29.1399633,
+    "lng": -98.905306,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "city:live oak": {
+    "lat": 29.5628983,
+    "lng": -98.3334411,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "city:san antonio": {
+    "lat": 29.4246002,
+    "lng": -98.4951405,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "nominatim:street:114 e castle ln:78213": {
+    "retryAfter": 1795828837610
+  },
+  "nominatim:street:11725 warfield st:78216": {
+    "retryAfter": 1795828841720
+  },
+  "nominatim:street:12503 sandy dunes:78253": {
+    "retryAfter": 1795828847210
+  },
+  "nominatim:street:13811 belgrave way near laramie hill:live oak": {
+    "retryAfter": 1795828869213
+  },
+  "nominatim:street:200 chattington:78213": {
+    "retryAfter": 1795828835091
+  },
+  "nominatim:street:2207 estate gate dr:78260": {
+    "retryAfter": 1795828853783
+  },
+  "nominatim:street:2345 appellation:78132": {
+    "retryAfter": 1795828855611
+  },
+  "nominatim:street:2919 thunder gulch:78245": {
+    "retryAfter": 1795828864825
+  },
+  "nominatim:street:304 mustang cir:78232": {
+    "retryAfter": 1795828851658
+  },
+  "nominatim:street:30454 cloudview dr:78163": {
+    "retryAfter": 1795828850483
+  },
+  "nominatim:street:310 eugene sasser:78260": {
+    "retryAfter": 1795828865902
+  },
+  "nominatim:street:3475 river oaks dr:78132": {
+    "retryAfter": 1795828856681
+  },
+  "nominatim:street:351 culebra:78201": {
+    "retryAfter": 1795828832106
+  },
+  "nominatim:street:3903 eisenhauer:78218": {
+    "retryAfter": 1795828833816
+  },
+  "nominatim:street:4913 sh 173n devine tx 78016:devine": {
+    "retryAfter": 1795828871232
+  },
+  "nominatim:street:560 jaylee:78133": {
+    "retryAfter": 1795828858885
+  },
+  "nominatim:street:6025 mike nesmith st:78238": {
+    "retryAfter": 1795828839547
+  },
+  "street:10022 fall harvest:78254": {
+    "lat": 29.535326,
+    "lng": -98.675887,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:114 e castle ln:78213": {
+    "lat": 29.528792,
+    "lng": -98.522676,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:11725 warfield st:78216": {
+    "lat": 29.5486258,
+    "lng": -98.4967028,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:125 eagle flight:78108": {
+    "lat": 29.5760037,
+    "lng": -98.2457973,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:12503 sandy dunes:78253": {
+    "lat": 29.480654,
+    "lng": -98.741959,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:14000 wenrich:78233": {
+    "lat": 29.570174,
+    "lng": -98.340268,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:16506 martins ferry:78247": {
+    "lat": 29.5882867,
+    "lng": -98.3608918,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:200 chattington:78213": {
+    "lat": 29.518944,
+    "lng": -98.512931,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:21527 tenore:78259": {
+    "lat": 29.6407094,
+    "lng": -98.4264045,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2207 estate gate dr:78260": {
+    "lat": 29.6947823,
+    "lng": -98.47273609999999,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2345 appellation:78132": {
+    "lat": 29.790654,
+    "lng": -98.254477,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2366 brittany grace:78130": {
+    "lat": 29.6717998,
+    "lng": -98.0963048,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2422 bluffridge st:78232": {
+    "lat": 29.5829217,
+    "lng": -98.4526863,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2919 thunder gulch:78245": {
+    "lat": 29.400566,
+    "lng": -98.711918,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:304 mustang cir:78232": {
+    "lat": 29.601608,
+    "lng": -98.481041,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:30454 cloudview dr:78163": {
+    "lat": 29.744398,
+    "lng": -98.347109,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:313 crestwind dr:78239": {
+    "lat": 29.5141891,
+    "lng": -98.3897374,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:342 cable dr:78227": {
+    "lat": 29.401803,
+    "lng": -98.6548287,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:3435 river n dr:78230": {
+    "lat": 29.5450999,
+    "lng": -98.5551959,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:3475 river oaks dr:78132": {
+    "lat": 29.788086,
+    "lng": -98.125841,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:351 culebra:78201": {
+    "lat": 29.443835,
+    "lng": -98.508732,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:39 campden cir:78218": {
+    "lat": 29.511623,
+    "lng": -98.4272001,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:3903 eisenhauer:78218": {
+    "lat": 29.497409,
+    "lng": -98.419527,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:560 jaylee:78133": {
+    "lat": 29.885668,
+    "lng": -98.166222,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:6025 mike nesmith st:78238": {
+    "lat": 29.491893,
+    "lng": -98.604614,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:7222 sunset terrace:78244": {
+    "lat": 29.4880709,
+    "lng": -98.3473411,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:7406 midcrown dr:78218": {
+    "lat": 29.5006672,
+    "lng": -98.3832554,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:7531 eagle ledge:78249": {
+    "lat": 29.5647794,
+    "lng": -98.6332601,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:8058 broadway:78209": {
+    "lat": 29.5086885,
+    "lng": -98.4661147,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:8523 marathon dr:78148": {
+    "lat": 29.5699934,
+    "lng": -98.3164482,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:9231 ridge path:78250": {
+    "lat": 29.4992418,
+    "lng": -98.6703713,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:9763 hidden brook:78250": {
+    "lat": 29.4938137,
+    "lng": -98.6939359,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:harmony hills neighborhood:78216": {
+    "lat": 29.538467,
+    "lng": -98.493902,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "zip:78114": {
+    "lat": 29.1516408,
+    "lng": -98.1730171,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78163": {
+    "lat": 29.7669402,
+    "lng": -98.4267298,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78209": {
+    "lat": 29.4866772,
+    "lng": -98.4583686,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78212": {
+    "lat": 29.461887,
+    "lng": -98.4941623,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78213": {
+    "lat": 29.5143913,
+    "lng": -98.5200298,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78222": {
+    "lat": 29.3835661,
+    "lng": -98.4008681,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78231": {
+    "lat": 29.5726959,
+    "lng": -98.5395497,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78232": {
+    "lat": 29.590754,
+    "lng": -98.4737638,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78239": {
+    "lat": 29.5177775,
+    "lng": -98.3748987,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78247": {
+    "lat": 29.5830672,
+    "lng": -98.4092465,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78260": {
+    "lat": 29.717573,
+    "lng": -98.4637654,
+    "basis": "OpenStreetMap Nominatim"
+  }
+}

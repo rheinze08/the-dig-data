@@ -1,0 +1,255 @@
+{
+  "city:austin": {
+    "lat": 30.2649261,
+    "lng": -97.7474086,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "city:bastrop": {
+    "lat": 30.1104947,
+    "lng": -97.3152701,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "nominatim:street:102 duck lake dr:78734": {
+    "retryAfter": 1795828722021
+  },
+  "nominatim:street:104 delorean cir:78611": {
+    "retryAfter": 1795828737241
+  },
+  "nominatim:street:126 joshua smith:78602": {
+    "retryAfter": 1795828725141
+  },
+  "nominatim:street:1304 leander dr unit 630:78641": {
+    "retryAfter": 1795828735962
+  },
+  "nominatim:street:13402 montview dr:78732": {
+    "retryAfter": 1795828717411
+  },
+  "nominatim:street:14310 echo bluff:78737": {
+    "retryAfter": 1795828720736
+  },
+  "nominatim:street:17201 yellowstar dr:78738": {
+    "retryAfter": 1795828724087
+  },
+  "nominatim:street:2250 county rd 172 unit 310:78681": {
+    "retryAfter": 1795828723011
+  },
+  "nominatim:street:2345 appellation:78132": {
+    "retryAfter": 1795828727101
+  },
+  "nominatim:street:2501 forest bend:78704": {
+    "retryAfter": 1795828708445
+  },
+  "nominatim:street:300 county rd 326:76530": {
+    "retryAfter": 1795828731604
+  },
+  "nominatim:street:307 evening grosbeak dr pflugerville tx 78660:78660": {
+    "retryAfter": 1795828719453
+  },
+  "nominatim:street:3403 toro cayon rd:78746": {
+    "retryAfter": 1795828710578
+  },
+  "nominatim:street:3475 river oaks dr:78132": {
+    "retryAfter": 1795828728166
+  },
+  "nominatim:street:3740 county rd 207:78642": {
+    "retryAfter": 1795828735157
+  },
+  "nominatim:street:393 fm 969 near fm 969:bastrop": {
+    "retryAfter": 1795828742797
+  },
+  "nominatim:street:4308 yellow rose austin:austin": {
+    "retryAfter": 1795828745050
+  },
+  "nominatim:street:4308 yellow rose:78704": {
+    "retryAfter": 1795828711833
+  },
+  "nominatim:street:5004 interlachen ln austin tx 78747:78747": {
+    "retryAfter": 1795828713896
+  },
+  "nominatim:street:560 jaylee:78133": {
+    "retryAfter": 1795828730621
+  },
+  "nominatim:street:900 e 53 1 2 st:78751": {
+    "retryAfter": 1795828710071
+  },
+  "street:102 duck lake dr:78734": {
+    "lat": 30.358218,
+    "lng": -97.977812,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:11500 highview dr:78750": {
+    "lat": 30.4349515,
+    "lng": -97.7897648,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:11604 sweet basil ct:78726": {
+    "lat": 30.4420165,
+    "lng": -97.8305687,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:126 joshua smith:78602": {
+    "lat": 30.126617,
+    "lng": -97.42363,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:1304 leander dr unit 630:78641": {
+    "lat": 30.562779,
+    "lng": -97.841673,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:13402 montview dr:78732": {
+    "lat": 30.38114,
+    "lng": -97.904018,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:14310 echo bluff:78737": {
+    "lat": 30.174852,
+    "lng": -97.957967,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:17201 yellowstar dr:78738": {
+    "lat": 30.287342,
+    "lng": -98.033072,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:206 sinuso dr:78628": {
+    "lat": 30.6858827,
+    "lng": -97.6967557,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2209 quarry rd:78703": {
+    "lat": 30.2853452,
+    "lng": -97.7686445,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2250 county rd 172 unit 310:78681": {
+    "lat": 30.489264,
+    "lng": -97.695462,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2301 old airport rd:78626": {
+    "lat": 30.6656455,
+    "lng": -97.6688074,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2345 appellation:78132": {
+    "lat": 29.790654,
+    "lng": -98.254477,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2501 forest bend:78704": {
+    "lat": 30.253677,
+    "lng": -97.79176,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:300 county rd 326:76530": {
+    "lat": 30.716124,
+    "lng": -97.482663,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:307 evening grosbeak dr pflugerville tx 78660:78660": {
+    "lat": 30.446541,
+    "lng": -97.627655,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3301 greenlee dr:78703": {
+    "lat": 30.3029885,
+    "lng": -97.7717271,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:3403 toro cayon rd:78746": {
+    "lat": 30.324405,
+    "lng": -97.789999,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3475 river oaks dr:78132": {
+    "lat": 29.788086,
+    "lng": -98.125841,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3740 county rd 207:78642": {
+    "lat": 30.757339,
+    "lng": -97.89754,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:393 fm 969:78602": {
+    "lat": 30.1304879,
+    "lng": -97.3680502,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:427 parker dr:78666": {
+    "lat": 29.861016,
+    "lng": -97.9402519,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4308 yellow rose:78704": {
+    "lat": 30.225606,
+    "lng": -97.836612,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:4520 slickrock cove:78747": {
+    "lat": 30.1468865,
+    "lng": -97.7796151,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:5004 interlachen ln austin tx 78747:78747": {
+    "lat": 30.140516,
+    "lng": -97.777465,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:560 jaylee:78133": {
+    "lat": 29.885668,
+    "lng": -98.166222,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:600 westchester st:76574": {
+    "lat": 30.551551,
+    "lng": -97.4144112,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:711 texas dr:georgetown": {
+    "lat": 30.7235993,
+    "lng": -97.7154527,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:7412 doswell ln:78739": {
+    "lat": 30.193191,
+    "lng": -97.906536,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:900 e 53 1 2 st:78751": {
+    "lat": 30.3138018,
+    "lng": -97.7148071,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "zip:78611": {
+    "lat": 30.752811,
+    "lng": -98.2411824,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78613": {
+    "lat": 30.5186952,
+    "lng": -97.8122476,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78620": {
+    "lat": 30.2632645,
+    "lng": -98.0625619,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78634": {
+    "lat": 30.5445634,
+    "lng": -97.5598875,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78703": {
+    "lat": 30.2883182,
+    "lng": -97.7650135,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78731": {
+    "lat": 30.3467547,
+    "lng": -97.7658512,
+    "basis": "OpenStreetMap Nominatim"
+  }
+}

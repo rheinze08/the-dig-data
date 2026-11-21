@@ -1,0 +1,278 @@
+{
+  "city:friendswood": {
+    "lat": 29.5293998,
+    "lng": -95.2010447,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "city:friensdwood": {
+    "retryAfter": 1795780880574
+  },
+  "nominatim:street:107 clearview ave near fm518:friendswood": {
+    "retryAfter": 1795829179204
+  },
+  "nominatim:street:11306 christian:77044": {
+    "retryAfter": 1795668845293
+  },
+  "nominatim:street:2505 shadybend dr:77581": {
+    "retryAfter": 1795734173387
+  },
+  "nominatim:street:2860 dominique:77551": {
+    "retryAfter": 1795734181286
+  },
+  "nominatim:street:3119 silversprings dr:77571": {
+    "retryAfter": 1795668839113
+  },
+  "nominatim:street:5530 cr 166:77511": {
+    "retryAfter": 1795668838204
+  },
+  "nominatim:street:620 britt bailey blvd:77515": {
+    "retryAfter": 1795668843517
+  },
+  "nominatim:street:6635 sewanee ave:77005": {
+    "retryAfter": 1795666737664
+  },
+  "nominatim:street:904 vivian st:77565": {
+    "retryAfter": 1795829177440
+  },
+  "nominatim:street:909 leslie:friensdwood": {
+    "retryAfter": 1795780879217
+  },
+  "nominatim:street:923 crosstimbers:77022": {
+    "retryAfter": 1795668842205
+  },
+  "street:11306 christian:77044": {
+    "lat": 29.878055045631,
+    "lng": -95.154208971048,
+    "basis": "Phase 1: Census interpolated street address"
+  },
+  "street:1205 camden rd:77502": {
+    "lat": 29.6736904,
+    "lng": -95.1962186,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:14219 ridgewood lake ct:77062": {
+    "lat": 29.5907995,
+    "lng": -95.135576,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1425 columbia st:77008": {
+    "lat": 29.797206,
+    "lng": -95.3933285,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1915 doliver cir:77489": {
+    "lat": 29.5824494,
+    "lng": -95.5317175,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2014 engelmohr st:77054": {
+    "lat": 29.681483,
+    "lng": -95.4012959,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2505 shadybend dr:77581": {
+    "lat": 29.5499358,
+    "lng": -95.2589919,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2618 14th st n:77590": {
+    "lat": 29.4089021,
+    "lng": -94.9146776,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2654 waverly dr:77573": {
+    "lat": 29.5290373,
+    "lng": -95.0612558,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2860 dominique dr:77551": {
+    "lat": 29.2651412,
+    "lng": -94.8475174,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2860 dominique:77551": {
+    "lat": 29.265164,
+    "lng": -94.847552,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3119 silversprings dr:77571": {
+    "lat": 29.626681,
+    "lng": -95.024068,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3318 deerwood ln:77459": {
+    "lat": 29.5706355,
+    "lng": -95.5388768,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4204 oberlin st:77005": {
+    "lat": 29.7117941,
+    "lng": -95.4454381,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4307 firestone dr:77035": {
+    "lat": 29.6716301,
+    "lng": -95.4492793,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4533 elm st:77401": {
+    "lat": 29.7125865,
+    "lng": -95.4527704,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:5117 ave o:77551": {
+    "lat": 29.2853157,
+    "lng": -94.8222132,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:5530 cr 166:77511": {
+    "lat": 29.373381,
+    "lng": -95.207595,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:620 britt bailey blvd:77515": {
+    "lat": 29.156177,
+    "lng": -95.50688,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:6635 sewanee ave:77005": {
+    "lat": 29.707844,
+    "lng": -95.430615,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:8309 montridge dr:77055": {
+    "lat": 29.8081533,
+    "lng": -95.494119,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:858 shawnee st:77034": {
+    "lat": 29.6454992,
+    "lng": -95.2357832,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:909 leslie ln:77546": {
+    "lat": 29.5173354,
+    "lng": -95.2004314,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:9115 marlive ln:77025": {
+    "lat": 29.6828267,
+    "lng": -95.4373251,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:923 crosstimbers:77022": {
+    "lat": 29.82935,
+    "lng": -95.387266,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "zip:77005": {
+    "lat": 29.7206266,
+    "lng": -95.4207825,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77006": {
+    "lat": 29.7422405,
+    "lng": -95.3902848,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77019": {
+    "lat": 29.7540053,
+    "lng": -95.4007196,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77025": {
+    "lat": 29.6884618,
+    "lng": -95.4297609,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77027": {
+    "lat": 29.7413958,
+    "lng": -95.4487318,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77034": {
+    "lat": 29.639752,
+    "lng": -95.2284686,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77035": {
+    "lat": 29.6561547,
+    "lng": -95.4749091,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77040": {
+    "lat": 29.879448,
+    "lng": -95.5176534,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77055": {
+    "lat": 29.7970016,
+    "lng": -95.5033756,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77057": {
+    "lat": 29.7435708,
+    "lng": -95.4870944,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77059": {
+    "lat": 29.5991448,
+    "lng": -95.1188624,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77062": {
+    "lat": 29.5750991,
+    "lng": -95.1319716,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77396": {
+    "lat": 29.9501886,
+    "lng": -95.2686575,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77401": {
+    "lat": 29.7040045,
+    "lng": -95.4639582,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77489": {
+    "lat": 29.5993958,
+    "lng": -95.5133017,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77502": {
+    "lat": 29.6808784,
+    "lng": -95.2042463,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77517": {
+    "lat": 29.3856773,
+    "lng": -95.1281039,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77546": {
+    "lat": 29.5244089,
+    "lng": -95.191409,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77551": {
+    "lat": 29.2718066,
+    "lng": -94.838413,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77565": {
+    "lat": 29.5411706,
+    "lng": -95.0295891,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77573": {
+    "lat": 29.4988871,
+    "lng": -95.0991214,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77581": {
+    "lat": 29.5605101,
+    "lng": -95.2650553,
+    "basis": "OpenStreetMap Nominatim"
+  }
+}
