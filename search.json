@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T05:01:48.795Z",
+  "generatedAt": "2026-11-21T17:57:45.702Z",
   "categories": [
     "tools",
     "furniture",
@@ -21,32 +21,32 @@
       "name": "Houston",
       "state": "TX",
       "status": "live",
-      "sales": 28,
-      "collectedAt": "2026-11-21T04:55:57.601Z"
+      "sales": 32,
+      "collectedAt": "2026-11-21T17:51:13.941Z"
     },
     {
       "slug": "dallas-fort-worth",
       "name": "Dallas–Fort Worth",
       "state": "TX",
       "status": "proving",
-      "sales": 109,
-      "collectedAt": "2026-11-21T04:59:23.959Z"
+      "sales": 117,
+      "collectedAt": "2026-11-21T17:54:56.380Z"
     },
     {
       "slug": "austin",
       "name": "Austin",
       "state": "TX",
       "status": "proving",
-      "sales": 26,
-      "collectedAt": "2026-11-21T05:00:26.130Z"
+      "sales": 28,
+      "collectedAt": "2026-11-21T17:56:17.132Z"
     },
     {
       "slug": "san-antonio",
       "name": "San Antonio",
       "state": "TX",
       "status": "proving",
-      "sales": 43,
-      "collectedAt": "2026-11-21T05:01:48.781Z"
+      "sales": 44,
+      "collectedAt": "2026-11-21T17:57:45.692Z"
     }
   ],
   "sales": [
@@ -184,6 +184,96 @@
       "contentsLine": "Tools, jewelry, collectibles, art and antiques."
     },
     {
+      "id": "a9e67e831f781fda",
+      "citySlug": "houston",
+      "cityName": "Houston",
+      "status": "live",
+      "title": "***25% OFF SATURDAY***Pearland estate sale",
+      "company": "Yolanda's Estate Sales",
+      "categories": [],
+      "firstDate": "2026-11-20",
+      "lastDate": "2026-11-22",
+      "lat": 29.5499358,
+      "lng": -95.2589919,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Pearland/77581/5160993"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 103,
+      "photoKeywords": [
+        "vinyl & records"
+      ],
+      "contentsLine": "Vinyl & records."
+    },
+    {
+      "id": "1552ae954159c57f",
+      "citySlug": "houston",
+      "cityName": "Houston",
+      "status": "live",
+      "title": "***25% OFF SATURDAY***Willow Meadows Estate Sale",
+      "company": "Yolanda's Estate Sales",
+      "categories": [],
+      "firstDate": "2026-11-20",
+      "lastDate": "2026-11-22",
+      "lat": 29.6716301,
+      "lng": -95.4492793,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77035/5133270"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 129,
+      "photoKeywords": [
+        "collectibles",
+        "kitchen",
+        "art",
+        "toys & games",
+        "china",
+        "crystal",
+        "christmas decor"
+      ],
+      "contentsLine": "Collectibles, kitchen, art, toys & games and china."
+    },
+    {
+      "id": "780dc1aaf34cab51",
+      "citySlug": "houston",
+      "cityName": "Houston",
+      "status": "live",
+      "title": "25% off Collector’s Corner on Camden by Heritage Estate Sales",
+      "company": "Heritage Estate Sales",
+      "categories": [
+        "collectibles"
+      ],
+      "firstDate": "2026-11-20",
+      "lastDate": "2026-11-22",
+      "lat": 29.6736904,
+      "lng": -95.1962186,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Pasadena/77502/5161326"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 601,
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "figurines",
+        "crystal"
+      ],
+      "contentsLine": "Furniture, collectibles, kitchen, figurines and crystal."
+    },
+    {
       "id": "46d5f50c6f4dafd9",
       "citySlug": "houston",
       "cityName": "Houston",
@@ -219,64 +309,6 @@
       "contentsLine": "Furniture, vinyl & records, collectibles, clothing and books."
     },
     {
-      "id": "780dc1aaf34cab51",
-      "citySlug": "houston",
-      "cityName": "Houston",
-      "status": "live",
-      "title": "Collector’s Corner on Camden by Heritage Estate Sales",
-      "company": "Heritage Estate Sales",
-      "categories": [
-        "collectibles"
-      ],
-      "firstDate": "2026-11-20",
-      "lastDate": "2026-11-22",
-      "lat": 29.6736904,
-      "lng": -95.1962186,
-      "approximate": false,
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Pasadena/77502/5161326"
-        }
-      ],
-      "digRating": "Deep Dig",
-      "photoCount": 601,
-      "photoKeywords": [
-        "furniture",
-        "collectibles",
-        "kitchen",
-        "figurines",
-        "crystal"
-      ],
-      "contentsLine": "Furniture, collectibles, kitchen, figurines and crystal."
-    },
-    {
-      "id": "a9e67e831f781fda",
-      "citySlug": "houston",
-      "cityName": "Houston",
-      "status": "live",
-      "title": "Pearland estate sale",
-      "company": "Yolanda's Estate Sales",
-      "categories": [],
-      "firstDate": "2026-11-20",
-      "lastDate": "2026-11-22",
-      "lat": 29.5499358,
-      "lng": -95.2589919,
-      "approximate": false,
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Pearland/77581/5160993"
-        }
-      ],
-      "digRating": "Deep Dig",
-      "photoCount": 103,
-      "photoKeywords": [
-        "vinyl & records"
-      ],
-      "contentsLine": "Vinyl & records."
-    },
-    {
       "id": "823b4cd74da69572",
       "citySlug": "houston",
       "cityName": "Houston",
@@ -310,38 +342,6 @@
         "rugs"
       ],
       "contentsLine": "Furniture, collectibles, kitchen, books and art."
-    },
-    {
-      "id": "1552ae954159c57f",
-      "citySlug": "houston",
-      "cityName": "Houston",
-      "status": "live",
-      "title": "Willow Meadows Estate Sale",
-      "company": "Yolanda's Estate Sales",
-      "categories": [],
-      "firstDate": "2026-11-20",
-      "lastDate": "2026-11-22",
-      "lat": 29.6716301,
-      "lng": -95.4492793,
-      "approximate": false,
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Houston/77035/5133270"
-        }
-      ],
-      "digRating": "Deep Dig",
-      "photoCount": 129,
-      "photoKeywords": [
-        "collectibles",
-        "kitchen",
-        "art",
-        "toys & games",
-        "china",
-        "crystal",
-        "christmas decor"
-      ],
-      "contentsLine": "Collectibles, kitchen, art, toys & games and china."
     },
     {
       "id": "c63b83155d9796a0",
@@ -670,9 +670,9 @@
       "categories": [],
       "firstDate": "2026-11-21",
       "lastDate": "2026-11-22",
-      "lat": 29.7413958,
-      "lng": -95.4487318,
-      "approximate": true,
+      "lat": 29.738904,
+      "lng": -95.450891,
+      "approximate": false,
       "sources": [
         {
           "name": "EstateSales.net",
@@ -929,6 +929,124 @@
       "contentsLine": "Furniture, jewelry, collectibles, kitchen and art."
     },
     {
+      "id": "d91df3b7d7230d0e",
+      "citySlug": "houston",
+      "cityName": "Houston",
+      "status": "live",
+      "title": "Ultimate Treasure Hunt. Vintage to Luxury",
+      "company": "Tender Transitions",
+      "categories": [],
+      "firstDate": "2026-12-04",
+      "lastDate": "2026-12-05",
+      "lat": 29.7540053,
+      "lng": -95.4007196,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77019/5137254"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 150,
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "books",
+        "toys & games",
+        "china"
+      ],
+      "contentsLine": "Furniture, collectibles, kitchen, books and toys & games."
+    },
+    {
+      "id": "bb3486a7096df173",
+      "citySlug": "houston",
+      "cityName": "Houston",
+      "status": "live",
+      "title": "\"Meadows of Clear Creek\"| \"Little River Oaks:",
+      "company": "50 50 Resale",
+      "categories": [],
+      "firstDate": "2026-12-04",
+      "lastDate": "2026-12-06",
+      "lat": 29.5933137,
+      "lng": -95.2233526,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77089/5155362"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 83,
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "clothing",
+        "art",
+        "china",
+        "antiques",
+        "patio furniture"
+      ],
+      "contentsLine": "Furniture, collectibles, clothing, art and china."
+    },
+    {
+      "id": "2dbe04150546c650",
+      "citySlug": "houston",
+      "cityName": "Houston",
+      "status": "live",
+      "title": "Estate Sale by Family Tree Estates",
+      "company": "Family Tree Estate Sales",
+      "categories": [],
+      "firstDate": "2026-12-04",
+      "lastDate": "2026-12-06",
+      "lat": 29.7899305,
+      "lng": -94.9812266,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Baytown/77521/5156784"
+        }
+      ],
+      "digRating": "Worth a Look",
+      "photoCount": 14
+    },
+    {
+      "id": "f0815319c3a3d2f6",
+      "citySlug": "houston",
+      "cityName": "Houston",
+      "status": "live",
+      "title": "Estate Sale by Family Tree Estates",
+      "company": "Family Tree Estate Sales",
+      "categories": [],
+      "firstDate": "2026-12-04",
+      "lastDate": "2026-12-06",
+      "lat": 29.7516946,
+      "lng": -94.9516854,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Baytown/77520/5138661"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 51,
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "art",
+        "antiques",
+        "lamps"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, vehicles and kitchen."
+    },
+    {
       "id": "9a728d505ba40345",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
@@ -962,7 +1080,7 @@
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
       "status": "proving",
-      "title": "Denton (ROBSON RANCH): 50% OFF + STUFF-A-BAG + Unbeatable Deals by Dayspring",
+      "title": "50% OFF + STUFF-A-BAG Denton (ROBSON RANCH): Unbeatable Deals by Dayspring",
       "company": "Dayspring Estate Sales",
       "categories": [],
       "firstDate": "2026-11-18",
@@ -997,7 +1115,7 @@
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
       "status": "proving",
-      "title": "Fort Worth: 50% OFF + STUFF-A-BAG + Unbeatable Deals by Dayspring",
+      "title": "50% OFF + STUFF-A-BAG Fort Worth: Unbeatable Deals by Dayspring",
       "company": "Dayspring Estate Sales",
       "categories": [],
       "firstDate": "2026-11-18",
@@ -1145,7 +1263,7 @@
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
       "status": "proving",
-      "title": "Garland: 25% OFF & STUFF-A-BAG + Unbeatable Deals by Dayspring",
+      "title": "50% OFF + STUFF-A-BAG Garland: Unbeatable Deals by Dayspring",
       "company": "Dayspring Estate Sales",
       "categories": [],
       "firstDate": "2026-11-19",
@@ -1180,7 +1298,7 @@
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
       "status": "proving",
-      "title": "Little Elm: 25% OFF & STUFF-A-BAG + Unbeatable Deals by Dayspring",
+      "title": "75% OFF + STUFF-A-BAG Little Elm: Unbeatable Deals by Dayspring",
       "company": "Dayspring Estate Sales",
       "categories": [],
       "firstDate": "2026-11-19",
@@ -1209,28 +1327,6 @@
         "toys & games"
       ],
       "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen."
-    },
-    {
-      "id": "a1aecd517a8dcd97",
-      "citySlug": "dallas-fort-worth",
-      "cityName": "Dallas–Fort Worth",
-      "status": "proving",
-      "title": "25% OFF FRIDAY!!!",
-      "company": "The Spann Group Estate Sales, LLC",
-      "categories": [],
-      "firstDate": "2026-11-19",
-      "lastDate": "2026-11-22",
-      "lat": 32.6619347,
-      "lng": -97.2186131,
-      "approximate": false,
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Arlington/76017/5139621"
-        }
-      ],
-      "digRating": "Deep Dig",
-      "photoCount": 237
     },
     {
       "id": "5a90cf43949ca89a",
@@ -1308,6 +1404,28 @@
         "mid-century"
       ],
       "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen."
+    },
+    {
+      "id": "a1aecd517a8dcd97",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "50% OFF SATURDAY!!!",
+      "company": "The Spann Group Estate Sales, LLC",
+      "categories": [],
+      "firstDate": "2026-11-19",
+      "lastDate": "2026-11-22",
+      "lat": 32.6619347,
+      "lng": -97.2186131,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Arlington/76017/5139621"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 237
     },
     {
       "id": "c2fe5a3ffe833d00",
@@ -2073,8 +2191,8 @@
       "categories": [],
       "firstDate": "2026-11-19",
       "lastDate": "2026-11-22",
-      "lat": 32.758084,
-      "lng": -97.143168,
+      "lat": 32.7580292,
+      "lng": -97.1432551,
       "approximate": false,
       "sources": [
         {
@@ -2371,6 +2489,41 @@
       "contentsLine": "Furniture, collectibles, art, figurines and crystal."
     },
     {
+      "id": "8db86517e76e44c0",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "25% Off- Something for Everybody",
+      "company": "Texoma Auctions & Estate Sales",
+      "categories": [],
+      "firstDate": "2026-11-20",
+      "lastDate": "2026-11-22",
+      "lat": 32.828754,
+      "lng": -97.112078,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Euless/76040/5165676"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 126,
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "jewelry",
+        "kitchen",
+        "clothing",
+        "art",
+        "crystal",
+        "antiques",
+        "christmas decor"
+      ],
+      "contentsLine": "Tools, furniture, vinyl & records, jewelry and kitchen."
+    },
+    {
       "id": "b26fbcc42db32da0",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
@@ -2562,70 +2715,7 @@
       "contentsLine": "Furniture, kitchen, clothing, books and art."
     },
     {
-      "id": "1056959962c26dc7",
-      "citySlug": "dallas-fort-worth",
-      "cityName": "Dallas–Fort Worth",
-      "status": "proving",
-      "title": "Living Estate Sale",
-      "company": null,
-      "categories": [],
-      "firstDate": "2026-11-20",
-      "lastDate": "2026-11-20",
-      "lat": 32.9755787,
-      "lng": -96.8809726,
-      "approximate": false,
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/carrollton/75006/living-estate-sale-2473730"
-        }
-      ],
-      "digRating": "Worth a Look",
-      "photoCount": 1,
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "kitchen",
-        "electronics",
-        "toys & games",
-        "watches",
-        "christmas decor"
-      ],
-      "contentsLine": "Furniture, jewelry, kitchen, electronics and toys & games."
-    },
-    {
-      "id": "f5906d411fc84284",
-      "citySlug": "dallas-fort-worth",
-      "cityName": "Dallas–Fort Worth",
-      "status": "proving",
-      "title": "MASSIVE ESTATE SALE IN 4000 SQFT RACNH HOME PACKED FOR 60 YEARS!",
-      "company": null,
-      "categories": [],
-      "firstDate": "2026-11-20",
-      "lastDate": "2026-11-20",
-      "lat": 33.2591537,
-      "lng": -97.0795122,
-      "approximate": false,
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/denton/76208/massive-estate-sale-in-4000-2474567"
-        }
-      ],
-      "digRating": "Slim Pickings",
-      "photoCount": 1,
-      "photoKeywords": [
-        "furniture",
-        "collectibles",
-        "china",
-        "crystal",
-        "antiques",
-        "mid-century"
-      ],
-      "contentsLine": "Furniture, collectibles, china, crystal and antiques."
-    },
-    {
-      "id": "e9b6bb0dddd5a5ba",
+      "id": "5d844e78ddf14c75",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
       "status": "proving",
@@ -2638,10 +2728,6 @@
       "lng": -97.3729967,
       "approximate": false,
       "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/fort-worth/76107/estate-sale-monticello-3766-w-2474440"
-        },
         {
           "name": "EstateSales.net",
           "url": "https://www.estatesales.net/TX/Fort-Worth/76107/5162793"
@@ -2697,41 +2783,6 @@
         "antiques"
       ],
       "contentsLine": "Tools, furniture, collectibles, kitchen and books."
-    },
-    {
-      "id": "8db86517e76e44c0",
-      "citySlug": "dallas-fort-worth",
-      "cityName": "Dallas–Fort Worth",
-      "status": "proving",
-      "title": "Something for Everybody",
-      "company": "Texoma Auctions & Estate Sales",
-      "categories": [],
-      "firstDate": "2026-11-20",
-      "lastDate": "2026-11-22",
-      "lat": 32.828754,
-      "lng": -97.112078,
-      "approximate": false,
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Euless/76040/5165676"
-        }
-      ],
-      "digRating": "Deep Dig",
-      "photoCount": 126,
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "vinyl & records",
-        "jewelry",
-        "kitchen",
-        "clothing",
-        "art",
-        "crystal",
-        "antiques",
-        "christmas decor"
-      ],
-      "contentsLine": "Tools, furniture, vinyl & records, jewelry and kitchen."
     },
     {
       "id": "0eb294fb7e3fcaba",
@@ -2818,7 +2869,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 182,
+      "photoCount": 189,
       "photoKeywords": [
         "tools",
         "furniture",
@@ -2852,14 +2903,15 @@
           "url": "https://www.estatesales.net/TX/Fort-Worth/76110/5165385"
         }
       ],
-      "digRating": "Worth a Look",
-      "photoCount": 38,
+      "digRating": "Deep Dig",
+      "photoCount": 40,
       "photoKeywords": [
         "collectibles",
+        "art",
         "antiques",
         "christmas decor"
       ],
-      "contentsLine": "Collectibles, antiques and christmas decor."
+      "contentsLine": "Collectibles, art, antiques and christmas decor."
     },
     {
       "id": "c4e6bad9cfe373f0",
@@ -2895,6 +2947,34 @@
       "contentsLine": "Furniture, vehicles, kitchen, clothing and electronics."
     },
     {
+      "id": "a5bfc531856c1e21",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "50% OFF!! River Oaks Estate Sale - Brass, Christmas & More!",
+      "company": "Cowtown Liquidation",
+      "categories": [],
+      "firstDate": "2026-11-20",
+      "lastDate": "2026-11-21",
+      "lat": 32.787562,
+      "lng": -97.401853,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76114/5145414"
+        }
+      ],
+      "digRating": "Worth a Look",
+      "photoCount": 191,
+      "photoKeywords": [
+        "collectibles",
+        "figurines",
+        "christmas decor"
+      ],
+      "contentsLine": "Collectibles, figurines and christmas decor."
+    },
+    {
       "id": "a4440405f38113a9",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
@@ -2920,44 +3000,6 @@
         "antiques"
       ],
       "contentsLine": "Furniture and antiques."
-    },
-    {
-      "id": "80bad8b31b559ee1",
-      "citySlug": "dallas-fort-worth",
-      "cityName": "Dallas–Fort Worth",
-      "status": "proving",
-      "title": "Duncanville Estate Sale coins, jewelry, comics, Bev Doolittle",
-      "company": "Kitchens To Closets Estate Sales",
-      "categories": [
-        "jewelry",
-        "collectibles"
-      ],
-      "firstDate": "2026-11-20",
-      "lastDate": "2026-11-22",
-      "lat": 32.6572383,
-      "lng": -96.9121977,
-      "approximate": true,
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Duncanville/75116/5154525"
-        }
-      ],
-      "digRating": "Deep Dig",
-      "photoCount": 238,
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "vinyl & records",
-        "jewelry",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "books",
-        "electronics"
-      ],
-      "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles."
     },
     {
       "id": "371568f2a726e3c3",
@@ -3099,7 +3141,7 @@
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
       "status": "proving",
-      "title": "Our RoadRunner is racing towards Highland Village with deals worth Chasing!",
+      "title": "Our RoadRunner is racing towards Highland Village with deals worth Chasing! 25% off Saturday 11/21",
       "company": "Wright Choice Estate Sales",
       "categories": [],
       "firstDate": "2026-11-20",
@@ -3183,32 +3225,42 @@
       "contentsLine": "Furniture."
     },
     {
-      "id": "a5bfc531856c1e21",
+      "id": "80bad8b31b559ee1",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
       "status": "proving",
-      "title": "River Oaks Estate Sale - Brass, Christmas & More!",
-      "company": "Cowtown Liquidation",
-      "categories": [],
+      "title": "Saturday 25% off Duncanville Estate Sale coins, jewelry, comics, Bev Doolittle",
+      "company": "Kitchens To Closets Estate Sales",
+      "categories": [
+        "jewelry",
+        "collectibles"
+      ],
       "firstDate": "2026-11-20",
-      "lastDate": "2026-11-21",
-      "lat": 32.787562,
-      "lng": -97.401853,
-      "approximate": false,
+      "lastDate": "2026-11-22",
+      "lat": 32.6572383,
+      "lng": -96.9121977,
+      "approximate": true,
       "sources": [
         {
           "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Fort-Worth/76114/5145414"
+          "url": "https://www.estatesales.net/TX/Duncanville/75116/5154525"
         }
       ],
-      "digRating": "Worth a Look",
-      "photoCount": 191,
+      "digRating": "Deep Dig",
+      "photoCount": 238,
       "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "jewelry",
         "collectibles",
-        "figurines",
-        "christmas decor"
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "books",
+        "electronics"
       ],
-      "contentsLine": "Collectibles, figurines and christmas decor."
+      "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles."
     },
     {
       "id": "556fec54a5ff6918",
@@ -3311,33 +3363,6 @@
       "contentsLine": "Tools, furniture, collectibles, kitchen and art."
     },
     {
-      "id": "9b588dcdffa91f6c",
-      "citySlug": "dallas-fort-worth",
-      "cityName": "Dallas–Fort Worth",
-      "status": "proving",
-      "title": "Knox home sale 1of 3",
-      "company": "3-g's Estate Sales",
-      "categories": [],
-      "firstDate": "2026-11-21",
-      "lastDate": "2026-11-21",
-      "lat": 32.942432,
-      "lng": -97.2149905,
-      "approximate": false,
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Keller/76248/5168400"
-        }
-      ],
-      "digRating": "Worth a Look",
-      "photoCount": 41,
-      "photoKeywords": [
-        "kitchen",
-        "christmas decor"
-      ],
-      "contentsLine": "Kitchen and christmas decor."
-    },
-    {
       "id": "d4149b9c4cc3a953",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
@@ -3349,9 +3374,9 @@
       ],
       "firstDate": "2026-11-21",
       "lastDate": "2026-11-21",
-      "lat": 33.0579749,
-      "lng": -96.7454322,
-      "approximate": true,
+      "lat": 33.0639897,
+      "lng": -96.7332298,
+      "approximate": false,
       "sources": [
         {
           "name": "EstateSales.net",
@@ -3359,7 +3384,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 36,
+      "photoCount": 43,
       "photoKeywords": [
         "collectibles",
         "clothing",
@@ -3474,6 +3499,59 @@
       "contentsLine": "Tools, furniture, vinyl & records, jewelry and kitchen."
     },
     {
+      "id": "f89197650a401c51",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "Design District Estate Sale",
+      "company": "Jg Sales",
+      "categories": [],
+      "firstDate": "2026-11-21",
+      "lastDate": "2026-11-22",
+      "lat": 32.792978,
+      "lng": -96.831167,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75206/5168430"
+        }
+      ],
+      "digRating": "Worth a Look",
+      "photoCount": 100
+    },
+    {
+      "id": "6226606a8ca446b1",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "Estate Sale - Collectors! Dealers!Estate",
+      "company": null,
+      "categories": [
+        "collectibles"
+      ],
+      "firstDate": "2026-11-21",
+      "lastDate": "2026-11-21",
+      "lat": 32.950664,
+      "lng": -96.900084,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/carrollton/75006/estate-sale-collectors-dealersestate-2474931"
+        }
+      ],
+      "digRating": "Worth a Look",
+      "photoCount": 1,
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "antiques"
+      ],
+      "contentsLine": "Furniture, collectibles, kitchen and antiques."
+    },
+    {
       "id": "9588f8e0bb5fa8d6",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
@@ -3497,7 +3575,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 92,
+      "photoCount": 112,
       "photoKeywords": [
         "furniture",
         "jewelry",
@@ -3695,16 +3773,20 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 18,
+      "photoCount": 48,
       "photoKeywords": [
         "furniture",
         "collectibles",
         "vehicles",
         "clothing",
+        "books",
         "toys & games",
-        "mirrors"
+        "figurines",
+        "china",
+        "mirrors",
+        "dolls"
       ],
-      "contentsLine": "Furniture, collectibles, vehicles, clothing and toys & games."
+      "contentsLine": "Furniture, collectibles, vehicles, clothing and books."
     },
     {
       "id": "80ec354dc4a23ea1",
@@ -3737,6 +3819,32 @@
         "lamps"
       ],
       "contentsLine": "Furniture, art, toys & games, china and antiques."
+    },
+    {
+      "id": "211e4e751c6b9c2d",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "West Plano Estate Sale brought to Warehouse",
+      "company": "Crush Estate Sales",
+      "categories": [],
+      "firstDate": "2026-11-21",
+      "lastDate": "2026-11-24",
+      "lat": 33.018423,
+      "lng": -96.735494,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75075/5168580"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 107,
+      "photoKeywords": [
+        "furniture"
+      ],
+      "contentsLine": "Furniture."
     },
     {
       "id": "b0d4b0bea60fe663",
@@ -4055,6 +4163,28 @@
       "contentsLine": "Furniture, jewelry, collectibles, clothing and books."
     },
     {
+      "id": "d698da6e06e968ec",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "Black Friday Weekend Sale!!!",
+      "company": "Decades Estate Liquidators",
+      "categories": [],
+      "firstDate": "2026-11-27",
+      "lastDate": "2026-11-29",
+      "lat": 32.7240338,
+      "lng": -97.0088686,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Grand-Prairie/75051/5168622"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 95
+    },
+    {
       "id": "959f00f7e370f8b8",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
@@ -4315,7 +4445,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 638,
+      "photoCount": 640,
       "photoKeywords": [
         "furniture",
         "vinyl & records",
@@ -4357,7 +4487,7 @@
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
       "status": "proving",
-      "title": "DESIGNER DREAMS & CHRISTMAS THINGS IN ARGYLE",
+      "title": "GOLD, GILT, GLAMOUR AND CHRISTMAS MAGIC IN ARGYLE",
       "company": "HammerDown Estate Sales",
       "categories": [],
       "firstDate": "2026-12-03",
@@ -4372,7 +4502,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 105,
+      "photoCount": 169,
       "photoKeywords": [
         "furniture",
         "jewelry",
@@ -4460,11 +4590,197 @@
       "photoCount": 0
     },
     {
+      "id": "d6d7ae910922b1dd",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "~Incredible Denton Estate Sale! More info coming soon!",
+      "company": "DFW Estate Liquidators",
+      "categories": [],
+      "firstDate": "2026-12-04",
+      "lastDate": "2026-12-05",
+      "lat": 33.1482367,
+      "lng": -97.0871726,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Denton/76210/5129790"
+        }
+      ],
+      "digRating": "Slim Pickings",
+      "photoCount": 1
+    },
+    {
+      "id": "443d7f2c4a509dff",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "~Massive *2 Phase* Garland, TX -Black Friday Weekend- Estate Sale! More info coming soon!",
+      "company": "DFW Estate Liquidators",
+      "categories": [],
+      "firstDate": "2026-12-04",
+      "lastDate": "2026-12-06",
+      "lat": 32.8799326,
+      "lng": -96.6494099,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Garland/75041/5114634"
+        }
+      ],
+      "digRating": "Slim Pickings",
+      "photoCount": 1
+    },
+    {
+      "id": "b380971dee9e0e20",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "Southlake Estate Sale",
+      "company": "Triguytreasures",
+      "categories": [],
+      "firstDate": "2026-12-04",
+      "lastDate": "2026-12-07",
+      "lat": 32.943547,
+      "lng": -97.1461593,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Southlake/76092/5164146"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 68,
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "jewelry",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "art",
+        "electronics"
+      ],
+      "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles."
+    },
+    {
+      "id": "72d6ecf09d7aa166",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "Fort Worth Estate Sale",
+      "company": "Cowtown Liquidation",
+      "categories": [],
+      "firstDate": "2026-12-04",
+      "lastDate": "2026-12-05",
+      "lat": 32.8633006,
+      "lng": -97.2895955,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76137/5134149"
+        }
+      ],
+      "digRating": "Slim Pickings",
+      "photoCount": 1
+    },
+    {
+      "id": "9f0e95a3bb447234",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "The Collectors Estate Sale, Treasure Trove in Richardson! Architectural, Sterling, Vintage Linens",
+      "company": "Estate Sales Dfw",
+      "categories": [
+        "collectibles"
+      ],
+      "firstDate": "2026-12-04",
+      "lastDate": "2026-12-06",
+      "lat": 32.9731163,
+      "lng": -96.7407763,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Richardson/75080/5157117"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 253,
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "art",
+        "toys & games",
+        "crystal",
+        "antiques",
+        "lamps",
+        "silver"
+      ],
+      "contentsLine": "Furniture, jewelry, collectibles, kitchen and art."
+    },
+    {
+      "id": "f635c6a629c9f398",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "The Whimsy Within - River’s Wind Estate Sale",
+      "company": "Rivers Wind",
+      "categories": [],
+      "firstDate": "2026-12-04",
+      "lastDate": "2026-12-06",
+      "lat": 32.82718,
+      "lng": -96.9635524,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Irving/75061/5165079"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 97,
+      "photoKeywords": [
+        "collectibles"
+      ],
+      "contentsLine": "Collectibles."
+    },
+    {
+      "id": "fedb3cf013d8645d",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "proving",
+      "title": "Tons of Goodies by Treme",
+      "company": "Treme Realty LLC",
+      "categories": [],
+      "firstDate": "2026-12-04",
+      "lastDate": "2026-12-06",
+      "lat": 32.6548136,
+      "lng": -97.0902444,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Arlington/76002/5163654"
+        }
+      ],
+      "digRating": "Worth a Look",
+      "photoCount": 14
+    },
+    {
       "id": "ec76dc8d2c42cdd1",
       "citySlug": "austin",
       "cityName": "Austin",
       "status": "proving",
-      "title": "*50% OFF* Everything For Sale — Right Down to the Fixtures!",
+      "title": "*75% OFF* Everything For Sale — Right Down to the Fixtures!",
       "company": "Aloe Vera Estate Sales",
       "categories": [],
       "firstDate": "2026-11-18",
@@ -4569,7 +4885,7 @@
       "citySlug": "austin",
       "cityName": "Austin",
       "status": "proving",
-      "title": "Christmas Gift Treasure Hunt! Cowboys, Fazzino Art, Vintage Toys, Gaming & More",
+      "title": "75% off on Saturday ~ Christmas Gifts, Cowboys, Fazzino Art, Vintage Toys, Gaming & More",
       "company": "Heirloom Harvesters",
       "categories": [
         "art",
@@ -4747,6 +5063,41 @@
       "photoCount": 43
     },
     {
+      "id": "a64975670ff873de",
+      "citySlug": "austin",
+      "cityName": "Austin",
+      "status": "proving",
+      "title": "25% off Saturday @ Treasures in Onion Creek (Cypress Ridge)",
+      "company": "Austin Capital Estate Sales",
+      "categories": [],
+      "firstDate": "2026-11-20",
+      "lastDate": "2026-11-23",
+      "lat": 30.1468865,
+      "lng": -97.7796151,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78747/5129673"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 541,
+      "photoKeywords": [
+        "furniture",
+        "vinyl & records",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "toys & games"
+      ],
+      "contentsLine": "Furniture, vinyl & records, jewelry, collectibles and kitchen."
+    },
+    {
       "id": "912abaaf5a933572",
       "citySlug": "austin",
       "cityName": "Austin",
@@ -4811,41 +5162,6 @@
         "antiques"
       ],
       "contentsLine": "Furniture, collectibles, kitchen, art and china."
-    },
-    {
-      "id": "a64975670ff873de",
-      "citySlug": "austin",
-      "cityName": "Austin",
-      "status": "proving",
-      "title": "Treasures in Onion Creek (Cypress Ridge)",
-      "company": "Austin Capital Estate Sales",
-      "categories": [],
-      "firstDate": "2026-11-20",
-      "lastDate": "2026-11-23",
-      "lat": 30.1468865,
-      "lng": -97.7796151,
-      "approximate": false,
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Austin/78747/5129673"
-        }
-      ],
-      "digRating": "Deep Dig",
-      "photoCount": 541,
-      "photoKeywords": [
-        "furniture",
-        "vinyl & records",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "toys & games"
-      ],
-      "contentsLine": "Furniture, vinyl & records, jewelry, collectibles and kitchen."
     },
     {
       "id": "2105c54c8bfa22a2",
@@ -4974,9 +5290,9 @@
       ],
       "firstDate": "2026-11-21",
       "lastDate": "2026-11-22",
-      "lat": 30.2883182,
-      "lng": -97.7650135,
-      "approximate": true,
+      "lat": 30.308924,
+      "lng": -97.7700574,
+      "approximate": false,
       "sources": [
         {
           "name": "EstateSales.net",
@@ -4998,6 +5314,32 @@
         "electronics"
       ],
       "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles."
+    },
+    {
+      "id": "ab51f81de380e59a",
+      "citySlug": "austin",
+      "cityName": "Austin",
+      "status": "proving",
+      "title": "Estate Sale - Crystal Falls Grand Mesa",
+      "company": null,
+      "categories": [],
+      "firstDate": "2026-11-21",
+      "lastDate": "2026-11-21",
+      "lat": 30.5498895,
+      "lng": -97.8813952,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "Craigslist Austin",
+          "url": "https://www.craigslist.org/view/d/leander-estate-sale-crystal-falls-grand/v2zb2XPrqMBB6cUS8S7T4A"
+        }
+      ],
+      "digRating": "Slim Pickings",
+      "photoCount": 8,
+      "photoKeywords": [
+        "crystal"
+      ],
+      "contentsLine": "Crystal."
     },
     {
       "id": "438808997173b381",
@@ -5180,6 +5522,38 @@
       "contentsLine": "Tools, jewelry and clothing."
     },
     {
+      "id": "85bd91046a8b8c76",
+      "citySlug": "austin",
+      "cityName": "Austin",
+      "status": "proving",
+      "title": "New Photos added Daily! Vintage Glamour Estate Sale",
+      "company": "Timeless Estate Sale",
+      "categories": [],
+      "firstDate": "2026-11-27",
+      "lastDate": "2026-11-29",
+      "lat": 30.1636136,
+      "lng": -97.8277134,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78748/5168253"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 31,
+      "photoKeywords": [
+        "jewelry",
+        "collectibles",
+        "clothing",
+        "art",
+        "antiques",
+        "lamps",
+        "silver"
+      ],
+      "contentsLine": "Jewelry, collectibles, clothing, art and antiques."
+    },
+    {
       "id": "6741133fee31dea5",
       "citySlug": "austin",
       "cityName": "Austin",
@@ -5264,7 +5638,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 242,
+      "photoCount": 232,
       "photoKeywords": [
         "tools",
         "furniture",
@@ -5558,41 +5932,6 @@
       "contentsLine": "Furniture, jewelry, collectibles, art and toys & games."
     },
     {
-      "id": "b386bac47ccb221f",
-      "citySlug": "san-antonio",
-      "cityName": "San Antonio",
-      "status": "proving",
-      "title": "20% OFF Christopher Estate Sales on Estate Gate",
-      "company": "Christopher Estate Sales, LLC",
-      "categories": [],
-      "firstDate": "2026-11-19",
-      "lastDate": "2026-11-21",
-      "lat": 29.6947823,
-      "lng": -98.47273609999999,
-      "approximate": false,
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78260/5159355"
-        }
-      ],
-      "digRating": "Deep Dig",
-      "photoCount": 161,
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles."
-    },
-    {
       "id": "3ee833925f6f0f73",
       "citySlug": "san-antonio",
       "cityName": "San Antonio",
@@ -5626,6 +5965,41 @@
         "toys & games"
       ],
       "contentsLine": "Tools, furniture, vinyl & records, collectibles and vehicles."
+    },
+    {
+      "id": "b386bac47ccb221f",
+      "citySlug": "san-antonio",
+      "cityName": "San Antonio",
+      "status": "proving",
+      "title": "50% OFF Christopher Estate Sales on Estate Gate",
+      "company": "Christopher Estate Sales, LLC",
+      "categories": [],
+      "firstDate": "2026-11-19",
+      "lastDate": "2026-11-21",
+      "lat": 29.6947823,
+      "lng": -98.47273609999999,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78260/5159355"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 161,
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles."
     },
     {
       "id": "b6e8f172e24529f3",
@@ -5858,33 +6232,6 @@
       "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles."
     },
     {
-      "id": "5c93d5424c250a6d",
-      "citySlug": "san-antonio",
-      "cityName": "San Antonio",
-      "status": "proving",
-      "title": "Estate sale",
-      "company": null,
-      "categories": [],
-      "firstDate": "2026-11-20",
-      "lastDate": "2026-11-20",
-      "lat": 29.717573,
-      "lng": -98.4637654,
-      "approximate": true,
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/san-antonio/78260/estate-sale-2474765"
-        }
-      ],
-      "digRating": "Slim Pickings",
-      "photoCount": 1,
-      "photoKeywords": [
-        "kitchen",
-        "clothing"
-      ],
-      "contentsLine": "Kitchen and clothing."
-    },
-    {
       "id": "742906a1b83fcde9",
       "citySlug": "san-antonio",
       "cityName": "San Antonio",
@@ -6010,6 +6357,34 @@
         "silver"
       ],
       "contentsLine": "Furniture, collectibles, kitchen, art and antiques."
+    },
+    {
+      "id": "59bf93d65b76bc7e",
+      "citySlug": "san-antonio",
+      "cityName": "San Antonio",
+      "status": "proving",
+      "title": "25% off! Open @ 11:00am! Bulverde Home Sweet Home! 25% off on 11/21!",
+      "company": "Overstreet Estates, LLC",
+      "categories": [],
+      "firstDate": "2026-11-20",
+      "lastDate": "2026-11-22",
+      "lat": 29.7669402,
+      "lng": -98.4267298,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Bulverde/78163/5161698"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 75,
+      "photoKeywords": [
+        "furniture",
+        "toys & games",
+        "antiques"
+      ],
+      "contentsLine": "Furniture, toys & games and antiques."
     },
     {
       "id": "f8e3d9b53528e5c1",
@@ -6167,34 +6542,6 @@
       "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen."
     },
     {
-      "id": "59bf93d65b76bc7e",
-      "citySlug": "san-antonio",
-      "cityName": "San Antonio",
-      "status": "proving",
-      "title": "Bulverde Home Sweet Home! 25% off on 11/21!",
-      "company": "Overstreet Estates, LLC",
-      "categories": [],
-      "firstDate": "2026-11-20",
-      "lastDate": "2026-11-22",
-      "lat": 29.7669402,
-      "lng": -98.4267298,
-      "approximate": true,
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Bulverde/78163/5161698"
-        }
-      ],
-      "digRating": "Deep Dig",
-      "photoCount": 75,
-      "photoKeywords": [
-        "furniture",
-        "toys & games",
-        "antiques"
-      ],
-      "contentsLine": "Furniture, toys & games and antiques."
-    },
-    {
       "id": "2dc9d38168c25dcf",
       "citySlug": "san-antonio",
       "cityName": "San Antonio",
@@ -6291,6 +6638,28 @@
       "contentsLine": "Tools, furniture, collectibles, electronics and figurines."
     },
     {
+      "id": "9db7714c6809003c",
+      "citySlug": "san-antonio",
+      "cityName": "San Antonio",
+      "status": "proving",
+      "title": "Estate Sale",
+      "company": null,
+      "categories": [],
+      "firstDate": "2026-11-21",
+      "lastDate": "2026-11-21",
+      "lat": 29.4246002,
+      "lng": -98.4951405,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "Craigslist San Antonio",
+          "url": "https://www.craigslist.org/view/d/san-antonio-estate-sale/skMW9AS9oF7cXcneZGAFwj"
+        }
+      ],
+      "digRating": "Worth a Look",
+      "photoCount": 13
+    },
+    {
       "id": "2d56b81a9e1923d5",
       "citySlug": "san-antonio",
       "cityName": "San Antonio",
@@ -6362,9 +6731,9 @@
       "categories": [],
       "firstDate": "2026-11-21",
       "lastDate": "2026-11-23",
-      "lat": 29.590754,
-      "lng": -98.4737638,
-      "approximate": true,
+      "lat": 29.6012297,
+      "lng": -98.4559461,
+      "approximate": false,
       "sources": [
         {
           "name": "EstateSales.net",
@@ -6401,9 +6770,9 @@
       ],
       "firstDate": "2026-11-21",
       "lastDate": "2026-11-23",
-      "lat": 29.5830672,
-      "lng": -98.4092465,
-      "approximate": true,
+      "lat": 29.5658081,
+      "lng": -98.4310994,
+      "approximate": false,
       "sources": [
         {
           "name": "EstateSales.net",
@@ -6621,7 +6990,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 0,
+      "photoCount": 80,
       "photoKeywords": [
         "tools",
         "furniture",
@@ -6689,6 +7058,39 @@
       ],
       "digRating": "Worth a Look",
       "photoCount": 29
+    },
+    {
+      "id": "334d1454eaf0086b",
+      "citySlug": "san-antonio",
+      "cityName": "San Antonio",
+      "status": "proving",
+      "title": "Beautiful Highest Quality Furniture & Decor @ Steeple Brook",
+      "company": "Estates By Emilee LLC",
+      "categories": [
+        "furniture"
+      ],
+      "firstDate": "2026-12-04",
+      "lastDate": "2026-12-06",
+      "lat": 29.6116987,
+      "lng": -98.6190257,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78256/5163432"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 88,
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "kitchen",
+        "clothing",
+        "toys & games",
+        "patio furniture"
+      ],
+      "contentsLine": "Tools, furniture, kitchen, clothing and toys & games."
     }
   ]
 }

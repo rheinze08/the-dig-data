@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-20",
-  "collectedAt": "2026-11-21T05:00:26.130Z",
+  "asOf": "2026-11-21",
+  "collectedAt": "2026-11-21T17:56:17.132Z",
   "window": {
-    "start": "2026-11-20",
-    "end": "2026-12-03",
+    "start": "2026-11-21",
+    "end": "2026-12-04",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,43 +14,45 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 54/54 local candidate details.",
-      "candidates": 32,
-      "included": 24
+      "detail": "Read the public sale sitemap. Checked 55/55 local candidate details.",
+      "candidates": 35,
+      "included": 25
     },
     "EstateSales.org": {
       "status": "reached",
       "detail": "Read 13 Austin directory cards over 1 pages. Checked 8/8 in-person local candidate details.",
-      "candidates": 7,
+      "candidates": 8,
       "included": 3
     },
     "Craigslist Austin": {
       "status": "reached",
-      "detail": "50 directory listings discovered; 5 in-window estate listings before radius filtering",
-      "candidates": 5,
-      "included": 2
+      "detail": "68 directory listings discovered; 7 in-window estate listings before radius filtering",
+      "candidates": 7,
+      "included": 3
     },
     "GSALR.com": {
-      "status": "blocked",
-      "detail": "https://gsalr.com/garage-sales-austin-tx.html — HTTP 403 Forbidden",
+      "status": "partial",
+      "detail": "https://gsalr.com/garage-sales-austin-tx.html — directory readable, estate listing details unverified",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 44,
-    "listings": 29,
-    "sales": 26,
+    "candidates": 50,
+    "listings": 31,
+    "sales": 28,
     "duplicates": 3,
-    "outsideRadius": 12,
-    "unlocatedListings": 0
+    "outsideRadius": 15,
+    "unlocatedListings": 1
   },
-  "unlocated": [],
+  "unlocated": [
+    "https://www.craigslist.org/view/d/austin-antique-quilt-tops-quilts/ocPHkwSAkw6yfCmr4CQz2z"
+  ],
   "geocodingNotes": [],
   "sales": [
     {
       "id": "ec76dc8d2c42cdd1",
-      "title": "*50% OFF* Everything For Sale — Right Down to the Fixtures!",
+      "title": "*75% OFF* Everything For Sale — Right Down to the Fixtures!",
       "company": "Aloe Vera Estate Sales",
       "streetAddress": "3403 Toro Cayon Rd",
       "city": "Austin",
@@ -89,7 +91,6 @@
       "contactUrl": "https://aloeveraestatesales.com/",
       "photoCount": 312,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5161638/1-1/ea2604e5-fc42-4f1c-9016-25e35a842282.jpg",
         "https://picturescdn.estatesales.net/5161638/1-1/fb516343-afcc-4738-8351-b2d534e43062.jpg",
         "https://picturescdn.estatesales.net/5161638/1-1/adbe51d3-6924-40a7-bc50-e5036e1dc7bc.jpg",
         "https://picturescdn.estatesales.net/5161638/1-1/dfb6832e-3c73-4fc8-b91c-a7d7255d8384.jpg",
@@ -100,7 +101,8 @@
         "https://picturescdn.estatesales.net/5161638/1-1/6dac9e93-e3c1-4001-ba71-3dad4d37ab08.jpg",
         "https://picturescdn.estatesales.net/5161638/1-1/886b9f26-3a5a-45d7-af73-71a44937807e.jpg",
         "https://picturescdn.estatesales.net/5161638/1-1/9f43dff5-acaf-41de-a9ec-2e1e65b2e78d.jpg",
-        "https://picturescdn.estatesales.net/5161638/1-1/16bcbeb4-0472-4ed4-9bb5-f86beba481d5.jpg"
+        "https://picturescdn.estatesales.net/5161638/1-1/16bcbeb4-0472-4ed4-9bb5-f86beba481d5.jpg",
+        "https://picturescdn.estatesales.net/5161638/1-1/ea3ad0ed-c001-47b4-a7cb-d0a96cb53b03.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
@@ -278,7 +280,7 @@
     },
     {
       "id": "2fea399087f36c66",
-      "title": "Christmas Gift Treasure Hunt! Cowboys, Fazzino Art, Vintage Toys, Gaming & More",
+      "title": "75% off on Saturday ~ Christmas Gifts, Cowboys, Fazzino Art, Vintage Toys, Gaming & More",
       "company": "Heirloom Harvesters",
       "streetAddress": "13402 Montview Dr",
       "city": "Austin",
@@ -699,6 +701,84 @@
       "approximate": false
     },
     {
+      "id": "a64975670ff873de",
+      "title": "25% off Saturday @ Treasures in Onion Creek (Cypress Ridge)",
+      "company": "Austin Capital Estate Sales",
+      "streetAddress": "4520 Slickrock Cove",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78747",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-23",
+          "start": "10:00",
+          "end": "12:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78747/5129673"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(512) 791-4652",
+      "contactUrl": "http://austincapitalestatesales.com",
+      "photoCount": 541,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5129673/1-1/b95501c7-4162-4971-bc63-7721d82dd3cd.jpg",
+        "https://picturescdn.estatesales.net/5129673/1-1/2383c5a9-4bb5-4e94-a3e6-cc371623db72.jpg",
+        "https://picturescdn.estatesales.net/5129673/1-1/61a7eee5-75fa-40c2-a1f1-80dab5d77499.jpg",
+        "https://picturescdn.estatesales.net/5129673/1-1/548c4060-a711-40e9-a6aa-eaca08bbd8a5.jpg",
+        "https://picturescdn.estatesales.net/5129673/1-1/8d8fe820-c7a2-4e9d-a6eb-8c9481daa4b3.jpg",
+        "https://picturescdn.estatesales.net/5129673/1-1/90901fef-bca9-4233-9ae8-ffc3e4055ebc.jpg",
+        "https://picturescdn.estatesales.net/5129673/1-1/d7e0f7c8-b6fb-4a14-bff0-ccff8aae5766.jpg",
+        "https://picturescdn.estatesales.net/5129673/1-1/0d93b0a5-84ec-4909-87cf-c439a6d15b69.jpg",
+        "https://picturescdn.estatesales.net/5129673/1-1/1ee878b2-ea03-4824-a962-6b3a95ce8dc9.jpg",
+        "https://picturescdn.estatesales.net/5129673/1-1/fb3dbf6c-ed7b-4a62-a500-b587d1de6fef.jpg",
+        "https://picturescdn.estatesales.net/5129673/1-1/1be7aab4-78e5-4196-bde9-f831c8c2aff3.jpg",
+        "https://picturescdn.estatesales.net/5129673/1-1/7182a80b-af0d-4f76-867a-f8df4076771e.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "541 photos",
+        "furniture, vinyl & records and jewelry in the listing",
+        "runs 4 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "vinyl & records",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "toys & games"
+      ],
+      "contentsLine": "Furniture, vinyl & records, jewelry, collectibles and kitchen.",
+      "lat": 30.1468865,
+      "lng": -97.7796151,
+      "approximate": false
+    },
+    {
       "id": "912abaaf5a933572",
       "title": "Designer Furniture, Original Art and More in Tarrytown!",
       "company": "Burgess Estate Sales",
@@ -841,84 +921,6 @@
       "approximate": false
     },
     {
-      "id": "a64975670ff873de",
-      "title": "Treasures in Onion Creek (Cypress Ridge)",
-      "company": "Austin Capital Estate Sales",
-      "streetAddress": "4520 Slickrock Cove",
-      "city": "Austin",
-      "state": "TX",
-      "zip": "78747",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-23",
-          "start": "10:00",
-          "end": "12:30"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Austin/78747/5129673"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(512) 791-4652",
-      "contactUrl": "http://austincapitalestatesales.com",
-      "photoCount": 541,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5129673/1-1/b95501c7-4162-4971-bc63-7721d82dd3cd.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/2383c5a9-4bb5-4e94-a3e6-cc371623db72.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/61a7eee5-75fa-40c2-a1f1-80dab5d77499.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/548c4060-a711-40e9-a6aa-eaca08bbd8a5.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/8d8fe820-c7a2-4e9d-a6eb-8c9481daa4b3.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/90901fef-bca9-4233-9ae8-ffc3e4055ebc.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/d7e0f7c8-b6fb-4a14-bff0-ccff8aae5766.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/0d93b0a5-84ec-4909-87cf-c439a6d15b69.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/1ee878b2-ea03-4824-a962-6b3a95ce8dc9.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/fb3dbf6c-ed7b-4a62-a500-b587d1de6fef.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/1be7aab4-78e5-4196-bde9-f831c8c2aff3.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/7182a80b-af0d-4f76-867a-f8df4076771e.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "541 photos",
-        "furniture, vinyl & records and jewelry in the listing",
-        "runs 4 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "vinyl & records",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "toys & games"
-      ],
-      "contentsLine": "Furniture, vinyl & records, jewelry, collectibles and kitchen.",
-      "lat": 30.1468865,
-      "lng": -97.7796151,
-      "approximate": false
-    },
-    {
       "id": "2105c54c8bfa22a2",
       "title": "Vintage and Antique Estate sale",
       "company": null,
@@ -1028,7 +1030,7 @@
         "https://picturescdn.estatesales.net/5166726/1-1/7432c84d-e02d-4c25-b807-5b151617b9de.jpg",
         "https://picturescdn.estatesales.net/5166726/1-1/6a90594c-0a1f-4ae9-9296-f9f241884bdb.jpg",
         "https://picturescdn.estatesales.net/5166726/1-1/6120dd6a-90ed-4069-9088-e8a74f73ae16.jpg",
-        "https://picturescdn.estatesales.net/5166726/1-1/079cb893-c07e-4a09-8b49-eece14713ba7.jpg"
+        "https://picturescdn.estatesales.net/5166726/1-1/c275fb8e-50c1-4170-b1eb-1776d884ee9b.jpg"
       ],
       "digRating": "Worth a Look",
       "ratingReasons": [
@@ -1072,17 +1074,17 @@
       "photoCount": 119,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5166678/1-1/88fe50ea-b302-49f6-bc35-30f82b61fdcd.jpg",
-        "https://picturescdn.estatesales.net/5166678/1-1/cdcc71bd-154b-4184-9bfc-c8a1b2774d65.jpg",
         "https://picturescdn.estatesales.net/5166678/1-1/8583fea4-9188-495d-b7b6-f0ce8a0e81fe.jpg",
         "https://picturescdn.estatesales.net/5166678/1-1/476a9357-8b51-4678-a79b-96b0fef4d712.jpg",
         "https://picturescdn.estatesales.net/5166678/1-1/8f820a0f-6b26-4340-9bb8-02b9e3251347.jpg",
         "https://picturescdn.estatesales.net/5166678/1-1/6ffbc22b-86df-473c-af89-01da69b3f6d5.jpg",
         "https://picturescdn.estatesales.net/5166678/1-1/44709c6e-6214-4540-bf0b-2c990231e4ba.jpg",
         "https://picturescdn.estatesales.net/5166678/1-1/a32c8bfb-bbbf-4bfc-9b07-3c6f3fa54d23.jpg",
-        "https://picturescdn.estatesales.net/5166678/1-1/a4d6bb1f-bc7a-4763-b24e-d5cb06133764.jpg",
         "https://picturescdn.estatesales.net/5166678/1-1/05b88523-b95e-4985-b8ba-106e3239d9c5.jpg",
         "https://picturescdn.estatesales.net/5166678/1-1/5a8301c2-52c5-4075-a5a6-8a4dcedc5032.jpg",
-        "https://picturescdn.estatesales.net/5166678/1-1/84ea5185-84bf-4340-ad77-a241c90a0fae.jpg"
+        "https://picturescdn.estatesales.net/5166678/1-1/84ea5185-84bf-4340-ad77-a241c90a0fae.jpg",
+        "https://picturescdn.estatesales.net/5166678/1-1/5b4fc2b1-a37a-4be3-af8a-96bcacb10943.jpg",
+        "https://picturescdn.estatesales.net/5166678/1-1/57d707f4-2abc-4188-8cfb-0e168ad70a43.jpg"
       ],
       "digRating": "Worth a Look",
       "ratingReasons": [
@@ -1168,11 +1170,11 @@
       "id": "349cef1eeb47df8e",
       "title": "Blue Moon Estate Sale in Tarrytown with vintage books, decor, collectibles, music, and more!",
       "company": "Blue Moon Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "3404 Taylors Dr",
       "city": "Austin",
       "state": "TX",
       "zip": "78703",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-21",
@@ -1230,9 +1232,56 @@
         "electronics"
       ],
       "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
-      "lat": 30.2883182,
-      "lng": -97.7650135,
-      "approximate": true
+      "lat": 30.308924,
+      "lng": -97.7700574,
+      "approximate": false
+    },
+    {
+      "id": "ab51f81de380e59a",
+      "title": "Estate Sale - Crystal Falls Grand Mesa",
+      "company": null,
+      "streetAddress": "811 Mission Hills",
+      "city": "Leander",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Austin",
+          "url": "https://www.craigslist.org/view/d/leander-estate-sale-crystal-falls-grand/v2zb2XPrqMBB6cUS8S7T4A"
+        }
+      ],
+      "categories": [],
+      "photoCount": 8,
+      "photoUrls": [
+        "https://images.craigslist.org/00X0X_fgWJJOy1mmq_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00808_hQy2ajFJZ46_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00J0J_6w6wq0QyGWd_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00y0y_ioUtFZg0qwz_0fd0f3_600x450.jpg",
+        "https://images.craigslist.org/00g0g_ale7mnaMWF_0eO0ki_600x450.jpg",
+        "https://images.craigslist.org/00R0R_8BL9Md0KhGV_0eU0gB_600x450.jpg",
+        "https://images.craigslist.org/00M0M_hJ0qF1pjVJy_0f10kP_600x450.jpg",
+        "https://images.craigslist.org/00x0x_feLj2ijZEd6_0f60m8_600x450.jpg"
+      ],
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "8 photos",
+        "few details in the listing"
+      ],
+      "photoKeywords": [
+        "crystal"
+      ],
+      "contentsLine": "Crystal.",
+      "lat": 30.5498895,
+      "lng": -97.8813952,
+      "approximate": false
     },
     {
       "id": "438808997173b381",
@@ -1612,6 +1661,76 @@
       "approximate": true
     },
     {
+      "id": "85bd91046a8b8c76",
+      "title": "New Photos added Daily! Vintage Glamour Estate Sale",
+      "company": "Timeless Estate Sale",
+      "streetAddress": null,
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78748",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78748/5168253"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(737) 368-9977",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Austin/78748/172652",
+      "photoCount": 31,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5168253/1-1/d224ccc1-fd59-4297-8797-35917ce9077c.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/262c34b2-74aa-4985-b8b4-b4584bd61dbc.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/76415271-f3e1-4b36-bdd0-7163e5959cfb.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/d2f60702-38c0-48fd-ba2a-d2d89617861e.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/d11e7303-d099-4087-8917-5c4029e11931.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/24cc765d-0574-4d65-9f72-752781956c1d.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/39f87f93-449b-4211-a76a-48002475a610.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/bfb60d04-a6f6-47c2-ae51-af818a5cf4ed.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/3da004d9-7eef-4e35-970a-f27265b2432c.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/92edf3e0-416d-4f1f-b18a-22f498d3c924.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/d4da6026-6b09-4cb8-bc05-5409a524b872.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/8589c0ba-6353-492d-8950-94b8f21c6cd6.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "31 photos",
+        "jewelry, collectibles and clothing in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "jewelry",
+        "collectibles",
+        "clothing",
+        "art",
+        "antiques",
+        "lamps",
+        "silver"
+      ],
+      "contentsLine": "Jewelry, collectibles, clothing, art and antiques.",
+      "lat": 30.1636136,
+      "lng": -97.8277134,
+      "approximate": true
+    },
+    {
       "id": "6741133fee31dea5",
       "title": "All We Want For Christmas is Vintage Sale!",
       "company": "Next Chapter Co. Estate Sales",
@@ -1770,7 +1889,7 @@
       "categories": [],
       "contactPhone": "(512) 474-2485",
       "contactUrl": "http://www.austinestatesales.net/",
-      "photoCount": 242,
+      "photoCount": 232,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5151762/1-1/3818fdae-e3a8-40f1-b9d5-eece1cf7cbf5.jpg",
         "https://picturescdn.estatesales.net/5151762/1-1/cc28cf0a-5435-4dd2-83cc-943d07312dec.jpg",
@@ -1787,7 +1906,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "242 photos",
+        "232 photos",
         "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],

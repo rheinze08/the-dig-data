@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-20",
-  "collectedAt": "2026-11-21T04:55:57.601Z",
+  "asOf": "2026-11-21",
+  "collectedAt": "2026-11-21T17:51:13.941Z",
   "window": {
-    "start": "2026-11-20",
-    "end": "2026-12-03",
+    "start": "2026-11-21",
+    "end": "2026-12-04",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,13 +14,13 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 50/50 local candidate details.",
-      "candidates": 31,
-      "included": 25
+      "detail": "Read the public sale sitemap. Checked 51/51 local candidate details.",
+      "candidates": 36,
+      "included": 29
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 37 Houston directory cards over 2 pages. Checked 6/6 in-person local candidate details.",
+      "detail": "Read 36 Houston directory cards over 2 pages. Checked 6/6 in-person local candidate details.",
       "candidates": 6,
       "included": 4
     },
@@ -32,23 +32,23 @@
     },
     "Craigslist Houston": {
       "status": "reached",
-      "detail": "24 directory listings discovered; 3 in-window estate listings before radius filtering",
+      "detail": "28 directory listings discovered; 3 in-window estate listings before radius filtering",
       "candidates": 3,
       "included": 2
     },
     "GSALR.com": {
-      "status": "blocked",
-      "detail": "https://gsalr.com/garage-sales-friendswood-tx.html — HTTP 403 Forbidden",
+      "status": "partial",
+      "detail": "https://gsalr.com/garage-sales-friendswood-tx.html — directory readable, estate listing details unverified",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 40,
-    "listings": 31,
-    "sales": 28,
+    "candidates": 45,
+    "listings": 35,
+    "sales": 32,
     "duplicates": 3,
-    "outsideRadius": 7,
+    "outsideRadius": 8,
     "unlocatedListings": 1
   },
   "unlocated": [
@@ -357,75 +357,141 @@
       "approximate": false
     },
     {
-      "id": "46d5f50c6f4dafd9",
-      "title": "A and S Estate Sales....Eclectic sale to say the least....",
-      "company": "A And S Estate Sales",
-      "streetAddress": "3318 Deerwood lane",
-      "city": "Missouri City",
+      "id": "a9e67e831f781fda",
+      "title": "***25% OFF SATURDAY***Pearland estate sale",
+      "company": "Yolanda's Estate Sales",
+      "streetAddress": "2505 Shadybend Dr",
+      "city": "Pearland",
       "state": "TX",
-      "zip": "77459",
+      "zip": "77581",
       "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-20",
           "start": "09:00",
-          "end": "15:30"
+          "end": "18:00"
         },
         {
           "date": "2026-11-21",
           "start": "09:00",
-          "end": "15:30"
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "17:00"
         }
       ],
       "sources": [
         {
           "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Missouri-City/77459/5164497"
+          "url": "https://www.estatesales.net/TX/Pearland/77581/5160993"
         }
       ],
       "categories": [],
-      "contactPhone": "(713) 594-8027",
-      "contactUrl": "https://www.estatesales.net/companies/TX/Missouri-City/77459/6041",
-      "photoCount": 187,
+      "contactPhone": "(281) 788-4110",
+      "contactUrl": "https://www.estatesales.net/companies/TX/La-Porte/77571/143945",
+      "photoCount": 103,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5164497/1-1/3ab7230b-f826-4ada-8889-83756b6c0848.jpg",
-        "https://picturescdn.estatesales.net/5164497/1-1/985699fa-38a6-466a-911b-f625c155da85.jpg",
-        "https://picturescdn.estatesales.net/5164497/1-1/842536f5-cf0e-498a-8a9c-9fd196b1f55e.jpg",
-        "https://picturescdn.estatesales.net/5164497/1-1/c1af5ebc-c9e4-4340-822d-0450e3a706bd.jpg",
-        "https://picturescdn.estatesales.net/5164497/1-1/4ca38953-f636-4243-9710-e3e7026ab64c.jpg",
-        "https://picturescdn.estatesales.net/5164497/1-1/2842943a-2106-4adf-87ad-a898acf272ff.jpg",
-        "https://picturescdn.estatesales.net/5164497/1-1/52cf206f-67fe-4f8f-8d0e-96894f85f26c.jpg",
-        "https://picturescdn.estatesales.net/5164497/1-1/197185db-194a-4f45-b127-25135e5a097c.jpg",
-        "https://picturescdn.estatesales.net/5164497/1-1/0aaea622-f0d1-4997-94b9-d89d5a0e809d.jpg",
-        "https://picturescdn.estatesales.net/5164497/1-1/9d9f6b0e-1158-4cf4-acbe-8b3a4c82800f.jpg",
-        "https://picturescdn.estatesales.net/5164497/1-1/99eeb204-9918-4afe-ba54-a4fbda5f14cd.jpg",
-        "https://picturescdn.estatesales.net/5164497/1-1/09f87660-9ce6-4b3c-add8-25153bd2c0c8.jpg"
+        "https://picturescdn.estatesales.net/5160993/1-1/79447ff0-9ae8-432b-8f56-f8410e079a70.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/03df597d-7097-464c-9424-320a3dd82168.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/d4e3f938-4986-4698-b434-ab5a11fa5a70.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/b993d0bf-5bfa-4056-b58f-93d90ef4b13e.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/5e9d782a-940c-41da-b875-633b1866974e.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/c06f56ed-9887-4c94-89c5-385b73d21c70.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/68dabec0-d4da-4e29-bb62-d9d61ec4121f.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/5991cb03-5649-41d8-9f6f-f52a263f9831.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/7290f8c0-78f2-4701-9191-1af1dd5977b3.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/33ef4b9e-b382-4e5e-a355-989a8926946f.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/90815ba8-2e7a-43ec-8fa3-812f113f7a00.jpg",
+        "https://picturescdn.estatesales.net/5160993/1-1/013d0afd-b405-498a-bb69-9a606f8caca5.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "187 photos",
-        "furniture, vinyl & records and collectibles in the listing"
+        "103 photos",
+        "runs 3 days"
       ],
       "photoKeywords": [
-        "furniture",
-        "vinyl & records",
-        "collectibles",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "toys & games",
-        "crystal",
-        "cameras"
+        "vinyl & records"
       ],
-      "contentsLine": "Furniture, vinyl & records, collectibles, clothing and books.",
-      "lat": 29.5706355,
-      "lng": -95.5388768,
+      "contentsLine": "Vinyl & records.",
+      "lat": 29.5499358,
+      "lng": -95.2589919,
+      "approximate": false
+    },
+    {
+      "id": "1552ae954159c57f",
+      "title": "***25% OFF SATURDAY***Willow Meadows Estate Sale",
+      "company": "Yolanda's Estate Sales",
+      "streetAddress": "4307 Firestone Dr.",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77035",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77035/5133270"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(281) 788-4110",
+      "contactUrl": "https://www.estatesales.net/companies/TX/La-Porte/77571/143945",
+      "photoCount": 129,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5133270/1-1/047c98cd-bb7e-4ba3-a96e-e2b63fa178fe.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/850858bd-100d-4d3b-b25b-98a04ef6865f.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/b335d31f-4bb4-4b89-903a-7e6d72bd1d41.jpg",
+        "https://picturescdn.estatesales.net/5133270/3-1/8a9713fc-09e3-4890-9f62-5d1af983479d.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/0cc257a2-bcbe-437c-829b-9467f84817af.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/5b11efce-8a4f-4ad3-843e-043043d349d8.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/b9148fce-a2de-460e-8203-f09bab4c3bd6.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/e9e7a56e-8863-4e6d-be0a-01bf48979d84.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/99d2b9b2-6b0f-4c9d-a255-2cb477355aa7.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/df006b60-5806-4fb8-a4b5-949089f24dd0.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/5cc7ea9b-f620-4be8-99f4-466d1dc4d115.jpg",
+        "https://picturescdn.estatesales.net/5133270/1-1/85a02e4a-e84d-46e1-b5c0-7838cc1b1586.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "129 photos",
+        "collectibles, kitchen and art in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "collectibles",
+        "kitchen",
+        "art",
+        "toys & games",
+        "china",
+        "crystal",
+        "christmas decor"
+      ],
+      "contentsLine": "Collectibles, kitchen, art, toys & games and china.",
+      "lat": 29.6716301,
+      "lng": -95.4492793,
       "approximate": false
     },
     {
       "id": "780dc1aaf34cab51",
-      "title": "Collector’s Corner on Camden by Heritage Estate Sales",
+      "title": "25% off Collector’s Corner on Camden by Heritage Estate Sales",
       "company": "Heritage Estate Sales",
       "streetAddress": "1205 Camden Rd",
       "city": "Pasadena",
@@ -494,66 +560,70 @@
       "approximate": false
     },
     {
-      "id": "a9e67e831f781fda",
-      "title": "Pearland estate sale",
-      "company": "Yolanda's Estate Sales",
-      "streetAddress": "2505 Shadybend Dr",
-      "city": "Pearland",
+      "id": "46d5f50c6f4dafd9",
+      "title": "A and S Estate Sales....Eclectic sale to say the least....",
+      "company": "A And S Estate Sales",
+      "streetAddress": "3318 Deerwood lane",
+      "city": "Missouri City",
       "state": "TX",
-      "zip": "77581",
+      "zip": "77459",
       "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-20",
           "start": "09:00",
-          "end": "18:00"
+          "end": "15:30"
         },
         {
           "date": "2026-11-21",
           "start": "09:00",
-          "end": "18:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "09:00",
-          "end": "17:00"
+          "end": "15:30"
         }
       ],
       "sources": [
         {
           "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Pearland/77581/5160993"
+          "url": "https://www.estatesales.net/TX/Missouri-City/77459/5164497"
         }
       ],
       "categories": [],
-      "contactPhone": "(281) 788-4110",
-      "contactUrl": "https://www.estatesales.net/companies/TX/La-Porte/77571/143945",
-      "photoCount": 103,
+      "contactPhone": "(713) 594-8027",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Missouri-City/77459/6041",
+      "photoCount": 187,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5160993/1-1/79447ff0-9ae8-432b-8f56-f8410e079a70.jpg",
-        "https://picturescdn.estatesales.net/5160993/1-1/03df597d-7097-464c-9424-320a3dd82168.jpg",
-        "https://picturescdn.estatesales.net/5160993/1-1/d4e3f938-4986-4698-b434-ab5a11fa5a70.jpg",
-        "https://picturescdn.estatesales.net/5160993/1-1/b993d0bf-5bfa-4056-b58f-93d90ef4b13e.jpg",
-        "https://picturescdn.estatesales.net/5160993/1-1/5e9d782a-940c-41da-b875-633b1866974e.jpg",
-        "https://picturescdn.estatesales.net/5160993/1-1/c06f56ed-9887-4c94-89c5-385b73d21c70.jpg",
-        "https://picturescdn.estatesales.net/5160993/1-1/68dabec0-d4da-4e29-bb62-d9d61ec4121f.jpg",
-        "https://picturescdn.estatesales.net/5160993/1-1/5991cb03-5649-41d8-9f6f-f52a263f9831.jpg",
-        "https://picturescdn.estatesales.net/5160993/1-1/7290f8c0-78f2-4701-9191-1af1dd5977b3.jpg",
-        "https://picturescdn.estatesales.net/5160993/1-1/33ef4b9e-b382-4e5e-a355-989a8926946f.jpg",
-        "https://picturescdn.estatesales.net/5160993/1-1/90815ba8-2e7a-43ec-8fa3-812f113f7a00.jpg",
-        "https://picturescdn.estatesales.net/5160993/1-1/013d0afd-b405-498a-bb69-9a606f8caca5.jpg"
+        "https://picturescdn.estatesales.net/5164497/1-1/3ab7230b-f826-4ada-8889-83756b6c0848.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/985699fa-38a6-466a-911b-f625c155da85.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/842536f5-cf0e-498a-8a9c-9fd196b1f55e.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/c1af5ebc-c9e4-4340-822d-0450e3a706bd.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/4ca38953-f636-4243-9710-e3e7026ab64c.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/2842943a-2106-4adf-87ad-a898acf272ff.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/52cf206f-67fe-4f8f-8d0e-96894f85f26c.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/197185db-194a-4f45-b127-25135e5a097c.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/0aaea622-f0d1-4997-94b9-d89d5a0e809d.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/9d9f6b0e-1158-4cf4-acbe-8b3a4c82800f.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/99eeb204-9918-4afe-ba54-a4fbda5f14cd.jpg",
+        "https://picturescdn.estatesales.net/5164497/1-1/09f87660-9ce6-4b3c-add8-25153bd2c0c8.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "103 photos",
-        "runs 3 days"
+        "187 photos",
+        "furniture, vinyl & records and collectibles in the listing"
       ],
       "photoKeywords": [
-        "vinyl & records"
+        "furniture",
+        "vinyl & records",
+        "collectibles",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "toys & games",
+        "crystal",
+        "cameras"
       ],
-      "contentsLine": "Vinyl & records.",
-      "lat": 29.5499358,
-      "lng": -95.2589919,
+      "contentsLine": "Furniture, vinyl & records, collectibles, clothing and books.",
+      "lat": 29.5706355,
+      "lng": -95.5388768,
       "approximate": false
     },
     {
@@ -621,76 +691,6 @@
       "contentsLine": "Furniture, collectibles, kitchen, books and art.",
       "lat": 29.7117941,
       "lng": -95.4454381,
-      "approximate": false
-    },
-    {
-      "id": "1552ae954159c57f",
-      "title": "Willow Meadows Estate Sale",
-      "company": "Yolanda's Estate Sales",
-      "streetAddress": "4307 Firestone Dr.",
-      "city": "Houston",
-      "state": "TX",
-      "zip": "77035",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "09:00",
-          "end": "18:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "18:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "09:00",
-          "end": "17:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Houston/77035/5133270"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(281) 788-4110",
-      "contactUrl": "https://www.estatesales.net/companies/TX/La-Porte/77571/143945",
-      "photoCount": 129,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5133270/1-1/047c98cd-bb7e-4ba3-a96e-e2b63fa178fe.jpg",
-        "https://picturescdn.estatesales.net/5133270/1-1/850858bd-100d-4d3b-b25b-98a04ef6865f.jpg",
-        "https://picturescdn.estatesales.net/5133270/1-1/b335d31f-4bb4-4b89-903a-7e6d72bd1d41.jpg",
-        "https://picturescdn.estatesales.net/5133270/3-1/8a9713fc-09e3-4890-9f62-5d1af983479d.jpg",
-        "https://picturescdn.estatesales.net/5133270/1-1/0cc257a2-bcbe-437c-829b-9467f84817af.jpg",
-        "https://picturescdn.estatesales.net/5133270/1-1/5b11efce-8a4f-4ad3-843e-043043d349d8.jpg",
-        "https://picturescdn.estatesales.net/5133270/1-1/b9148fce-a2de-460e-8203-f09bab4c3bd6.jpg",
-        "https://picturescdn.estatesales.net/5133270/1-1/e9e7a56e-8863-4e6d-be0a-01bf48979d84.jpg",
-        "https://picturescdn.estatesales.net/5133270/1-1/99d2b9b2-6b0f-4c9d-a255-2cb477355aa7.jpg",
-        "https://picturescdn.estatesales.net/5133270/1-1/df006b60-5806-4fb8-a4b5-949089f24dd0.jpg",
-        "https://picturescdn.estatesales.net/5133270/1-1/5cc7ea9b-f620-4be8-99f4-466d1dc4d115.jpg",
-        "https://picturescdn.estatesales.net/5133270/1-1/85a02e4a-e84d-46e1-b5c0-7838cc1b1586.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "129 photos",
-        "collectibles, kitchen and art in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "collectibles",
-        "kitchen",
-        "art",
-        "toys & games",
-        "china",
-        "crystal",
-        "christmas decor"
-      ],
-      "contentsLine": "Collectibles, kitchen, art, toys & games and china.",
-      "lat": 29.6716301,
-      "lng": -95.4492793,
       "approximate": false
     },
     {
@@ -1321,11 +1321,11 @@
       "id": "cac6c44b629d8beb",
       "title": "Galleria Area Mansion Estate Sale TREASURES for ALL!",
       "company": "Margie Beegle Sales",
-      "streetAddress": null,
+      "streetAddress": "2906 Mid Lane",
       "city": "Houston",
       "state": "TX",
       "zip": "77027",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-21",
@@ -1380,9 +1380,9 @@
         "crystal"
       ],
       "contentsLine": "Tools, furniture, collectibles, kitchen and clothing.",
-      "lat": 29.7413958,
-      "lng": -95.4487318,
-      "approximate": true
+      "lat": 29.738904,
+      "lng": -95.450891,
+      "approximate": false
     },
     {
       "id": "131cf95e8fb2e961",
@@ -1397,12 +1397,12 @@
         {
           "date": "2026-11-21",
           "start": "09:30",
-          "end": "17:00"
+          "end": "16:00"
         },
         {
           "date": "2026-11-22",
           "start": "09:30",
-          "end": "17:00"
+          "end": "16:00"
         }
       ],
       "sources": [
@@ -1894,6 +1894,270 @@
       "contentsLine": "Furniture, jewelry, collectibles, kitchen and art.",
       "lat": 29.5244089,
       "lng": -95.191409,
+      "approximate": true
+    },
+    {
+      "id": "d91df3b7d7230d0e",
+      "title": "Ultimate Treasure Hunt. Vintage to Luxury",
+      "company": "Tender Transitions",
+      "streetAddress": null,
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77019",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "08:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "08:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77019/5137254"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(281) 628-4755",
+      "contactUrl": "http://www.tendertransitions.com",
+      "photoCount": 150,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5137254/1-1/3c22696d-4132-4d03-b51b-c7a34e3ca99c.jpg",
+        "https://picturescdn.estatesales.net/5137254/1-1/15c755e8-a7bc-47ee-842e-5ff4d6a7d7e9.jpg",
+        "https://picturescdn.estatesales.net/5137254/1-1/73e28974-8073-4177-8637-1a8a4ada375f.jpg",
+        "https://picturescdn.estatesales.net/5137254/1-1/147589b6-7e32-4633-b4a9-c0605b4833a3.jpg",
+        "https://picturescdn.estatesales.net/5137254/1-1/7e6c3ba3-7975-4671-a529-1c85dba2839b.jpg",
+        "https://picturescdn.estatesales.net/5137254/1-1/dd6002ab-760e-4ce5-8f1e-6ed12c7fc5a3.jpg",
+        "https://picturescdn.estatesales.net/5137254/1-1/02dd530b-cd10-4a54-b8ba-d2595e22bb06.jpg",
+        "https://picturescdn.estatesales.net/5137254/1-1/f5b1352b-761b-44e9-8ce7-961de1ae8f7d.jpg",
+        "https://picturescdn.estatesales.net/5137254/1-1/201a5b2c-e6b4-4b3d-a066-0ca5fdc77dc9.jpg",
+        "https://picturescdn.estatesales.net/5137254/1-1/5f041115-2efe-430c-9b3b-9a003c0f946c.jpg",
+        "https://picturescdn.estatesales.net/5137254/1-1/403fd396-f0b9-426d-a6b5-65cbce077005.jpg",
+        "https://picturescdn.estatesales.net/5137254/1-1/2043f2b9-879b-497d-a148-9b3a534cdb36.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "150 photos",
+        "furniture, collectibles and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "books",
+        "toys & games",
+        "china"
+      ],
+      "contentsLine": "Furniture, collectibles, kitchen, books and toys & games.",
+      "lat": 29.7540053,
+      "lng": -95.4007196,
+      "approximate": true
+    },
+    {
+      "id": "bb3486a7096df173",
+      "title": "\"Meadows of Clear Creek\"| \"Little River Oaks:",
+      "company": "50 50 Resale",
+      "streetAddress": null,
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77089",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "10:00",
+          "end": "18:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77089/5155362"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(281) 660-6914",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Friendswood/77546/21818",
+      "photoCount": 83,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5155362/1-1/073c6bed-af7f-4857-8d5e-2e548e174798.jpg",
+        "https://picturescdn.estatesales.net/5155362/1-1/8731e978-5077-4201-b9c8-e21665d84343.jpg",
+        "https://picturescdn.estatesales.net/5155362/1-1/36d8f1ef-5b7d-4138-8b68-32f9c1c7b112.jpg",
+        "https://picturescdn.estatesales.net/5155362/1-1/83991d03-2ca7-4881-a780-d32fba0c3aaa.jpg",
+        "https://picturescdn.estatesales.net/5155362/1-1/89bd995a-1542-4f39-a55c-2c3f6d8cc566.jpg",
+        "https://picturescdn.estatesales.net/5155362/1-1/599c4cf4-04c8-4f1f-b5a6-dc86ee7a7f87.jpg",
+        "https://picturescdn.estatesales.net/5155362/1-1/4cbc1626-c109-41b4-91b3-85d661b938cd.jpg",
+        "https://picturescdn.estatesales.net/5155362/1-1/6d8f39c3-0273-4595-aa8f-cd2dd91d8761.jpg",
+        "https://picturescdn.estatesales.net/5155362/1-1/c5712fd1-ea7b-420c-b9c0-49ffc3c22d93.jpg",
+        "https://picturescdn.estatesales.net/5155362/1-1/44dee7c4-447c-4b86-9863-8041aacb8922.jpg",
+        "https://picturescdn.estatesales.net/5155362/1-1/315b9b7b-a9b7-4b8a-a4dc-8dd321b96583.jpg",
+        "https://picturescdn.estatesales.net/5155362/1-1/ba5bef29-e599-413d-84b2-c46735c47241.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "83 photos",
+        "furniture, collectibles and clothing in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "clothing",
+        "art",
+        "china",
+        "antiques",
+        "patio furniture"
+      ],
+      "contentsLine": "Furniture, collectibles, clothing, art and china.",
+      "lat": 29.5933137,
+      "lng": -95.2233526,
+      "approximate": true
+    },
+    {
+      "id": "2dbe04150546c650",
+      "title": "Estate Sale by Family Tree Estates",
+      "company": "Family Tree Estate Sales",
+      "streetAddress": null,
+      "city": "Baytown",
+      "state": "TX",
+      "zip": "77521",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Baytown/77521/5156784"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "8322676961",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Kemah/77565/135479",
+      "photoCount": 14,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5156784/1-1/db4990f3-a200-4d78-8f02-05499904860f.jpg",
+        "https://picturescdn.estatesales.net/5156784/1-1/a7f9650d-0b54-4ac6-b695-5a6e9d7a939a.jpg",
+        "https://picturescdn.estatesales.net/5156784/1-1/3774b2b4-3f6c-4952-a179-353a16cfa60f.jpg",
+        "https://picturescdn.estatesales.net/5156784/1-1/09df53a6-78cf-4fbc-9f82-46bead8e203a.jpg",
+        "https://picturescdn.estatesales.net/5156784/1-1/9fa6168f-8880-4f1c-b3cd-947465c732a0.jpg",
+        "https://picturescdn.estatesales.net/5156784/1-1/454978ca-1eca-448f-b7ef-1b2609527f49.jpg",
+        "https://picturescdn.estatesales.net/5156784/1-1/ab996df9-658f-47ff-a693-d7008a014b01.jpg",
+        "https://picturescdn.estatesales.net/5156784/1-1/aed04eaf-64ef-4599-8002-6f588ab41209.jpg",
+        "https://picturescdn.estatesales.net/5156784/1-1/00b93ec7-13fa-40b9-ac94-320efd6330ca.jpg",
+        "https://picturescdn.estatesales.net/5156784/1-1/2143fc97-c714-47df-8862-21137ce34d8e.jpg",
+        "https://picturescdn.estatesales.net/5156784/1-1/2c292165-121d-4fd1-8284-9caea184c551.jpg",
+        "https://picturescdn.estatesales.net/5156784/1-1/d7100f11-ec3f-44f9-ab17-bb762e386584.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "14 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [],
+      "lat": 29.7899305,
+      "lng": -94.9812266,
+      "approximate": true
+    },
+    {
+      "id": "f0815319c3a3d2f6",
+      "title": "Estate Sale by Family Tree Estates",
+      "company": "Family Tree Estate Sales",
+      "streetAddress": null,
+      "city": "Baytown",
+      "state": "TX",
+      "zip": "77520",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Baytown/77520/5138661"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "8322676961",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Kemah/77565/135479",
+      "photoCount": 51,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5138661/1-1/e436e06a-7e8c-4581-a170-0e487adb80e2.jpg",
+        "https://picturescdn.estatesales.net/5138661/1-1/e369ac1f-0ddd-418f-959c-1962ec061a5c.jpg",
+        "https://picturescdn.estatesales.net/5138661/1-1/a298acb2-669d-4b84-a776-5c52d90395dc.jpg",
+        "https://picturescdn.estatesales.net/5138661/1-1/00f88a4a-1488-4191-8cd6-f98532cfd1de.jpg",
+        "https://picturescdn.estatesales.net/5138661/1-1/14a7c456-be91-4b80-90ea-cc18a8e93f6d.jpg",
+        "https://picturescdn.estatesales.net/5138661/1-1/ea03858f-04f2-4476-aa04-f06daba52f5f.jpg",
+        "https://picturescdn.estatesales.net/5138661/1-1/74b614f2-a6ad-48bd-ba40-bc734857d217.jpg",
+        "https://picturescdn.estatesales.net/5138661/1-1/3d2703ac-9b45-4c42-b8de-774be420cbfd.jpg",
+        "https://picturescdn.estatesales.net/5138661/1-1/ddcf0676-f887-429a-b8f0-169ae311a662.jpg",
+        "https://picturescdn.estatesales.net/5138661/1-1/bc9b84c7-a625-4b8c-b2f5-072eed82ca2b.jpg",
+        "https://picturescdn.estatesales.net/5138661/1-1/f242f8e1-7f69-4a5b-a83b-94a2ba15aabf.jpg",
+        "https://picturescdn.estatesales.net/5138661/1-1/96e05229-312d-4a94-9b43-12d3625dd6c9.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "51 photos",
+        "tools, furniture and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "art",
+        "antiques",
+        "lamps"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, vehicles and kitchen.",
+      "lat": 29.7516946,
+      "lng": -94.9516854,
       "approximate": true
     }
   ]

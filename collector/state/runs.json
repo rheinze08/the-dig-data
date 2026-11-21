@@ -6,27 +6,27 @@
   },
   "cities": {
     "houston": {
-      "cleanRuns": 1,
-      "lastCleanDate": "2026-11-20",
-      "lastRunDate": "2026-11-20",
+      "cleanRuns": 2,
+      "lastCleanDate": "2026-11-21",
+      "lastRunDate": "2026-11-21",
       "lastResult": "clean"
     },
     "dallas-fort-worth": {
-      "cleanRuns": 1,
-      "lastCleanDate": "2026-11-20",
-      "lastRunDate": "2026-11-20",
+      "cleanRuns": 2,
+      "lastCleanDate": "2026-11-21",
+      "lastRunDate": "2026-11-21",
       "lastResult": "clean"
     },
     "austin": {
-      "cleanRuns": 1,
-      "lastCleanDate": "2026-11-20",
-      "lastRunDate": "2026-11-20",
+      "cleanRuns": 2,
+      "lastCleanDate": "2026-11-21",
+      "lastRunDate": "2026-11-21",
       "lastResult": "clean"
     },
     "san-antonio": {
-      "cleanRuns": 1,
-      "lastCleanDate": "2026-11-20",
-      "lastRunDate": "2026-11-20",
+      "cleanRuns": 2,
+      "lastCleanDate": "2026-11-21",
+      "lastRunDate": "2026-11-21",
       "lastResult": "clean"
     }
   }

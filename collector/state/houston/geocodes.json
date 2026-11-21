@@ -22,6 +22,9 @@
   "nominatim:street:2860 dominique:77551": {
     "retryAfter": 1795734181286
   },
+  "nominatim:street:2906 mid ln:77027": {
+    "retryAfter": 1795888270894
+  },
   "nominatim:street:3119 silversprings dr:77571": {
     "retryAfter": 1795668839113
   },
@@ -101,6 +104,11 @@
   "street:2860 dominique:77551": {
     "lat": 29.265164,
     "lng": -94.847552,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2906 mid ln:77027": {
+    "lat": 29.738904,
+    "lng": -95.450891,
     "basis": "Public listing map: EstateSales.net"
   },
   "street:3119 silversprings dr:77571": {
@@ -258,6 +266,11 @@
     "lng": -95.1319716,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:77089": {
+    "lat": 29.5933137,
+    "lng": -95.2233526,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:77396": {
     "lat": 29.9501886,
     "lng": -95.2686575,
@@ -281,6 +294,16 @@
   "zip:77517": {
     "lat": 29.3856773,
     "lng": -95.1281039,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77520": {
+    "lat": 29.7516946,
+    "lng": -94.9516854,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77521": {
+    "lat": 29.7899305,
+    "lng": -94.9812266,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:77546": {

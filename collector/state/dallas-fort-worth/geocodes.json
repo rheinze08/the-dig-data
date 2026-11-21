@@ -32,6 +32,9 @@
     "lng": -96.7297206,
     "basis": "OpenStreetMap Nominatim"
   },
+  "nominatim:street:101 manufacturing st:75206": {
+    "retryAfter": 1795888481021
+  },
   "nominatim:street:109 a janis st:76009": {
     "retryAfter": 1795828525865
   },
@@ -44,8 +47,14 @@
   "nominatim:street:11830 duxbury:75218": {
     "retryAfter": 1795828579883
   },
+  "nominatim:street:12633 e fm 917:76009": {
+    "retryAfter": 1795888484363
+  },
   "nominatim:street:12732 red cedar dr:76040": {
     "retryAfter": 1795828512780
+  },
+  "nominatim:street:1301 custer rd unit 706 directly behind the tee time bar:75075": {
+    "retryAfter": 1795888482234
   },
   "nominatim:street:1505 starshadow dr richardson 75081 near blake:richardson": {
     "retryAfter": 1795828604945
@@ -65,8 +74,14 @@
   "nominatim:street:205 exchange pl allen texas:75002": {
     "retryAfter": 1795828533721
   },
+  "nominatim:street:205 exchange pl:75002": {
+    "retryAfter": 1795888478785
+  },
   "nominatim:street:2107 higgens dr:76117": {
     "retryAfter": 1795828555545
+  },
+  "nominatim:street:2167 b southern pl near carmel:carrolton": {
+    "retryAfter": 1795888486530
   },
   "nominatim:street:2325 san marcus dallas:75228": {
     "retryAfter": 1795828591805
@@ -118,6 +133,11 @@
   },
   "nominatim:street:867 highland village:75077": {
     "retryAfter": 1795828518205
+  },
+  "street:101 manufacturing st:75206": {
+    "lat": 32.792978,
+    "lng": -96.831167,
+    "basis": "Public listing map: EstateSales.net"
   },
   "street:104 forest hill dr:76262": {
     "lat": 32.9908693,
@@ -179,6 +199,11 @@
     "lng": -97.087928,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:1301 custer rd unit 706 directly behind the tee time bar:75075": {
+    "lat": 33.018423,
+    "lng": -96.735494,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:1310 briarmeade dr:duncanville": {
     "lat": 32.6310642,
     "lng": -96.9391299,
@@ -204,10 +229,20 @@
     "lng": -97.152344,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:1600 ross ave:75006": {
+    "lat": 32.950664,
+    "lng": -96.900084,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:1605 trailridge dr 76012:76012": {
     "lat": 32.758084,
     "lng": -97.143168,
     "basis": "Public listing map: EstateSales.net"
+  },
+  "street:1605 trailridge dr:76012": {
+    "lat": 32.7580292,
+    "lng": -97.1432551,
+    "basis": "OpenStreetMap Nominatim"
   },
   "street:162 cotillion rd:76134": {
     "lat": 32.6365045,
@@ -269,6 +304,11 @@
     "lng": -96.521341,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:2017 sako dr:75023": {
+    "lat": 33.0639897,
+    "lng": -96.7332298,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:2021 queen st:76103": {
     "lat": 32.7477854,
     "lng": -97.2486485,
@@ -285,6 +325,11 @@
     "basis": "Public listing map: EstateSales.net"
   },
   "street:205 exchange pl allen texas:75002": {
+    "lat": 33.114877,
+    "lng": -96.668274,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:205 exchange pl:75002": {
     "lat": 33.114877,
     "lng": -96.668274,
     "basis": "Public listing map: EstateSales.net"
@@ -584,6 +629,16 @@
     "lng": -96.6494099,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:75051": {
+    "lat": 32.7240338,
+    "lng": -97.0088686,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75061": {
+    "lat": 32.82718,
+    "lng": -96.9635524,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:75069": {
     "lat": 33.1774118,
     "lng": -96.6336383,
@@ -592,6 +647,11 @@
   "zip:75071": {
     "lat": 33.2212814,
     "lng": -96.6727286,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75080": {
+    "lat": 32.9731163,
+    "lng": -96.7407763,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:75088": {
@@ -664,6 +724,16 @@
     "lng": -96.5633718,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:76002": {
+    "lat": 32.6548136,
+    "lng": -97.0902444,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76009": {
+    "lat": 32.4259052,
+    "lng": -97.2118348,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:76012": {
     "lat": 32.7460752,
     "lng": -97.1413755,
@@ -679,14 +749,29 @@
     "lng": -97.1614206,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:76028": {
+    "lat": 32.5320664,
+    "lng": -97.3094108,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:76034": {
     "lat": 32.8871682,
     "lng": -97.1409625,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:76058": {
+    "lat": 32.4651785,
+    "lng": -97.3982202,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:76063": {
     "lat": 32.5660053,
     "lng": -97.1262109,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76092": {
+    "lat": 32.943547,
+    "lng": -97.1461593,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:76107": {
@@ -714,9 +799,19 @@
     "lng": -97.4188113,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:76137": {
+    "lat": 32.8633006,
+    "lng": -97.2895955,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:76209": {
     "lat": 33.2285581,
     "lng": -97.1031977,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76210": {
+    "lat": 33.1482367,
+    "lng": -97.0871726,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:76226": {

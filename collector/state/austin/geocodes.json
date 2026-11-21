@@ -4,6 +4,9 @@
     "lng": -97.7474086,
     "basis": "OpenStreetMap Nominatim"
   },
+  "city:autin": {
+    "retryAfter": 1795888573875
+  },
   "city:bastrop": {
     "lat": 30.1104947,
     "lng": -97.3152701,
@@ -14,6 +17,9 @@
   },
   "nominatim:street:104 delorean cir:78611": {
     "retryAfter": 1795828737241
+  },
+  "nominatim:street:11710 barchetta dr:autin": {
+    "retryAfter": 1795888572715
   },
   "nominatim:street:126 joshua smith:78602": {
     "retryAfter": 1795828725141
@@ -167,6 +173,11 @@
     "lng": -97.789999,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:3404 taylors dr:78703": {
+    "lat": 30.308924,
+    "lng": -97.7700574,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:3475 river oaks dr:78132": {
     "lat": 29.788086,
     "lng": -98.125841,
@@ -227,10 +238,20 @@
     "lng": -97.906536,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:811 mission hills:leander": {
+    "lat": 30.5498895,
+    "lng": -97.8813952,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:900 e 53 1 2 st:78751": {
     "lat": 30.3138018,
     "lng": -97.7148071,
     "basis": "Public listing map: EstateSales.net"
+  },
+  "zip:76574": {
+    "lat": 30.5707545,
+    "lng": -97.4206504,
+    "basis": "OpenStreetMap Nominatim"
   },
   "zip:78611": {
     "lat": 30.752811,
@@ -260,6 +281,11 @@
   "zip:78731": {
     "lat": 30.3467547,
     "lng": -97.7658512,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78748": {
+    "lat": 30.1636136,
+    "lng": -97.8277134,
     "basis": "OpenStreetMap Nominatim"
   }
 }

@@ -47,6 +47,9 @@
   "nominatim:street:310 eugene sasser:78260": {
     "retryAfter": 1795828865902
   },
+  "nominatim:street:310 eugene sasser:san antonio": {
+    "retryAfter": 1795888663532
+  },
   "nominatim:street:3475 river oaks dr:78132": {
     "retryAfter": 1795828856681
   },
@@ -90,6 +93,11 @@
     "lng": -98.741959,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:13714 wondering oak:78247": {
+    "lat": 29.5658081,
+    "lng": -98.4310994,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:14000 wenrich:78233": {
     "lat": 29.570174,
     "lng": -98.340268,
@@ -114,6 +122,11 @@
     "lat": 29.6947823,
     "lng": -98.47273609999999,
     "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2311 copper ash:78232": {
+    "lat": 29.6012297,
+    "lng": -98.4559461,
+    "basis": "OpenStreetMap Nominatim"
   },
   "street:2345 appellation:78132": {
     "lat": 29.790654,
@@ -230,6 +243,11 @@
     "lng": -98.493902,
     "basis": "Public listing map: EstateSales.net"
   },
+  "zip:78070": {
+    "lat": 29.8425675,
+    "lng": -98.417395,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:78114": {
     "lat": 29.1516408,
     "lng": -98.1730171,
@@ -278,6 +296,11 @@
   "zip:78247": {
     "lat": 29.5830672,
     "lng": -98.4092465,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78256": {
+    "lat": 29.6116987,
+    "lng": -98.6190257,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:78260": {
