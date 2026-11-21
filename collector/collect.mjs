@@ -166,7 +166,9 @@ async function refresh() {
   await writeJson(cacheFile, Object.fromEntries(Object.entries(cache).sort(([a], [b]) => a.localeCompare(b))));
   if (unlocated.length && !sales.length) throw Error('Geocoding was incomplete; previous sales.json retained. ' + [...locator.errors]);
   sales.sort((a, b) => a.sessions[0].date.localeCompare(b.sessions[0].date)
-    || (a.sessions[0].start ?? '').localeCompare(b.sessions[0].start ?? '') || a.title.localeCompare(b.title));
+    || (a.sessions[0].start ?? '').localeCompare(b.sessions[0].start ?? '') || a.title.localeCompare(b.title)
+    // Sales that tie on all three keep one order from run to run.
+    || a.id.localeCompare(b.id));
   const listings = sales.reduce((n, s) => n + s.sources.length, 0);
   const counts = {candidates: records.length, listings, sales: sales.length,
     duplicates: listings - sales.length, outsideRadius, unlocatedListings: unlocated.length};

@@ -20,7 +20,7 @@ Each feed includes the collection time, the 14-day window and counts for each so
 A city is `live` or `proving`.
 
 - **live**: listed by every app version and by the website. `enabled` is `true`.
-- **proving**: collected and published every day, shown as "Preview" in app v0.3.0 and later. `enabled` is `false`, so app v0.2.0 and the website leave it out.
+- **proving**: collected and published every day, and shown as a preview by app v0.3.0 and later and by the website. `enabled` is `false`, so app v0.2.0 leaves it out.
 
 `cleanRuns` is the number of days in a row the city's collection has succeeded. A failed collection sets it to 0. A second run on the same day does not add to it. A skipped day starts it again at 1.
 
