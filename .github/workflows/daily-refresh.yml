@@ -1,45 +1,75 @@
+# Daily refresh of The Dig's public feeds.
+# One run a day: collect every city (live and proving), apply the promotion
+# rule, rebuild cities.json and search.json, then commit and push the result.
+# The collector and the feeds live in this repository, so the run needs no
+# credentials beyond its own token.
+# GitHub runs this only from .github/workflows/. See README, "Daily refresh".
 name: Daily refresh
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "30 12 * * *"
+    # 11:00 UTC is 5:00 AM Central in winter and 6:00 AM in summer. The website
+    # (the-dig-web) rebuilds from these feeds at 11:37 UTC.
+    - cron: '0 11 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: daily-refresh
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-node@v5
         with:
-          python-version: "3.12"
+          node-version: 22
 
-      - name: Install dependencies
+      - name: Check the collector's rules
+        run: node --test collector/test/*.test.mjs
+
+      - name: Collect every city and apply the promotion rule
+        id: refresh
         run: |
-          python -m pip install --upgrade pip
-          pip install -r collector/requirements.txt
+          set +e
+          node collector/refresh.mjs
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          # Exit 0 and exit 2 both leave feeds worth publishing. Anything else publishes nothing.
+          if [ "$code" != 0 ] && [ "$code" != 2 ]; then
+            echo "::error::The refresh broke before it finished (exit $code). Nothing was published."
+            exit 1
+          fi
 
-      - name: Run collector
-        env:
-          TEXAS_COMPTROLLER_API_KEY: ${{ secrets.TEXAS_COMPTROLLER_API_KEY }}
-        run: python -m collector.collect
-
-      - name: Refresh search index
-        run: python -m collector.search_index
-
-      - name: Commit updated data
+      - name: Commit and push the feeds
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add sales.json search.json cities.json
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A -- sales.json cities.json search.json cities collector/config collector/state
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo 'Nothing changed. Nothing to publish.'
             exit 0
           fi
-          git commit -m "Daily refresh: update sales data"
-          git push
+          git commit --quiet -m "Refresh sales: $(node collector/cities.mjs summary)"
+          for attempt in 1 2 3; do
+            if git push --quiet origin HEAD:main; then
+              echo "Published: $(git log -1 --format=%s)"
+              exit 0
+            fi
+            echo "Push $attempt was refused. Rebasing on the latest main."
+            git pull --quiet --rebase origin main
+          done
+          echo '::error::The feeds could not be pushed to main.'
+          exit 1
+
+      - name: Fail loudly when a city did not collect
+        if: steps.refresh.outputs.code != '0'
+        run: |
+          echo "::error::One or more cities failed to collect. Everything that did collect was published. The failed city kept its previous feed and its cleanRuns went back to 0. See the log of the collect step."
+          exit 1
