@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "rule": {
+    "cleanRuns": 3,
+    "sales": 25
+  },
+  "cities": {
+    "houston": {
+      "cleanRuns": 1,
+      "lastCleanDate": "2026-11-20",
+      "lastRunDate": "2026-11-20",
+      "lastResult": "clean"
+    },
+    "dallas-fort-worth": {
+      "cleanRuns": 1,
+      "lastCleanDate": "2026-11-20",
+      "lastRunDate": "2026-11-20",
+      "lastResult": "clean"
+    },
+    "austin": {
+      "cleanRuns": 1,
+      "lastCleanDate": "2026-11-20",
+      "lastRunDate": "2026-11-20",
+      "lastResult": "clean"
+    },
+    "san-antonio": {
+      "cleanRuns": 1,
+      "lastCleanDate": "2026-11-20",
+      "lastRunDate": "2026-11-20",
+      "lastResult": "clean"
+    }
+  }
+}

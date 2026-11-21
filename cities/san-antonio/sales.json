@@ -1,0 +1,1657 @@
+{
+  "asOf": "2026-11-20",
+  "collectedAt": "2026-11-21T02:33:26.943Z",
+  "window": {
+    "start": "2026-11-20",
+    "end": "2026-12-03",
+    "timeZone": "America/Chicago"
+  },
+  "area": {
+    "lat": 29.424,
+    "lng": -98.494,
+    "radiusMiles": 25
+  },
+  "coverage": {
+    "EstateSales.net": {
+      "status": "reached",
+      "detail": "Read the public sale sitemap. Checked 73/73 local candidate details.",
+      "candidates": 44,
+      "included": 39
+    },
+    "EstateSales.org": {
+      "status": "reached",
+      "detail": "Read 10 San Antonio directory cards over 1 pages. Checked 4/4 in-person local candidate details.",
+      "candidates": 4,
+      "included": 3
+    },
+    "Craigslist San Antonio": {
+      "status": "reached",
+      "detail": "29 directory listings discovered; 8 in-window estate listings before radius filtering",
+      "candidates": 8,
+      "included": 7
+    },
+    "GSALR.com": {
+      "status": "blocked",
+      "detail": "https://gsalr.com/garage-sales-san-antonio-tx.html — HTTP 403 Forbidden",
+      "candidates": 0,
+      "included": 0
+    }
+  },
+  "counts": {
+    "candidates": 56,
+    "listings": 49,
+    "sales": 43,
+    "duplicates": 6,
+    "outsideRadius": 7,
+    "unlocatedListings": 0
+  },
+  "unlocated": [],
+  "geocodingNotes": [],
+  "sales": [
+    {
+      "id": "6ce119ba7bc00ccc",
+      "title": "GIGIS ESTATE-TREASURE’S SAT AND SUN buy $20 and take one extra equal to price or lesser",
+      "company": "Gigis Treasures",
+      "streetAddress": "342 Cable Dr.",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78227",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "14:45"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78227/5161203"
+        }
+      ],
+      "categories": [],
+      "lat": 29.401803,
+      "lng": -98.6548287,
+      "approximate": false
+    },
+    {
+      "id": "2ee5949af932c0fa",
+      "title": "Massive Germany - Lladro - Murano - Clocks - Bronzes",
+      "company": "About Face Estate Sales Service LLC",
+      "streetAddress": "7406 MidCrown Dr",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78218",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78218/5156490"
+        }
+      ],
+      "categories": [
+        "collectibles",
+        "art"
+      ],
+      "lat": 29.5006672,
+      "lng": -98.3832554,
+      "approximate": false
+    },
+    {
+      "id": "c0420bbe0c6f9d01",
+      "title": "Blowout sale! 50% OFF",
+      "company": "1dandelion LLC",
+      "streetAddress": "351 Culebra",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78201",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "start": "10:30",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-19",
+          "start": "10:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:30",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78201/5158845"
+        }
+      ],
+      "categories": [],
+      "lat": 29.443835,
+      "lng": -98.508732,
+      "approximate": false
+    },
+    {
+      "id": "61c55a8aca980b91",
+      "title": "Beauty in Cibolo Estate Sale",
+      "company": "Texas Treasure Estate Sales",
+      "streetAddress": "125 Eagle Flight",
+      "city": "Cibolo",
+      "state": "TX",
+      "zip": "78108",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist San Antonio",
+          "url": "https://www.craigslist.org/view/d/cibolo-beauty-in-cibolo-estate-sale/bi5LZqJoGkBFjiEUVyUotH"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Cibolo/78108/5162871"
+        }
+      ],
+      "categories": [],
+      "lat": 29.5760037,
+      "lng": -98.2457973,
+      "approximate": false
+    },
+    {
+      "id": "ce527e2ebc98f989",
+      "title": "Collector of All things",
+      "company": "Top Hat Estate Sales",
+      "streetAddress": "3435 River North Dr",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78230",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78230/5158611"
+        }
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "lat": 29.5450999,
+      "lng": -98.5551959,
+      "approximate": false
+    },
+    {
+      "id": "8a2bec391b93540d",
+      "title": "Huge Warehouse Sale Collectibles Antiques Wizard OZ Comics Die Cast Hallmark Xmas Tools Cow Stuff",
+      "company": "Alamo City Mercantale",
+      "streetAddress": "3903 Eisenhauer",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78218",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78218/5158599"
+        }
+      ],
+      "categories": [
+        "tools",
+        "collectibles"
+      ],
+      "lat": 29.497409,
+      "lng": -98.419527,
+      "approximate": false
+    },
+    {
+      "id": "5edf17d244683724",
+      "title": "Saturday 50% off in Castle Hills with Antiques, MCM, Art, Rugs, Furniture, Furs, and Decor",
+      "company": "Professional Estate Sales LLC",
+      "streetAddress": "200 Chattington",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78213",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78213/5149194"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "clothing",
+        "art"
+      ],
+      "lat": 29.518944,
+      "lng": -98.512931,
+      "approximate": false
+    },
+    {
+      "id": "8c9ce50cb0d83a8d",
+      "title": "Vintage in Castle Hills",
+      "company": "Lions Estate Sales Co.",
+      "streetAddress": "114 E. Castle Ln.",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78213",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78213/5166285"
+        }
+      ],
+      "categories": [],
+      "lat": 29.528792,
+      "lng": -98.522676,
+      "approximate": false
+    },
+    {
+      "id": "b386bac47ccb221f",
+      "title": "20% OFF Christopher Estate Sales on Estate Gate",
+      "company": "Christopher Estate Sales, LLC",
+      "streetAddress": "2207 Estate Gate Drive",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78260",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78260/5159355"
+        }
+      ],
+      "categories": [],
+      "lat": 29.6947823,
+      "lng": -98.47273609999999,
+      "approximate": false
+    },
+    {
+      "id": "3ee833925f6f0f73",
+      "title": "25% off Friday WeDo Estate Liquidations in Leon Valley",
+      "company": "WeDo Estate Liquidations LLC",
+      "streetAddress": "6025 Mike Nesmith Street",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78238",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:30",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78238/5159721"
+        }
+      ],
+      "categories": [],
+      "lat": 29.491893,
+      "lng": -98.604614,
+      "approximate": false
+    },
+    {
+      "id": "b6e8f172e24529f3",
+      "title": "Alamo Ranch Estate Sale – Furniture, Danish China, Clocks & Artwork –",
+      "company": null,
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist San Antonio",
+          "url": "https://www.craigslist.org/view/d/san-antonio-alamo-ranch-estate-sale/gAtgP3gke9URX3WwZit9LA"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "art"
+      ],
+      "lat": 29.4246002,
+      "lng": -98.4951405,
+      "approximate": true
+    },
+    {
+      "id": "cdb008c2d16cb1b9",
+      "title": "Fox Run",
+      "company": "Crystal's Estate Sales",
+      "streetAddress": "16506 Martins Ferry",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78247",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78247/5155767"
+        }
+      ],
+      "categories": [],
+      "lat": 29.5882867,
+      "lng": -98.3608918,
+      "approximate": false
+    },
+    {
+      "id": "b23b641e1e602f39",
+      "title": "SPECTACULAR HOLLYWOOD PARK ESTATE SALE",
+      "company": "Complete Estate Sale Services",
+      "streetAddress": "304 Mustang Circle",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78232",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78232/5135181"
+        }
+      ],
+      "categories": [],
+      "lat": 29.601608,
+      "lng": -98.481041,
+      "approximate": false
+    },
+    {
+      "id": "8ed576ea1c0b4cb7",
+      "title": "#633: Texas Art, Christmas Wishes & Plentiful Dishes",
+      "company": "A Better Estate Sale Co.",
+      "streetAddress": "7531 Eagle Ledge",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78249",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "11:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78249/5138061"
+        }
+      ],
+      "categories": [
+        "kitchen",
+        "art"
+      ],
+      "lat": 29.5647794,
+      "lng": -98.6332601,
+      "approximate": false
+    },
+    {
+      "id": "7260c12af7ae5845",
+      "title": "25% off!! Hidden Meadow",
+      "company": "Southern Charm Estate Sales",
+      "streetAddress": "9763 Hidden Brook",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78250",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78250/5158635"
+        }
+      ],
+      "categories": [],
+      "lat": 29.4938137,
+      "lng": -98.6939359,
+      "approximate": false
+    },
+    {
+      "id": "d234243e07a47d55",
+      "title": "50% OFF - MCM and More In Windcrest",
+      "company": null,
+      "streetAddress": "313 Crestwind Dr.",
+      "city": "Windcrest",
+      "state": "TX",
+      "zip": "78239",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78239/5163324"
+        }
+      ],
+      "categories": [],
+      "lat": 29.5141891,
+      "lng": -98.3897374,
+      "approximate": false
+    },
+    {
+      "id": "1fd129ce69eaa99f",
+      "title": "Eclectic Multigenerational Sale in SATX by Golden Bow",
+      "company": "Golden Bow Estate Sales",
+      "streetAddress": "Harmony Hills Neighborhood",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78216",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78216/5151945"
+        }
+      ],
+      "categories": [],
+      "lat": 29.538467,
+      "lng": -98.493902,
+      "approximate": false
+    },
+    {
+      "id": "5c93d5424c250a6d",
+      "title": "Estate sale",
+      "company": null,
+      "streetAddress": "310 Eugene Sasser",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78260",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "02:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "02:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/san-antonio/78260/estate-sale-2474765"
+        }
+      ],
+      "categories": [],
+      "lat": 29.717573,
+      "lng": -98.4637654,
+      "approximate": true
+    },
+    {
+      "id": "742906a1b83fcde9",
+      "title": "LOTS OF TEMPTATIONS COOKWARE, CHRISTMAS, & EVERTHING ELSE !!",
+      "company": "From Trash To Treasure",
+      "streetAddress": "8058 BROADWAY",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78209",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78209/5080635"
+        }
+      ],
+      "categories": [
+        "kitchen"
+      ],
+      "lat": 29.5086885,
+      "lng": -98.4661147,
+      "approximate": false
+    },
+    {
+      "id": "10d00aff10fd27d1",
+      "title": "Lovers of Home Economics!",
+      "company": null,
+      "streetAddress": "10022 Fall Harvest",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78254",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78254/5162592"
+        }
+      ],
+      "categories": [],
+      "lat": 29.535326,
+      "lng": -98.675887,
+      "approximate": false
+    },
+    {
+      "id": "18da4466b4ee5d66",
+      "title": "Thousand Oaks Estate Sale",
+      "company": "Casablanca Estate Sale Company",
+      "streetAddress": "2422 Bluffridge St.",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78232",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78232/5165340"
+        }
+      ],
+      "categories": [],
+      "lat": 29.5829217,
+      "lng": -98.4526863,
+      "approximate": false
+    },
+    {
+      "id": "0b29fdedccaaff05",
+      "title": "Updated! Vintage Dealer—Brass, Pottery, Silver, Depression Glass & more!",
+      "company": null,
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78260",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "11:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78260/5146017"
+        }
+      ],
+      "categories": [],
+      "lat": 29.717573,
+      "lng": -98.4637654,
+      "approximate": true
+    },
+    {
+      "id": "f8e3d9b53528e5c1",
+      "title": "25% off!! Massive warehouse sale. Sterling AMMO games comics everything",
+      "company": "Back Again Resale",
+      "streetAddress": "11725 warfield st",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78216",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78216/5157204"
+        }
+      ],
+      "categories": [
+        "collectibles",
+        "toys & games"
+      ],
+      "lat": 29.5486258,
+      "lng": -98.4967028,
+      "approximate": false
+    },
+    {
+      "id": "f18cd2449cc3ae76",
+      "title": "50% Off Evans an Bulverde Road Area",
+      "company": "Wonderful Life Estate Sales",
+      "streetAddress": "21527 Tenore",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78259",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist San Antonio",
+          "url": "https://www.craigslist.org/view/d/san-antonio-bedroom-set-at-estate-sale/oopuutJZHfhsyjVJBx5ZNq"
+        },
+        {
+          "name": "Craigslist San Antonio",
+          "url": "https://www.craigslist.org/view/d/san-antonio-bowflex-pr1000-home-gym/us4cwyrEcDJjEzsUoNKMwH"
+        },
+        {
+          "name": "Craigslist San Antonio",
+          "url": "https://www.craigslist.org/view/d/san-antonio-estate-sale-evans-and/vKqXMAZM5a1ReVjNjgHHX5"
+        },
+        {
+          "name": "Craigslist San Antonio",
+          "url": "https://www.craigslist.org/view/d/san-antonio-king-sleep-number-bed/bHKfMtM7BVh5UTcW7CW4w2"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78259/5163870"
+        }
+      ],
+      "categories": [],
+      "lat": 29.6407094,
+      "lng": -98.4264045,
+      "approximate": false
+    },
+    {
+      "id": "71f83a879888d805",
+      "title": "50% off most things Oakwell Farms Sale",
+      "company": "June Hayes, Heritage Estates",
+      "streetAddress": "39 Campden Circle",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78218",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78218/5161221"
+        }
+      ],
+      "categories": [],
+      "lat": 29.511623,
+      "lng": -98.4272001,
+      "approximate": false
+    },
+    {
+      "id": "3fa45716d940ce60",
+      "title": "Alamo Ranch Estate Sale",
+      "company": "Denny Harrison",
+      "streetAddress": "12503 Sandy Dunes",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78253",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "11:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/san-antonio/78253/alamo-ranch-estate-sale-2472776"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78253/5145486"
+        }
+      ],
+      "categories": [],
+      "lat": 29.480654,
+      "lng": -98.741959,
+      "approximate": false
+    },
+    {
+      "id": "59bf93d65b76bc7e",
+      "title": "Bulverde Home Sweet Home! 25% off on 11/21!",
+      "company": "Overstreet Estates, LLC",
+      "streetAddress": null,
+      "city": "Bulverde",
+      "state": "TX",
+      "zip": "78163",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Bulverde/78163/5161698"
+        }
+      ],
+      "categories": [],
+      "lat": 29.7669402,
+      "lng": -98.4267298,
+      "approximate": true
+    },
+    {
+      "id": "2dc9d38168c25dcf",
+      "title": "Soulshine in Universal City | A Christmas Wonderland & Vintage Treasures Galore!",
+      "company": "Soulshine Estate Sale Company",
+      "streetAddress": "8523 Marathon Dr",
+      "city": "Universal City",
+      "state": "TX",
+      "zip": "78148",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Universal-City/78148/5162931"
+        }
+      ],
+      "categories": [],
+      "lat": 29.5699934,
+      "lng": -98.3164482,
+      "approximate": false
+    },
+    {
+      "id": "aa11361b64ab4c8b",
+      "title": "Huge Estate Sale",
+      "company": null,
+      "streetAddress": "13811 Belgrave Way near Laramie Hill",
+      "city": "Live Oak",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "9:00 (AM/PM unspecified)",
+          "end": null
+        },
+        {
+          "date": "2026-11-21",
+          "start": "9:00 (AM/PM unspecified)",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist San Antonio",
+          "url": "https://www.craigslist.org/view/d/san-antonio-huge-estate-sale/twWo2V4WuVuJEd9p1nXc4T"
+        }
+      ],
+      "categories": [],
+      "lat": 29.5628983,
+      "lng": -98.3334411,
+      "approximate": true
+    },
+    {
+      "id": "34b5227346b96a7f",
+      "title": "Caring Transitions @ The Knolls of Woodlake",
+      "company": "Caring Transitions Of San Antonio North",
+      "streetAddress": "7222 Sunset Terrace",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78244",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78244/5165934"
+        }
+      ],
+      "categories": [],
+      "lat": 29.4880709,
+      "lng": -98.3473411,
+      "approximate": false
+    },
+    {
+      "id": "2d56b81a9e1923d5",
+      "title": "Famous American Record Producer from the 70s",
+      "company": null,
+      "streetAddress": "30454 Cloudview Drive",
+      "city": "Bulverde",
+      "state": "TX",
+      "zip": "78163",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Bulverde/78163/5165991"
+        }
+      ],
+      "categories": [],
+      "lat": 29.744398,
+      "lng": -98.347109,
+      "approximate": false
+    },
+    {
+      "id": "024609b28b867c3b",
+      "title": "Thunder Gulch",
+      "company": null,
+      "streetAddress": "2919 Thunder Gulch",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78245",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78245/5167800"
+        }
+      ],
+      "categories": [],
+      "lat": 29.400566,
+      "lng": -98.711918,
+      "approximate": false
+    },
+    {
+      "id": "e194b21d79ac8618",
+      "title": "Cozy Texas Classics",
+      "company": "Satx Select Liquidators LLC",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78232",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-23",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78232/5164827"
+        }
+      ],
+      "categories": [],
+      "lat": 29.590754,
+      "lng": -98.4737638,
+      "approximate": true
+    },
+    {
+      "id": "02ab56acec837dcf",
+      "title": "Grainfather Brewing System, Western Cowboy Art, Tools & Furniture",
+      "company": "San Antonio Estate Sales LLC",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78247",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-23",
+          "start": "10:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78247/5166360"
+        }
+      ],
+      "categories": [
+        "tools",
+        "furniture",
+        "art"
+      ],
+      "lat": 29.5830672,
+      "lng": -98.4092465,
+      "approximate": true
+    },
+    {
+      "id": "e3e538763c4513ab",
+      "title": "Great Bargains in Great Northwest",
+      "company": "Heritage Senior Downsizing LLC",
+      "streetAddress": "9231 Ridge Path",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78250",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78250/5160894"
+        }
+      ],
+      "categories": [],
+      "lat": 29.4992418,
+      "lng": -98.6703713,
+      "approximate": false
+    },
+    {
+      "id": "88d9511fd8f151ff",
+      "title": "South San Antonio Treasure Hunt! Saturday & Sunday ONLY!",
+      "company": "Overstreet Estates, LLC",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78222",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78222/5166879"
+        }
+      ],
+      "categories": [],
+      "lat": 29.3835661,
+      "lng": -98.4008681,
+      "approximate": true
+    },
+    {
+      "id": "8cddb4f0624c5600",
+      "title": "THE FINAL TWO DAYS!! 30%-50% OFF!!!",
+      "company": null,
+      "streetAddress": "14000 Wenrich",
+      "city": "Live Oak",
+      "state": "TX",
+      "zip": "78233",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/live-oak-/78233/the-final-two-days-3050-2474847"
+        }
+      ],
+      "categories": [],
+      "lat": 29.570174,
+      "lng": -98.340268,
+      "approximate": false
+    },
+    {
+      "id": "a3e380a9b0a15a3d",
+      "title": "#634: Sale of the Season!",
+      "company": "A Better Estate Sale Co.",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78232",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "11:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78232/5163381"
+        }
+      ],
+      "categories": [],
+      "lat": 29.590754,
+      "lng": -98.4737638,
+      "approximate": true
+    },
+    {
+      "id": "4bc5fc63cacb8916",
+      "title": "Dellview Estate Sale — A House Full of Finds",
+      "company": null,
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78213",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78213/5152530"
+        }
+      ],
+      "categories": [],
+      "lat": 29.5143913,
+      "lng": -98.5200298,
+      "approximate": true
+    },
+    {
+      "id": "a79f908b58fbfa02",
+      "title": "Secret stash in Monte Vista",
+      "company": "Top Hat Estate Sales",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78212",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78212/5167146"
+        }
+      ],
+      "categories": [],
+      "lat": 29.461887,
+      "lng": -98.4941623,
+      "approximate": true
+    },
+    {
+      "id": "2c0914ce4fcdc73f",
+      "title": "SHAVANO PARK -FABULOUS UNIQUE COLLECTING - READ THE AD :)) TIS THE SEASON TO HAVE GREAT SALES !!",
+      "company": "Always Remembered",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78231",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:30",
+          "end": "16:30"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:30",
+          "end": "16:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78231/5166486"
+        }
+      ],
+      "categories": [],
+      "lat": 29.5726959,
+      "lng": -98.5395497,
+      "approximate": true
+    },
+    {
+      "id": "ee3eaedc0d2cbf88",
+      "title": "Fabulous Art, Folk Art, & Collectibles",
+      "company": "June Hayes, Heritage Estates",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78209",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78209/5163522"
+        }
+      ],
+      "categories": [
+        "collectibles",
+        "art"
+      ],
+      "lat": 29.4866772,
+      "lng": -98.4583686,
+      "approximate": true
+    },
+    {
+      "id": "e38fcaaf6994ecf3",
+      "title": "Windcrest Accumulator Sale",
+      "company": "Crystal's Estate Sales",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78239",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78239/5155791"
+        }
+      ],
+      "categories": [],
+      "lat": 29.5177775,
+      "lng": -98.3748987,
+      "approximate": true
+    }
+  ]
+}

@@ -1,0 +1,4070 @@
+{
+  "asOf": "2026-11-20",
+  "collectedAt": "2026-11-21T02:31:02.750Z",
+  "window": {
+    "start": "2026-11-20",
+    "end": "2026-12-03",
+    "timeZone": "America/Chicago"
+  },
+  "area": {
+    "lat": 32.9,
+    "lng": -97.04,
+    "radiusMiles": 25
+  },
+  "coverage": {
+    "EstateSales.net": {
+      "status": "reached",
+      "detail": "Read the public sale sitemap. Checked 179/179 local candidate details.",
+      "candidates": 117,
+      "included": 95
+    },
+    "EstateSales.org": {
+      "status": "partial",
+      "detail": "Read 36 Dallas–Fort Worth directory cards over 2 pages. Checked 24/26 in-person local candidate details. https://estatesales.org/estate-sales/tx/euless/76040/estate-sale-2474734 — Missing public event schema | https://estatesales.org/estate-sales/tx/addison/75001/estate-sale-addison-tx-bedroom-2474049 — Missing public event schema",
+      "candidates": 20,
+      "included": 18
+    },
+    "Craigslist Dallas / Fort Worth": {
+      "status": "reached",
+      "detail": "53 directory listings discovered; 11 in-window estate listings before radius filtering",
+      "candidates": 11,
+      "included": 10
+    },
+    "GSALR.com": {
+      "status": "blocked",
+      "detail": "https://gsalr.com/garage-sales-grapevine-tx.html — HTTP 403 Forbidden",
+      "candidates": 0,
+      "included": 0
+    }
+  },
+  "counts": {
+    "candidates": 148,
+    "listings": 123,
+    "sales": 110,
+    "duplicates": 13,
+    "outsideRadius": 23,
+    "unlocatedListings": 1
+  },
+  "unlocated": [
+    "https://www.craigslist.org/view/d/carrollton-living-estate-sale/qbWAwRpUiqoEzUjS6F1sUm"
+  ],
+  "geocodingNotes": [],
+  "sales": [
+    {
+      "id": "9a728d505ba40345",
+      "title": "Estate Sale — Addison, TX — Bedroom, Living Room & Dining Room Furnitu",
+      "company": null,
+      "streetAddress": "14620 Waterview Cir",
+      "city": "Addison",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-16",
+          "start": "10:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Dallas / Fort Worth",
+          "url": "https://www.craigslist.org/view/d/addison-estate-sale-addison-tx-bedroom/4d56bAs4qYx1HKCCxP9gD2"
+        }
+      ],
+      "categories": [
+        "furniture"
+      ],
+      "lat": 32.9444721,
+      "lng": -96.8479184,
+      "approximate": false
+    },
+    {
+      "id": "c2c80c3df0e4101f",
+      "title": "Denton (ROBSON RANCH): 50% OFF + STUFF-A-BAG + Unbeatable Deals by Dayspring",
+      "company": "Dayspring Estate Sales",
+      "streetAddress": "9301 Freeport Dr",
+      "city": "Denton",
+      "state": "TX",
+      "zip": "76207",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "start": "08:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-19",
+          "start": "08:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "08:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:30",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Denton/76207/5151225"
+        }
+      ],
+      "categories": [],
+      "lat": 33.1410987,
+      "lng": -97.2500646,
+      "approximate": false
+    },
+    {
+      "id": "c712fd8fb9b61ad0",
+      "title": "Fort Worth: 50% OFF + STUFF-A-BAG + Unbeatable Deals by Dayspring",
+      "company": "Dayspring Estate Sales",
+      "streetAddress": "162 Cotillion Road",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76134",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "start": "08:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-19",
+          "start": "08:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "08:30",
+          "end": "16:30"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:30",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76134/5144142"
+        }
+      ],
+      "categories": [],
+      "lat": 32.6365045,
+      "lng": -97.3234362,
+      "approximate": false
+    },
+    {
+      "id": "8e139d1e0e55d28c",
+      "title": "2ND PHASE! 8K+ CLOTHING (BABY-6XL), SHOES, PURSES, SUITS $2 EACH! JEWELRY $5 OR LESS! PACKED",
+      "company": "Tiffany Nicole's Estate Sales",
+      "streetAddress": "4002 Commonwealth Drive",
+      "city": "Garland",
+      "state": "TX",
+      "zip": "75043",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "start": "09:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-19",
+          "start": "09:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:30",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Dallas / Fort Worth",
+          "url": "https://www.craigslist.org/view/d/garland-each-name-brand-clothing-shoes/tFGoJUpfTnAtodNxm7ZpBV"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Garland/75043/5163099"
+        }
+      ],
+      "categories": [
+        "jewelry",
+        "clothing"
+      ],
+      "lat": 32.8684859,
+      "lng": -96.6153066,
+      "approximate": false
+    },
+    {
+      "id": "e4fa7a6c64dd10fa",
+      "title": "Pool Table, Vintage collectibles, Art, Furniture, Rugs, More",
+      "company": "Annice Antiques, Inc.",
+      "streetAddress": "703 Corinthian Pl.",
+      "city": "Duncanville",
+      "state": "TX",
+      "zip": "75137",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "08:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "08:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "12:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/duncanville/75137/pool-table-vintage-collectibles-art-2473556"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Duncanville/75137/5158767"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "collectibles",
+        "art",
+        "toys & games"
+      ],
+      "lat": 32.6288918,
+      "lng": -96.9228032,
+      "approximate": false
+    },
+    {
+      "id": "418671912572871a",
+      "title": "SHIRLEY'S ESTATE SALE .....50% OFF SATURDAY ..../ ......75% OFF STARTS AT 2pm.",
+      "company": null,
+      "streetAddress": "118 Oriole Dr",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76010",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "08:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Arlington/76010/5155374"
+        }
+      ],
+      "categories": [],
+      "lat": 32.737744,
+      "lng": -97.0783422,
+      "approximate": false
+    },
+    {
+      "id": "aedb60f48f8578bb",
+      "title": "Garland: 25% OFF & STUFF-A-BAG + Unbeatable Deals by Dayspring",
+      "company": "Dayspring Estate Sales",
+      "streetAddress": "710 Ballybunion Circle",
+      "city": "Garland",
+      "state": "TX",
+      "zip": "75044",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "08:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "08:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:30",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Garland/75044/5112783"
+        }
+      ],
+      "categories": [],
+      "lat": 32.9591497,
+      "lng": -96.6218168,
+      "approximate": false
+    },
+    {
+      "id": "6a4f73dcb15380b8",
+      "title": "Little Elm: 25% OFF & STUFF-A-BAG + Unbeatable Deals by Dayspring",
+      "company": "Dayspring Estate Sales",
+      "streetAddress": "309 Lakecove Drive",
+      "city": "Little Elm",
+      "state": "TX",
+      "zip": "75068",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "08:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "08:30",
+          "end": "16:30"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:30",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Little-Elm/75068/5147415"
+        }
+      ],
+      "categories": [],
+      "lat": 33.217804,
+      "lng": -96.940927,
+      "approximate": false
+    },
+    {
+      "id": "a1aecd517a8dcd97",
+      "title": "25% OFF FRIDAY!!!",
+      "company": "The Spann Group Estate Sales, LLC",
+      "streetAddress": "5218 Saratoga Ln.",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76017",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "12:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Arlington/76017/5139621"
+        }
+      ],
+      "categories": [],
+      "lat": 32.6619347,
+      "lng": -97.2186131,
+      "approximate": false
+    },
+    {
+      "id": "5a90cf43949ca89a",
+      "title": "50% Off RARE FIND: VINTAGE APPLE MACINTOSH • TIFFANY LAMPS • ANTIQUES • CRYSTAL • JEWELRY & MORE!",
+      "company": "Rare Find Estate Sales",
+      "streetAddress": "867 Highland Village",
+      "city": "Lewisville",
+      "state": "TX",
+      "zip": "75077",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Lewisville/75077/5153634"
+        }
+      ],
+      "categories": [
+        "jewelry",
+        "electronics"
+      ],
+      "lat": 33.09384,
+      "lng": -97.046935,
+      "approximate": false
+    },
+    {
+      "id": "0358a4c711f71a3b",
+      "title": "50% OFF SATURDAY! / THE ART OF ELEGANT LIVING - A PRESTON HOLLOW ESTATE SALE",
+      "company": "Dallas Estate Sellers",
+      "streetAddress": "5531 Pebblebrook Drive",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75229",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/dallas/75229/50-off-saturday-blowout-the-2473561"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75229/5157531"
+        }
+      ],
+      "categories": [],
+      "lat": 32.897006,
+      "lng": -96.811438,
+      "approximate": false
+    },
+    {
+      "id": "c2fe5a3ffe833d00",
+      "title": "50% OFF SATURDAY!!! Garland Time Capsule Estate Sale",
+      "company": "Stardust Antiques & Estate Sales",
+      "streetAddress": "1709 Douglas Dr",
+      "city": "Garland",
+      "state": "TX",
+      "zip": "75041",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "12:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Garland/75041/5133420"
+        }
+      ],
+      "categories": [],
+      "lat": 32.868742,
+      "lng": -96.6538067,
+      "approximate": false
+    },
+    {
+      "id": "203ea7ec9a0f35f9",
+      "title": "50% OFF SATURDAY!Fantastic Haslet Estate!Firearms,Ammo,Vintage,Antique,Tools,Fishing,and More!",
+      "company": "Remains Of Yesterday",
+      "streetAddress": "107 Lewis Lane",
+      "city": "Haslet",
+      "state": "TX",
+      "zip": "76052",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Haslet/76052/5155407"
+        }
+      ],
+      "categories": [
+        "tools"
+      ],
+      "lat": 32.9713266,
+      "lng": -97.3488598,
+      "approximate": false
+    },
+    {
+      "id": "c3675a0be8f53d45",
+      "title": "50% off! Perfect in Plano!",
+      "company": "Skymarc Estate Sales, LLC",
+      "streetAddress": "2201 Stacia Ct.",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75025",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:30"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:30"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75025/5140185"
+        }
+      ],
+      "categories": [],
+      "lat": 33.092326,
+      "lng": -96.734061,
+      "approximate": false
+    },
+    {
+      "id": "9f757dd99eaf3e6a",
+      "title": "60% OFF THRILL HUNT VINTAGE FURNITURE BOOKS & POTPOURRI ESTATE SALE BY ALAMO AZTEK ESTATE SALES DFW",
+      "company": "Alamo Aztek Estate Sales DFW",
+      "streetAddress": "11830 Duxbury Dr",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75218",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/dallas/75218/50-off-thrill-hunt-vintage-2470156"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "books"
+      ],
+      "lat": 32.8556514,
+      "lng": -96.6981298,
+      "approximate": false
+    },
+    {
+      "id": "528a11d8b68be36b",
+      "title": "60% OFF THRILL OF THE HUNT VINTAGE FURNITURE BOOKS POTPOURRI ESTATE SALE BY ALAMO AZTEK ESTATE SALES",
+      "company": "Alamo Aztek Estate Sales",
+      "streetAddress": "11830 Duxbury",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75218",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75218/5132772"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "books"
+      ],
+      "lat": 32.855619,
+      "lng": -96.698134,
+      "approximate": false
+    },
+    {
+      "id": "c86fcdbfabf548b5",
+      "title": "Curated Collections in Carrollton 25% OFF",
+      "company": "Chickadee Lane Estate And Moving Sales, LLC",
+      "streetAddress": "2813 Carriage Ln",
+      "city": "Carrollton",
+      "state": "TX",
+      "zip": "75006",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/carrollton/75006/curated-collections-in-carrollton-2473766"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Carrollton/75006/5160195"
+        }
+      ],
+      "categories": [],
+      "lat": 32.9657302,
+      "lng": -96.8586204,
+      "approximate": false
+    },
+    {
+      "id": "90976f4e9b06d605",
+      "title": "Dallas Sale (Near Walnut Hill/35)",
+      "company": "All Treasures Estate Sales",
+      "streetAddress": "3031 Plaudit Place",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75229",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75229/5098854"
+        }
+      ],
+      "categories": [],
+      "lat": 32.881257,
+      "lng": -96.8736496,
+      "approximate": false
+    },
+    {
+      "id": "7b1745a5aa38f1a7",
+      "title": "Dazzling in Dallas 25% OFF",
+      "company": "Chickadee Lane Estate And Moving Sales, LLC",
+      "streetAddress": "5616 Netherland Ct",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75229",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/dallas/75229/dazzling-in-dallas-2473573"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75229/5158962"
+        }
+      ],
+      "categories": [],
+      "lat": 32.8931789,
+      "lng": -96.8122697,
+      "approximate": false
+    },
+    {
+      "id": "8b57fa84c228e8b5",
+      "title": "Fort Worth Memories and Treasures",
+      "company": "Enchanted Tree Estate Sales",
+      "streetAddress": "2021 Queen St",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76103",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76103/5163921"
+        }
+      ],
+      "categories": [],
+      "lat": 32.7477854,
+      "lng": -97.2486485,
+      "approximate": false
+    },
+    {
+      "id": "c78e1e21c6fb0634",
+      "title": "Mid-Century Delight in Dallas 25% OFF",
+      "company": "Chickadee Lane Estate And Moving Sales, LLC",
+      "streetAddress": "17307 Earthwind Dr",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75248",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/dallas/75248/midcentury-delight-in-dallas-2473570"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75248/5158947"
+        }
+      ],
+      "categories": [],
+      "lat": 32.9835197,
+      "lng": -96.7963046,
+      "approximate": false
+    },
+    {
+      "id": "f538cec1531361fc",
+      "title": "One and Done Estate Sales",
+      "company": "One And Done Estate Sales",
+      "streetAddress": "1242 Robin Drive",
+      "city": "Keller",
+      "state": "TX",
+      "zip": "76262",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Roanoke/76262/5160723"
+        }
+      ],
+      "categories": [],
+      "lat": 32.953063,
+      "lng": -97.2209465,
+      "approximate": false
+    },
+    {
+      "id": "83cd93e2911b4ea2",
+      "title": "Super Estate Sale in Dallas",
+      "company": "Dawn Stubbs Estate Sales",
+      "streetAddress": "4843 Fallon Place",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75227",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75227/5163126"
+        }
+      ],
+      "categories": [],
+      "lat": 32.7842086,
+      "lng": -96.709281,
+      "approximate": false
+    },
+    {
+      "id": "539684cb47388a4b",
+      "title": "Vintage Sale on Salado",
+      "company": "Wild Hautzi",
+      "streetAddress": "8116 Salado Springs",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75025",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75025/5152056"
+        }
+      ],
+      "categories": [],
+      "lat": 33.089944,
+      "lng": -96.758693,
+      "approximate": false
+    },
+    {
+      "id": "fa81405d5714654d",
+      "title": "ESTATE SALE~CLEARHURST DR by DAVID C TURNER, DALLAS ESTATE SALES",
+      "company": "David C.Turner",
+      "streetAddress": "9220 Clearhurst Dr",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75238",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "09:30",
+          "end": "16:30"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:30",
+          "end": "16:30"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:30",
+          "end": "16:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75238/5162328"
+        }
+      ],
+      "categories": [],
+      "lat": 32.8705223,
+      "lng": -96.7277974,
+      "approximate": false
+    },
+    {
+      "id": "685c871de4819428",
+      "title": "25% off! TNT in Richardson",
+      "company": "TNT Estate Sale Services",
+      "streetAddress": "1908 Baylor Drive",
+      "city": "Richardson",
+      "state": "TX",
+      "zip": "75081",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Richardson/75081/5136510"
+        }
+      ],
+      "categories": [],
+      "lat": 32.9317246,
+      "lng": -96.6877199,
+      "approximate": false
+    },
+    {
+      "id": "30bf9380ac89a297",
+      "title": "50% OFF EVERYTHING SATURDAY!!!* Copper Canyon (Lewisville) MANSION has something for everyone !",
+      "company": "J & S Estate Sales",
+      "streetAddress": "527 Summitt Drive",
+      "city": "Copper Canyon",
+      "state": "TX",
+      "zip": "75077",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Lewisville/75077/5140269"
+        }
+      ],
+      "categories": [],
+      "lat": 33.097624,
+      "lng": -97.097518,
+      "approximate": false
+    },
+    {
+      "id": "5f203c81e7272911",
+      "title": "50% off Huge Trophy Club Sale",
+      "company": "Trophy Estate Sale",
+      "streetAddress": "104 Forest Hill Dr",
+      "city": "Trophy Club",
+      "state": "TX",
+      "zip": "76262",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "12:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Roanoke/76262/5150589"
+        }
+      ],
+      "categories": [],
+      "lat": 32.9908693,
+      "lng": -97.179411,
+      "approximate": false
+    },
+    {
+      "id": "6a7c87e7b68ace06",
+      "title": "50% OFF!! Helping Hands in Plano",
+      "company": "Helping Hands By Ms.kay",
+      "streetAddress": "1808 Lake Crest Ln",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75023",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75023/5160399"
+        }
+      ],
+      "categories": [],
+      "lat": 33.047921,
+      "lng": -96.7291045,
+      "approximate": false
+    },
+    {
+      "id": "210f27aaecff14c1",
+      "title": "Bedford Estate Sale",
+      "company": "John Hunnicutt",
+      "streetAddress": "1501 Martha Drive",
+      "city": "Bedford",
+      "state": "TX",
+      "zip": "76022",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Bedford/76022/5164782"
+        }
+      ],
+      "categories": [],
+      "lat": 32.833788,
+      "lng": -97.152344,
+      "approximate": false
+    },
+    {
+      "id": "cd8d08b305a5724d",
+      "title": "Grand Prairie Sale - Americana, Coins, Tools and Much More!",
+      "company": "My Jennarocity Estate Sales",
+      "streetAddress": "2037 Oxford Cr",
+      "city": "Grand Prairie",
+      "state": "TX",
+      "zip": "75051",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Grand-Prairie/75051/5146983"
+        }
+      ],
+      "categories": [
+        "tools",
+        "collectibles"
+      ],
+      "lat": 32.716087,
+      "lng": -97.017758,
+      "approximate": false
+    },
+    {
+      "id": "88a22b845ff7d3f1",
+      "title": "More hand stitched quilts found at Haltom City Estate sale",
+      "company": "Ritzy Red Auctions and Estate Sales",
+      "streetAddress": "2107 Higgens Drive",
+      "city": "Haltom City",
+      "state": "TX",
+      "zip": "76117",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Haltom-City/76117/5161356"
+        }
+      ],
+      "categories": [],
+      "lat": 32.790921,
+      "lng": -97.285769,
+      "approximate": false
+    },
+    {
+      "id": "be7d2bf774f3e817",
+      "title": "Plano Estate Sale",
+      "company": null,
+      "streetAddress": "4616 Brook Meadow Ln.",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75093",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75093/5163531"
+        }
+      ],
+      "categories": [],
+      "lat": 33.0208542,
+      "lng": -96.7884953,
+      "approximate": false
+    },
+    {
+      "id": "198d005543dd367e",
+      "title": "North Arlington Randol Mill Park Homes Subdivision",
+      "company": "Newhouse-Héron and Warr Estate Liquidators",
+      "streetAddress": "1605 Trailridge Drive 76012",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76012",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "12:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "12:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Arlington/76012/5166327"
+        }
+      ],
+      "categories": [],
+      "lat": 32.758084,
+      "lng": -97.143168,
+      "approximate": false
+    },
+    {
+      "id": "9a88a3b7fbc8c286",
+      "title": "Estate Sale",
+      "company": null,
+      "streetAddress": "203 Brookwood Dr.",
+      "city": "Duncanville",
+      "state": "TX",
+      "zip": "75116",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "08:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/duncanville/75116/estate-sale-2474002"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Duncanville/75116/5161788"
+        }
+      ],
+      "categories": [],
+      "lat": 32.6502264,
+      "lng": -96.9200159,
+      "approximate": false
+    },
+    {
+      "id": "b7eac799ac7dfa00",
+      "title": "Estate Sale",
+      "company": null,
+      "streetAddress": null,
+      "city": "Duncanville",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "08:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Dallas / Fort Worth",
+          "url": "https://www.craigslist.org/view/d/duncanville-estate-sale/8J4CFXAweFM1WwFyTEqWo1"
+        }
+      ],
+      "categories": [],
+      "lat": 32.6518004,
+      "lng": -96.9083366,
+      "approximate": true
+    },
+    {
+      "id": "03a23c9ee56839e3",
+      "title": "Multi-Family Estate Yard Sale",
+      "company": null,
+      "streetAddress": "118 Oriole Dr, Arlington, TX 76010, USA near 112 Parkview Dr",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "08:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Dallas / Fort Worth",
+          "url": "https://www.craigslist.org/view/d/arlington-multi-family-estate-yard-sale/9GAfgamAHYi3S72WWi2nqr"
+        }
+      ],
+      "categories": [],
+      "lat": 32.7355816,
+      "lng": -97.1071186,
+      "approximate": true
+    },
+    {
+      "id": "8d6371d408160485",
+      "title": "By Urban Potluck: 50% OFF SATURDAY Upscale Estate Sale in Mansfield's Kings Mill",
+      "company": "Urban Potluck Sales",
+      "streetAddress": "2211 Canterbury Drive",
+      "city": "Mansfield",
+      "state": "TX",
+      "zip": "76063",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "08:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "08:30",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Mansfield/76063/5159799"
+        }
+      ],
+      "categories": [],
+      "lat": 32.590178,
+      "lng": -97.102601,
+      "approximate": false
+    },
+    {
+      "id": "ed7d49c4e84ecee9",
+      "title": "Fabulous Finds El Campo",
+      "company": "Kazen Property Rescue Services",
+      "streetAddress": "4413 El Campo Ave",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76107",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "08:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:30",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "12:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76107/5166918"
+        }
+      ],
+      "categories": [],
+      "lat": 32.7363656,
+      "lng": -97.3847287,
+      "approximate": false
+    },
+    {
+      "id": "1e8fdaca3a6a5646",
+      "title": "~Incredible Bedford Estate Sale! Modern Italian, Leather, Jewelry, Fashion, Appliances, Accents, Art",
+      "company": "DFW Estate Liquidators",
+      "streetAddress": "3204 Rustic Meadows Dr",
+      "city": "Bedford",
+      "state": "TX",
+      "zip": "76021",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/bedford/76021/incredible-bedford-estate-sale-modern-2468032"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Bedford/76021/5117433"
+        }
+      ],
+      "categories": [
+        "jewelry",
+        "clothing",
+        "art"
+      ],
+      "lat": 32.8525587,
+      "lng": -97.101481,
+      "approximate": false
+    },
+    {
+      "id": "6b432fc68bc5f353",
+      "title": "~Massive Southlake Estate Sale! Collectors Dream! Lexus, Bang & Olufsen, MCM, Fashion, Paintings..",
+      "company": "DFW Estate Liquidators",
+      "streetAddress": "212 Timber Lake Dr",
+      "city": "Southlake",
+      "state": "TX",
+      "zip": "76092",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/southlake/76092/massive-southlake-estate-sale-collectors-2467702"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Southlake/76092/5114640"
+        }
+      ],
+      "categories": [
+        "collectibles",
+        "vehicles",
+        "clothing",
+        "art",
+        "electronics"
+      ],
+      "lat": 32.9390208,
+      "lng": -97.1633392,
+      "approximate": false
+    },
+    {
+      "id": "03d3345da4dc5205",
+      "title": "25% OFF SATURDAY - Preston Hollow Rarities",
+      "company": "Millo Estate Sales",
+      "streetAddress": "12114 Shiremont Drive",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75230",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75230/5160411"
+        }
+      ],
+      "categories": [],
+      "lat": 32.9136614,
+      "lng": -96.7929829,
+      "approximate": false
+    },
+    {
+      "id": "b26fbcc42db32da0",
+      "title": "50 % OFF L & J Estate Sale",
+      "company": "L & J Estate Sales, Llc.",
+      "streetAddress": "1046 Plateau Drive",
+      "city": "Duncanville",
+      "state": "TX",
+      "zip": "75116",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:30",
+          "end": "18:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Duncanville/75116/5123247"
+        }
+      ],
+      "categories": [],
+      "lat": 32.650435,
+      "lng": -96.9322798,
+      "approximate": false
+    },
+    {
+      "id": "13748b519ddd05f7",
+      "title": "Blue Moon 50% OFF Euless Thanksgiving Treasure Hunt",
+      "company": "Blue Moon Estate Sales - Ft. Worth Tx.",
+      "streetAddress": "12732 Red Cedar Drive",
+      "city": "Euless",
+      "state": "TX",
+      "zip": "76040",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "13:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Euless/76040/5159922"
+        }
+      ],
+      "categories": [],
+      "lat": 32.81783,
+      "lng": -97.087928,
+      "approximate": false
+    },
+    {
+      "id": "d8ea2ce61baf37bc",
+      "title": "Elite Legacy- Prestonwood- Patio, Henredon, Snap-on, Knives, Appliances, Women’s Clothing, Floral",
+      "company": "Elite Legacy Estate Sales",
+      "streetAddress": "7148 Hunters Ridge Drive",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75248",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "11:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75248/5140161"
+        }
+      ],
+      "categories": [
+        "tools",
+        "furniture",
+        "clothing"
+      ],
+      "lat": 32.9560052,
+      "lng": -96.7847125,
+      "approximate": false
+    },
+    {
+      "id": "9f18e6e891b9c280",
+      "title": "Estate Sale by Marian",
+      "company": null,
+      "streetAddress": "5901 Royalcrest Dr",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76017",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Arlington/76017/5154264"
+        }
+      ],
+      "categories": [],
+      "lat": 32.650235,
+      "lng": -97.131658,
+      "approximate": false
+    },
+    {
+      "id": "77be28ce1c798c9d",
+      "title": "Estate Sale- Monticello",
+      "company": null,
+      "streetAddress": null,
+      "city": "FORT WORTH",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Dallas / Fort Worth",
+          "url": "https://www.craigslist.org/view/d/fort-worth-estate-sale-monticello/eTRjfWLNaHqsPpKTaLhvGf"
+        }
+      ],
+      "categories": [],
+      "lat": 32.753177,
+      "lng": -97.3327459,
+      "approximate": true
+    },
+    {
+      "id": "2383175fe77ff0a5",
+      "title": "LANN Estate Sales - Bent Tree North",
+      "company": "Lann Estate Sales",
+      "streetAddress": "5012 Bellerive Drive",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75287",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75287/5158911"
+        }
+      ],
+      "categories": [],
+      "lat": 32.993406,
+      "lng": -96.822303,
+      "approximate": false
+    },
+    {
+      "id": "1056959962c26dc7",
+      "title": "Living Estate Sale",
+      "company": null,
+      "streetAddress": "2167 Southern Pl",
+      "city": "Carrollton",
+      "state": "TX",
+      "zip": "75006",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "03:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "03:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "03:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/carrollton/75006/living-estate-sale-2473730"
+        }
+      ],
+      "categories": [],
+      "lat": 32.9755787,
+      "lng": -96.8809726,
+      "approximate": false
+    },
+    {
+      "id": "f5906d411fc84284",
+      "title": "MASSIVE ESTATE SALE IN 4000 SQFT RACNH HOME PACKED FOR 60 YEARS!",
+      "company": null,
+      "streetAddress": "4109 Cooper Creek Rd",
+      "city": "Denton",
+      "state": "TX",
+      "zip": "76208",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "03:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "03:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "03:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/denton/76208/massive-estate-sale-in-4000-2474567"
+        }
+      ],
+      "categories": [],
+      "lat": 33.2591537,
+      "lng": -97.0795122,
+      "approximate": false
+    },
+    {
+      "id": "e9b6bb0dddd5a5ba",
+      "title": "Monticello Estate Sale",
+      "company": null,
+      "streetAddress": "3766 W. 6th Street",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76107",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/fort-worth/76107/estate-sale-monticello-3766-w-2474440"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76107/5162793"
+        }
+      ],
+      "categories": [],
+      "lat": 32.752455,
+      "lng": -97.3729967,
+      "approximate": false
+    },
+    {
+      "id": "3bfa7e6776de0515",
+      "title": "North Dallas Estate Sale",
+      "company": null,
+      "streetAddress": null,
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75244",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "13:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75244/5158272"
+        }
+      ],
+      "categories": [],
+      "lat": 32.9238138,
+      "lng": -96.8375907,
+      "approximate": true
+    },
+    {
+      "id": "8db86517e76e44c0",
+      "title": "Something for Everybody",
+      "company": "Texoma Auctions & Estate Sales",
+      "streetAddress": "1808 Tyler Ave",
+      "city": "Euless",
+      "state": "TX",
+      "zip": "76040",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "14:45"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "14:45"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "14:45"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Euless/76040/5165676"
+        }
+      ],
+      "categories": [],
+      "lat": 32.828754,
+      "lng": -97.112078,
+      "approximate": false
+    },
+    {
+      "id": "0eb294fb7e3fcaba",
+      "title": "Stella’s Estate Sales",
+      "company": "Stella's Estate Sales LLC.",
+      "streetAddress": "3601 Wendell Dr",
+      "city": "North Richland Hills",
+      "state": "TX",
+      "zip": "76117",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Haltom-City/76117/5118684"
+        }
+      ],
+      "categories": [],
+      "lat": 32.815303,
+      "lng": -97.254982,
+      "approximate": false
+    },
+    {
+      "id": "ac3fe73ab9312bde",
+      "title": "Tally Ho",
+      "company": "Sunshine Estate Sales",
+      "streetAddress": "2325 San Marcus, Dallas",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75228",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75228/5162943"
+        }
+      ],
+      "categories": [],
+      "lat": 32.831858,
+      "lng": -96.677018,
+      "approximate": false
+    },
+    {
+      "id": "15f3d21f1192af98",
+      "title": "Woo Hoo! Sale for Everyone!",
+      "company": "Kite-like Estate Sales LLC",
+      "streetAddress": "1705 Rainbow Drive",
+      "city": "Richardson",
+      "state": "TX",
+      "zip": "75081",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Richardson/75081/5163069"
+        }
+      ],
+      "categories": [],
+      "lat": 32.9413364,
+      "lng": -96.6929557,
+      "approximate": false
+    },
+    {
+      "id": "e63cc7d0030fdf06",
+      "title": "Antique Christmas on my Porch",
+      "company": null,
+      "streetAddress": "1801 Rockridge Terrace",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76110",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:30",
+          "end": "16:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76110/5165385"
+        }
+      ],
+      "categories": [],
+      "lat": 32.7254914,
+      "lng": -97.3527238,
+      "approximate": false
+    },
+    {
+      "id": "a4440405f38113a9",
+      "title": "Annabelle’s Treasures",
+      "company": "Annabelle's Treasures",
+      "streetAddress": "5600 Egg Farm Rd #430",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76244",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Keller/76244/5154666"
+        }
+      ],
+      "categories": [],
+      "lat": 32.943031,
+      "lng": -97.258341,
+      "approximate": false
+    },
+    {
+      "id": "80bad8b31b559ee1",
+      "title": "Duncanville Estate Sale coins, jewelry, comics, Bev Doolittle",
+      "company": "Kitchens To Closets Estate Sales",
+      "streetAddress": null,
+      "city": "Duncanville",
+      "state": "TX",
+      "zip": "75116",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "11:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Duncanville/75116/5154525"
+        }
+      ],
+      "categories": [
+        "jewelry",
+        "collectibles"
+      ],
+      "lat": 32.6572383,
+      "lng": -96.9121977,
+      "approximate": true
+    },
+    {
+      "id": "371568f2a726e3c3",
+      "title": "ELS Etate Sales ... Another Beautiful Home Filled with Holiday Cheer!",
+      "company": "ELS Estate Sales",
+      "streetAddress": "5908 Still Forest Dr",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75252",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75252/5163783"
+        }
+      ],
+      "categories": [],
+      "lat": 32.9923218,
+      "lng": -96.8068265,
+      "approximate": false
+    },
+    {
+      "id": "ef2570f39c72c899",
+      "title": "Estate Sales by Anthony ... Another Great Sale",
+      "company": "Estate Sales By Anthony",
+      "streetAddress": "Preston vineyard dr",
+      "city": "Frisco",
+      "state": "TX",
+      "zip": "75035",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "18:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Frisco/75035/5162727"
+        }
+      ],
+      "categories": [],
+      "lat": 33.136182,
+      "lng": -96.792207,
+      "approximate": false
+    },
+    {
+      "id": "c4e6bad9cfe373f0",
+      "title": "James Major Estate Sales : Bachelor Pad Blowout in Richardson",
+      "company": "James Major Estate Sales",
+      "streetAddress": "809 Windsong Trail",
+      "city": "Richardson",
+      "state": "TX",
+      "zip": "75081",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "12:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Richardson/75081/5160756"
+        }
+      ],
+      "categories": [],
+      "lat": 32.9427049,
+      "lng": -96.7137708,
+      "approximate": false
+    },
+    {
+      "id": "6f65516474e18361",
+      "title": "Jewel Box Estate Sale",
+      "company": "The Jewel Box",
+      "streetAddress": "4903 Bellerive",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75287",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75287/5166312"
+        }
+      ],
+      "categories": [],
+      "lat": 32.99424,
+      "lng": -96.824728,
+      "approximate": false
+    },
+    {
+      "id": "97e99feb6aedfe64",
+      "title": "Opening up at 75 off 11/20 Shop lots of beautiful art, furniture, so much more By appointment only!",
+      "company": "Jackson And Co",
+      "streetAddress": "N/A",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75225",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75225/5161557"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "art"
+      ],
+      "lat": 32.864454,
+      "lng": -96.81022039999999,
+      "approximate": false
+    },
+    {
+      "id": "ecae07eb664f1bd1",
+      "title": "Our RoadRunner is racing towards Highland Village with deals worth Chasing!",
+      "company": "Wright Choice Estate Sales",
+      "streetAddress": "2980 Hillside Dr",
+      "city": "Highland Village",
+      "state": "TX",
+      "zip": "75077",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Lewisville/75077/5161068"
+        }
+      ],
+      "categories": [],
+      "lat": 33.0914397,
+      "lng": -97.0631559,
+      "approximate": false
+    },
+    {
+      "id": "d92f8211525d944e",
+      "title": "Plaid Door Christmas Market",
+      "company": "Estate Sales by Elaine",
+      "streetAddress": "5923 Royal Lane",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75230",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "12:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/dallas/75230/plaid-door-christmas-market-2474219"
+        }
+      ],
+      "categories": [],
+      "lat": 32.8946172,
+      "lng": -96.806983,
+      "approximate": false
+    },
+    {
+      "id": "88683feb64e8442f",
+      "title": "Relocating Everything must go",
+      "company": "Bright Ridge Estate Sales",
+      "streetAddress": "1713 Creek Point Dr",
+      "city": "Lewisville",
+      "state": "TX",
+      "zip": "75067",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Lewisville/75067/5154030"
+        }
+      ],
+      "categories": [],
+      "lat": 33.026016,
+      "lng": -97.032168,
+      "approximate": false
+    },
+    {
+      "id": "c86714149bfc44a0",
+      "title": "Relocating everything must go!",
+      "company": "Bright Ridge Estate Sales",
+      "streetAddress": "1713 Creekpoint Dr",
+      "city": "Lewisville",
+      "state": "TX",
+      "zip": "75067",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:30"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/lewisville/75067/relocating-everything-must-go-2472890"
+        }
+      ],
+      "categories": [],
+      "lat": 33.0265888,
+      "lng": -97.032282,
+      "approximate": false
+    },
+    {
+      "id": "a5bfc531856c1e21",
+      "title": "River Oaks Estate Sale - Brass, Christmas & More!",
+      "company": "Cowtown Liquidation",
+      "streetAddress": "5415 Pomona Ave",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76114",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76114/5145414"
+        }
+      ],
+      "categories": [],
+      "lat": 32.787562,
+      "lng": -97.401853,
+      "approximate": false
+    },
+    {
+      "id": "556fec54a5ff6918",
+      "title": "Weir Family Personal Property Sale — Repriced, Owner-Run, Furniture & Decor in Dallas",
+      "company": null,
+      "streetAddress": "4800 Spring Valley Road",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75244",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "11:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75244/5164257"
+        }
+      ],
+      "categories": [
+        "furniture"
+      ],
+      "lat": 32.938712,
+      "lng": -96.828842,
+      "approximate": false
+    },
+    {
+      "id": "1caac9641240a4aa",
+      "title": "Multi Estate Clearance Sale - Fort Worth Odd Fellows Hall",
+      "company": null,
+      "streetAddress": "1501 Hemphill St",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76104",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "16:00",
+          "end": "20:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "11:00",
+          "end": "19:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "13:00",
+          "end": "20:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76104/5150721"
+        }
+      ],
+      "categories": [],
+      "lat": 32.7278756,
+      "lng": -97.3311963,
+      "approximate": false
+    },
+    {
+      "id": "0b34bed1e6fcef4f",
+      "title": "Estate Sale",
+      "company": null,
+      "streetAddress": "1310 Briarmeade Dr",
+      "city": "Duncanville",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "9:00 (AM/PM unspecified)",
+          "end": null
+        },
+        {
+          "date": "2026-11-21",
+          "start": "9:00 (AM/PM unspecified)",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Dallas / Fort Worth",
+          "url": "https://www.craigslist.org/view/d/duncanville-estate-sale/8QqtAFZTibPxq7bq8fAFk8"
+        }
+      ],
+      "categories": [],
+      "lat": 32.6310642,
+      "lng": -96.9391299,
+      "approximate": false
+    },
+    {
+      "id": "9b588dcdffa91f6c",
+      "title": "Knox home sale 1of 3",
+      "company": "3-g's Estate Sales",
+      "streetAddress": "601 Rhonda rd.",
+      "city": "Keller",
+      "state": "TX",
+      "zip": "76248",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "01:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Keller/76248/5168400"
+        }
+      ],
+      "categories": [],
+      "lat": 32.942432,
+      "lng": -97.2149905,
+      "approximate": false
+    },
+    {
+      "id": "d4149b9c4cc3a953",
+      "title": "Downsizing One Day Flash Sale -- Loads of Vintage Items for Resellers and Collectors",
+      "company": null,
+      "streetAddress": null,
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75023",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "08:30",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75023/5159601"
+        }
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "lat": 33.0579749,
+      "lng": -96.7454322,
+      "approximate": true
+    },
+    {
+      "id": "c20fbdc8538e9993",
+      "title": "Estate Sale",
+      "company": null,
+      "streetAddress": "1505 Starshadow Drive Richardson 75081 near Blake",
+      "city": "Richardson",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "08:30",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Dallas / Fort Worth",
+          "url": "https://www.craigslist.org/view/d/richardson-estate-sale/484oMifrPsfPknQbsgf8e8"
+        }
+      ],
+      "categories": [],
+      "lat": 32.9481789,
+      "lng": -96.7297206,
+      "approximate": true
+    },
+    {
+      "id": "510f9b0d3bbff46d",
+      "title": "MASSIVE ESTATE SALE IN NOSTALGIC NORTH DENTON RANCH HOME PACKED FOR NEARLY 60 YEARS!",
+      "company": "Brent's Estate Sales",
+      "streetAddress": "4109 COOPER CREEK RD",
+      "city": "Denton",
+      "state": "TX",
+      "zip": "76208",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "08:30",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "12:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Denton/76208/5157231"
+        }
+      ],
+      "categories": [],
+      "lat": 33.2591537,
+      "lng": -97.0795122,
+      "approximate": false
+    },
+    {
+      "id": "a1e9b8fede2a2df1",
+      "title": "2ND Chance NRHills 50% off",
+      "company": null,
+      "streetAddress": "5732 Havana Dr",
+      "city": "North Richland Hills",
+      "state": "TX",
+      "zip": "76180",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/fort-worth/76180/2nd-chance-nrhills-sale-starting-2474452"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/North-Richland-Hills/76180/5165376"
+        }
+      ],
+      "categories": [],
+      "lat": 32.8511293,
+      "lng": -97.2328882,
+      "approximate": false
+    },
+    {
+      "id": "9588f8e0bb5fa8d6",
+      "title": "FABULOUS ARLINGTON ESTATE SALE!! SPORTS MEMORABILIA, VINTAGE TOYS & GAMES, JEWELRY & MORE!!!!",
+      "company": "Serenade Estate Sales",
+      "streetAddress": "5311 High Trail Ct",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76017",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "11:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-23",
+          "start": "09:00",
+          "end": "12:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Arlington/76017/5153271"
+        }
+      ],
+      "categories": [
+        "jewelry",
+        "collectibles",
+        "toys & games"
+      ],
+      "lat": 32.6660864,
+      "lng": -97.1886115,
+      "approximate": false
+    },
+    {
+      "id": "77f896d020937ccc",
+      "title": "GARAGE & ESTATE SALE",
+      "company": null,
+      "streetAddress": "3217 Green Ridge near Willowview",
+      "city": "Desoto",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Dallas / Fort Worth",
+          "url": "https://www.craigslist.org/view/d/fort-worth-garage-estate-sale/c86LfWwRQuEoYrYw4w2pBh"
+        }
+      ],
+      "categories": [],
+      "lat": 32.5897831,
+      "lng": -96.8570183,
+      "approximate": true
+    },
+    {
+      "id": "8cfe20b069385d64",
+      "title": "Higher Ground - Christmas, Like new Clothes, New Shoes, & Tons of Jewelry!",
+      "company": "Higher Ground Estate Sales (Formerly Discovering Brighter Horizons)",
+      "streetAddress": "3205 Watley",
+      "city": "Garland",
+      "state": "TX",
+      "zip": "75043",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Garland/75043/5154885"
+        }
+      ],
+      "categories": [
+        "jewelry",
+        "clothing"
+      ],
+      "lat": 32.878625,
+      "lng": -96.616802,
+      "approximate": false
+    },
+    {
+      "id": "7d63dc7792667483",
+      "title": "Huge estate in West Fort Worth off Byers Ave and Roaring Springs Rd",
+      "company": "Estate & Specialty Sales LLC",
+      "streetAddress": null,
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76107",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76107/5149647"
+        }
+      ],
+      "categories": [],
+      "lat": 32.7393726,
+      "lng": -97.3792404,
+      "approximate": true
+    },
+    {
+      "id": "3b8dac4d070328b8",
+      "title": "JUDY HIGDON ESTATE SALE SERVICES, LLC",
+      "company": "Judy Higdon Estate Sales",
+      "streetAddress": "1137 Conveyor Lane, Suite 114",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75237",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75237/5162565"
+        }
+      ],
+      "categories": [],
+      "lat": 32.806064,
+      "lng": -96.856081,
+      "approximate": false
+    },
+    {
+      "id": "932662fed89e8d9b",
+      "title": "Mid-Month Warehouse Sale!",
+      "company": "Chickadee Lane Estate And Moving Sales, LLC",
+      "streetAddress": "535 Talbert Dr",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75093",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/plano/75093/midmonth-warehouse-sale-2474588"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75093/5166438"
+        }
+      ],
+      "categories": [],
+      "lat": 33.009628,
+      "lng": -96.778876,
+      "approximate": false
+    },
+    {
+      "id": "ce881c72715069d8",
+      "title": "Moving and Downsizing Estate Private Sale",
+      "company": null,
+      "streetAddress": "3732 Sevenoaks Dr",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76244",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Keller/76244/5166942"
+        }
+      ],
+      "categories": [],
+      "lat": 32.9023914,
+      "lng": -97.3031223,
+      "approximate": false
+    },
+    {
+      "id": "80ec354dc4a23ea1",
+      "title": "Moving/Estate sale Saturday 11/21 9:00 am - 2:00 pm Carrollton",
+      "company": null,
+      "streetAddress": "1829 Melton Drive",
+      "city": "Carrollton",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Dallas / Fort Worth",
+          "url": "https://www.craigslist.org/view/d/carrollton-moving-estate-sale-saturday/51vTyvre2VZgC4HGuVk1UD"
+        }
+      ],
+      "categories": [],
+      "lat": 33.0410945,
+      "lng": -96.8849473,
+      "approximate": false
+    },
+    {
+      "id": "b0d4b0bea60fe663",
+      "title": "Kates Greats Modern Mini Sale",
+      "company": "Kate's Greats",
+      "streetAddress": "3501 Barber Creek Court",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76244",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Keller/76244/5163714"
+        }
+      ],
+      "categories": [],
+      "lat": 32.942968,
+      "lng": -97.2846,
+      "approximate": false
+    },
+    {
+      "id": "2081835b521a3efd",
+      "title": "East Dallas Sale by Blue Ribbon",
+      "company": "Blue Ribbon Estate Sales",
+      "streetAddress": "2441 Pinebluff Dr",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75228",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "11:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "11:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75228/5164200"
+        }
+      ],
+      "categories": [],
+      "lat": 32.8042785,
+      "lng": -96.7045451,
+      "approximate": false
+    },
+    {
+      "id": "3e502141f7d1ead5",
+      "title": "Estate SALE Selling lots of items Contact for BUYING",
+      "company": null,
+      "streetAddress": null,
+      "city": "Bedford",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "start": "Anytime",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Dallas / Fort Worth",
+          "url": "https://www.craigslist.org/view/d/hurst-estate-sale-selling-lots-of-items/kKbthyHar7Uh65zH3mm54Z"
+        }
+      ],
+      "categories": [],
+      "lat": 32.844017,
+      "lng": -97.1430671,
+      "approximate": true
+    },
+    {
+      "id": "6d176e2c350eeb23",
+      "title": "$1 EACH MASSIVE CLOTHING & SHOE SALE!! MENS, WOMENS & CHILDREN SIZES NEWBORN - 6XL!",
+      "company": "Tiffany Nicole's Estate Sales",
+      "streetAddress": "4002 Commonwealth Drive",
+      "city": "Garland",
+      "state": "TX",
+      "zip": "75043",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-24",
+          "start": "09:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-25",
+          "start": "09:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-27",
+          "start": "09:30",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Garland/75043/5168301"
+        }
+      ],
+      "categories": [
+        "clothing"
+      ],
+      "lat": 32.8684859,
+      "lng": -96.6153066,
+      "approximate": false
+    },
+    {
+      "id": "cf771fca93be4e7c",
+      "title": "James Major presents Santa’s Workshop estate sale in Mansfield",
+      "company": "James Major Estate Sales",
+      "streetAddress": null,
+      "city": "Mansfield",
+      "state": "TX",
+      "zip": "76063",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "08:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "08:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "12:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Mansfield/76063/5164554"
+        }
+      ],
+      "categories": [],
+      "lat": 32.5660053,
+      "lng": -97.1262109,
+      "approximate": true
+    },
+    {
+      "id": "aeecb0444133422b",
+      "title": "Preston Hollow: DEMOLITION SALE: Unbeatable Deals by Dayspring",
+      "company": "Dayspring Estate Sales",
+      "streetAddress": null,
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75230",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "08:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "08:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "08:30",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75230/5160396"
+        }
+      ],
+      "categories": [],
+      "lat": 32.8972495,
+      "lng": -96.7955588,
+      "approximate": true
+    },
+    {
+      "id": "304f9dc77d01baf9",
+      "title": "~Incredible Denton Estate Sale! More info coming soon!",
+      "company": "DFW ESTATE LIQUIDATORS",
+      "streetAddress": "10500 Cascade Dr",
+      "city": "Denton",
+      "state": "TX",
+      "zip": "76207",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/denton-/76207/incredible-denton-estate-sale-more-2468441"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Denton/76207/5122920"
+        }
+      ],
+      "categories": [],
+      "lat": 33.1437328,
+      "lng": -97.236173,
+      "approximate": false
+    },
+    {
+      "id": "01c05ce21ccaac37",
+      "title": "~Massive *2 Phase* Garland, TX -Black Friday Weekend- Estate Sale! More info coming soon!",
+      "company": "DFW Estate Liquidators",
+      "streetAddress": null,
+      "city": "Garland",
+      "state": "TX",
+      "zip": "75041",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Garland/75041/5114622"
+        }
+      ],
+      "categories": [],
+      "lat": 32.8799326,
+      "lng": -96.6494099,
+      "approximate": true
+    },
+    {
+      "id": "f903d523e89bc65b",
+      "title": "ABOUT THE HOUSE in Highland Park",
+      "company": "About The House",
+      "streetAddress": null,
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75205",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75205/5129922"
+        }
+      ],
+      "categories": [],
+      "lat": 32.8366956,
+      "lng": -96.7888596,
+      "approximate": true
+    },
+    {
+      "id": "b99d78f12d5f1c32",
+      "title": "BLACK FRIDAY SALE! COLLEYVILLE | UPSCALE TRADITIONAL ESTATE FILLED WITH TIMELESS TREASURES!",
+      "company": "Lori's Estate Sales",
+      "streetAddress": null,
+      "city": "Colleyville",
+      "state": "TX",
+      "zip": "76034",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-30",
+          "start": "10:00",
+          "end": "13:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Colleyville/76034/5142741"
+        }
+      ],
+      "categories": [],
+      "lat": 32.8871682,
+      "lng": -97.1409625,
+      "approximate": true
+    },
+    {
+      "id": "d3fedafa7b9d917d",
+      "title": "Black Friday Signature Estate Sale",
+      "company": "When Pigs Fly Estate, Consignment & Auctions",
+      "streetAddress": null,
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75207",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75207/5013480"
+        }
+      ],
+      "categories": [],
+      "lat": 32.7891032,
+      "lng": -96.8216938,
+      "approximate": true
+    },
+    {
+      "id": "959f00f7e370f8b8",
+      "title": "Denton Black Friday Estate Sale Stunning Vtg. Viking Swung Vases, Blenko Glass, Saladmaster &More",
+      "company": "Kitty Wade Estate Sales",
+      "streetAddress": null,
+      "city": "Denton",
+      "state": "TX",
+      "zip": "76209",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Denton/76209/5155749"
+        }
+      ],
+      "categories": [
+        "kitchen"
+      ],
+      "lat": 33.2285581,
+      "lng": -97.1031977,
+      "approximate": true
+    },
+    {
+      "id": "09eaa9f45509e3de",
+      "title": "Plano Remodeling Spectacular Black Friday Weekend",
+      "company": "Treasures Once More, LLC",
+      "streetAddress": null,
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75023",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75023/5162430"
+        }
+      ],
+      "categories": [],
+      "lat": 33.0579749,
+      "lng": -96.7454322,
+      "approximate": true
+    },
+    {
+      "id": "4a8b36b6b63c940c",
+      "title": "Plano Remodeling Spectacular Black Friday Weekend",
+      "company": "Treasures Once More Estate Sales",
+      "streetAddress": null,
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75023",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/plano/75023/plano-remodeling-spectacular-black-friday-2474108"
+        }
+      ],
+      "categories": [],
+      "lat": 33.0579749,
+      "lng": -96.7454322,
+      "approximate": true
+    },
+    {
+      "id": "274ec09330214d26",
+      "title": "Start “Black Friday” with us! Fort Worth/Texas History and More!",
+      "company": null,
+      "streetAddress": null,
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76109",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76109/5153937"
+        }
+      ],
+      "categories": [],
+      "lat": 32.7025269,
+      "lng": -97.3809922,
+      "approximate": true
+    },
+    {
+      "id": "a2f0046e04618118",
+      "title": "Annie's Estate Sales ~ Arlington",
+      "company": "Annie's Estate Sales",
+      "streetAddress": null,
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76017",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "11:30",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Arlington/76017/5120742"
+        }
+      ],
+      "categories": [],
+      "lat": 32.6630829,
+      "lng": -97.1614206,
+      "approximate": true
+    },
+    {
+      "id": "d4475059aff12f8a",
+      "title": "Arlington Estate Sale",
+      "company": "Cowtown Liquidation",
+      "streetAddress": null,
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76013",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Arlington/76013/5163087"
+        }
+      ],
+      "categories": [],
+      "lat": 32.7223455,
+      "lng": -97.142663,
+      "approximate": true
+    },
+    {
+      "id": "e7d26568e2b5c40e",
+      "title": "Black Friday Warehouse Sale : by Treme",
+      "company": "Treme Realty LLC",
+      "streetAddress": null,
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76017",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Arlington/76017/5158326"
+        }
+      ],
+      "categories": [],
+      "lat": 32.6630829,
+      "lng": -97.1614206,
+      "approximate": true
+    },
+    {
+      "id": "f356dd3ddcf8883d",
+      "title": "FABULOUS MID CENTURY TIME CAPSULE in PRESTONWOOD w/ANOTHER’S TREASURE ESTATE SALES",
+      "company": "Another's Treasure Estate Sales",
+      "streetAddress": null,
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75093",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "11:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "11:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "11:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75093/5167116"
+        }
+      ],
+      "categories": [],
+      "lat": 33.0395247,
+      "lng": -96.8103301,
+      "approximate": true
+    },
+    {
+      "id": "44781583afdd37a6",
+      "title": "7 Straight Days-Largest Vintage Sale of the Year! 63 Years of Collecting",
+      "company": "Kitty Wade Estate Sales",
+      "streetAddress": null,
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76114",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-30",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-01",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-02",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76114/5105760"
+        }
+      ],
+      "categories": [],
+      "lat": 32.7737534,
+      "lng": -97.4011847,
+      "approximate": true
+    },
+    {
+      "id": "5d8a059bd75e7055",
+      "title": "Plano: Unbeatable Deals by Dayspring",
+      "company": "Dayspring Estate Sales",
+      "streetAddress": null,
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75025",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "08:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "08:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "08:30",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75025/5156826"
+        }
+      ],
+      "categories": [],
+      "lat": 33.0902532,
+      "lng": -96.7464336,
+      "approximate": true
+    },
+    {
+      "id": "73bb8cbc7214f60c",
+      "title": "DESIGNER DREAMS & CHRISTMAS THINGS IN ARGYLE",
+      "company": "HammerDown Estate Sales",
+      "streetAddress": null,
+      "city": "Argyle",
+      "state": "TX",
+      "zip": "76226",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Argyle/76226/5161242"
+        }
+      ],
+      "categories": [],
+      "lat": 33.1404442,
+      "lng": -97.1695557,
+      "approximate": true
+    },
+    {
+      "id": "6bb7d2547f3d5e5b",
+      "title": "Groovy Mid Century Time Capsule Estate Sale on Wood Cliff Ct.",
+      "company": "The Groovy Estate Sale Company",
+      "streetAddress": null,
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76012",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Arlington/76012/5166783"
+        }
+      ],
+      "categories": [],
+      "lat": 32.7460752,
+      "lng": -97.1413755,
+      "approximate": true
+    },
+    {
+      "id": "112e1359aaffa0b8",
+      "title": "NYM meets Handley",
+      "company": "Not Your Mama's Estate Liquidators L.l.c.",
+      "streetAddress": null,
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76112",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "12:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76112/5135757"
+        }
+      ],
+      "categories": [],
+      "lat": 32.7583875,
+      "lng": -97.2270583,
+      "approximate": true
+    },
+    {
+      "id": "08af83067aed0314",
+      "title": "Bulls-Eye Estate Sales of Texas",
+      "company": "Bulls-Eye Estate Sales of Texas",
+      "streetAddress": null,
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75229",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "10:00",
+          "end": "17:30"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "17:30"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "17:30"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75229/5120187"
+        }
+      ],
+      "categories": [],
+      "lat": 32.8918835,
+      "lng": -96.864441,
+      "approximate": true
+    }
+  ]
+}

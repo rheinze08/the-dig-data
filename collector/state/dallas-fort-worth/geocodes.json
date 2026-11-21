@@ -499,6 +499,11 @@
     "lng": -96.806983,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:601 rhonda rd:76248": {
+    "lat": 32.942432,
+    "lng": -97.2149905,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:678 cr 1110:76234": {
     "lat": 33.238079,
     "lng": -97.674564,

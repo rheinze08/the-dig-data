@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-20",
-  "collectedAt": "2026-11-21T01:26:19.206Z",
+  "collectedAt": "2026-11-21T02:27:41.135Z",
   "window": {
     "start": "2026-11-20",
     "end": "2026-12-03",
@@ -62,6 +62,7 @@
       "company": "Virtue Estate Sales",
       "streetAddress": "14219 Ridgewood Lake Court",
       "city": "Houston",
+      "state": "TX",
       "zip": "77062",
       "addressHidden": false,
       "sessions": [
@@ -92,6 +93,9 @@
           "url": "https://www.estatesales.net/TX/Houston/77062/5135811"
         }
       ],
+      "categories": [
+        "collectibles"
+      ],
       "lat": 29.5907995,
       "lng": -95.135576,
       "approximate": false
@@ -102,6 +106,7 @@
       "company": "C & M Estate Sales",
       "streetAddress": "5530 cr 166",
       "city": "Alvin",
+      "state": "TX",
       "zip": "77511",
       "addressHidden": false,
       "sessions": [
@@ -132,6 +137,7 @@
           "url": "https://www.estatesales.net/TX/Alvin/77511/5162373"
         }
       ],
+      "categories": [],
       "lat": 29.373381,
       "lng": -95.207595,
       "approximate": false
@@ -142,6 +148,7 @@
       "company": "Family Tree Estate Sales",
       "streetAddress": "3119 SilverSprings Dr.",
       "city": "La Porte",
+      "state": "TX",
       "zip": "77571",
       "addressHidden": false,
       "sessions": [
@@ -167,6 +174,7 @@
           "url": "https://www.estatesales.net/TX/La-Porte/77571/5157048"
         }
       ],
+      "categories": [],
       "lat": 29.626681,
       "lng": -95.024068,
       "approximate": false
@@ -177,6 +185,7 @@
       "company": "Treasure Hunt Auction Co.",
       "streetAddress": "1425 Columbia St",
       "city": "Houston",
+      "state": "TX",
       "zip": "77008",
       "addressHidden": false,
       "sessions": [
@@ -207,6 +216,7 @@
           "url": "https://www.estatesales.net/TX/Houston/77008/5152926"
         }
       ],
+      "categories": [],
       "lat": 29.797206,
       "lng": -95.3933285,
       "approximate": false
@@ -217,6 +227,7 @@
       "company": "A And S Estate Sales",
       "streetAddress": "3318 Deerwood lane",
       "city": "Missouri City",
+      "state": "TX",
       "zip": "77459",
       "addressHidden": false,
       "sessions": [
@@ -237,6 +248,7 @@
           "url": "https://www.estatesales.net/TX/Missouri-City/77459/5164497"
         }
       ],
+      "categories": [],
       "lat": 29.5706355,
       "lng": -95.5388768,
       "approximate": false
@@ -247,6 +259,7 @@
       "company": "Heritage Estate Sales",
       "streetAddress": "1205 Camden Rd",
       "city": "Pasadena",
+      "state": "TX",
       "zip": "77502",
       "addressHidden": false,
       "sessions": [
@@ -272,6 +285,9 @@
           "url": "https://www.estatesales.net/TX/Pasadena/77502/5161326"
         }
       ],
+      "categories": [
+        "collectibles"
+      ],
       "lat": 29.6736904,
       "lng": -95.1962186,
       "approximate": false
@@ -282,6 +298,7 @@
       "company": "Yolanda's Estate Sales",
       "streetAddress": "2505 Shadybend Dr",
       "city": "Pearland",
+      "state": "TX",
       "zip": "77581",
       "addressHidden": false,
       "sessions": [
@@ -307,6 +324,7 @@
           "url": "https://www.estatesales.net/TX/Pearland/77581/5160993"
         }
       ],
+      "categories": [],
       "lat": 29.5499358,
       "lng": -95.2589919,
       "approximate": false
@@ -317,6 +335,7 @@
       "company": "Dominique Kendall Estate Sales",
       "streetAddress": "4204 Oberlin Street",
       "city": "West University Place",
+      "state": "TX",
       "zip": "77005",
       "addressHidden": false,
       "sessions": [
@@ -337,6 +356,7 @@
           "url": "https://www.estatesales.net/TX/Houston/77005/5161413"
         }
       ],
+      "categories": [],
       "lat": 29.7117941,
       "lng": -95.4454381,
       "approximate": false
@@ -347,6 +367,7 @@
       "company": "Yolanda's Estate Sales",
       "streetAddress": "4307 Firestone Dr.",
       "city": "Houston",
+      "state": "TX",
       "zip": "77035",
       "addressHidden": false,
       "sessions": [
@@ -372,6 +393,7 @@
           "url": "https://www.estatesales.net/TX/Houston/77035/5133270"
         }
       ],
+      "categories": [],
       "lat": 29.6716301,
       "lng": -95.4492793,
       "approximate": false
@@ -382,6 +404,7 @@
       "company": "Two Moms Estate Sales",
       "streetAddress": "9115 Marlive Ln",
       "city": "Houston",
+      "state": "TX",
       "zip": "77025",
       "addressHidden": false,
       "sessions": [
@@ -402,6 +425,7 @@
           "url": "https://www.estatesales.net/TX/Houston/77025/5164365"
         }
       ],
+      "categories": [],
       "lat": 29.6828267,
       "lng": -95.4373251,
       "approximate": false
@@ -412,6 +436,7 @@
       "company": "Sharp Family Estate Sales",
       "streetAddress": "2014 Engelmohr st",
       "city": "Houston",
+      "state": "TX",
       "zip": "77054",
       "addressHidden": false,
       "sessions": [
@@ -442,6 +467,9 @@
           "url": "https://www.estatesales.net/TX/Houston/77054/5159607"
         }
       ],
+      "categories": [
+        "furniture"
+      ],
       "lat": 29.681483,
       "lng": -95.4012959,
       "approximate": false
@@ -452,6 +480,7 @@
       "company": "Elite Estate Sales Inc",
       "streetAddress": "6635 Sewanee Ave",
       "city": "Houston",
+      "state": "TX",
       "zip": "77005",
       "addressHidden": false,
       "sessions": [
@@ -476,6 +505,7 @@
           "url": "https://www.estatesales.net/TX/Houston/77005/5071545"
         }
       ],
+      "categories": [],
       "lat": 29.707844,
       "lng": -95.430615,
       "approximate": false
@@ -486,18 +516,19 @@
       "company": "Kingdom Realty Estate Sales",
       "streetAddress": "1915 Doliver Cir",
       "city": "Missouri City",
+      "state": "TX",
       "zip": "77489",
       "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-20",
           "start": "10:00",
-          "end": "16:00"
+          "end": "15:00"
         },
         {
           "date": "2026-11-21",
-          "start": "09:00",
-          "end": "16:00"
+          "start": "10:00",
+          "end": "15:00"
         }
       ],
       "sources": [
@@ -510,6 +541,7 @@
           "url": "https://www.estatesales.net/TX/Missouri-City/77489/5163759"
         }
       ],
+      "categories": [],
       "lat": 29.5824494,
       "lng": -95.5317175,
       "approximate": false
@@ -520,6 +552,7 @@
       "company": "Family Tree Estate Sales",
       "streetAddress": "2654 Waverly Dr.",
       "city": "League City",
+      "state": "TX",
       "zip": "77573",
       "addressHidden": false,
       "sessions": [
@@ -545,6 +578,7 @@
           "url": "https://www.estatesales.net/TX/League-City/77573/5146677"
         }
       ],
+      "categories": [],
       "lat": 29.5290373,
       "lng": -95.0612558,
       "approximate": false
@@ -555,6 +589,7 @@
       "company": "J&a Findings",
       "streetAddress": "909 Leslie ln",
       "city": "Friendswood",
+      "state": "TX",
       "zip": "77546",
       "addressHidden": false,
       "sessions": [
@@ -580,6 +615,7 @@
           "url": "https://www.estatesales.net/TX/Friendswood/77546/5166603"
         }
       ],
+      "categories": [],
       "lat": 29.5173354,
       "lng": -95.2004314,
       "approximate": false
@@ -590,6 +626,7 @@
       "company": "Patrice's Estate Sales",
       "streetAddress": "2618 14th Street North",
       "city": "Texas City",
+      "state": "TX",
       "zip": "77590",
       "addressHidden": false,
       "sessions": [
@@ -614,6 +651,7 @@
           "url": "https://www.estatesales.net/TX/Texas-City/77590/5163102"
         }
       ],
+      "categories": [],
       "lat": 29.4089021,
       "lng": -94.9146776,
       "approximate": false
@@ -624,6 +662,7 @@
       "company": null,
       "streetAddress": null,
       "city": "Friendswood",
+      "state": "TX",
       "zip": null,
       "addressHidden": true,
       "sessions": [
@@ -639,6 +678,7 @@
           "url": "https://www.craigslist.org/view/d/friendswood-huge-garage-moving-sale/2y596qVKsBH7oCUsLBjd5z"
         }
       ],
+      "categories": [],
       "lat": 29.5293998,
       "lng": -95.2010447,
       "approximate": true
@@ -649,6 +689,7 @@
       "company": null,
       "streetAddress": "107 Clearview Ave near FM518",
       "city": "Friendswood",
+      "state": "TX",
       "zip": null,
       "addressHidden": false,
       "sessions": [
@@ -664,6 +705,7 @@
           "url": "https://www.craigslist.org/view/d/friendswood-hugefriendswood-garage/4pVNsngimYAyQZw3fJkHC8"
         }
       ],
+      "categories": [],
       "lat": 29.5293998,
       "lng": -95.2010447,
       "approximate": true
@@ -674,6 +716,7 @@
       "company": null,
       "streetAddress": "904 Vivian St",
       "city": "Kemah",
+      "state": "TX",
       "zip": "77565",
       "addressHidden": false,
       "sessions": [
@@ -689,6 +732,7 @@
           "url": "https://estatesales.org/estate-sales/tx/kemah/77565/estate-sale-2474736"
         }
       ],
+      "categories": [],
       "lat": 29.5411706,
       "lng": -95.0295891,
       "approximate": true
@@ -699,6 +743,7 @@
       "company": "Margie Beegle Sales",
       "streetAddress": null,
       "city": "Houston",
+      "state": "TX",
       "zip": "77027",
       "addressHidden": true,
       "sessions": [
@@ -719,6 +764,7 @@
           "url": "https://www.estatesales.net/TX/Houston/77027/5149494"
         }
       ],
+      "categories": [],
       "lat": 29.7413958,
       "lng": -95.4487318,
       "approximate": true
@@ -729,6 +775,7 @@
       "company": "River Oaks Estate Sales",
       "streetAddress": "4533 Elm Street",
       "city": "Bellaire",
+      "state": "TX",
       "zip": "77401",
       "addressHidden": false,
       "sessions": [
@@ -749,6 +796,9 @@
           "url": "https://www.estatesales.net/TX/Bellaire/77401/5138013"
         }
       ],
+      "categories": [
+        "art"
+      ],
       "lat": 29.7125865,
       "lng": -95.4527704,
       "approximate": false
@@ -759,6 +809,7 @@
       "company": "Family Tree Estate Sales",
       "streetAddress": "858 Shawnee St.",
       "city": "Houston",
+      "state": "TX",
       "zip": "77034",
       "addressHidden": false,
       "sessions": [
@@ -779,44 +830,10 @@
           "url": "https://www.estatesales.net/TX/Houston/77034/5159586"
         }
       ],
+      "categories": [],
       "lat": 29.6454992,
       "lng": -95.2357832,
       "approximate": false
-    },
-    {
-      "id": "bb9090b41a98fa85",
-      "title": "Estate Sale by Family Tree Estates",
-      "company": "Family Tree Estate Sales",
-      "streetAddress": null,
-      "city": "Houston",
-      "zip": "77062",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "10:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-29",
-          "start": "10:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Houston/77062/5156793"
-        }
-      ],
-      "lat": 29.5750991,
-      "lng": -95.1319716,
-      "approximate": true
     },
     {
       "id": "510a1b9fb19e4d83",
@@ -824,6 +841,7 @@
       "company": "Family Tree Estate Sales",
       "streetAddress": null,
       "city": "Kemah",
+      "state": "TX",
       "zip": "77565",
       "addressHidden": true,
       "sessions": [
@@ -849,8 +867,46 @@
           "url": "https://www.estatesales.net/TX/Kemah/77565/5156790"
         }
       ],
+      "categories": [],
       "lat": 29.5411706,
       "lng": -95.0295891,
+      "approximate": true
+    },
+    {
+      "id": "bb9090b41a98fa85",
+      "title": "Estate Sale by Family Tree Estates",
+      "company": "Family Tree Estate Sales",
+      "streetAddress": null,
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77062",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77062/5156793"
+        }
+      ],
+      "categories": [],
+      "lat": 29.5750991,
+      "lng": -95.1319716,
       "approximate": true
     },
     {
@@ -859,6 +915,7 @@
       "company": "Family Tree Estate Sales",
       "streetAddress": null,
       "city": "Santa Fe",
+      "state": "TX",
       "zip": "77517",
       "addressHidden": true,
       "sessions": [
@@ -884,6 +941,7 @@
           "url": "https://www.estatesales.net/TX/Santa-Fe/77517/5107233"
         }
       ],
+      "categories": [],
       "lat": 29.3856773,
       "lng": -95.1281039,
       "approximate": true
@@ -894,6 +952,7 @@
       "company": "Aloha Estate Sales Of Houston",
       "streetAddress": null,
       "city": "Houston",
+      "state": "TX",
       "zip": "77006",
       "addressHidden": true,
       "sessions": [
@@ -919,6 +978,7 @@
           "url": "https://www.estatesales.net/TX/Houston/77006/5148879"
         }
       ],
+      "categories": [],
       "lat": 29.7422405,
       "lng": -95.3902848,
       "approximate": true
@@ -929,6 +989,7 @@
       "company": "Virtue Estate Sales",
       "streetAddress": null,
       "city": "Houston",
+      "state": "TX",
       "zip": "77059",
       "addressHidden": true,
       "sessions": [
@@ -959,6 +1020,9 @@
           "url": "https://www.estatesales.net/TX/Houston/77059/5148087"
         }
       ],
+      "categories": [
+        "art"
+      ],
       "lat": 29.5991448,
       "lng": -95.1188624,
       "approximate": true
@@ -969,6 +1033,7 @@
       "company": "Get Rid Of It",
       "streetAddress": null,
       "city": "Friendswood",
+      "state": "TX",
       "zip": "77546",
       "addressHidden": true,
       "sessions": [
@@ -999,6 +1064,7 @@
           "url": "https://www.estatesales.net/TX/Friendswood/77546/5160081"
         }
       ],
+      "categories": [],
       "lat": 29.5244089,
       "lng": -95.191409,
       "approximate": true

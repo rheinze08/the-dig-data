@@ -1,0 +1,1015 @@
+{
+  "asOf": "2026-11-20",
+  "collectedAt": "2026-11-21T02:32:04.562Z",
+  "window": {
+    "start": "2026-11-20",
+    "end": "2026-12-03",
+    "timeZone": "America/Chicago"
+  },
+  "area": {
+    "lat": 30.267,
+    "lng": -97.743,
+    "radiusMiles": 25
+  },
+  "coverage": {
+    "EstateSales.net": {
+      "status": "reached",
+      "detail": "Read the public sale sitemap. Checked 54/54 local candidate details.",
+      "candidates": 32,
+      "included": 24
+    },
+    "EstateSales.org": {
+      "status": "reached",
+      "detail": "Read 13 Austin directory cards over 1 pages. Checked 8/8 in-person local candidate details.",
+      "candidates": 7,
+      "included": 3
+    },
+    "Craigslist Austin": {
+      "status": "reached",
+      "detail": "46 directory listings discovered; 5 in-window estate listings before radius filtering",
+      "candidates": 5,
+      "included": 2
+    },
+    "GSALR.com": {
+      "status": "blocked",
+      "detail": "https://gsalr.com/garage-sales-austin-tx.html — HTTP 403 Forbidden",
+      "candidates": 0,
+      "included": 0
+    }
+  },
+  "counts": {
+    "candidates": 44,
+    "listings": 29,
+    "sales": 26,
+    "duplicates": 3,
+    "outsideRadius": 12,
+    "unlocatedListings": 0
+  },
+  "unlocated": [],
+  "geocodingNotes": [],
+  "sales": [
+    {
+      "id": "ec76dc8d2c42cdd1",
+      "title": "*50% OFF* Everything For Sale — Right Down to the Fixtures!",
+      "company": "Aloe Vera Estate Sales",
+      "streetAddress": "3403 Toro Cayon Rd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78746",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "start": "17:00",
+          "end": "19:00"
+        },
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "13:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78746/5161638"
+        }
+      ],
+      "categories": [],
+      "lat": 30.324405,
+      "lng": -97.789999,
+      "approximate": false
+    },
+    {
+      "id": "06ff283ab90df965",
+      "title": "* SATURDAY DISCOUNTS!* Brilliant Barton Hills",
+      "company": "Remember When Estate Sales",
+      "streetAddress": "2501 Forest Bend",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78704",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78704/5151909"
+        }
+      ],
+      "categories": [],
+      "lat": 30.253677,
+      "lng": -97.79176,
+      "approximate": false
+    },
+    {
+      "id": "47b0c73100bbe19e",
+      "title": "The O. G.",
+      "company": "Simplify Life",
+      "streetAddress": "2209 Quarry Rd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78703",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "11:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "11:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "11:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78703/5148483"
+        }
+      ],
+      "categories": [],
+      "lat": 30.2853452,
+      "lng": -97.7686445,
+      "approximate": false
+    },
+    {
+      "id": "2fea399087f36c66",
+      "title": "Christmas Gift Treasure Hunt! Cowboys, Fazzino Art, Vintage Toys, Gaming & More",
+      "company": "Heirloom Harvesters",
+      "streetAddress": "13402 Montview Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78732",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "15:00",
+          "end": "19:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "15:00",
+          "end": "19:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78732/5160939"
+        }
+      ],
+      "categories": [
+        "art",
+        "toys & games"
+      ],
+      "lat": 30.38114,
+      "lng": -97.904018,
+      "approximate": false
+    },
+    {
+      "id": "c90a49519e934627",
+      "title": "Dripping Springs Blue Moon Estate Sale, Old World Elegance, Hill Country Soul - Thurs 19 *VIP EVENT*",
+      "company": "Blue Moon Estate Sales of Hill Country/Greater Austin",
+      "streetAddress": "14310 Echo Bluff",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78737",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start": "17:30",
+          "end": "20:00"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "11:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78737/5122866"
+        }
+      ],
+      "categories": [],
+      "lat": 30.174852,
+      "lng": -97.957967,
+      "approximate": false
+    },
+    {
+      "id": "22d863f7429790ed",
+      "title": "3 Home Estate Sale",
+      "company": null,
+      "streetAddress": "900 E. 53 1/2 Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78751",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "08:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "08:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "08:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-23",
+          "start": "08:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78751/5166792"
+        }
+      ],
+      "categories": [],
+      "lat": 30.3138018,
+      "lng": -97.7148071,
+      "approximate": false
+    },
+    {
+      "id": "82c515db01a37476",
+      "title": "Discount SAT! Behind the French Doors: A Taste of Paris in Lakeway!",
+      "company": "Simply Felicia Estate Sales",
+      "streetAddress": "102 Duck Lake Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78734",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78734/5145363"
+        }
+      ],
+      "categories": [],
+      "lat": 30.358218,
+      "lng": -97.977812,
+      "approximate": false
+    },
+    {
+      "id": "4494ccdf99b8539d",
+      "title": "Huge Collector’s Estate Sale | Vintage Finds, Furniture & Art",
+      "company": null,
+      "streetAddress": "307 Evening grosbeak drive",
+      "city": "Pflugerville",
+      "state": "TX",
+      "zip": "78660",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:00",
+          "end": "19:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "19:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "19:00"
+        },
+        {
+          "date": "2026-11-23",
+          "start": "09:00",
+          "end": "19:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Pflugerville/78660/5167167"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "collectibles",
+        "art"
+      ],
+      "lat": 30.4465275,
+      "lng": -97.6276306,
+      "approximate": false
+    },
+    {
+      "id": "8ed96edece4bebd1",
+      "title": "25-50% off Friday -Sunday Estate Sale",
+      "company": "Country Estate Auction And Estate Liquidators",
+      "streetAddress": "393 FM 969",
+      "city": "Bastrop",
+      "state": "TX",
+      "zip": "78602",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "09:30",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "13:30"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "14:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Bastrop/78602/5163939"
+        }
+      ],
+      "categories": [],
+      "lat": 30.1304879,
+      "lng": -97.3680502,
+      "approximate": false
+    },
+    {
+      "id": "912abaaf5a933572",
+      "title": "Designer Furniture, Original Art and More in Tarrytown!",
+      "company": "Burgess Estate Sales",
+      "streetAddress": "3301 Greenlee Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78703",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78703/5154300"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "art"
+      ],
+      "lat": 30.3029885,
+      "lng": -97.7717271,
+      "approximate": false
+    },
+    {
+      "id": "b14d2b101b268fda",
+      "title": "HUGE VINTAGE NOVEMBER ESTATE SALE",
+      "company": "My Estate To Liquidate",
+      "streetAddress": "4308 Yellow Rose",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78704",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "11:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78704/5161803"
+        }
+      ],
+      "categories": [],
+      "lat": 30.225606,
+      "lng": -97.836612,
+      "approximate": false
+    },
+    {
+      "id": "a64975670ff873de",
+      "title": "Treasures in Onion Creek (Cypress Ridge)",
+      "company": "Austin Capital Estate Sales",
+      "streetAddress": "4520 Slickrock Cove",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78747",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-23",
+          "start": "10:00",
+          "end": "12:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78747/5129673"
+        }
+      ],
+      "categories": [],
+      "lat": 30.1468865,
+      "lng": -97.7796151,
+      "approximate": false
+    },
+    {
+      "id": "2105c54c8bfa22a2",
+      "title": "Vintage and Antique Estate sale",
+      "company": null,
+      "streetAddress": "4308 Yellow Rose Austin",
+      "city": "Austin",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Austin",
+          "url": "https://www.craigslist.org/view/d/austin-vintage-and-antique-estate-sale/aM3fZjSkPomePyQvUU3XjR"
+        }
+      ],
+      "categories": [],
+      "lat": 30.2649261,
+      "lng": -97.7474086,
+      "approximate": true
+    },
+    {
+      "id": "3b66de8337cd9798",
+      "title": "50% Off in Rocky Creek",
+      "company": "Dixie Chatham",
+      "streetAddress": "17201 Yellowstar Dr.",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78738",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "08:30",
+          "end": "14:30"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "08:30",
+          "end": "14:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78738/5166726"
+        }
+      ],
+      "categories": [],
+      "lat": 30.287342,
+      "lng": -98.033072,
+      "approximate": false
+    },
+    {
+      "id": "1a66b073473a3d9a",
+      "title": "The Colony Cutie",
+      "company": "Dixie Chatham",
+      "streetAddress": "126 Joshua Smith",
+      "city": "Bastrop",
+      "state": "TX",
+      "zip": "78602",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "08:30",
+          "end": "14:30"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "08:30",
+          "end": "14:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Bastrop/78602/5166678"
+        }
+      ],
+      "categories": [],
+      "lat": 30.126617,
+      "lng": -97.42363,
+      "approximate": false
+    },
+    {
+      "id": "059bc691bb95ed2d",
+      "title": "50% OFF Estate Treasures~Collectibles~Art~Baskets~Vintage Ladies Clothing/Hats~Baskets~Household",
+      "company": "DownSizing Estates",
+      "streetAddress": "2250 County Road 172, #310",
+      "city": "Round Rock",
+      "state": "TX",
+      "zip": "78681",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "13:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Round-Rock/78681/5164800"
+        }
+      ],
+      "categories": [
+        "collectibles",
+        "clothing",
+        "art"
+      ],
+      "lat": 30.489264,
+      "lng": -97.695462,
+      "approximate": false
+    },
+    {
+      "id": "349cef1eeb47df8e",
+      "title": "Blue Moon Estate Sale in Tarrytown with vintage books, decor, collectibles, music, and more!",
+      "company": "Blue Moon Estate Sales",
+      "streetAddress": null,
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78703",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "12:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78703/5145585"
+        }
+      ],
+      "categories": [
+        "collectibles",
+        "books"
+      ],
+      "lat": 30.2883182,
+      "lng": -97.7650135,
+      "approximate": true
+    },
+    {
+      "id": "438808997173b381",
+      "title": "Kerr",
+      "company": null,
+      "streetAddress": "5004 Interlachen Lane Austin Tx 78747",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78747",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78747/5167845"
+        }
+      ],
+      "categories": [],
+      "lat": 30.140516,
+      "lng": -97.777465,
+      "approximate": false
+    },
+    {
+      "id": "cd806ff94bb5497c",
+      "title": "Everything you are looking for!",
+      "company": "Evelyn's Estate Sales",
+      "streetAddress": "11500 Highview Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78750",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78750/5162256"
+        }
+      ],
+      "categories": [],
+      "lat": 30.4349515,
+      "lng": -97.7897648,
+      "approximate": false
+    },
+    {
+      "id": "89ab26f05b515577",
+      "title": "Lovely Pieces in Circle C!",
+      "company": "Golden Soul Estate Sales",
+      "streetAddress": "7412 Doswell Ln",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78739",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/austin/78739/lovely-pieces-in-circle-c-2472679"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78739/5152317"
+        }
+      ],
+      "categories": [],
+      "lat": 30.193191,
+      "lng": -97.906536,
+      "approximate": false
+    },
+    {
+      "id": "b769bcb8baef84dd",
+      "title": "THE BEST ESTATE SALE OF NOVEMBER! CANT MISS!!!",
+      "company": "My Estate To Liquidate",
+      "streetAddress": "11604 Sweet Basil Ct",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78726",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Austin",
+          "url": "https://www.craigslist.org/view/d/austin-estate-sale-furniture-art/kkDJFKVgBKEVwwtjGDvnZj"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78726/5161533"
+        }
+      ],
+      "categories": [],
+      "lat": 30.4420165,
+      "lng": -97.8305687,
+      "approximate": false
+    },
+    {
+      "id": "d0c6bdf31800b6d7",
+      "title": "MASSIVE 6,000 SQ FT ESTATE MOVED TO HUTTO! 3 DAYS OF TREASURES!",
+      "company": "Driftwood Estate Sales",
+      "streetAddress": null,
+      "city": "Hutto",
+      "state": "TX",
+      "zip": "78634",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/hutto-/78634/massive-6000-sq-ft-estate-2471618"
+        }
+      ],
+      "categories": [],
+      "lat": 30.5445634,
+      "lng": -97.5598875,
+      "approximate": true
+    },
+    {
+      "id": "f7dbe7c3f81b1239",
+      "title": "Black Friday sale for FASHIONISTAS",
+      "company": "ATX & Beyond Estate Sales",
+      "streetAddress": null,
+      "city": "Cedar Park",
+      "state": "TX",
+      "zip": "78613",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Cedar-Park/78613/5165844"
+        }
+      ],
+      "categories": [
+        "clothing"
+      ],
+      "lat": 30.5186952,
+      "lng": -97.8122476,
+      "approximate": true
+    },
+    {
+      "id": "6741133fee31dea5",
+      "title": "All We Want For Christmas is Vintage Sale!",
+      "company": "Next Chapter Co. Estate Sales",
+      "streetAddress": "1304 Leander Dr. Ste. 630",
+      "city": "Leander",
+      "state": "TX",
+      "zip": "78641",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "11:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Leander/78641/5162514"
+        }
+      ],
+      "categories": [],
+      "lat": 30.562779,
+      "lng": -97.841673,
+      "approximate": false
+    },
+    {
+      "id": "50b912945174ae6e",
+      "title": "A Sweet Dripping Springs Casita! Appt Day Nov 29",
+      "company": "Golden Soul Estate Sales",
+      "streetAddress": "Dripping Springs",
+      "city": "Dripping Springs",
+      "state": "TX",
+      "zip": "78620",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-29",
+          "start": "11:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/dripping-springs/78620/a-sweet-dripping-springs-casita-2474633"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dripping-Springs/78620/5166702"
+        }
+      ],
+      "categories": [],
+      "lat": 30.2632645,
+      "lng": -98.0625619,
+      "approximate": true
+    },
+    {
+      "id": "e6ac053eb6beb2e7",
+      "title": "Vintage Estate off Balcones: Meissen, U.T., Aqua Fest, Texas Politics, Musical Machines & more!",
+      "company": "Austin Estate Sales",
+      "streetAddress": null,
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78731",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78731/5151762"
+        }
+      ],
+      "categories": [],
+      "lat": 30.3467547,
+      "lng": -97.7658512,
+      "approximate": true
+    }
+  ]
+}
