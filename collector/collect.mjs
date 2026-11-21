@@ -7,6 +7,8 @@ import {collectCl, collectCom, collectGsalr} from './lib/com-cl.mjs';
 import {createLocator} from './lib/locate.mjs';
 import {groupSales, hasSessionInWindow, mergeGroup, milesBetween} from './lib/pool.mjs';
 import {categorize} from './lib/categories.mjs';
+import {saleSignals} from './lib/signals.mjs';
+import {enrichSalesWithVision, visionFromEnv} from './lib/vision.mjs';
 import {lostSources} from './lib/rules.mjs';
 import {defaultHome, dirUrl, findCity, loadCities, paths, readJson, writeJson} from './lib/config.mjs';
 
@@ -158,9 +160,24 @@ async function refresh() {
     for (const {name} of sale.sources) coverage[name].included++;
     const fingerprint = sale.sources[0].url;
     const id = createHash('sha256').update(fingerprint).digest('hex').slice(0, 16);
-    const {title, company, streetAddress, city: town, zip, addressHidden, sessions, sources: listings} = sale;
-    sales.push({id, title, company, streetAddress, city: town, state: city.state.code, zip, addressHidden, sessions,
-      sources: listings, categories: categorize(title), ...location});
+    const {title, company, streetAddress, city: town, zip, addressHidden, sessions, sources: listings,
+      contactPhone, contactUrl, photoCount, photoUrls} = sale;
+    // Phase 9A fields. Contact and photo facts appear only when a source
+    // publicly carried them; the rating, its reasons and the keywords are
+    // derived from those facts by lib/signals.mjs. Stored photo URLs stop
+    // at the vision scan cap — the count stays the source's true count.
+    const published = {id, title, company, streetAddress, city: town, state: city.state.code, zip, addressHidden, sessions,
+      sources: listings, categories: categorize(title)};
+    if (contactPhone) published.contactPhone = contactPhone;
+    if (contactUrl) published.contactUrl = contactUrl;
+    if (photoCount !== null) published.photoCount = photoCount;
+    if (photoUrls.length) published.photoUrls = photoUrls.slice(0, 12);
+    const signals = saleSignals(sale);
+    published.digRating = signals.digRating;
+    published.ratingReasons = signals.ratingReasons;
+    published.photoKeywords = signals.photoKeywords;
+    if (signals.contentsLine) published.contentsLine = signals.contentsLine;
+    sales.push({...published, ...location});
   }
   await writeJson(cacheFile, Object.fromEntries(Object.entries(cache).sort(([a], [b]) => a.localeCompare(b))));
   if (unlocated.length && !sales.length) throw Error('Geocoding was incomplete; previous sales.json retained. ' + [...locator.errors]);
@@ -168,6 +185,31 @@ async function refresh() {
     || (a.sessions[0].start ?? '').localeCompare(b.sessions[0].start ?? '') || a.title.localeCompare(b.title)
     // Sales that tie on all three keep one order from run to run.
     || a.id.localeCompare(b.id));
+  // The vision pass (lib/vision.mjs) runs only when a vision key is in the
+  // environment; without one this is skipped whole and the collection is
+  // unchanged. Trouble inside it is reported, never fatal.
+  const vision = visionFromEnv();
+  if (vision) {
+    const scanFile = new URL('photo-scan.json', options.reportOnly ? outDir : stateDir);
+    try {
+      let scanCache = {};
+      for (const path of [scanFile, new URL('photo-scan.json', stateDir)]) {
+        try {
+          scanCache = await readJson(path);
+          break;
+        } catch (error) {
+          if (error.code !== 'ENOENT') throw error;
+        }
+      }
+      const perRun = Number(process.env.DIG_VISION_MAX_PER_RUN);
+      const stats = await enrichSalesWithVision(sales, {config: vision, cache: scanCache,
+        maxNewPerRun: Number.isFinite(perRun) && perRun > 0 ? perRun : 120});
+      await writeJson(scanFile, Object.fromEntries(Object.entries(scanCache).sort(([a], [b]) => a.localeCompare(b))));
+      console.log(`Vision (${vision.provider}): scanned=${stats.scanned} cached=${stats.cached} failed=${stats.failed} salesTouched=${stats.salesTouched}`);
+    } catch (error) {
+      console.log('Vision pass skipped: ' + error.message);
+    }
+  }
   const listings = sales.reduce((n, s) => n + s.sources.length, 0);
   const counts = {candidates: records.length, listings, sales: sales.length,
     duplicates: listings - sales.length, outsideRadius, unlocatedListings: unlocated.length};

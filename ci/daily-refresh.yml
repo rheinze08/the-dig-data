@@ -36,6 +36,15 @@ jobs:
 
       - name: Collect every city and apply the promotion rule
         id: refresh
+        # Phase 9A vision pass: when either secret exists the collector reads
+        # new sale photos through that provider (caps + URL-hash cache in
+        # collector/lib/vision.mjs). With no secret both are empty and the
+        # refresh runs exactly as before. Adding the secret is Roland's open
+        # Phase 9 decision; this change is staged under ci/ for Sonic to
+        # install into .github/workflows/ (see AGENTS.md in the-dig).
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           set +e
           node collector/refresh.mjs

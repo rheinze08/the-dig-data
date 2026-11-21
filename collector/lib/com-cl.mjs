@@ -43,7 +43,13 @@ function publicStreet(text) {
 // Matches the city's state written as its code or its name.
 const stateWords = state => '(?:' + escapeRegExp(state.code) + '|' + escapeRegExp(state.name) + ')';
 
-function craigslistSale(html, url, {today, through, city:{sources, state}}) {
+// Texts stay inside the collector (signals read them, feeds don't carry
+// them), so a long item list is capped rather than carried whole. A phone
+// counts only when it is written in the public text a buyer reads.
+const capText = text => text && text.length > 8000 ? text.slice(0, 8000) : text;
+const publicPhone = text => text?.match(/\(?\d{3}\)?[-. ]\d{3}[-. ]\d{4}\b/)?.[0] ?? null;
+
+export function craigslistSale(html, url, {today, through, city:{sources, state}}) {
   const title = plain(html.match(/<span\b[^>]*\bid=["']titletextonly["'][^>]*>([\s\S]*?)<\/span>/i)?.[1]);
   const body = plain(html.match(/<section\b[^>]*\bid=["']postingbody["'][^>]*>([\s\S]*?)<\/section>/i)?.[1]);
   if (!title || !body) throw Error('unrecognized posting layout');
@@ -63,7 +69,25 @@ function craigslistSale(html, url, {today, through, city:{sources, state}}) {
   if (!city && !zip) throw Error('estate listing without a public city or ZIP');
   const streetAddress = publicStreet(plain(html.match(/<div\b[^>]*class=["']mapaddress["'][^>]*>([\s\S]*?)<\/div>/i)?.[1]));
   // Craigslist's map point may be deliberately shifted. Geocode the published street instead.
-  return {title, company: null, streetAddress, city, zip, sessions, source: {name: sources.craigslist.name, url}};
+  const record = {title, company: null, streetAddress, city, zip, sessions,
+    source: {name: sources.craigslist.name, url}, description: capText(body)};
+  // A phone the poster wrote in the public body is public contact. The
+  // relay behind the "show contact info" button is not read.
+  const phone = publicPhone(body);
+  if (phone) record.contactPhone = phone;
+  // Posting photos live on the image host under one ID per photo at several
+  // sizes; keep the largest URL found per photo. No image URLs in the page
+  // means the count stays unknown, never an invented zero.
+  const byPhoto = new Map();
+  for (const match of html.matchAll(/https:\/\/images\.craigslist\.org\/([A-Za-z0-9_]+?)_(\d+)x(\d+)\.jpg/g)) {
+    const area = Number(match[2]) * Number(match[3]);
+    if (!byPhoto.has(match[1]) || byPhoto.get(match[1]).area < area) byPhoto.set(match[1], {url: match[0], area});
+  }
+  if (byPhoto.size) {
+    record.photoUrls = [...byPhoto.values()].map(entry => entry.url).slice(0, 12);
+    record.photoCount = byPhoto.size;
+  }
+  return record;
 }
 
 function listingUrls(html, directory, pattern, allowedHost) {
@@ -117,7 +141,7 @@ export async function collectCl(context) {
 
 const months = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec'];
 
-function estateSaleCom(html, url, {today, through, city:{state}}) {
+export function estateSaleCom(html, url, {today, through, city:{state}}) {
   const text = plain(html);
   const title = plain(html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/i)?.[1]);
   const saleType = text.match(/\bSale Type\b\s*(.*?)\s*(?:Company Information|Listing Information)\b/i)?.[1];
@@ -160,7 +184,29 @@ function estateSaleCom(html, url, {today, through, city:{state}}) {
   if (!parts || /\d/.test(parts[1])) throw Error('unrecognized street/city boundary');
   const streetAddress = publicStreet(addressLines[addressLines.indexOf(place) - 1]);
   const company = text.match(/\bCompany Information\s+(.*?)\s+(?:Contact:|Phone:|Email:|EstateSale\.com ID#)/i)?.[1] || null;
-  return {title, company, streetAddress, city: parts[1], zip: parts[2] ?? null, sessions, source: {name: 'EstateSale.com', url}};
+  const record = {title, company, streetAddress, city: parts[1], zip: parts[2] ?? null, sessions,
+    source: {name: 'EstateSale.com', url}};
+  // The Company Information block prints a public phone when the company
+  // lists one. The description and gallery reads below are best-effort on
+  // the same visible page and stay absent when their shapes are not there.
+  const phone = text.match(/\bPhone:\s*(\(?\d{3}\)?[-. ]\d{3}[-. ]\d{4}\b)/i)?.[1] ?? null;
+  if (phone) record.contactPhone = phone;
+  const companyLink = html.match(/<a\b[^>]*\bhref="((?:https:\/\/(?:www\.)?estatesale\.com)?\/companies\/[^"]+)"/i)?.[1];
+  if (companyLink) record.contactUrl = new URL(decode(companyLink), url).href;
+  const description = capText(text.match(/\b(?:Sale Description|Description of Items|Items For Sale)\b\s*:?\s*(.*?)\s*(?:Sale Location|Sale Dates and Times|Terms (?:of|and) Conditions)\b/i)?.[1]
+    ?.replace(/\s+/g, ' ').trim());
+  if (description) record.description = description;
+  const photoUrls = new Set();
+  for (const match of html.matchAll(/<img\b[^>]*\bsrc="([^"]+\.(?:jpe?g|png))"/gi)) {
+    const src = new URL(decode(match[1]), url);
+    if (/^(?:www\.)?estatesale\.com$/i.test(src.hostname) && /\/(?:photos?|sales)\//i.test(src.pathname)
+      && !/(?:logo|icon|banner|button)/i.test(src.pathname)) photoUrls.add(src.href);
+  }
+  if (photoUrls.size) {
+    record.photoUrls = [...photoUrls].slice(0, 12);
+    record.photoCount = photoUrls.size;
+  }
+  return record;
 }
 
 export async function collectCom(context) {

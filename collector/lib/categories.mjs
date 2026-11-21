@@ -25,7 +25,7 @@ export const CATEGORY_RULES = [
     'broyhill', 'bassett', 'restoration hardware', 'pottery barn', 'west elm', 'arhaus',
   ], except: ['bed and bath', 'bed bath', 'flower beds?', 'truck beds?', 'buffet (?:style|line)']},
   {name: 'vinyl & records', terms: [
-    'vinyl', 'records', 'record (?:albums?|collection)', 'lps?', '45s', '78s', 'albums',
+    'vinyls?', 'records', 'record (?:albums?|collection)', 'lps?', '45s', '78s', 'albums',
   ], except: ['vinyl (?:siding|flooring|fence|fencing)', 'photo albums?', 'stamp albums?']},
   {name: 'jewelry', terms: [
     'jewelry', 'jewellery', 'jewelery', 'diamonds?', 'necklaces?', 'bracelets?', 'earrings',

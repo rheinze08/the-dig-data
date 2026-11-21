@@ -61,6 +61,7 @@ test('titles get the categories they clearly name', () => {
     ['Grainfather Brewing System, Western Cowboy Art, Tools & Furniture', ['tools', 'furniture', 'art']],
     ['Elite Legacy- Prestonwood- Patio, Henredon, Snap-on, Knives, Appliances, Women’s Clothing, Floral', ['tools', 'furniture', 'clothing']],
     ['Vinyl Records, LPs & Turntable', ['vinyl & records', 'electronics']],
+    ['Beatles Memorabilia, Vinyls and CDs', ['vinyl & records', 'collectibles']],
     ['Duncanville Estate Sale coins, jewelry, comics, Bev Doolittle', ['jewelry', 'collectibles']],
     ['1967 Corvette, Golf Cart and Boat', ['vehicles']],
     ['Pyrex, Cast Iron & Cookbooks', ['kitchen', 'books']],

@@ -49,7 +49,11 @@ function netState(html) {
   return JSON.parse(script[1]).NGRX_STATE;
 }
 
-function netListing(html, url) {
+// Texts stay inside the collector (signals read them, feeds don't carry
+// them), so a long item list is capped rather than carried whole.
+const capText = text => text && text.length > 8000 ? text.slice(0, 8000) : text;
+
+export function netListing(html, url) {
   const id = url.split('/').at(-1);
   const sale = netState(html)['feature.traditionalSaleViewState']?.entitiesById?.[id];
   if (!sale?.name || !sale.typeName) throw Error('Sale detail is missing');
@@ -75,6 +79,26 @@ function netListing(html, url) {
   if (streetAddress && location.showMap && Number.isFinite(location.latitude) && Number.isFinite(location.longitude)) {
     record.point = {lat: location.latitude, lng: location.longitude};
   }
+  // Contact, only what the public listing itself shows: the seller's phone
+  // when the listing says to show it, and their website or company page.
+  const seller = sale.seller ?? {};
+  if (seller.showPhoneNumber && seller.primaryPhone) record.contactPhone = decode(seller.primaryPhone);
+  const contactUrl = /^https?:\/\//i.test(seller.websiteUrl ?? '') ? seller.websiteUrl
+    : seller.pageUrl ? new URL(seller.pageUrl, 'https://www.estatesales.net').href : null;
+  if (contactUrl) record.contactUrl = contactUrl;
+  const description = capText(decode(sale.plainTextDescription));
+  if (description) record.description = description;
+  // Photo URLs + the source's own count. A sale can carry hundreds of
+  // photos; the stored URL list stops at the scan cap, the count stays true.
+  const pictures = Array.isArray(sale.pictures) ? sale.pictures : [];
+  const photoUrls = pictures.map(picture => picture.url).filter(u => /^https:\/\//.test(u ?? ''));
+  const photoCount = Number.isFinite(sale.pictureCount) ? sale.pictureCount : photoUrls.length;
+  if (photoUrls.length || Number.isFinite(sale.pictureCount)) {
+    record.photoUrls = photoUrls.slice(0, 12);
+    record.photoCount = Math.max(photoCount, photoUrls.length);
+  }
+  const captions = pictures.map(picture => decode(picture.description)).filter(Boolean);
+  if (captions.length) record.photoText = capText(captions.join(' '));
   return record;
 }
 
@@ -134,7 +158,7 @@ function clock(raw) {
   return String(hour).padStart(2, '0') + ':' + (match[2] ?? '00');
 }
 
-function orgListing(html, url) {
+export function orgListing(html, url) {
   const event = [...html.matchAll(/<script\b[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/gi)]
     // A seller's description can put raw line breaks inside a JSON string.
     .map(match => JSON.parse(match[1].replace(/[\u0000-\u001f]+/g, ' '))).find(obj => obj['@type'] === 'Event');
@@ -154,9 +178,28 @@ function orgListing(html, url) {
   // A map payload can include the unreleased street. Read only the buyer-facing address block.
   const block = html.match(/Sale Address<\/h4>\s*<div\b[^>]*>([\s\S]*?)<\/div>/i)?.[1] ?? '';
   const displayed = block.match(/<span\b[^>]*>\s*([^<>]+?)\s*<br\s*\/?\s*>/i)?.[1];
-  return {title: decode(event.name), company: decode(event.organizer?.name) || null,
+  const record = {title: decode(event.name), company: decode(event.organizer?.name) || null,
     streetAddress: displayed ? decode(displayed) : null, city: decode(address.addressLocality),
     zip: String(address.postalCode), sessions, source: {name: 'EstateSales.org', url}};
+  // The event schema itself carries the organizer's public phone and
+  // company page, the item-list description, and the hero photo.
+  if (event.organizer?.telephone) record.contactPhone = decode(event.organizer.telephone);
+  if (/^https:\/\//.test(event.organizer?.url ?? '')) record.contactUrl = event.organizer.url;
+  const description = capText(decode(event.description));
+  if (description) record.description = description;
+  // Gallery photos are the CDN images named for this sale; data-aspect is
+  // the full-size URL, src its thumbnail. Alt text here is the generic
+  // "Estate sale photo", which carries no signal and is dropped.
+  const photoUrls = new Set();
+  for (const image of [].concat(event.image ?? [])) if (/^https:\/\//.test(image)) photoUrls.add(image);
+  for (const match of html.matchAll(/<img\b[^>]*\bdata-aspect="(https:\/\/eso-cdn\.[^"]+\.jpg)"[^>]*>/gi)) {
+    photoUrls.add(match[1]);
+  }
+  if (photoUrls.size) {
+    record.photoUrls = [...photoUrls].slice(0, 12);
+    record.photoCount = photoUrls.size;
+  }
+  return record;
 }
 
 export async function collectOrg({today, through, get, city}) {

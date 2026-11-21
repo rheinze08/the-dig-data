@@ -38,14 +38,22 @@ export function buildSearch(config, feeds, generatedAt) {
       sales: feed.sales.length, collectedAt: feed.collectedAt});
     for (const sale of feed.sales) {
       const dates = sale.sessions.map(session => session.date).sort();
-      sales.push({
+      const entry = {
         id: sale.id, citySlug: city.slug, cityName: city.name, status: city.status,
         title: sale.title, company: sale.company ?? null,
         categories: Array.isArray(sale.categories) ? sale.categories : [],
         firstDate: dates[0], lastDate: dates.at(-1),
         lat: sale.lat, lng: sale.lng, approximate: sale.approximate,
         sources: sale.sources.map(({name, url}) => ({name, url})),
-      });
+      };
+      // Phase 9 search signals ride along when the feed carries them, so a
+      // keyword search can match what a sale is selling. Feeds written
+      // before those fields existed keep their previous search shape.
+      if (sale.digRating) entry.digRating = sale.digRating;
+      if (Number.isFinite(sale.photoCount)) entry.photoCount = sale.photoCount;
+      if (Array.isArray(sale.photoKeywords) && sale.photoKeywords.length) entry.photoKeywords = sale.photoKeywords;
+      if (sale.contentsLine) entry.contentsLine = sale.contentsLine;
+      sales.push(entry);
     }
   }
   return {version: 1, generatedAt, categories: CATEGORIES, cities, sales};
