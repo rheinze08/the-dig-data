@@ -1,0 +1,45 @@
+name: Daily refresh
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r collector/requirements.txt
+
+      - name: Run collector
+        env:
+          TEXAS_COMPTROLLER_API_KEY: ${{ secrets.TEXAS_COMPTROLLER_API_KEY }}
+        run: python -m collector.collect
+
+      - name: Refresh search index
+        run: python -m collector.search_index
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sales.json search.json cities.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Daily refresh: update sales data"
+          git push
