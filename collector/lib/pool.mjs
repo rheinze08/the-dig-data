@@ -31,8 +31,50 @@ function companyKey(company) {
   return words(company).replace(/\b(?:llc|inc|incorporated)\b/g, '').replaceAll(' ', '');
 }
 
-function sharedDate(left, right) {
-  return left.sessions.some(a => right.sessions.some(b => a.date === b.date));
+// One source can write a street name as two words where another writes one
+// ("1713 Creek Point Dr" / "1713 Creekpoint Dr" reached the Dallas–Fort Worth
+// feed as two sales on 2026-11-20). Compare street addresses with the house
+// number kept apart and the rest squeezed together as well as spaced out.
+function sameStreet(left, right) {
+  const a = streetKey(left), b = streetKey(right);
+  if (a === b) return true;
+  const squeezed = key => {
+    const [first, ...rest] = key.split(' ');
+    return first + '|' + rest.join('');
+  };
+  return squeezed(a) === squeezed(b);
+}
+
+// Overlapping published ranges count, not only a day both listings share:
+// one source can list Friday and Sunday where another lists only Saturday.
+function datesOverlap(left, right) {
+  const range = record => {
+    const dates = record.sessions.map(session => session.date).sort();
+    return [dates[0], dates.at(-1)];
+  };
+  const [aStart, aEnd] = range(left);
+  const [bStart, bEnd] = range(right);
+  return aStart <= bEnd && bStart <= aEnd;
+}
+
+// Sale-title filler: words that say nothing about which sale this is.
+const titleFiller = new Set(['estate', 'sale', 'sales', 'the', 'a', 'an', 'and', 'of', 'in', 'at', 'to', 'for',
+  'with', 'day', 'days', 'huge', 'big', 'massive', 'great', 'amazing', 'beautiful', 'wonderful', 'off',
+  'everything', 'must', 'go', 'goes', 'this', 'weekend', 'only', 'more', 'plus', 'lots', 'lot', 'many',
+  'multi', 'family', 'moving', 'downsizing', 'liquidation', 'tag']);
+
+// Whether two titles plausibly name the same sale: their meaningful words
+// mostly agree once filler and punctuation are dropped. Two titles that are
+// all filler ("Estate Sale") count as similar only when they are identical.
+export function titleSimilarity(leftTitle, rightTitle) {
+  const wordsOf = title => new Set(words(title).split(/\s+/).filter(word => word && !titleFiller.has(word)));
+  const left = wordsOf(leftTitle);
+  const right = wordsOf(rightTitle);
+  if (!left.size || !right.size) return words(leftTitle) === words(rightTitle) && !!words(leftTitle);
+  const shared = [...left].filter(word => right.has(word)).length;
+  const jaccard = shared / (left.size + right.size - shared);
+  const containment = shared / Math.min(left.size, right.size);
+  return jaccard >= 0.4 || containment >= 0.6;
 }
 
 function differentZips(left, right) {
@@ -43,18 +85,25 @@ function sameStreetSale(left, right) {
   if (!left.streetAddress || !right.streetAddress || differentZips(left, right)) return false;
   const sameCity = left.city && words(left.city) === words(right.city);
   const sameZip = left.zip && left.zip === right.zip;
-  return (sameCity || sameZip) && streetKey(left.streetAddress) === streetKey(right.streetAddress)
-    && sharedDate(left, right);
+  return (sameCity || sameZip) && sameStreet(left.streetAddress, right.streetAddress)
+    && datesOverlap(left, right);
 }
 
+// The fallback for a listing whose street address is still held: same
+// normalized company, overlapping dates, the same ZIP (or the same city when
+// a ZIP is missing), and titles that plausibly name the same sale. When both
+// listings carry street addresses this never applies: two different street
+// addresses are two sales, even for one company on one weekend.
 function companyMatch(left, right) {
   if (left.streetAddress && right.streetAddress) return false;
   const company = companyKey(left.company);
-  if (!company || company !== companyKey(right.company) || !sharedDate(left, right)) return false;
+  if (!company || company !== companyKey(right.company) || !datesOverlap(left, right)) return false;
+  if (differentZips(left, right)) return false;
+  const sameZip = left.zip && left.zip === right.zip;
   const sameCity = left.city && words(left.city) === words(right.city);
-  // Metro city and suburb names can differ for the same ZIP and identical sale title.
-  const postalAlias = left.zip && left.zip === right.zip && words(left.title) && words(left.title) === words(right.title);
-  return sameCity || postalAlias;
+  // Metro city and suburb names can differ for the same ZIP and one sale.
+  if (!sameZip && !sameCity) return false;
+  return titleSimilarity(left.title, right.title);
 }
 
 function possibleCrossPost(leftGroup, rightGroup) {
@@ -131,6 +180,16 @@ export function mergeGroup(group) {
       }
     }
   }
+  // Contact, photos and the listing texts pool with the sessions: the first
+  // public phone or company page wins, photo URLs union without repeats, and
+  // the count is the largest any one source reported (a source can report a
+  // count far beyond the URLs worth storing). `description` and `photoText`
+  // stay inside the collector; the feeds carry only what they support.
+  const photoUrls = [...new Set(group.flatMap(record => record.photoUrls ?? []))];
+  const knownCounts = group.map(record => record.photoCount
+    ?? (Array.isArray(record.photoUrls) ? record.photoUrls.length : null))
+    .filter(count => count !== null);
+  const descriptions = group.map(record => record.description).filter(Boolean);
   return {
     title: anchor.title, company: group.find(r => r.company)?.company ?? null,
     streetAddress: anchor.streetAddress || null,
@@ -140,5 +199,11 @@ export function mergeGroup(group) {
     sessions: [...sessions.values()].flat().sort((a, b) => a.date.localeCompare(b.date)
       || (a.start ?? '').localeCompare(b.start ?? '')),
     sources: group.map(r => r.source).sort((a, b) => a.url.localeCompare(b.url)),
+    contactPhone: group.find(r => r.contactPhone)?.contactPhone ?? null,
+    contactUrl: group.find(r => r.contactUrl)?.contactUrl ?? null,
+    photoUrls,
+    photoCount: knownCounts.length ? Math.max(...knownCounts) : null,
+    description: descriptions.sort((a, b) => b.length - a.length)[0] ?? null,
+    photoText: [...new Set(group.map(record => record.photoText).filter(Boolean))].join(' ') || null,
   };
 }
