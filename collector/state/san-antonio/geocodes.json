@@ -278,6 +278,11 @@
     "lng": -98.4008681,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:78230": {
+    "lat": 29.5487239,
+    "lng": -98.568179,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:78231": {
     "lat": 29.5726959,
     "lng": -98.5395497,
@@ -306,6 +311,11 @@
   "zip:78260": {
     "lat": 29.717573,
     "lng": -98.4637654,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78266": {
+    "lat": 29.6405952,
+    "lng": -98.3205808,
     "basis": "OpenStreetMap Nominatim"
   }
 }

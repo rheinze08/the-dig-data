@@ -614,6 +614,11 @@
     "lng": -96.792207,
     "basis": "Public listing map: EstateSales.net"
   },
+  "zip:75022": {
+    "lat": 33.0239585,
+    "lng": -97.0975048,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:75023": {
     "lat": 33.0579749,
     "lng": -96.7454322,
@@ -747,6 +752,11 @@
   "zip:76017": {
     "lat": 32.6630829,
     "lng": -97.1614206,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76021": {
+    "lat": 32.8526788,
+    "lng": -97.1327616,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:76028": {

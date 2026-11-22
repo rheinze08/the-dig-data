@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-21",
-  "collectedAt": "2026-11-21T17:57:45.692Z",
+  "asOf": "2026-11-22",
+  "collectedAt": "2026-11-22T14:34:15.138Z",
   "window": {
-    "start": "2026-11-21",
-    "end": "2026-12-04",
+    "start": "2026-11-22",
+    "end": "2026-12-05",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,413 +14,43 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 74/74 local candidate details.",
-      "candidates": 46,
-      "included": 40
+      "detail": "Read the public sale sitemap. Checked 59/59 local candidate details.",
+      "candidates": 33,
+      "included": 28
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 11 San Antonio directory cards over 1 pages. Checked 5/5 in-person local candidate details.",
+      "detail": "Read 10 San Antonio directory cards over 1 pages. Checked 4/4 in-person local candidate details.",
       "candidates": 3,
       "included": 2
     },
     "Craigslist San Antonio": {
       "status": "reached",
-      "detail": "38 directory listings discovered; 9 in-window estate listings before radius filtering",
-      "candidates": 9,
-      "included": 8
+      "detail": "14 directory listings discovered; 1 in-window estate listings before radius filtering",
+      "candidates": 1,
+      "included": 0
     },
     "GSALR.com": {
-      "status": "partial",
-      "detail": "https://gsalr.com/garage-sales-san-antonio-tx.html — directory readable, estate listing details unverified",
+      "status": "blocked",
+      "detail": "https://gsalr.com/garage-sales-san-antonio-tx.html — HTTP 403 Forbidden",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 58,
-    "listings": 50,
-    "sales": 44,
-    "duplicates": 6,
-    "outsideRadius": 8,
+    "candidates": 37,
+    "listings": 30,
+    "sales": 29,
+    "duplicates": 1,
+    "outsideRadius": 7,
     "unlocatedListings": 0
   },
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
     {
-      "id": "6ce119ba7bc00ccc",
-      "title": "GIGIS ESTATE-TREASURE’S SAT AND SUN buy $20 and take one extra equal to price or lesser",
-      "company": "Gigis Treasures",
-      "streetAddress": "342 Cable Dr.",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78227",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-18",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-19",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "14:45"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78227/5161203"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(210) 998-0655",
-      "photoCount": 96,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5161203/1-1/7ffec056-a578-4482-8384-006d1ac0aa3e.jpg",
-        "https://picturescdn.estatesales.net/5161203/1-1/5388ec14-d69f-40cc-a86b-f3e020438d42.jpg",
-        "https://picturescdn.estatesales.net/5161203/1-1/beb7cb50-3d1e-4fe4-9d2c-e2dfa6d11fdf.jpg",
-        "https://picturescdn.estatesales.net/5161203/1-1/3c71abcb-0456-4b85-a7c1-5c1c08e99520.jpg",
-        "https://picturescdn.estatesales.net/5161203/1-1/6de9cad2-7844-4dab-bb82-688fc0880c82.jpg",
-        "https://picturescdn.estatesales.net/5161203/1-1/7a731e32-0ea1-4fab-8138-5b88fd26020c.jpg",
-        "https://picturescdn.estatesales.net/5161203/1-1/52749d2b-b538-4cdd-886d-e8b9fe2b37c6.jpg",
-        "https://picturescdn.estatesales.net/5161203/1-1/a925a261-9c60-4531-821e-80404891d817.jpg",
-        "https://picturescdn.estatesales.net/5161203/1-1/e92302b5-f96f-4405-9220-03d3cb705c55.jpg",
-        "https://picturescdn.estatesales.net/5161203/1-1/7075b187-c78c-4e7b-9c06-38cec17d4ac4.jpg",
-        "https://picturescdn.estatesales.net/5161203/1-1/b025a956-6a2d-4a03-9afd-eeff114294f1.jpg",
-        "https://picturescdn.estatesales.net/5161203/1-1/e0407182-58db-43b9-953f-977c141c717d.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "96 photos",
-        "furniture, jewelry and collectibles in the listing",
-        "runs 4 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "art",
-        "toys & games",
-        "dolls",
-        "christmas decor"
-      ],
-      "contentsLine": "Furniture, jewelry, collectibles, kitchen and clothing.",
-      "lat": 29.401803,
-      "lng": -98.6548287,
-      "approximate": false
-    },
-    {
-      "id": "2ee5949af932c0fa",
-      "title": "Massive Germany - Lladro - Murano - Clocks - Bronzes",
-      "company": "About Face Estate Sales Service LLC",
-      "streetAddress": "7406 MidCrown Dr",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78218",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-18",
-          "start": "09:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-19",
-          "start": "09:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "09:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "16:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78218/5156490"
-        }
-      ],
-      "categories": [
-        "collectibles",
-        "art"
-      ],
-      "contactPhone": "(210) 765-2205",
-      "contactUrl": "https://www.aboutfaceestatesales.com",
-      "photoCount": 100,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5156490/2-1/3e76c1a6-9b58-428f-afca-1a92b5c69863.jpg",
-        "https://picturescdn.estatesales.net/5156490/1-1/1dffcf45-a15f-4308-8195-a56612169023.jpg",
-        "https://picturescdn.estatesales.net/5156490/1-1/6f35b5ed-5362-4b64-be45-b9a086244bde.jpg",
-        "https://picturescdn.estatesales.net/5156490/1-1/30f504c5-f575-4dcf-9a75-546843429916.jpg",
-        "https://picturescdn.estatesales.net/5156490/1-1/8f2ecc1a-ef4b-4ea2-9a7d-41148aa32d3c.jpg",
-        "https://picturescdn.estatesales.net/5156490/1-1/0fdbc3ed-77ff-4f37-b4a7-a6cf2a927620.jpg",
-        "https://picturescdn.estatesales.net/5156490/1-1/b3582f76-0b93-4f5b-8005-f8e5f64cc199.jpg",
-        "https://picturescdn.estatesales.net/5156490/1-1/2d8067b3-fd57-4ee1-84bb-7aa3b0cc6ec5.jpg",
-        "https://picturescdn.estatesales.net/5156490/1-1/bc31060e-5384-4404-9949-56cc0fea4b16.jpg",
-        "https://picturescdn.estatesales.net/5156490/1-1/90b2967e-c95a-4fdd-95b3-91ca6aedcb5a.jpg",
-        "https://picturescdn.estatesales.net/5156490/1-1/e736626a-50b8-4161-9e67-fda8c9930bb3.jpg",
-        "https://picturescdn.estatesales.net/5156490/1-1/fb8ef1f8-2e32-40df-8413-0d4eca6a09ca.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "100 photos",
-        "furniture, vinyl & records and collectibles in the listing",
-        "runs 4 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "vinyl & records",
-        "collectibles",
-        "art",
-        "toys & games",
-        "figurines",
-        "china",
-        "crystal",
-        "antiques",
-        "lamps"
-      ],
-      "contentsLine": "Furniture, vinyl & records, collectibles, art and toys & games.",
-      "lat": 29.5006672,
-      "lng": -98.3832554,
-      "approximate": false
-    },
-    {
-      "id": "c0420bbe0c6f9d01",
-      "title": "Blowout sale! 50% OFF",
-      "company": "1dandelion LLC",
-      "streetAddress": "351 Culebra",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78201",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-18",
-          "start": "10:30",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-19",
-          "start": "10:30",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "10:30",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "10:30",
-          "end": "17:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78201/5158845"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(210) 835-7962",
-      "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78217/139760",
-      "photoCount": 64,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5158845/1-1/053528a9-09fe-45b5-ad84-91ae725ca305.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/3cc66bc4-746a-417b-98f4-525ee09e60eb.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/71324f68-16c5-46b3-b472-bebbcb8105f6.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/6df4f042-8830-4130-8cf5-18db387aba9b.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/c9bc16d8-6015-4794-aaa4-967c8e80c63d.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/02709502-514f-4129-bd05-8bc0fc43049a.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/6eac38dd-05df-4741-bbba-a7968ca8de91.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/888857dc-9b94-40cd-b1d8-9e83d1f1b68d.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/d8d0baf8-2b55-499f-83b6-dca5603439b8.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/772dd093-890d-4dad-b192-bdac58df493e.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/5dc34b3d-b1dc-448c-b21c-2dae86c1b899.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/21902c75-090a-41ad-a79c-9c57e875828c.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "64 photos",
-        "runs 4 days"
-      ],
-      "photoKeywords": [],
-      "lat": 29.443835,
-      "lng": -98.508732,
-      "approximate": false
-    },
-    {
-      "id": "61c55a8aca980b91",
-      "title": "Beauty in Cibolo Estate Sale",
-      "company": "Texas Treasure Estate Sales",
-      "streetAddress": "125 Eagle Flight",
-      "city": "Cibolo",
-      "state": "TX",
-      "zip": "78108",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist San Antonio",
-          "url": "https://www.craigslist.org/view/d/cibolo-beauty-in-cibolo-estate-sale/bi5LZqJoGkBFjiEUVyUotH"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Cibolo/78108/5162871"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(847) 682-3927",
-      "contactUrl": "http://texastreasureestatesales.com",
-      "photoCount": 74,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5162871/1-1/d7947209-34f3-4b46-b8d8-89963c2de9f2.jpg",
-        "https://picturescdn.estatesales.net/5162871/1-1/96287c5a-2eca-49c3-bf4f-16251e87c9c5.jpg",
-        "https://picturescdn.estatesales.net/5162871/1-1/b5dbe125-5c80-4518-9248-fdf3341dbd13.jpg",
-        "https://picturescdn.estatesales.net/5162871/1-1/b30ac355-69f4-443a-84d4-5ba7ddb982fe.jpg",
-        "https://picturescdn.estatesales.net/5162871/1-1/ab1b68bb-2070-4a8c-bb51-5fba0b047ca5.jpg",
-        "https://picturescdn.estatesales.net/5162871/1-1/04614154-88b3-4a93-bc73-69f6a660a0ea.jpg",
-        "https://picturescdn.estatesales.net/5162871/1-1/6289d023-e03b-4d28-ab44-a7f10e7436b1.jpg",
-        "https://picturescdn.estatesales.net/5162871/1-1/c2fbc856-53e7-4b09-a40b-bc093cb53c02.jpg",
-        "https://picturescdn.estatesales.net/5162871/1-1/a044ac03-97b9-4e86-a4d5-0b1acd128710.jpg",
-        "https://picturescdn.estatesales.net/5162871/1-1/6a740fb0-abe9-4bc2-b6fb-4b706358f4a0.jpg",
-        "https://picturescdn.estatesales.net/5162871/1-1/bda17fc0-42ed-42f8-a42b-6621786dcf4c.jpg",
-        "https://picturescdn.estatesales.net/5162871/1-1/a77ad0bf-bed1-45df-8484-fb8974dbade9.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "74 photos",
-        "tools, furniture and kitchen in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "kitchen",
-        "art",
-        "antiques",
-        "christmas decor"
-      ],
-      "contentsLine": "Tools, furniture, kitchen, art and antiques.",
-      "lat": 29.5760037,
-      "lng": -98.2457973,
-      "approximate": false
-    },
-    {
-      "id": "ce527e2ebc98f989",
-      "title": "Collector of All things",
-      "company": "Top Hat Estate Sales",
-      "streetAddress": "3435 River North Dr",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78230",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "start": "09:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "09:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78230/5158611"
-        }
-      ],
-      "categories": [
-        "collectibles"
-      ],
-      "contactPhone": "(210) 838-4654",
-      "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78208/135248",
-      "photoCount": 242,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5158611/1-1/909846bc-3a34-4243-8fc0-d138e3b163f2.jpg",
-        "https://picturescdn.estatesales.net/5158611/1-1/7bd3250b-6b99-43b3-bdef-601dd0d8bf17.jpg",
-        "https://picturescdn.estatesales.net/5158611/1-1/3230f6cd-1248-41ad-b226-97c23842dcd8.jpg",
-        "https://picturescdn.estatesales.net/5158611/1-1/3e674b0b-6571-4ad6-a15d-15d1d2d3d674.jpg",
-        "https://picturescdn.estatesales.net/5158611/1-1/baee5020-9456-40dd-9031-7f9e3e3209e1.jpg",
-        "https://picturescdn.estatesales.net/5158611/1-1/a9bbea64-e906-4092-936e-393f360377ac.jpg",
-        "https://picturescdn.estatesales.net/5158611/1-1/391e34e5-5559-4866-a46a-264ccae2c1b1.jpg",
-        "https://picturescdn.estatesales.net/5158611/1-1/f02146e1-d975-45d2-8233-fdd5880fb093.jpg",
-        "https://picturescdn.estatesales.net/5158611/1-1/1275d097-5815-404d-909c-394a1140adb1.jpg",
-        "https://picturescdn.estatesales.net/5158611/1-1/4bc5c711-8973-424c-a6f3-1f86ab58eb28.jpg",
-        "https://picturescdn.estatesales.net/5158611/1-1/2acccdda-b98f-44e0-9225-b06964c32f66.jpg",
-        "https://picturescdn.estatesales.net/5158611/1-1/9a667867-897d-4029-b3f4-25c415762e23.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "242 photos",
-        "tools, furniture and collectibles in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "books",
-        "electronics",
-        "toys & games",
-        "china",
-        "christmas decor"
-      ],
-      "contentsLine": "Tools, furniture, collectibles, vehicles and kitchen.",
-      "lat": 29.5450999,
-      "lng": -98.5551959,
-      "approximate": false
-    },
-    {
       "id": "8a2bec391b93540d",
-      "title": "Huge Warehouse Sale Collectibles Antiques Wizard OZ Comics Die Cast Hallmark Xmas Tools Cow Stuff",
+      "title": "BOX Day Sunday $20 Fill A Box",
       "company": "Alamo City Mercantale",
       "streetAddress": "3903 Eisenhauer",
       "city": "San Antonio",
@@ -455,10 +85,7 @@
           "url": "https://www.estatesales.net/TX/San-Antonio/78218/5158599"
         }
       ],
-      "categories": [
-        "tools",
-        "collectibles"
-      ],
+      "categories": [],
       "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78259/158639",
       "photoCount": 393,
       "photoUrls": [
@@ -496,517 +123,6 @@
       "contentsLine": "Tools, furniture, vinyl & records, collectibles and vehicles.",
       "lat": 29.497409,
       "lng": -98.419527,
-      "approximate": false
-    },
-    {
-      "id": "5edf17d244683724",
-      "title": "Saturday 50% off in Castle Hills with Antiques, MCM, Art, Rugs, Furniture, Furs, and Decor",
-      "company": "Professional Estate Sales LLC",
-      "streetAddress": "200 Chattington",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78213",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "16:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78213/5149194"
-        }
-      ],
-      "categories": [
-        "furniture",
-        "clothing",
-        "art"
-      ],
-      "contactPhone": "(210) 826-7653",
-      "contactUrl": "http://www.professionalestatesales.com",
-      "photoCount": 362,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5149194/1-1/bcbb2bc0-661f-4e32-92f5-70a5a0c05330.jpg",
-        "https://picturescdn.estatesales.net/5149194/1-1/83a8e4f9-b287-4eff-82d1-bbcfb8aa10ac.jpg",
-        "https://picturescdn.estatesales.net/5149194/1-1/51abb5ad-ea73-46da-a069-4294f9460768.jpg",
-        "https://picturescdn.estatesales.net/5149194/1-1/198e5b3c-1333-4bbd-8f06-9ad52a0d9713.jpg",
-        "https://picturescdn.estatesales.net/5149194/1-1/44700f1b-bfef-4b5e-8810-3f40b9935ed8.jpg",
-        "https://picturescdn.estatesales.net/5149194/1-1/907c20d1-a21a-48ec-ba2f-d6ca70cd3066.jpg",
-        "https://picturescdn.estatesales.net/5149194/1-1/e7284fa4-2f9a-44f5-bcdf-13ae79a84bdc.jpg",
-        "https://picturescdn.estatesales.net/5149194/1-1/bd3b11f9-26b9-4d9a-aef7-db823c84f917.jpg",
-        "https://picturescdn.estatesales.net/5149194/1-1/d9d78be0-0be7-461c-9676-e1af2656909a.jpg",
-        "https://picturescdn.estatesales.net/5149194/1-1/74ba0386-ae41-4a96-ad71-32d76262f7ee.jpg",
-        "https://picturescdn.estatesales.net/5149194/1-1/3d476576-0cc8-4500-ae88-8e5a204d267e.jpg",
-        "https://picturescdn.estatesales.net/5149194/1-1/0ecdcdf3-94cc-4efa-9d9f-5831402bfb52.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "362 photos",
-        "tools, furniture and vinyl & records in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "vinyl & records",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics"
-      ],
-      "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
-      "lat": 29.518944,
-      "lng": -98.512931,
-      "approximate": false
-    },
-    {
-      "id": "8c9ce50cb0d83a8d",
-      "title": "Vintage in Castle Hills",
-      "company": "Lions Estate Sales Co.",
-      "streetAddress": "114 E. Castle Ln.",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78213",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "start": "09:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "09:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "17:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78213/5166285"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(210) 867-2230",
-      "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78202/169364",
-      "photoCount": 71,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5166285/1-1/3bcb90a9-8b45-475e-b5e6-104e9419e9fd.jpg",
-        "https://picturescdn.estatesales.net/5166285/1-1/bcc5e19b-d3eb-4d32-a629-f6a4e6a0e00b.jpg",
-        "https://picturescdn.estatesales.net/5166285/1-1/9c213f86-cbb3-435a-9e64-173dc76c9d15.jpg",
-        "https://picturescdn.estatesales.net/5166285/1-1/1e67a92b-a65f-49db-ad3c-25ac8a82cf0b.jpg",
-        "https://picturescdn.estatesales.net/5166285/1-1/903e40c9-261b-43b7-a361-95426d787a6e.jpg",
-        "https://picturescdn.estatesales.net/5166285/1-1/c055ef9b-20fb-4aeb-ac69-476bf9e5d68e.jpg",
-        "https://picturescdn.estatesales.net/5166285/1-1/2b9fd0f0-102e-460d-89bc-1202c1ef3c2c.jpg",
-        "https://picturescdn.estatesales.net/5166285/1-1/56dd0c92-9f9f-4449-aac5-eea34ac3aefe.jpg",
-        "https://picturescdn.estatesales.net/5166285/1-1/6b6d4c13-a84a-413e-9252-057d791de05f.jpg",
-        "https://picturescdn.estatesales.net/5166285/1-1/b0ca4d28-203b-4707-a072-7ba789277d62.jpg",
-        "https://picturescdn.estatesales.net/5166285/1-1/88882889-38f5-43d0-a861-e1c05f8b5176.jpg",
-        "https://picturescdn.estatesales.net/5166285/1-1/b1239349-5d11-4ee5-815b-9be16b0b025b.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "71 photos",
-        "furniture, jewelry and collectibles in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "art",
-        "toys & games",
-        "crystal",
-        "antiques",
-        "lamps",
-        "mirrors",
-        "silver"
-      ],
-      "contentsLine": "Furniture, jewelry, collectibles, art and toys & games.",
-      "lat": 29.528792,
-      "lng": -98.522676,
-      "approximate": false
-    },
-    {
-      "id": "3ee833925f6f0f73",
-      "title": "25% off Friday WeDo Estate Liquidations in Leon Valley",
-      "company": "WeDo Estate Liquidations LLC",
-      "streetAddress": "6025 Mike Nesmith Street",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78238",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "start": "10:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:30",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78238/5159721"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(210) 288-0237",
-      "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78213/16304",
-      "photoCount": 194,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5159721/1-1/ead6694a-ad72-4b64-9469-76041391e7b0.jpg",
-        "https://picturescdn.estatesales.net/5159721/1-1/707e7ff2-6b4e-43ca-a2f6-b4ee37728676.jpg",
-        "https://picturescdn.estatesales.net/5159721/1-1/34d3624c-40ba-4c6e-b1c4-8c3273cb1b5f.jpg",
-        "https://picturescdn.estatesales.net/5159721/1-1/c3554f1f-11cd-47e5-b434-b50237a42cc1.jpg",
-        "https://picturescdn.estatesales.net/5159721/1-1/430b5596-88a6-416b-9884-7d4e71b7df43.jpg",
-        "https://picturescdn.estatesales.net/5159721/1-1/198e1f76-2305-467d-afc3-0e846c6526bd.jpg",
-        "https://picturescdn.estatesales.net/5159721/1-1/64d39810-f3ff-4e77-82e3-f6b71f74b95e.jpg",
-        "https://picturescdn.estatesales.net/5159721/1-1/fe026f3f-e7bc-47a9-b894-2aa0ec1b8f28.jpg",
-        "https://picturescdn.estatesales.net/5159721/1-1/47579fa7-afa6-4971-a4f1-09d02231d4c9.jpg",
-        "https://picturescdn.estatesales.net/5159721/1-1/b7067ee9-1541-4734-a7a6-6b0accefe2e7.jpg",
-        "https://picturescdn.estatesales.net/5159721/1-1/f1fa5a69-9e07-4047-8cbe-426a8e110279.jpg",
-        "https://picturescdn.estatesales.net/5159721/1-1/99002f2e-3ae6-40d3-be46-dd31d0688301.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "194 photos",
-        "tools, furniture and vinyl & records in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "vinyl & records",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "art",
-        "electronics",
-        "toys & games"
-      ],
-      "contentsLine": "Tools, furniture, vinyl & records, collectibles and vehicles.",
-      "lat": 29.491893,
-      "lng": -98.604614,
-      "approximate": false
-    },
-    {
-      "id": "b386bac47ccb221f",
-      "title": "50% OFF Christopher Estate Sales on Estate Gate",
-      "company": "Christopher Estate Sales, LLC",
-      "streetAddress": "2207 Estate Gate Drive",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78260",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "start": "10:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "10:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78260/5159355"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(210) 519-1007",
-      "contactUrl": "http://www.christopherestatesales.com",
-      "photoCount": 161,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5159355/1-1/008e15b1-896d-4caf-8eed-5853a8963488.jpg",
-        "https://picturescdn.estatesales.net/5159355/1-1/981b2353-e9a4-4928-b2ef-224365a6270e.jpg",
-        "https://picturescdn.estatesales.net/5159355/1-1/962c686e-9bc3-4a5a-a1d6-1ab8e082a3b0.jpg",
-        "https://picturescdn.estatesales.net/5159355/1-1/e799d2dc-4631-4838-be50-8f1d434b52b2.jpg",
-        "https://picturescdn.estatesales.net/5159355/1-1/9f738ef5-5ff9-4c37-b863-af17a8bc60ee.jpg",
-        "https://picturescdn.estatesales.net/5159355/1-1/6631ec32-6a69-45ba-8e37-d14c8fcc9fc9.jpg",
-        "https://picturescdn.estatesales.net/5159355/1-1/fb0893cd-a2a8-4d89-9bf0-8ee7511d5046.jpg",
-        "https://picturescdn.estatesales.net/5159355/1-1/f7bf6e34-beb8-44c8-9e68-d2a6b9af65e9.jpg",
-        "https://picturescdn.estatesales.net/5159355/1-1/88393c91-5acd-4200-9b7e-8d0ada2bd18a.jpg",
-        "https://picturescdn.estatesales.net/5159355/1-1/90e5a57d-5217-4da2-aa6b-4cd386ef1f84.jpg",
-        "https://picturescdn.estatesales.net/5159355/1-1/a2a98646-d19f-4812-9510-84dc9416dbb9.jpg",
-        "https://picturescdn.estatesales.net/5159355/1-1/9ffc4844-93f3-49c9-9e8a-5175220e0a50.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "161 photos",
-        "tools, furniture and jewelry in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles.",
-      "lat": 29.6947823,
-      "lng": -98.47273609999999,
-      "approximate": false
-    },
-    {
-      "id": "b6e8f172e24529f3",
-      "title": "Alamo Ranch Estate Sale – Furniture, Danish China, Clocks & Artwork –",
-      "company": null,
-      "streetAddress": null,
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": null,
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "start": "10:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "10:00",
-          "end": "17:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist San Antonio",
-          "url": "https://www.craigslist.org/view/d/san-antonio-alamo-ranch-estate-sale/gAtgP3gke9URX3WwZit9LA"
-        }
-      ],
-      "categories": [
-        "furniture",
-        "art"
-      ],
-      "photoCount": 24,
-      "photoUrls": [
-        "https://images.craigslist.org/00W0W_5jF20qM0dYd_0CI0eD_600x450.jpg",
-        "https://images.craigslist.org/00S0S_9ifqKyyDNSv_0pr0t2_600x450.jpg",
-        "https://images.craigslist.org/00e0e_e4awaY7JU2f_0eU0t2_600x450.jpg",
-        "https://images.craigslist.org/00N0N_5PSDDDn5fSj_0gf0t2_600x450.jpg",
-        "https://images.craigslist.org/00L0L_5031ebDirIQ_0k20t2_600x450.jpg",
-        "https://images.craigslist.org/00404_1M3s9msjLMZ_0nO0t2_600x450.jpg",
-        "https://images.craigslist.org/00U0U_7VkjeEYvW6V_0mq0t2_600x450.jpg",
-        "https://images.craigslist.org/00909_bOljx2a16p5_0is0t2_600x450.jpg",
-        "https://images.craigslist.org/00J0J_fnCi3h9SXJ0_0lM0t2_600x450.jpg",
-        "https://images.craigslist.org/00k0k_kFgpV4S0hgS_0x20l8_600x450.jpg",
-        "https://images.craigslist.org/00q0q_cZ1vDaPcnVA_0x20rm_600x450.jpg",
-        "https://images.craigslist.org/00O0O_jcIBOPor27e_0lM0t2_600x450.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "24 photos",
-        "furniture, collectibles and clothing in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "collectibles",
-        "clothing",
-        "art",
-        "china"
-      ],
-      "contentsLine": "Furniture, collectibles, clothing, art and china.",
-      "lat": 29.4246002,
-      "lng": -98.4951405,
-      "approximate": true
-    },
-    {
-      "id": "cdb008c2d16cb1b9",
-      "title": "Fox Run",
-      "company": "Crystal's Estate Sales",
-      "streetAddress": "16506 Martins Ferry",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78247",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "14:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78247/5155767"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(210) 559-7706",
-      "contactUrl": "http://crystalsestatesales.com",
-      "photoCount": 149,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5155767/1-1/fe000b0a-e74f-432e-9041-63892a030372.jpg",
-        "https://picturescdn.estatesales.net/5155767/1-1/35d166ce-1f69-430e-a0ad-ef18534d6d75.jpg",
-        "https://picturescdn.estatesales.net/5155767/1-1/5e8a0baf-1830-4665-95fc-df9bb8ff72e0.jpg",
-        "https://picturescdn.estatesales.net/5155767/1-1/13700dd2-0d42-4c55-94f7-c2f84342b259.jpg",
-        "https://picturescdn.estatesales.net/5155767/1-1/a94b2b13-43ce-4595-8e43-fc76413acd98.jpg",
-        "https://picturescdn.estatesales.net/5155767/1-1/913f0b68-54dc-4207-a761-60a851d0169d.jpg",
-        "https://picturescdn.estatesales.net/5155767/1-1/e59763e2-a3de-47e7-bc7c-421d781bb151.jpg",
-        "https://picturescdn.estatesales.net/5155767/1-1/f0b2c2a2-9563-4e7a-866e-a8f9c607282b.jpg",
-        "https://picturescdn.estatesales.net/5155767/1-1/a4078c62-08f0-4fbe-8c1a-6de62d115181.jpg",
-        "https://picturescdn.estatesales.net/5155767/1-1/edcff30f-d8c1-4ec4-b612-2bc5f3422e26.jpg",
-        "https://picturescdn.estatesales.net/5155767/1-1/059b0fe5-6e8a-4f08-b878-a716887fd11f.jpg",
-        "https://picturescdn.estatesales.net/5155767/1-1/303bca43-c486-4b82-a2dd-5981238a7404.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "149 photos",
-        "tools, furniture and jewelry in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "toys & games"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
-      "lat": 29.5882867,
-      "lng": -98.3608918,
-      "approximate": false
-    },
-    {
-      "id": "b23b641e1e602f39",
-      "title": "SPECTACULAR HOLLYWOOD PARK ESTATE SALE",
-      "company": "Complete Estate Sale Services",
-      "streetAddress": "304 Mustang Circle",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78232",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78232/5135181"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(210) 379-1004",
-      "contactUrl": "http://www.completeestatesaleservices.com",
-      "photoCount": 289,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5135181/1-1/6c5fcdab-a7c5-44eb-9957-44118c097cdc.jpg",
-        "https://picturescdn.estatesales.net/5135181/1-1/1667400a-7ed2-4730-ba12-b1ebcf1070e4.jpg",
-        "https://picturescdn.estatesales.net/5135181/1-1/1c2e2d34-056e-4c64-9c38-925fea4b4f6f.jpg",
-        "https://picturescdn.estatesales.net/5135181/1-1/a60e6474-04dd-49cd-9ed2-790406df08a7.jpg",
-        "https://picturescdn.estatesales.net/5135181/1-1/11c1d456-485e-4923-9426-93e4ec524b84.jpg",
-        "https://picturescdn.estatesales.net/5135181/1-1/de97285c-ea10-42a7-baca-739860b71c8e.jpg",
-        "https://picturescdn.estatesales.net/5135181/1-1/32abd96d-efac-4370-a4f1-01cdf4103cd9.jpg",
-        "https://picturescdn.estatesales.net/5135181/1-1/3e130891-fb18-4c7d-883f-7bd163e09e26.jpg",
-        "https://picturescdn.estatesales.net/5135181/1-1/bae6a25a-af49-4898-b005-f1906a1d63c1.jpg",
-        "https://picturescdn.estatesales.net/5135181/1-1/74bda775-e3ae-410f-86d3-9c9d3bd561dd.jpg",
-        "https://picturescdn.estatesales.net/5135181/1-1/409dd96e-3069-48db-ae30-6ffa213c617e.jpg",
-        "https://picturescdn.estatesales.net/5135181/1-1/b23e0e75-6649-4592-be85-86eca0da5d6c.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "289 photos",
-        "tools, furniture and vinyl & records in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "vinyl & records",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "toys & games"
-      ],
-      "contentsLine": "Tools, furniture, vinyl & records, collectibles and kitchen.",
-      "lat": 29.601608,
-      "lng": -98.481041,
       "approximate": false
     },
     {
@@ -1087,7 +203,7 @@
     },
     {
       "id": "7260c12af7ae5845",
-      "title": "25% off!! Hidden Meadow",
+      "title": "50% off!! Hidden Meadow",
       "company": "Southern Charm Estate Sales",
       "streetAddress": "9763 Hidden Brook",
       "city": "San Antonio",
@@ -1120,9 +236,8 @@
       "categories": [],
       "contactPhone": "(210) 237-2278",
       "contactUrl": "http://www.southerncharmestatesale.com",
-      "photoCount": 105,
+      "photoCount": 104,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5158635/1-1/3243a498-5587-4e0d-a859-17eb8ea4bff0.jpg",
         "https://picturescdn.estatesales.net/5158635/1-1/d999b321-cea6-4ed0-b477-e72bf349d1fd.jpg",
         "https://picturescdn.estatesales.net/5158635/1-1/34e9ead5-1d22-4060-a9f4-f195cc554aac.jpg",
         "https://picturescdn.estatesales.net/5158635/1-1/4e29f47a-80b0-46a7-a36e-7db6babb5a80.jpg",
@@ -1133,78 +248,17 @@
         "https://picturescdn.estatesales.net/5158635/1-1/ab01c77c-4f00-428c-932b-91ccafea0bcb.jpg",
         "https://picturescdn.estatesales.net/5158635/1-1/28d40aea-6716-47a8-a93f-8b9f537e1616.jpg",
         "https://picturescdn.estatesales.net/5158635/1-1/e252aeda-b759-45ae-8544-30a98d2533bd.jpg",
-        "https://picturescdn.estatesales.net/5158635/1-1/4d586c4f-e890-4145-9008-394f0d241c74.jpg"
+        "https://picturescdn.estatesales.net/5158635/1-1/4d586c4f-e890-4145-9008-394f0d241c74.jpg",
+        "https://picturescdn.estatesales.net/5158635/1-1/284c8047-178d-4ca9-8217-3104f0f2a24b.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "105 photos",
+        "104 photos",
         "runs 3 days"
       ],
       "photoKeywords": [],
       "lat": 29.4938137,
       "lng": -98.6939359,
-      "approximate": false
-    },
-    {
-      "id": "d234243e07a47d55",
-      "title": "50% OFF - MCM and More In Windcrest",
-      "company": null,
-      "streetAddress": "313 Crestwind Dr.",
-      "city": "Windcrest",
-      "state": "TX",
-      "zip": "78239",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "09:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78239/5163324"
-        }
-      ],
-      "categories": [],
-      "photoCount": 50,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5163324/1-1/fda3ae1e-3450-4828-a90a-53657b1ee6f2.jpg",
-        "https://picturescdn.estatesales.net/5163324/1-1/afeb7d0c-09cb-451f-af44-3450516db950.jpg",
-        "https://picturescdn.estatesales.net/5163324/1-1/c271f6a4-b93f-49d8-82e6-097dfa61a6ab.jpg",
-        "https://picturescdn.estatesales.net/5163324/1-1/570fcb7a-eb26-4f5f-90af-e0d31e3d4b79.jpg",
-        "https://picturescdn.estatesales.net/5163324/1-1/9d3875e5-b106-4a8e-aff9-8b00fc38986a.jpg",
-        "https://picturescdn.estatesales.net/5163324/1-1/2bbc5e1a-2a52-491c-8ef8-43baae129418.jpg",
-        "https://picturescdn.estatesales.net/5163324/1-1/0a577a30-6ded-441f-82c9-2cc673db1c09.jpg",
-        "https://picturescdn.estatesales.net/5163324/1-1/de515e14-bc5b-4422-b3fd-c52ea0e8b247.jpg",
-        "https://picturescdn.estatesales.net/5163324/1-1/688df6e3-755c-49ae-b8ad-548ca196ff28.jpg",
-        "https://picturescdn.estatesales.net/5163324/1-1/a69ee9f5-8029-4e5e-9709-e4b3e6539a4e.jpg",
-        "https://picturescdn.estatesales.net/5163324/1-1/247dfefb-2416-4e75-99b1-332cf577868a.jpg",
-        "https://picturescdn.estatesales.net/5163324/1-1/6be2e18c-923e-48ac-9aa5-3cf91d27929e.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "50 photos",
-        "furniture, kitchen and books in the listing"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "kitchen",
-        "books",
-        "art",
-        "toys & games",
-        "mid-century",
-        "lamps"
-      ],
-      "contentsLine": "Furniture, kitchen, books, art and toys & games.",
-      "lat": 29.5141891,
-      "lng": -98.3897374,
       "approximate": false
     },
     {
@@ -1282,7 +336,7 @@
     },
     {
       "id": "742906a1b83fcde9",
-      "title": "LOTS OF TEMPTATIONS COOKWARE, CHRISTMAS, & EVERTHING ELSE !!",
+      "title": "LOTS OF TEMPTATIONS COOKWARE, CHRISTMAS, & EVERTHING ELSE !! 1/2 PRICE SUNDAY !!!!!!!!",
       "company": "From Trash To Treasure",
       "streetAddress": "8058 BROADWAY",
       "city": "San Antonio",
@@ -1414,68 +468,6 @@
       "contentsLine": "Furniture, vinyl & records, collectibles, kitchen and clothing.",
       "lat": 29.535326,
       "lng": -98.675887,
-      "approximate": false
-    },
-    {
-      "id": "18da4466b4ee5d66",
-      "title": "Thousand Oaks Estate Sale",
-      "company": "Casablanca Estate Sale Company",
-      "streetAddress": "2422 Bluffridge St.",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78232",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "10:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78232/5165340"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(210) 438-3676",
-      "contactUrl": "https://www.casablancaestatesale.com",
-      "photoCount": 91,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5165340/1-1/d8278ea8-e2e6-48e6-8a14-d6c9a270d0a3.jpg",
-        "https://picturescdn.estatesales.net/5165340/1-1/5ea9ace4-c7af-405b-8a86-1f3a58c8eebc.jpg",
-        "https://picturescdn.estatesales.net/5165340/1-1/461eb01a-851c-4395-ab76-d12e8b40d0a1.jpg",
-        "https://picturescdn.estatesales.net/5165340/1-1/fe632b72-68e2-44f8-9113-67022bad333b.jpg",
-        "https://picturescdn.estatesales.net/5165340/1-1/0a211dda-c560-4199-b79f-2c48b5c7a4b2.jpg",
-        "https://picturescdn.estatesales.net/5165340/1-1/f0f0662b-a95f-47cf-9e4c-3340f1b32abd.jpg",
-        "https://picturescdn.estatesales.net/5165340/1-1/429e7e5a-5291-4dc4-a53b-9c871619c6de.jpg",
-        "https://picturescdn.estatesales.net/5165340/1-1/b5227b69-bd95-497c-be4d-dfd139226ac0.jpg",
-        "https://picturescdn.estatesales.net/5165340/1-1/a5fd9b87-6248-438c-be8d-db4aafe24efb.jpg",
-        "https://picturescdn.estatesales.net/5165340/1-1/b6f6ed1b-875d-45c9-82db-d26eca7acae6.jpg",
-        "https://picturescdn.estatesales.net/5165340/1-1/533c67e9-37cf-4e3a-9dd6-d61560227464.jpg",
-        "https://picturescdn.estatesales.net/5165340/1-1/32c682c7-0cfa-406a-bd12-70585bb82904.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "91 photos",
-        "furniture, kitchen and clothing in the listing"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "kitchen",
-        "clothing",
-        "books",
-        "christmas decor"
-      ],
-      "contentsLine": "Furniture, kitchen, clothing, books and christmas decor.",
-      "lat": 29.5829217,
-      "lng": -98.4526863,
       "approximate": false
     },
     {
@@ -1616,7 +608,7 @@
     },
     {
       "id": "f8e3d9b53528e5c1",
-      "title": "25% off!! Massive warehouse sale. Sterling AMMO games comics everything",
+      "title": "50% off and box day! Massive warehouse sale. Sterling AMMO games comics everything",
       "company": "Back Again Resale",
       "streetAddress": "11725 warfield st",
       "city": "San Antonio",
@@ -1688,99 +680,27 @@
       "approximate": false
     },
     {
-      "id": "f18cd2449cc3ae76",
-      "title": "50% Off Evans an Bulverde Road Area",
-      "company": "Wonderful Life Estate Sales",
-      "streetAddress": "21527 Tenore",
-      "city": "San Antonio",
+      "id": "2dc9d38168c25dcf",
+      "title": "50% OFF Soulshine in Universal City | A Christmas Wonderland & Vintage Treasures Galore!",
+      "company": "Soulshine Estate Sale Company",
+      "streetAddress": "8523 Marathon Dr",
+      "city": "Universal City",
       "state": "TX",
-      "zip": "78259",
+      "zip": "78148",
       "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-20",
           "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
           "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist San Antonio",
-          "url": "https://www.craigslist.org/view/d/san-antonio-bedroom-set-at-estate-sale/oopuutJZHfhsyjVJBx5ZNq"
-        },
-        {
-          "name": "Craigslist San Antonio",
-          "url": "https://www.craigslist.org/view/d/san-antonio-bowflex-pr1000-home-gym/us4cwyrEcDJjEzsUoNKMwH"
-        },
-        {
-          "name": "Craigslist San Antonio",
-          "url": "https://www.craigslist.org/view/d/san-antonio-estate-sale-evans-and/vKqXMAZM5a1ReVjNjgHHX5"
-        },
-        {
-          "name": "Craigslist San Antonio",
-          "url": "https://www.craigslist.org/view/d/san-antonio-king-sleep-number-bed/bHKfMtM7BVh5UTcW7CW4w2"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78259/5163870"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(210) 202-7851",
-      "contactUrl": "HTTPS://Wonderfullifeestate.com",
-      "photoCount": 32,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5163870/1-1/2442cd5f-4a5b-439e-b370-e02bed99eb80.jpg",
-        "https://picturescdn.estatesales.net/5163870/1-1/1cc0e027-a88e-4597-ae81-122a98bb7eaf.jpg",
-        "https://picturescdn.estatesales.net/5163870/1-1/79020455-b50b-4b9a-ba17-7218b36b515c.jpg",
-        "https://picturescdn.estatesales.net/5163870/1-1/f44455e4-5ee8-4c2f-8c91-094fd90a1a34.jpg",
-        "https://picturescdn.estatesales.net/5163870/1-1/3d2626b0-723f-4db2-a9f6-8ced0a2fa85b.jpg",
-        "https://picturescdn.estatesales.net/5163870/1-1/20e5cdfe-b919-4cdb-8ead-48336bec52ef.jpg",
-        "https://picturescdn.estatesales.net/5163870/1-1/358a19ee-9a09-4f03-a39a-781f4a716ec2.jpg",
-        "https://picturescdn.estatesales.net/5163870/1-1/927b303f-5f3d-4a2b-a810-a1b6f8a0f9f3.jpg",
-        "https://picturescdn.estatesales.net/5163870/1-1/2d288ccb-2628-4a36-ad0b-f34bb82c53aa.jpg",
-        "https://picturescdn.estatesales.net/5163870/1-1/e637c58b-9a41-4b3a-b6fa-6f177160e0b8.jpg",
-        "https://picturescdn.estatesales.net/5163870/1-1/4bee240d-c6a2-414e-92d0-42c987588dec.jpg",
-        "https://picturescdn.estatesales.net/5163870/1-1/4b1f62ea-c028-4511-9aa6-1126c3a503d1.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "32 photos",
-        "furniture, clothing and art in the listing"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "clothing",
-        "art",
-        "lamps"
-      ],
-      "contentsLine": "Furniture, clothing, art and lamps.",
-      "lat": 29.6407094,
-      "lng": -98.4264045,
-      "approximate": false
-    },
-    {
-      "id": "71f83a879888d805",
-      "title": "50% off most things Oakwell Farms Sale",
-      "company": "June Hayes, Heritage Estates",
-      "streetAddress": "39 Campden Circle",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78218",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "16:00"
         },
         {
           "date": "2026-11-21",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-22",
           "start": "10:00",
           "end": "15:00"
         }
@@ -1788,47 +708,43 @@
       "sources": [
         {
           "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78218/5161221"
+          "url": "https://www.estatesales.net/TX/Universal-City/78148/5162931"
         }
       ],
       "categories": [],
-      "contactPhone": "(210) 844-2130",
-      "contactUrl": "https://www.junehayes.com/",
-      "photoCount": 154,
+      "contactUrl": "http://www.soulshineestatesaleco.com",
+      "photoCount": 192,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5161221/1-1/f310d687-a300-4f79-8249-e019f8c17cda.jpg",
-        "https://picturescdn.estatesales.net/5161221/1-1/87dcc8f6-845c-45e4-9d8c-ce34ccc1b428.jpg",
-        "https://picturescdn.estatesales.net/5161221/1-1/5b6949bc-5e38-47c8-a0d7-5f124e0febb5.jpg",
-        "https://picturescdn.estatesales.net/5161221/1-1/0b755b93-acd0-4d80-9f24-114940eeb9f0.jpg",
-        "https://picturescdn.estatesales.net/5161221/1-1/ecf4d802-3172-4aa2-ba4c-b72038e3d435.jpg",
-        "https://picturescdn.estatesales.net/5161221/1-1/0a5c8f49-2a9f-4381-9498-7a039a4017f7.jpg",
-        "https://picturescdn.estatesales.net/5161221/1-1/3ca097cd-7c42-4595-b0b7-5c94c5a367dd.jpg",
-        "https://picturescdn.estatesales.net/5161221/1-1/39bcabec-8743-4dc6-8d70-64d2c28cec2c.jpg",
-        "https://picturescdn.estatesales.net/5161221/1-1/9387b6f3-84a2-46bd-b6e4-19b375d1f338.jpg",
-        "https://picturescdn.estatesales.net/5161221/1-1/7135604a-f7c0-467c-afb3-0477ed2432d6.jpg",
-        "https://picturescdn.estatesales.net/5161221/1-1/b6e0b76a-cd50-4189-af6b-4e4488eb1a5d.jpg",
-        "https://picturescdn.estatesales.net/5161221/1-1/fca10ebe-3bae-45f8-bdef-a7412d49b944.jpg"
+        "https://picturescdn.estatesales.net/5162931/1-1/3453c1f0-0219-49f9-af4b-d57bbe4960dc.jpg",
+        "https://picturescdn.estatesales.net/5162931/1-1/de3f5128-ad56-42a0-bd9a-571dd4ddb359.jpg",
+        "https://picturescdn.estatesales.net/5162931/1-1/75f25700-421a-40eb-8f43-3b42b313138a.jpg",
+        "https://picturescdn.estatesales.net/5162931/1-1/3c40e7f5-a4cb-480b-a08f-68762cc4a70c.jpg",
+        "https://picturescdn.estatesales.net/5162931/1-1/8700ad84-de20-4b13-9f97-b30c7dec2bcc.jpg",
+        "https://picturescdn.estatesales.net/5162931/1-1/01d23e4f-a147-47e5-a595-c816cde558b8.jpg",
+        "https://picturescdn.estatesales.net/5162931/1-1/bee364ff-9211-4c26-b9d1-7cdeea6cc565.jpg",
+        "https://picturescdn.estatesales.net/5162931/1-1/2fc96f87-5518-4fa6-a308-10b9d58059b1.jpg",
+        "https://picturescdn.estatesales.net/5162931/1-1/2611d38d-fd28-4f2f-94a5-4e242803808d.jpg",
+        "https://picturescdn.estatesales.net/5162931/1-1/070df34b-bd37-45e0-89b7-6c94cb68509b.jpg",
+        "https://picturescdn.estatesales.net/5162931/1-1/9bfa5f16-d96d-49d5-a1d3-e980075d6a26.jpg",
+        "https://picturescdn.estatesales.net/5162931/1-1/4a0512ce-02b1-4139-abff-28f9cec5d357.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "154 photos",
-        "tools, furniture and jewelry in the listing"
+        "192 photos",
+        "furniture, kitchen and clothing in the listing",
+        "runs 3 days"
       ],
       "photoKeywords": [
-        "tools",
         "furniture",
-        "jewelry",
-        "collectibles",
         "kitchen",
         "clothing",
-        "books",
-        "art",
-        "crystal",
-        "patio furniture"
+        "mid-century",
+        "lamps",
+        "christmas decor"
       ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
-      "lat": 29.511623,
-      "lng": -98.4272001,
+      "contentsLine": "Furniture, kitchen, clothing, mid-century and lamps.",
+      "lat": 29.5699934,
+      "lng": -98.3164482,
       "approximate": false
     },
     {
@@ -1909,140 +825,68 @@
       "approximate": false
     },
     {
-      "id": "2dc9d38168c25dcf",
-      "title": "Soulshine in Universal City | A Christmas Wonderland & Vintage Treasures Galore!",
-      "company": "Soulshine Estate Sale Company",
-      "streetAddress": "8523 Marathon Dr",
-      "city": "Universal City",
+      "id": "c0420bbe0c6f9d01",
+      "title": "Blowout sale! 50% OFF",
+      "company": "1dandelion LLC",
+      "streetAddress": "351 Culebra",
+      "city": "San Antonio",
       "state": "TX",
-      "zip": "78148",
+      "zip": "78201",
       "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-20",
-          "start": "10:00",
-          "end": "15:00"
+          "start": "10:30",
+          "end": "17:00"
         },
         {
           "date": "2026-11-21",
-          "start": "10:00",
-          "end": "15:00"
+          "start": "10:30",
+          "end": "16:00"
         },
         {
           "date": "2026-11-22",
-          "start": "10:00",
-          "end": "15:00"
+          "start": "12:00",
+          "end": "16:00"
         }
       ],
       "sources": [
         {
           "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Universal-City/78148/5162931"
+          "url": "https://www.estatesales.net/TX/San-Antonio/78201/5158845"
         }
       ],
       "categories": [],
-      "contactUrl": "http://www.soulshineestatesaleco.com",
-      "photoCount": 192,
+      "contactPhone": "(210) 835-7962",
+      "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78217/139760",
+      "photoCount": 64,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5162931/1-1/3453c1f0-0219-49f9-af4b-d57bbe4960dc.jpg",
-        "https://picturescdn.estatesales.net/5162931/1-1/de3f5128-ad56-42a0-bd9a-571dd4ddb359.jpg",
-        "https://picturescdn.estatesales.net/5162931/1-1/75f25700-421a-40eb-8f43-3b42b313138a.jpg",
-        "https://picturescdn.estatesales.net/5162931/1-1/3c40e7f5-a4cb-480b-a08f-68762cc4a70c.jpg",
-        "https://picturescdn.estatesales.net/5162931/1-1/8700ad84-de20-4b13-9f97-b30c7dec2bcc.jpg",
-        "https://picturescdn.estatesales.net/5162931/1-1/01d23e4f-a147-47e5-a595-c816cde558b8.jpg",
-        "https://picturescdn.estatesales.net/5162931/1-1/bee364ff-9211-4c26-b9d1-7cdeea6cc565.jpg",
-        "https://picturescdn.estatesales.net/5162931/1-1/2fc96f87-5518-4fa6-a308-10b9d58059b1.jpg",
-        "https://picturescdn.estatesales.net/5162931/1-1/2611d38d-fd28-4f2f-94a5-4e242803808d.jpg",
-        "https://picturescdn.estatesales.net/5162931/1-1/070df34b-bd37-45e0-89b7-6c94cb68509b.jpg",
-        "https://picturescdn.estatesales.net/5162931/1-1/9bfa5f16-d96d-49d5-a1d3-e980075d6a26.jpg",
-        "https://picturescdn.estatesales.net/5162931/1-1/4a0512ce-02b1-4139-abff-28f9cec5d357.jpg"
+        "https://picturescdn.estatesales.net/5158845/1-1/053528a9-09fe-45b5-ad84-91ae725ca305.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/3cc66bc4-746a-417b-98f4-525ee09e60eb.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/71324f68-16c5-46b3-b472-bebbcb8105f6.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/6df4f042-8830-4130-8cf5-18db387aba9b.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/c9bc16d8-6015-4794-aaa4-967c8e80c63d.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/02709502-514f-4129-bd05-8bc0fc43049a.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/6eac38dd-05df-4741-bbba-a7968ca8de91.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/888857dc-9b94-40cd-b1d8-9e83d1f1b68d.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/d8d0baf8-2b55-499f-83b6-dca5603439b8.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/772dd093-890d-4dad-b192-bdac58df493e.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/5dc34b3d-b1dc-448c-b21c-2dae86c1b899.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/21902c75-090a-41ad-a79c-9c57e875828c.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "192 photos",
-        "furniture, kitchen and clothing in the listing",
+        "64 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "kitchen",
-        "clothing",
-        "mid-century",
-        "lamps",
-        "christmas decor"
-      ],
-      "contentsLine": "Furniture, kitchen, clothing, mid-century and lamps.",
-      "lat": 29.5699934,
-      "lng": -98.3164482,
+      "photoKeywords": [],
+      "lat": 29.443835,
+      "lng": -98.508732,
       "approximate": false
     },
     {
-      "id": "aa11361b64ab4c8b",
-      "title": "Huge Estate Sale",
-      "company": null,
-      "streetAddress": "13811 Belgrave Way near Laramie Hill",
-      "city": "Live Oak",
-      "state": "TX",
-      "zip": null,
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "9:00 (AM/PM unspecified)",
-          "end": null
-        },
-        {
-          "date": "2026-11-21",
-          "start": "9:00 (AM/PM unspecified)",
-          "end": null
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist San Antonio",
-          "url": "https://www.craigslist.org/view/d/san-antonio-huge-estate-sale/twWo2V4WuVuJEd9p1nXc4T"
-        }
-      ],
-      "categories": [],
-      "photoCount": 13,
-      "photoUrls": [
-        "https://images.craigslist.org/00t0t_5z2WkpdGh37_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00m0m_aCN4KggV3Yb_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00w0w_XnFYwpnPg9_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00h0h_htJ9LrYR3qR_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00505_mZcLQkT5Mv_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/01515_jPKSVN1T2u_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00K0K_bmvLP54yUAy_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/01010_kLpxeeQDuOK_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00N0N_9Db1xpWDT22_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00i0i_jp6UdpZtf2l_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00505_9Q0219NBf1D_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00Z0Z_h3Eo6yR1UmY_0t20CI_600x450.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "13 photos",
-        "tools, furniture and jewelry in the listing"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "art",
-        "toys & games",
-        "christmas decor"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
-      "lat": 29.5628983,
-      "lng": -98.3334411,
-      "approximate": true
-    },
-    {
       "id": "34b5227346b96a7f",
-      "title": "Caring Transitions @ The Knolls of Woodlake",
+      "title": "50% Sunday ! Caring Transitions @ The Knolls of Woodlake",
       "company": "Caring Transitions Of San Antonio North",
       "streetAddress": "7222 Sunset Terrace",
       "city": "San Antonio",
@@ -2102,53 +946,6 @@
       "lat": 29.4880709,
       "lng": -98.3473411,
       "approximate": false
-    },
-    {
-      "id": "9db7714c6809003c",
-      "title": "Estate Sale",
-      "company": null,
-      "streetAddress": "310 Eugene sasser",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": null,
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": null
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist San Antonio",
-          "url": "https://www.craigslist.org/view/d/san-antonio-estate-sale/skMW9AS9oF7cXcneZGAFwj"
-        }
-      ],
-      "categories": [],
-      "photoCount": 13,
-      "photoUrls": [
-        "https://images.craigslist.org/00F0F_jdldrq3EbHI_0lR0t2_600x450.jpg",
-        "https://images.craigslist.org/00E0E_20nc66YcWIZ_0lR0t2_600x450.jpg",
-        "https://images.craigslist.org/00h0h_2EdtESkT9AU_0lR0t2_600x450.jpg",
-        "https://images.craigslist.org/00g0g_4Gx6rhYJRGa_0lR0t2_600x450.jpg",
-        "https://images.craigslist.org/00x0x_fFn4zUxWpmh_0Cz0t2_600x450.jpg",
-        "https://images.craigslist.org/00E0E_hkubGmtxzcw_0lR0t2_600x450.jpg",
-        "https://images.craigslist.org/00w0w_3GW1OhmrWRT_0lR0t2_600x450.jpg",
-        "https://images.craigslist.org/01111_lzSsMY4ikOY_0lR0t2_600x450.jpg",
-        "https://images.craigslist.org/00v0v_au1a2JseONC_0lR0t2_600x450.jpg",
-        "https://images.craigslist.org/00Z0Z_1D4Y5wpL9uY_0lR0t2_600x450.jpg",
-        "https://images.craigslist.org/00N0N_c98d5JCBafq_0lR0t2_600x450.jpg",
-        "https://images.craigslist.org/00A0A_cFBBsRsyw2l_0lR0t2_600x450.jpg"
-      ],
-      "digRating": "Worth a Look",
-      "ratingReasons": [
-        "13 photos"
-      ],
-      "photoKeywords": [],
-      "lat": 29.4246002,
-      "lng": -98.4951405,
-      "approximate": true
     },
     {
       "id": "2d56b81a9e1923d5",
@@ -2217,7 +1014,7 @@
     },
     {
       "id": "024609b28b867c3b",
-      "title": "Thunder Gulch",
+      "title": "HALF OFF SUNDAY SALE",
       "company": null,
       "streetAddress": "2919 Thunder Gulch",
       "city": "San Antonio",
@@ -2243,11 +1040,10 @@
         }
       ],
       "categories": [],
-      "photoCount": 48,
+      "photoCount": 41,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5167800/1-1/8868ffd1-9715-4c8a-8ec5-a914b7fbb022.jpg",
         "https://picturescdn.estatesales.net/5167800/1-1/b16c37fd-7568-419b-8000-bb7c63382fb8.jpg",
-        "https://picturescdn.estatesales.net/5167800/1-1/09e8cfb2-604a-45dc-a02e-94cfb7a849dd.jpg",
         "https://picturescdn.estatesales.net/5167800/1-1/8add25ef-7019-46c9-9d07-d958c38a4d58.jpg",
         "https://picturescdn.estatesales.net/5167800/1-1/c884e2b7-ce50-4433-a9e3-f35092d8a6dd.jpg",
         "https://picturescdn.estatesales.net/5167800/1-1/5f1e239a-6ec5-414d-a3b4-5fd5ced50dc7.jpg",
@@ -2256,25 +1052,24 @@
         "https://picturescdn.estatesales.net/5167800/1-1/97a1ef49-0a1b-462a-8aad-a0677a837f3f.jpg",
         "https://picturescdn.estatesales.net/5167800/1-1/05285eb9-3b6c-435d-aadb-ef840dc6482e.jpg",
         "https://picturescdn.estatesales.net/5167800/1-1/2afcd8cc-7e65-43eb-a83d-284d01d6dee8.jpg",
-        "https://picturescdn.estatesales.net/5167800/1-1/df9786ac-25f4-4daf-97b2-efb83b9d8b06.jpg"
+        "https://picturescdn.estatesales.net/5167800/1-1/df9786ac-25f4-4daf-97b2-efb83b9d8b06.jpg",
+        "https://picturescdn.estatesales.net/5167800/1-1/75d64f3b-d619-4b2b-85a0-67a357a39ca1.jpg"
       ],
-      "digRating": "Deep Dig",
+      "digRating": "Worth a Look",
       "ratingReasons": [
-        "48 photos",
-        "tools and furniture in the listing"
+        "41 photos"
       ],
       "photoKeywords": [
-        "tools",
-        "furniture"
+        "tools"
       ],
-      "contentsLine": "Tools and furniture.",
+      "contentsLine": "Tools.",
       "lat": 29.400566,
       "lng": -98.711918,
       "approximate": false
     },
     {
       "id": "e194b21d79ac8618",
-      "title": "Cozy Texas Classics",
+      "title": "33% Off Cozy Texas Classics",
       "company": "Satx Select Liquidators LLC",
       "streetAddress": "2311 Copper Ash",
       "city": "San Antonio",
@@ -2421,7 +1216,7 @@
     },
     {
       "id": "e3e538763c4513ab",
-      "title": "Great Bargains in Great Northwest",
+      "title": "Great Bargains in Great Northwest 50% OFF & BETTER",
       "company": "Heritage Senior Downsizing LLC",
       "streetAddress": "9231 Ridge Path",
       "city": "San Antonio",
@@ -2544,7 +1339,7 @@
       "approximate": true
     },
     {
-      "id": "8cddb4f0624c5600",
+      "id": "973e0e5b1df0d2b5",
       "title": "THE FINAL TWO DAYS!! 30%-50% OFF!!!",
       "company": null,
       "streetAddress": "14000 Wenrich",
@@ -2560,14 +1355,14 @@
         },
         {
           "date": "2026-11-22",
-          "start": "10:00",
+          "start": "11:00",
           "end": "15:00"
         }
       ],
       "sources": [
         {
           "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/live-oak-/78233/the-final-two-days-3050-2474847"
+          "url": "https://estatesales.org/estate-sales/tx/live-oak/78233/the-final-two-days-3050-2474847"
         }
       ],
       "categories": [],
@@ -2901,7 +1696,7 @@
       ],
       "contactPhone": "(210) 844-2130",
       "contactUrl": "https://www.junehayes.com/",
-      "photoCount": 111,
+      "photoCount": 112,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5163522/1-1/adbbfd84-13a6-4453-8222-ec05d8f85062.jpg",
         "https://picturescdn.estatesales.net/5163522/1-1/876c9132-8517-49c1-9959-4460c629f893.jpg",
@@ -2911,14 +1706,14 @@
         "https://picturescdn.estatesales.net/5163522/1-1/eca88d5d-3ea4-4112-a1c5-130c73f621b2.jpg",
         "https://picturescdn.estatesales.net/5163522/1-1/0f4cc9b4-7ad2-4ad8-94b1-7141e158105c.jpg",
         "https://picturescdn.estatesales.net/5163522/1-1/cfebfe52-2442-4592-8b99-bf0206cfff2c.jpg",
-        "https://picturescdn.estatesales.net/5163522/1-1/3dffc87d-7d9e-4173-bbc0-c523d6370504.jpg",
-        "https://picturescdn.estatesales.net/5163522/1-1/c96c1119-eb0e-468a-b5e5-f6a40d4afc98.jpg",
-        "https://picturescdn.estatesales.net/5163522/1-1/67a67032-c86e-490d-b36e-d63b516a68f7.jpg",
-        "https://picturescdn.estatesales.net/5163522/1-1/51e7b72d-b183-4130-b504-4bcd7833f1d9.jpg"
+        "https://picturescdn.estatesales.net/5163522/1-1/3770f459-3af8-4b0c-addf-3bdb1ccc705f.jpg",
+        "https://picturescdn.estatesales.net/5163522/1-1/745ef221-aba6-416d-bac8-b22155a87141.jpg",
+        "https://picturescdn.estatesales.net/5163522/1-1/287e0eca-15ae-4657-b621-66f94b3c75f5.jpg",
+        "https://picturescdn.estatesales.net/5163522/1-1/c96c1119-eb0e-468a-b5e5-f6a40d4afc98.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "111 photos",
+        "112 photos",
         "jewelry, collectibles and clothing in the listing",
         "runs 3 days"
       ],
@@ -3030,7 +1825,7 @@
       ],
       "contactPhone": "(210) 313-2722",
       "contactUrl": "https://estatesalesbyemilee.com",
-      "photoCount": 88,
+      "photoCount": 445,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5163432/1-1/e411dee6-a960-4abd-bdde-f790144186a0.jpg",
         "https://picturescdn.estatesales.net/5163432/1-1/67e43a47-7a73-4107-9de1-d088cf629142.jpg",
@@ -3047,7 +1842,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "88 photos",
+        "445 photos",
         "tools, furniture and kitchen in the listing",
         "runs 3 days"
       ],
@@ -3062,6 +1857,108 @@
       "contentsLine": "Tools, furniture, kitchen, clothing and toys & games.",
       "lat": 29.6116987,
       "lng": -98.6190257,
+      "approximate": true
+    },
+    {
+      "id": "8e56a00856f4e1b4",
+      "title": "#635: Sonte Estate Sale",
+      "company": "A Better Estate Sale Co.",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78230",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "11:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78230/5138055"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(210) 464-1764",
+      "contactUrl": "http://www.abetterestatesale.com/",
+      "photoCount": 0,
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "no photos in the listing",
+        "few details in the listing"
+      ],
+      "photoKeywords": [],
+      "lat": 29.5487239,
+      "lng": -98.568179,
+      "approximate": true
+    },
+    {
+      "id": "280dd0611afe0fd6",
+      "title": "Feels Like Fall @Garden Ridge",
+      "company": "Estates By Emilee LLC",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78266",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78266/5073984"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(210) 313-2722",
+      "contactUrl": "https://estatesalesbyemilee.com",
+      "photoCount": 12,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5073984/1-1/447cbf23-b8c2-42a5-a3f1-e5e426a421c4.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/4850782a-8990-429a-954c-bc1cd535ac08.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/8148429a-e04f-4bf5-858e-d40da1d4ea46.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/8325146a-729d-48c6-9494-365488219931.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/e126c792-6915-44d8-9e12-1f8747deb10b.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/8538c52f-18d4-4f75-8dee-f16eed06d18d.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/8d82fd83-1dd8-41de-ad42-128c147607ad.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/816b4388-0e08-4127-9608-c0d8ee8d1826.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/178f189b-b68e-4681-b46d-5b6eaa6aefac.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/0c04a6a9-9467-41d0-8e21-b93108b077ec.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/946a6405-3c20-4f50-9b61-b2d822c288f8.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/b9e1d895-e850-4d26-9ac8-a99f87be6b91.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "12 photos",
+        "furniture, kitchen and books in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "kitchen",
+        "books",
+        "art"
+      ],
+      "contentsLine": "Furniture, kitchen, books and art.",
+      "lat": 29.6405952,
+      "lng": -98.3205808,
       "approximate": true
     }
   ]

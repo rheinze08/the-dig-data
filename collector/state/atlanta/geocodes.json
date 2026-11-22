@@ -1,0 +1,466 @@
+{
+  "city:atl": {
+    "retryAfter": 1795963157589
+  },
+  "city:clarkston": {
+    "lat": 33.8095487,
+    "lng": -84.2396434,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "nominatim:street:110 parc du chateau near n powers ferry:atl": {
+    "retryAfter": 1795963156487
+  },
+  "nominatim:street:1200 to lani farm rd:30083": {
+    "retryAfter": 1795963116971
+  },
+  "nominatim:street:12362 coldstream ct:30228": {
+    "retryAfter": 1795963154533
+  },
+  "nominatim:street:1432 pineway dr:30329": {
+    "retryAfter": 1795963105951
+  },
+  "nominatim:street:173 rowland springs rd se:30121": {
+    "retryAfter": 1795963139198
+  },
+  "nominatim:street:1761c mccoba dr se:30080": {
+    "retryAfter": 1795963148722
+  },
+  "nominatim:street:1761c mccoba dr:30080": {
+    "retryAfter": 1795963119300
+  },
+  "nominatim:street:1810 greystone ct:30068": {
+    "retryAfter": 1795963134766
+  },
+  "nominatim:street:2 lake shore plaza:30002": {
+    "retryAfter": 1795963109393
+  },
+  "nominatim:street:2124 shamrock dr:30032": {
+    "retryAfter": 1795963110364
+  },
+  "nominatim:street:2664 ridgemore rd:30318": {
+    "retryAfter": 1795963106965
+  },
+  "nominatim:street:290 pendleton tr:30290": {
+    "retryAfter": 1795963145601
+  },
+  "nominatim:street:2911 ne pkwy:30306": {
+    "retryAfter": 1795963143776
+  },
+  "nominatim:street:2929 delcourt dr:30033": {
+    "retryAfter": 1795963111368
+  },
+  "nominatim:street:314 w main st:30120": {
+    "retryAfter": 1795963123788
+  },
+  "nominatim:street:3222 barkside ct:30341": {
+    "retryAfter": 1795963120622
+  },
+  "nominatim:street:3708 tynemoore trace s e:30080": {
+    "retryAfter": 1795963115046
+  },
+  "nominatim:street:3708 tynemoore trce se:30080": {
+    "retryAfter": 1795963151238
+  },
+  "nominatim:street:3793 ivey ln sw:30047": {
+    "retryAfter": 1795963146821
+  },
+  "nominatim:street:3793 ivey ln:30047": {
+    "retryAfter": 1795963133598
+  },
+  "nominatim:street:3795 lamb dr:30064": {
+    "retryAfter": 1795963130389
+  },
+  "nominatim:street:3816 wood view dr:30044": {
+    "retryAfter": 1795963140057
+  },
+  "nominatim:street:3860 adams rd:30041": {
+    "retryAfter": 1795963121512
+  },
+  "nominatim:street:3905 savannah ridge dr:30062": {
+    "retryAfter": 1795963127925
+  },
+  "nominatim:street:4080 annecy dr sw:30331": {
+    "retryAfter": 1795963112539
+  },
+  "nominatim:street:4166 crowder dr:30152": {
+    "retryAfter": 1795963122412
+  },
+  "nominatim:street:4334 e cherokee dr:30115": {
+    "retryAfter": 1795963132282
+  },
+  "nominatim:street:451 marston pass:30102": {
+    "retryAfter": 1795963141152
+  },
+  "nominatim:street:4515 hastings dr:30041": {
+    "retryAfter": 1795963129249
+  },
+  "nominatim:street:456 ivy park ln n e:30342": {
+    "retryAfter": 1795963108354
+  },
+  "nominatim:street:4850 drew rd:30004": {
+    "retryAfter": 1795963135859
+  },
+  "nominatim:street:5038 pointer rdg:30542": {
+    "retryAfter": 1795963124813
+  },
+  "nominatim:street:5395 vinings lake view sw:30126": {
+    "retryAfter": 1795963116007
+  },
+  "nominatim:street:600 middlebrooke dr:30115": {
+    "retryAfter": 1795963125722
+  },
+  "nominatim:street:711 trabert ave sw:30318": {
+    "retryAfter": 1795963103705
+  },
+  "nominatim:street:74 saddle field cir:30121": {
+    "retryAfter": 1795963131489
+  },
+  "nominatim:street:838 guinevere way sw:30047": {
+    "retryAfter": 1795963137817
+  },
+  "street:102 woodfield ct:30269": {
+    "lat": 33.4134328,
+    "lng": -84.5909203,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1086 rosedale rd ne:30306": {
+    "lat": 33.784305,
+    "lng": -84.348243,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1200 to lani farm rd:30083": {
+    "lat": 33.759799,
+    "lng": -84.207532,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:1432 pineway dr:30329": {
+    "lat": 33.818693,
+    "lng": -84.331004,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:173 rowland springs rd se:30121": {
+    "lat": 34.2111855,
+    "lng": -84.738879,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:1761c mccoba dr:30080": {
+    "lat": 33.890034,
+    "lng": -84.502266,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:1810 greystone ct:30068": {
+    "lat": 33.9923301,
+    "lng": -84.40013739999999,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2 lake shore plaza:30002": {
+    "lat": 33.7652996,
+    "lng": -84.2622932,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2124 shamrock dr:30032": {
+    "lat": 33.727592,
+    "lng": -84.257433,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2664 ridgemore rd:30318": {
+    "lat": 33.827717,
+    "lng": -84.447117,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:290 pendleton tr:30290": {
+    "lat": 33.479085,
+    "lng": -84.572934,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2911 ne pkwy:30306": {
+    "lat": 33.92609,
+    "lng": -84.258646,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2929 delcourt dr:30033": {
+    "lat": 33.820342,
+    "lng": -84.26919,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:314 w main st:30120": {
+    "lat": 34.162965,
+    "lng": -84.802599,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3222 barkside ct:30341": {
+    "lat": 33.881844,
+    "lng": -84.265341,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3566 keswick dr:30341": {
+    "lat": 33.8956598,
+    "lng": -84.3132683,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:3708 tynemoore trace s e:30080": {
+    "lat": 33.857875,
+    "lng": -84.489664,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3793 ivey ln:30047": {
+    "lat": 33.884842,
+    "lng": -84.09228,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3795 lamb dr:30064": {
+    "lat": 33.959678,
+    "lng": -84.668435,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3816 wood view dr:30044": {
+    "lat": 33.891188,
+    "lng": -84.097011,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3820 vineyards lake cir:30144": {
+    "lat": 34.0500461,
+    "lng": -84.6179586,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:3860 adams rd:30041": {
+    "lat": 34.231457,
+    "lng": -84.075481,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3905 savannah ridge dr:30062": {
+    "lat": 34.002275,
+    "lng": -84.436986,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:4080 annecy dr sw:30331": {
+    "lat": 33.703618,
+    "lng": -84.529063,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:4166 crowder dr:30152": {
+    "lat": 34.018927,
+    "lng": -84.67359,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:4334 e cherokee dr:30115": {
+    "lat": 34.194578,
+    "lng": -84.422272,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:451 marston pass:30102": {
+    "lat": 34.081779,
+    "lng": -84.586177,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:4515 hastings dr:30041": {
+    "lat": 34.122383,
+    "lng": -84.136065,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:456 ivy park ln n e:30342": {
+    "lat": 33.852658,
+    "lng": -84.372419,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:4850 drew rd:30004": {
+    "lat": 34.208836,
+    "lng": -84.261123,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:4896 n royal atlanta dr:30084": {
+    "lat": 33.8595869,
+    "lng": -84.1888266,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:5038 pointer rdg:30542": {
+    "lat": 34.184072,
+    "lng": -83.866267,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:5395 vinings lake view sw:30126": {
+    "lat": 33.8174115,
+    "lng": -84.5510887,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:600 middlebrooke dr:30115": {
+    "lat": 34.1835365,
+    "lng": -84.43986559999999,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:622 grassmeade way:30078": {
+    "lat": 33.8958126,
+    "lng": -84.0201002,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:690 etowah dr ne:30060": {
+    "lat": 33.9683579,
+    "lng": -84.5458203,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:711 trabert ave sw:30318": {
+    "lat": 33.795597,
+    "lng": -84.411195,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:74 saddle field cir:30121": {
+    "lat": 34.255911,
+    "lng": -84.83748,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:829 northern ave:30021": {
+    "lat": 33.8007504,
+    "lng": -84.2473232,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:838 guinevere way sw:30047": {
+    "lat": 33.859321,
+    "lng": -84.124369,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:8606 bowden st:30134": {
+    "lat": 33.7465867,
+    "lng": -84.7478588,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30004": {
+    "lat": 34.1115048,
+    "lng": -84.3152783,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30005": {
+    "lat": 34.0779629,
+    "lng": -84.2192068,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30014": {
+    "lat": 33.5869552,
+    "lng": -83.8601338,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30019": {
+    "lat": 34.0100765,
+    "lng": -83.9016884,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30039": {
+    "lat": 33.8108899,
+    "lng": -84.043116,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30040": {
+    "lat": 34.2179707,
+    "lng": -84.1854246,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30043": {
+    "lat": 34.0020362,
+    "lng": -84.0063146,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30047": {
+    "lat": 33.8731136,
+    "lng": -84.1186563,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30062": {
+    "lat": 33.9976213,
+    "lng": -84.4695068,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30064": {
+    "lat": 33.940102,
+    "lng": -84.607778,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30067": {
+    "lat": 33.9283727,
+    "lng": -84.4701928,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30068": {
+    "lat": 33.9684331,
+    "lng": -84.4347348,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30078": {
+    "lat": 33.8699756,
+    "lng": -84.0186653,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30080": {
+    "lat": 33.8787066,
+    "lng": -84.5052053,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30082": {
+    "lat": 33.8520697,
+    "lng": -84.5322314,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30092": {
+    "lat": 33.9664631,
+    "lng": -84.2433532,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30094": {
+    "lat": 33.6112104,
+    "lng": -84.045593,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30114": {
+    "lat": 34.2293164,
+    "lng": -84.5069013,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30120": {
+    "lat": 34.1615635,
+    "lng": -84.831509,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30152": {
+    "lat": 34.0013766,
+    "lng": -84.6463064,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30214": {
+    "lat": 33.4814476,
+    "lng": -84.468318,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30228": {
+    "lat": 33.4347417,
+    "lng": -84.2996112,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30265": {
+    "lat": 33.4035264,
+    "lng": -84.7117624,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30324": {
+    "lat": 33.8147146,
+    "lng": -84.3584602,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30328": {
+    "lat": 33.9332303,
+    "lng": -84.3827283,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30342": {
+    "lat": 33.8787605,
+    "lng": -84.3744932,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30345": {
+    "lat": 33.846057,
+    "lng": -84.2877262,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30519": {
+    "lat": 34.0793437,
+    "lng": -83.9533857,
+    "basis": "OpenStreetMap Nominatim"
+  }
+}

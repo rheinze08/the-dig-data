@@ -53,7 +53,7 @@
       },
       "radiusMiles": 25,
       "timeZone": "America/Chicago",
-      "status": "proving",
+      "status": "live",
       "sources": {
         "estateSalesNet": {
           "directory": "https://www.estatesales.net/TX/Grapevine/76051"
@@ -85,7 +85,7 @@
       },
       "radiusMiles": 25,
       "timeZone": "America/Chicago",
-      "status": "proving",
+      "status": "live",
       "sources": {
         "estateSalesNet": {
           "directory": "https://www.estatesales.net/TX/Austin/78701"
@@ -117,7 +117,7 @@
       },
       "radiusMiles": 25,
       "timeZone": "America/Chicago",
-      "status": "proving",
+      "status": "live",
       "sources": {
         "estateSalesNet": {
           "directory": "https://www.estatesales.net/TX/San-Antonio/78205"

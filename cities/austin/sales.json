@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-21",
-  "collectedAt": "2026-11-21T17:56:17.132Z",
+  "asOf": "2026-11-22",
+  "collectedAt": "2026-11-22T14:33:01.081Z",
   "window": {
-    "start": "2026-11-21",
-    "end": "2026-12-04",
+    "start": "2026-11-22",
+    "end": "2026-12-05",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,195 +14,45 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 55/55 local candidate details.",
-      "candidates": 35,
+      "detail": "Read the public sale sitemap. Checked 53/53 local candidate details.",
+      "candidates": 33,
       "included": 25
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 13 Austin directory cards over 1 pages. Checked 8/8 in-person local candidate details.",
-      "candidates": 8,
-      "included": 3
+      "detail": "Read 12 Austin directory cards over 1 pages. Checked 6/6 in-person local candidate details.",
+      "candidates": 6,
+      "included": 2
     },
     "Craigslist Austin": {
       "status": "reached",
-      "detail": "68 directory listings discovered; 7 in-window estate listings before radius filtering",
-      "candidates": 7,
+      "detail": "26 directory listings discovered; 9 in-window estate listings before radius filtering",
+      "candidates": 9,
       "included": 3
     },
     "GSALR.com": {
-      "status": "partial",
-      "detail": "https://gsalr.com/garage-sales-austin-tx.html — directory readable, estate listing details unverified",
+      "status": "blocked",
+      "detail": "https://gsalr.com/garage-sales-austin-tx.html — HTTP 403 Forbidden",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 50,
-    "listings": 31,
+    "candidates": 48,
+    "listings": 30,
     "sales": 28,
-    "duplicates": 3,
-    "outsideRadius": 15,
+    "duplicates": 2,
+    "outsideRadius": 12,
     "unlocatedListings": 1
   },
   "unlocated": [
-    "https://www.craigslist.org/view/d/austin-antique-quilt-tops-quilts/ocPHkwSAkw6yfCmr4CQz2z"
+    "https://www.craigslist.org/view/d/austin-more-new-items-added-today/ocPHkwSAkw6yfCmr4CQz2z"
   ],
   "geocodingNotes": [],
   "sales": [
     {
-      "id": "ec76dc8d2c42cdd1",
-      "title": "*75% OFF* Everything For Sale — Right Down to the Fixtures!",
-      "company": "Aloe Vera Estate Sales",
-      "streetAddress": "3403 Toro Cayon Rd",
-      "city": "Austin",
-      "state": "TX",
-      "zip": "78746",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-18",
-          "start": "17:00",
-          "end": "19:00"
-        },
-        {
-          "date": "2026-11-19",
-          "start": "10:00",
-          "end": "14:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "14:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "10:00",
-          "end": "13:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Austin/78746/5161638"
-        }
-      ],
-      "categories": [],
-      "contactUrl": "https://aloeveraestatesales.com/",
-      "photoCount": 312,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5161638/1-1/fb516343-afcc-4738-8351-b2d534e43062.jpg",
-        "https://picturescdn.estatesales.net/5161638/1-1/adbe51d3-6924-40a7-bc50-e5036e1dc7bc.jpg",
-        "https://picturescdn.estatesales.net/5161638/1-1/dfb6832e-3c73-4fc8-b91c-a7d7255d8384.jpg",
-        "https://picturescdn.estatesales.net/5161638/1-1/9710e22d-5215-411d-b9f7-2bf060d2fed2.jpg",
-        "https://picturescdn.estatesales.net/5161638/1-1/4a8fa70a-7054-434e-89d9-a442e50467a9.jpg",
-        "https://picturescdn.estatesales.net/5161638/1-1/f4e25db1-3f7b-49b9-bd52-52b4d8acd043.jpg",
-        "https://picturescdn.estatesales.net/5161638/1-1/82788ace-2a32-4e40-a79a-641f38033705.jpg",
-        "https://picturescdn.estatesales.net/5161638/1-1/6dac9e93-e3c1-4001-ba71-3dad4d37ab08.jpg",
-        "https://picturescdn.estatesales.net/5161638/1-1/886b9f26-3a5a-45d7-af73-71a44937807e.jpg",
-        "https://picturescdn.estatesales.net/5161638/1-1/9f43dff5-acaf-41de-a9ec-2e1e65b2e78d.jpg",
-        "https://picturescdn.estatesales.net/5161638/1-1/16bcbeb4-0472-4ed4-9bb5-f86beba481d5.jpg",
-        "https://picturescdn.estatesales.net/5161638/1-1/ea3ad0ed-c001-47b4-a7cb-d0a96cb53b03.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "312 photos",
-        "tools, furniture and collectibles in the listing",
-        "runs 4 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "art",
-        "electronics",
-        "figurines",
-        "china",
-        "crystal"
-      ],
-      "contentsLine": "Tools, furniture, collectibles, kitchen and clothing.",
-      "lat": 30.324405,
-      "lng": -97.789999,
-      "approximate": false
-    },
-    {
-      "id": "06ff283ab90df965",
-      "title": "* SATURDAY DISCOUNTS!* Brilliant Barton Hills",
-      "company": "Remember When Estate Sales",
-      "streetAddress": "2501 Forest Bend",
-      "city": "Austin",
-      "state": "TX",
-      "zip": "78704",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "start": "10:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "10:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Austin/78704/5151909"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(512) 983-6142",
-      "contactUrl": "http://www.rememberwhentx.com",
-      "photoCount": 462,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5151909/1-1/c53302a5-c442-4296-982c-f8e9b8110e00.jpg",
-        "https://picturescdn.estatesales.net/5151909/1-1/fce1f3d9-26f6-4487-9cf3-cfb77c066415.jpg",
-        "https://picturescdn.estatesales.net/5151909/1-1/9ff58bc2-5cc6-4ef9-bd7e-500ec229de13.jpg",
-        "https://picturescdn.estatesales.net/5151909/1-1/a1765b4f-7a75-406c-af53-c183d95b5e4a.jpg",
-        "https://picturescdn.estatesales.net/5151909/1-1/b90024c3-9261-4fb9-a8dc-997da8f1e8f4.jpg",
-        "https://picturescdn.estatesales.net/5151909/1-1/a18cb2f7-9077-4aeb-9153-9ad271484068.jpg",
-        "https://picturescdn.estatesales.net/5151909/1-1/f4997b37-a84a-4418-9b28-b66026cc1c83.jpg",
-        "https://picturescdn.estatesales.net/5151909/1-1/82837c1f-6a32-42cc-a61b-f9450dc70e38.jpg",
-        "https://picturescdn.estatesales.net/5151909/1-1/6d239f8c-a402-497f-93d4-26ec5a1dc87b.jpg",
-        "https://picturescdn.estatesales.net/5151909/1-1/6769e435-b337-4562-99b4-de94ec16eee2.jpg",
-        "https://picturescdn.estatesales.net/5151909/1-1/85260fd1-aa05-47fc-80ad-c253d4b470ea.jpg",
-        "https://picturescdn.estatesales.net/5151909/1-1/7dec5526-aa69-4de9-ad21-70eba5fe5540.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "462 photos",
-        "furniture, vinyl & records and collectibles in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "vinyl & records",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "toys & games",
-        "china",
-        "antiques",
-        "christmas decor"
-      ],
-      "contentsLine": "Furniture, vinyl & records, collectibles, kitchen and clothing.",
-      "lat": 30.253677,
-      "lng": -97.79176,
-      "approximate": false
-    },
-    {
       "id": "47b0c73100bbe19e",
-      "title": "The O. G.",
+      "title": "The O. G. 50 % Off Most Sunday",
       "company": "Simplify Life",
       "streetAddress": "2209 Quarry Rd",
       "city": "Austin",
@@ -276,82 +126,6 @@
       "contentsLine": "Furniture, vinyl & records, jewelry, collectibles and kitchen.",
       "lat": 30.2853452,
       "lng": -97.7686445,
-      "approximate": false
-    },
-    {
-      "id": "2fea399087f36c66",
-      "title": "75% off on Saturday ~ Christmas Gifts, Cowboys, Fazzino Art, Vintage Toys, Gaming & More",
-      "company": "Heirloom Harvesters",
-      "streetAddress": "13402 Montview Dr",
-      "city": "Austin",
-      "state": "TX",
-      "zip": "78732",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "start": "15:00",
-          "end": "19:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "15:00",
-          "end": "19:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Austin/78732/5160939"
-        }
-      ],
-      "categories": [
-        "art",
-        "toys & games"
-      ],
-      "contactPhone": "(512) 991-1877",
-      "contactUrl": "http://www.heirloomharvesters.com",
-      "photoCount": 753,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5160939/1-1/44b8bbfb-c84f-40d9-af43-ca82c2837c9a.jpg",
-        "https://picturescdn.estatesales.net/5160939/1-1/b9bab207-0bca-44c4-8f29-6ddf8ee8480c.jpg",
-        "https://picturescdn.estatesales.net/5160939/1-1/067391fe-7210-484f-877f-393f63f61ea0.jpg",
-        "https://picturescdn.estatesales.net/5160939/1-1/2765def0-0ba0-4080-b3e9-3a7e1b5a001b.jpg",
-        "https://picturescdn.estatesales.net/5160939/1-1/b21728ce-5d8b-473f-90e2-a733f883656c.jpg",
-        "https://picturescdn.estatesales.net/5160939/1-1/f0230fd4-2cba-401a-957c-459d5557c799.jpg",
-        "https://picturescdn.estatesales.net/5160939/1-1/648a2bcf-2d2c-4753-b910-54c4b76dfa8b.jpg",
-        "https://picturescdn.estatesales.net/5160939/1-1/7109c6ff-e5bd-4e52-9da2-90dfa25c0112.jpg",
-        "https://picturescdn.estatesales.net/5160939/1-1/08ff69db-9ee3-49de-a1aa-8fe1d832dd00.jpg",
-        "https://picturescdn.estatesales.net/5160939/1-1/3e62b78f-d8b4-4927-bd43-bc277eddc5b7.jpg",
-        "https://picturescdn.estatesales.net/5160939/1-1/2583747d-5dfd-4787-b6c7-b9282afadbc5.jpg",
-        "https://picturescdn.estatesales.net/5160939/1-1/f6d1cfcc-aa5a-461b-9352-6034218ee436.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "753 photos",
-        "tools, furniture and vinyl & records in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "vinyl & records",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics"
-      ],
-      "contentsLine": "Tools, furniture, vinyl & records, collectibles and vehicles.",
-      "lat": 30.38114,
-      "lng": -97.904018,
       "approximate": false
     },
     {
@@ -492,7 +266,7 @@
     },
     {
       "id": "82c515db01a37476",
-      "title": "Discount SAT! Behind the French Doors: A Taste of Paris in Lakeway!",
+      "title": "Half Off Sunday! Behind the French Doors: A Taste of Paris in Lakeway!",
       "company": "Simply Felicia Estate Sales",
       "streetAddress": "102 Duck Lake Dr",
       "city": "Austin",
@@ -532,13 +306,13 @@
         "https://picturescdn.estatesales.net/5145363/1-1/82f0f959-a23f-4552-9a1b-869dbe6d27bd.jpg",
         "https://picturescdn.estatesales.net/5145363/1-1/49b8ed2b-93c5-4892-82b8-ed9e96248fa7.jpg",
         "https://picturescdn.estatesales.net/5145363/1-1/e3144686-f999-4651-bc9c-636bf7ea5cc3.jpg",
-        "https://picturescdn.estatesales.net/5145363/1-1/a74266b5-e576-4ca4-9e32-1f166af5e4aa.jpg",
         "https://picturescdn.estatesales.net/5145363/1-1/9dd45843-e22d-4673-b1c5-8e53461a9222.jpg",
         "https://picturescdn.estatesales.net/5145363/1-1/6f5334af-e2f0-43d7-8369-c3242ec55362.jpg",
         "https://picturescdn.estatesales.net/5145363/1-1/da6d8660-4ee7-4a9f-a421-5f23fee9accf.jpg",
         "https://picturescdn.estatesales.net/5145363/1-1/460bb4a8-ee17-40a5-9c9b-5021f2ebf085.jpg",
         "https://picturescdn.estatesales.net/5145363/1-1/35ddb2fa-78c6-4ce7-b539-be8b178a90c2.jpg",
-        "https://picturescdn.estatesales.net/5145363/1-1/c4fa90cd-9ec1-48e3-b539-bb6c8dbda532.jpg"
+        "https://picturescdn.estatesales.net/5145363/1-1/c4fa90cd-9ec1-48e3-b539-bb6c8dbda532.jpg",
+        "https://picturescdn.estatesales.net/5145363/1-1/f6631af5-bc67-40c1-b979-bc0c3893c1c8.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
@@ -702,7 +476,7 @@
     },
     {
       "id": "a64975670ff873de",
-      "title": "25% off Saturday @ Treasures in Onion Creek (Cypress Ridge)",
+      "title": "50% off most everything @ Treasures in Onion Creek (Cypress Ridge)",
       "company": "Austin Capital Estate Sales",
       "streetAddress": "4520 Slickrock Cove",
       "city": "Austin",
@@ -740,8 +514,9 @@
       "categories": [],
       "contactPhone": "(512) 791-4652",
       "contactUrl": "http://austincapitalestatesales.com",
-      "photoCount": 541,
+      "photoCount": 568,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5129673/1-1/8bbeea52-8a60-4579-8f7e-3ad4b3984780.jpg",
         "https://picturescdn.estatesales.net/5129673/1-1/b95501c7-4162-4971-bc63-7721d82dd3cd.jpg",
         "https://picturescdn.estatesales.net/5129673/1-1/2383c5a9-4bb5-4e94-a3e6-cc371623db72.jpg",
         "https://picturescdn.estatesales.net/5129673/1-1/61a7eee5-75fa-40c2-a1f1-80dab5d77499.jpg",
@@ -752,12 +527,11 @@
         "https://picturescdn.estatesales.net/5129673/1-1/0d93b0a5-84ec-4909-87cf-c439a6d15b69.jpg",
         "https://picturescdn.estatesales.net/5129673/1-1/1ee878b2-ea03-4824-a962-6b3a95ce8dc9.jpg",
         "https://picturescdn.estatesales.net/5129673/1-1/fb3dbf6c-ed7b-4a62-a500-b587d1de6fef.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/1be7aab4-78e5-4196-bde9-f831c8c2aff3.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/7182a80b-af0d-4f76-867a-f8df4076771e.jpg"
+        "https://picturescdn.estatesales.net/5129673/1-1/1be7aab4-78e5-4196-bde9-f831c8c2aff3.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "541 photos",
+        "568 photos",
         "furniture, vinyl & records and jewelry in the listing",
         "runs 4 days"
       ],
@@ -1097,7 +871,7 @@
     },
     {
       "id": "059bc691bb95ed2d",
-      "title": "50% OFF Estate Treasures~Collectibles~Art~Baskets~Vintage Ladies Clothing/Hats~Baskets~Household",
+      "title": "75% OFF Estate Treasures~Collectibles~Art~Baskets~Vintage Ladies Clothing/Hats~Baskets~Household",
       "company": "DownSizing Estates",
       "streetAddress": "2250 County Road 172, #310",
       "city": "Round Rock",
@@ -1237,53 +1011,6 @@
       "approximate": false
     },
     {
-      "id": "ab51f81de380e59a",
-      "title": "Estate Sale - Crystal Falls Grand Mesa",
-      "company": null,
-      "streetAddress": "811 Mission Hills",
-      "city": "Leander",
-      "state": "TX",
-      "zip": null,
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": null
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist Austin",
-          "url": "https://www.craigslist.org/view/d/leander-estate-sale-crystal-falls-grand/v2zb2XPrqMBB6cUS8S7T4A"
-        }
-      ],
-      "categories": [],
-      "photoCount": 8,
-      "photoUrls": [
-        "https://images.craigslist.org/00X0X_fgWJJOy1mmq_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00808_hQy2ajFJZ46_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00J0J_6w6wq0QyGWd_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00y0y_ioUtFZg0qwz_0fd0f3_600x450.jpg",
-        "https://images.craigslist.org/00g0g_ale7mnaMWF_0eO0ki_600x450.jpg",
-        "https://images.craigslist.org/00R0R_8BL9Md0KhGV_0eU0gB_600x450.jpg",
-        "https://images.craigslist.org/00M0M_hJ0qF1pjVJy_0f10kP_600x450.jpg",
-        "https://images.craigslist.org/00x0x_feLj2ijZEd6_0f60m8_600x450.jpg"
-      ],
-      "digRating": "Slim Pickings",
-      "ratingReasons": [
-        "8 photos",
-        "few details in the listing"
-      ],
-      "photoKeywords": [
-        "crystal"
-      ],
-      "contentsLine": "Crystal.",
-      "lat": 30.5498895,
-      "lng": -97.8813952,
-      "approximate": false
-    },
-    {
       "id": "438808997173b381",
       "title": "Kerr",
       "company": null,
@@ -1408,66 +1135,6 @@
       "approximate": false
     },
     {
-      "id": "89ab26f05b515577",
-      "title": "Lovely Pieces in Circle C!",
-      "company": "Golden Soul Estate Sales",
-      "streetAddress": "7412 Doswell Ln",
-      "city": "Austin",
-      "state": "TX",
-      "zip": "78739",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-21",
-          "start": "10:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/austin/78739/lovely-pieces-in-circle-c-2472679"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Austin/78739/5152317"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(512) 290-2196",
-      "contactUrl": "http://www.goldensoulestatesales.com",
-      "photoCount": 259,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5152317/1-1/5f405107-2f20-4eff-a599-d22a4d5ce2af.jpg",
-        "https://picturescdn.estatesales.net/5152317/1-1/5692fa0c-b4cb-40d5-a206-654e88f769a7.jpg",
-        "https://picturescdn.estatesales.net/5152317/1-1/d9189c80-98ae-46b9-937b-c14ec317ef8c.jpg",
-        "https://picturescdn.estatesales.net/5152317/1-1/a00ef99a-f906-44e3-a605-c2aeed1dcdab.jpg",
-        "https://picturescdn.estatesales.net/5152317/1-1/6eb234ea-b60e-43a5-8fc8-f09401254e81.jpg",
-        "https://picturescdn.estatesales.net/5152317/1-1/28f40091-bda9-4b59-9d99-e9986cb94e47.jpg",
-        "https://picturescdn.estatesales.net/5152317/1-1/08e04fd5-9363-4111-93ee-8b8e3312a62d.jpg",
-        "https://picturescdn.estatesales.net/5152317/1-1/a606acf4-b7e8-403c-bde1-38177da99b83.jpg",
-        "https://picturescdn.estatesales.net/5152317/1-1/5646263e-d96f-45af-afe6-11f674a2813f.jpg",
-        "https://picturescdn.estatesales.net/5152317/1-1/19b2d339-8237-4600-b179-51c311a6a14a.jpg",
-        "https://picturescdn.estatesales.net/5152317/1-1/c0c259f5-3bdd-459f-b7ce-a0a2ed533e40.jpg",
-        "https://picturescdn.estatesales.net/5152317/1-1/6408f2a3-72e9-414d-b025-20e061fc4e5d.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "259 photos",
-        "furniture, clothing and art in the listing"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "clothing",
-        "art",
-        "electronics"
-      ],
-      "contentsLine": "Furniture, clothing, art and electronics.",
-      "lat": 30.193191,
-      "lng": -97.906536,
-      "approximate": false
-    },
-    {
       "id": "b769bcb8baef84dd",
       "title": "THE BEST ESTATE SALE OF NOVEMBER! CANT MISS!!!",
       "company": "My Estate To Liquidate",
@@ -1533,6 +1200,62 @@
       "approximate": false
     },
     {
+      "id": "e86447d98a1f3c3d",
+      "title": "75% OFF Estate Sale Treasures in Round Rock~Amazing Collectibles!!!",
+      "company": null,
+      "streetAddress": "2250 County Road 172 near McNeil Rd.",
+      "city": "Round Rock",
+      "state": "TX",
+      "zip": "78681",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "start": "13:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Austin",
+          "url": "https://www.craigslist.org/view/d/round-rock-75-off-estate-sale-treasures/bT1hzUbJohKyWRbF4rcLBC"
+        }
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "photoCount": 24,
+      "photoUrls": [
+        "https://images.craigslist.org/00u0u_bVGUI1furX4_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00S0S_5vGbMWY3nSj_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00p0p_fgVl6UJ26f9_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00L0L_6hivni7tMJC_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00D0D_5BAUyZP9ZH3_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00J0J_kYSjnH8SfJJ_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00I0I_glsSVZJ8bN8_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00w0w_hlqQLxrC24d_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00U0U_3JfxbM1u3CD_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00k0k_hcuccRwdibF_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00a0a_9melpC1Lb3e_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00I0I_bSje5A2JA7i_0CI0t2_600x450.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "24 photos",
+        "collectibles, clothing and art in the listing"
+      ],
+      "photoKeywords": [
+        "collectibles",
+        "clothing",
+        "art",
+        "coins"
+      ],
+      "contentsLine": "Collectibles, clothing, art and coins.",
+      "lat": 30.5504457,
+      "lng": -97.7400302,
+      "approximate": true
+    },
+    {
       "id": "d0c6bdf31800b6d7",
       "title": "MASSIVE 6,000 SQ FT ESTATE MOVED TO HUTTO! 3 DAYS OF TREASURES!",
       "company": "Driftwood Estate Sales",
@@ -1593,6 +1316,72 @@
       "approximate": true
     },
     {
+      "id": "bf66c12a4e95c9a3",
+      "title": "AVENGERS ASSEMBLE! HUGE MARVEL, DC & VINTAGE ENTERTAINMENT ESTATE SALE!",
+      "company": "My Estate To Liquidate",
+      "streetAddress": null,
+      "city": "Manor",
+      "state": "TX",
+      "zip": "78653",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "11:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Manor/78653/5168865"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(833) 989-8999",
+      "contactUrl": "https://myestatetoliquidate.com/",
+      "photoCount": 114,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5168865/1-1/48ad7114-1154-4623-8ea5-db07093425ba.jpg",
+        "https://picturescdn.estatesales.net/5168865/1-1/dcae07d1-c25f-4e06-8c59-46193aef7520.jpg",
+        "https://picturescdn.estatesales.net/5168865/1-1/63432d40-c950-4cd0-9126-c8e5d1e5476c.jpg",
+        "https://picturescdn.estatesales.net/5168865/1-1/c99f38a4-6687-4bb8-ac71-3f17e892cf42.jpg",
+        "https://picturescdn.estatesales.net/5168865/1-1/6e101654-585e-4613-a082-7411a926d18f.jpg",
+        "https://picturescdn.estatesales.net/5168865/1-1/c86b13f2-6f24-4bdb-b14a-242830d32a0a.jpg",
+        "https://picturescdn.estatesales.net/5168865/1-1/ee37e99b-b5d7-478a-b346-e67c9b83641c.jpg",
+        "https://picturescdn.estatesales.net/5168865/1-1/6939b578-e1e5-4ab6-87ca-4dcee459650b.jpg",
+        "https://picturescdn.estatesales.net/5168865/1-1/bf9387f9-8a40-496a-b6d6-03fa06405d7d.jpg",
+        "https://picturescdn.estatesales.net/5168865/1-1/3200cd21-f000-4b96-9145-3aa17ff375b5.jpg",
+        "https://picturescdn.estatesales.net/5168865/1-1/cc99123b-c4d5-44a7-8165-ed0399fa11f5.jpg",
+        "https://picturescdn.estatesales.net/5168865/1-1/b83a0ac6-0e9d-46d7-a3d2-b21c7973fd25.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "114 photos",
+        "collectibles and books in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "collectibles",
+        "books",
+        "comics"
+      ],
+      "contentsLine": "Collectibles, books and comics.",
+      "lat": 30.3501049,
+      "lng": -97.5323941,
+      "approximate": true
+    },
+    {
       "id": "f7dbe7c3f81b1239",
       "title": "Black Friday sale for FASHIONISTAS",
       "company": "ATX & Beyond Estate Sales",
@@ -1629,7 +1418,7 @@
       ],
       "contactPhone": "(512) 203-4414",
       "contactUrl": "Https://www.atxbeyondestatesales.com",
-      "photoCount": 30,
+      "photoCount": 50,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5165844/1-1/ca113fd7-06b8-4c7a-83f6-8feac0539a52.jpg",
         "https://picturescdn.estatesales.net/5165844/1-1/3fb9df8a-644e-43f1-aef9-8f9a0fbbb6b1.jpg",
@@ -1646,7 +1435,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "30 photos",
+        "50 photos",
         "tools, jewelry and clothing in the listing",
         "runs 3 days"
       ],
@@ -1728,6 +1517,81 @@
       "contentsLine": "Jewelry, collectibles, clothing, art and antiques.",
       "lat": 30.1636136,
       "lng": -97.8277134,
+      "approximate": true
+    },
+    {
+      "id": "726778cc721f0735",
+      "title": "These Boots are Made for Walking-Eclectic-80’s-90’s,,Antiques -Fabulous Clothing",
+      "company": "Bartolini Estate Sales Texas",
+      "streetAddress": null,
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78749",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78749/5161923"
+        }
+      ],
+      "categories": [
+        "clothing"
+      ],
+      "contactPhone": "(512) 680-6561",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Round-Rock/78664/146822",
+      "photoCount": 251,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5161923/1-1/f7d8e4ed-4397-4d49-b3b5-3984ebe3ddca.jpg",
+        "https://picturescdn.estatesales.net/5161923/1-1/e8c314b9-e09b-44df-9f63-933b3416064c.jpg",
+        "https://picturescdn.estatesales.net/5161923/1-1/0dfba2ff-40c7-412e-b988-25040d3a3b61.jpg",
+        "https://picturescdn.estatesales.net/5161923/1-1/9a3df646-0d59-4c90-85bd-54747960ff2f.jpg",
+        "https://picturescdn.estatesales.net/5161923/1-1/6e2dbcb9-28ff-4887-b1eb-19fcedbb27dd.jpg",
+        "https://picturescdn.estatesales.net/5161923/1-1/03485c8c-8e89-4070-b161-d233f8a6a8cf.jpg",
+        "https://picturescdn.estatesales.net/5161923/1-1/308381aa-05bc-4550-84c8-9283ab5fdf83.jpg",
+        "https://picturescdn.estatesales.net/5161923/1-1/bab78419-b8c5-4c25-96c3-35e9cd8355ed.jpg",
+        "https://picturescdn.estatesales.net/5161923/1-1/7037fc31-4e7e-4604-a99a-f5e83a5ee82d.jpg",
+        "https://picturescdn.estatesales.net/5161923/1-1/535bfc8f-1e09-4cfd-a0af-62b7ad64bd5c.jpg",
+        "https://picturescdn.estatesales.net/5161923/1-1/9f4a04bf-5609-4677-aa7d-9b2c382804aa.jpg",
+        "https://picturescdn.estatesales.net/5161923/1-1/33f8dbe0-0289-44fc-8e93-4b60303c99a8.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "251 photos",
+        "tools, furniture and jewelry in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "antiques",
+        "mid-century"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
+      "lat": 30.2141604,
+      "lng": -97.8590638,
       "approximate": true
     },
     {
@@ -1889,7 +1753,7 @@
       "categories": [],
       "contactPhone": "(512) 474-2485",
       "contactUrl": "http://www.austinestatesales.net/",
-      "photoCount": 232,
+      "photoCount": 231,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5151762/1-1/3818fdae-e3a8-40f1-b9d5-eece1cf7cbf5.jpg",
         "https://picturescdn.estatesales.net/5151762/1-1/cc28cf0a-5435-4dd2-83cc-943d07312dec.jpg",
@@ -1906,7 +1770,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "232 photos",
+        "231 photos",
         "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
@@ -1925,6 +1789,147 @@
       "contentsLine": "Tools, furniture, jewelry, collectibles and clothing.",
       "lat": 30.3467547,
       "lng": -97.7658512,
+      "approximate": true
+    },
+    {
+      "id": "294679e620014b91",
+      "title": "Plants, Golf Legends & Eclectic Finds! | Lakeway TX | More pics coming!",
+      "company": "The Phoenix Phinds",
+      "streetAddress": null,
+      "city": "Lakeway",
+      "state": "TX",
+      "zip": "78734",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "12:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "12:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78734/5168523"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(512) 971-5484",
+      "contactUrl": "https://www.thephoenixphinds.com/",
+      "photoCount": 47,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5168523/1-1/03666efe-6e5f-4cb9-a734-8d303d2e23bc.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/6a24fe0c-9e44-412a-b081-c916b2f55ad2.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/de9f7ee7-4172-40ae-9db1-1e4d6b80855b.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/2f5d936f-fff8-4097-bc66-2e85ba560511.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/6c31d465-6ff8-41cf-a768-e2ad1b1a5897.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/5d695f96-3582-4da8-bd80-05274a6f522f.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/82d8b048-0858-42a0-b2e3-d98927615bee.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/a6368b2b-4614-4281-8b10-8fcf5fd95d74.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/79729617-9f5d-4148-bca1-6ef3da11bdc4.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/edc487ad-fc72-4426-ab5f-005dc5dcadf0.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/989ac628-179e-4751-84ac-066a341580ec.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/13cf0f8d-e005-438e-8cd3-0b709ee9b6ce.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "47 photos",
+        "furniture, collectibles and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "toys & games",
+        "antiques",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, collectibles, kitchen, clothing and books.",
+      "lat": 30.3786162,
+      "lng": -97.9431628,
+      "approximate": true
+    },
+    {
+      "id": "2930857d63a044b2",
+      "title": "The Cedar Creek Collector’s Estate Sale- WORTH THE DRIVE",
+      "company": "Relic Revival Estate Sales & Services",
+      "streetAddress": null,
+      "city": "Cedar Creek",
+      "state": "TX",
+      "zip": "78612",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-07",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Cedar-Creek/78612/5167587"
+        }
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "contactPhone": "(830) 734-8403",
+      "contactUrl": "https://www.relicrevivalestatesales.com/",
+      "photoCount": 315,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5167587/1-1/b72731b1-0f2a-4c5d-a588-6326077d9604.jpg",
+        "https://picturescdn.estatesales.net/5167587/1-1/2be80ff4-de17-4801-aa6b-1dd243396c90.jpg",
+        "https://picturescdn.estatesales.net/5167587/1-1/bc7c7484-5a3e-4781-801e-970ecfaec5bb.jpg",
+        "https://picturescdn.estatesales.net/5167587/1-1/b838b580-e5ec-47fd-bc60-76c6d5e7bfca.jpg",
+        "https://picturescdn.estatesales.net/5167587/1-1/ea97a206-7993-42aa-8576-745954e92d6e.jpg",
+        "https://picturescdn.estatesales.net/5167587/1-1/c9b7bed5-47ff-46de-9906-9645755b799c.jpg",
+        "https://picturescdn.estatesales.net/5167587/1-1/163c6630-1274-41e9-9ce0-676f016102c5.jpg",
+        "https://picturescdn.estatesales.net/5167587/1-1/00115f15-fc5f-4833-a008-6c2e45eaaa55.jpg",
+        "https://picturescdn.estatesales.net/5167587/1-1/3f028fbd-7d3a-4fbb-aed8-3879bed2ddf4.jpg",
+        "https://picturescdn.estatesales.net/5167587/1-1/621e67e9-062f-4d23-958e-7628eeca053d.jpg",
+        "https://picturescdn.estatesales.net/5167587/1-1/e2989086-e811-47a2-b505-dc36e3b30175.jpg",
+        "https://picturescdn.estatesales.net/5167587/1-1/37c80d67-6141-42d9-821e-c3d5b34763f0.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "315 photos",
+        "tools, furniture and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "art",
+        "electronics",
+        "figurines",
+        "crystal"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, vehicles and kitchen.",
+      "lat": 30.1184468,
+      "lng": -97.5040156,
       "approximate": true
     }
   ]
