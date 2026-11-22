@@ -10,6 +10,7 @@ The Dig pools upcoming estate sales into one map per city. This repository holds
 | `cities/<slug>/sales.json` | One feed per city, live or proving |
 | `search.json` | Every sale from every live and proving city, cut down for searching |
 | `sales.json` | The Houston feed at its original address, which app v0.1.1 reads. It is a byte-for-byte copy of `cities/houston/sales.json`. |
+| `app-version.json` | The newest app release: `latestVersion` (for example `0.4.1`) and `apkUrl`, the public download link of that release's APK. The app's update notice reads it. Each app release bumps it. |
 
 [City index](https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities.json) · [Search index](https://raw.githubusercontent.com/rheinze08/the-dig-data/main/search.json) · [Houston feed](https://raw.githubusercontent.com/rheinze08/the-dig-data/main/sales.json)
 

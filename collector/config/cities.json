@@ -134,6 +134,70 @@
           "place": "San Antonio"
         }
       }
+    },
+    {
+      "slug": "phoenix",
+      "name": "Phoenix",
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "center": {
+        "lat": 33.448,
+        "lng": -112.074,
+        "label": "downtown Phoenix"
+      },
+      "radiusMiles": 25,
+      "timeZone": "America/Phoenix",
+      "status": "proving",
+      "sources": {
+        "estateSalesNet": {
+          "directory": "https://www.estatesales.net/AZ/Phoenix/85004"
+        },
+        "estateSalesOrg": {
+          "directory": "https://estatesales.org/estate-sales/az/phoenix?sort=date_to&radius=50"
+        },
+        "craigslist": {
+          "name": "Craigslist Phoenix",
+          "directory": "https://www.craigslist.org/search/city/phoenix-az?cat=gms&postal=85004&radius=35"
+        },
+        "gsalr": {
+          "directory": "https://gsalr.com/garage-sales-phoenix-az.html",
+          "place": "Phoenix"
+        }
+      }
+    },
+    {
+      "slug": "atlanta",
+      "name": "Atlanta",
+      "state": {
+        "code": "GA",
+        "name": "Georgia"
+      },
+      "center": {
+        "lat": 33.749,
+        "lng": -84.388,
+        "label": "downtown Atlanta"
+      },
+      "radiusMiles": 25,
+      "timeZone": "America/New_York",
+      "status": "proving",
+      "sources": {
+        "estateSalesNet": {
+          "directory": "https://www.estatesales.net/GA/Atlanta/30303"
+        },
+        "estateSalesOrg": {
+          "directory": "https://estatesales.org/estate-sales/ga/atlanta?sort=date_to&radius=50"
+        },
+        "craigslist": {
+          "name": "Craigslist Atlanta",
+          "directory": "https://www.craigslist.org/search/city/atlanta-ga?cat=gms&postal=30303&radius=35"
+        },
+        "gsalr": {
+          "directory": "https://gsalr.com/garage-sales-atlanta-ga.html",
+          "place": "Atlanta"
+        }
+      }
     }
   ]
 }
