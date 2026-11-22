@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-22",
-  "collectedAt": "2026-11-22T14:29:20.851Z",
+  "collectedAt": "2026-11-22T18:10:32.781Z",
   "window": {
     "start": "2026-11-22",
     "end": "2026-12-05",
@@ -14,25 +14,25 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 46/46 local candidate details.",
-      "candidates": 29,
+      "detail": "Read the public sale sitemap. Checked 47/47 local candidate details.",
+      "candidates": 30,
       "included": 22
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 30 Houston directory cards over 2 pages. Checked 2/2 in-person local candidate details.",
+      "detail": "Read 31 Houston directory cards over 2 pages. Checked 2/2 in-person local candidate details.",
       "candidates": 2,
       "included": 0
     },
     "EstateSale.com": {
-      "status": "blocked",
-      "detail": "https://www.estatesale.com/cities/view/1363/Estate-Sales-Friendswood-TX.html — Incapsula challenge in HTTP 200 response",
-      "candidates": 0,
+      "status": "partial",
+      "detail": "22 directory listings discovered; 5 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/909255.html — Incapsula challenge in HTTP 200 response",
+      "candidates": 5,
       "included": 0
     },
     "Craigslist Houston": {
       "status": "reached",
-      "detail": "14 directory listings discovered; 1 in-window estate listings before radius filtering",
+      "detail": "17 directory listings discovered; 1 in-window estate listings before radius filtering",
       "candidates": 1,
       "included": 0
     },
@@ -44,11 +44,11 @@
     }
   },
   "counts": {
-    "candidates": 32,
+    "candidates": 38,
     "listings": 22,
     "sales": 22,
     "duplicates": 0,
-    "outsideRadius": 8,
+    "outsideRadius": 13,
     "unlocatedListings": 1
   },
   "unlocated": [
@@ -862,7 +862,7 @@
       "categories": [],
       "contactPhone": "8322676961",
       "contactUrl": "https://www.estatesales.net/companies/TX/Kemah/77565/135479",
-      "photoCount": 312,
+      "photoCount": 311,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5107233/1-1/4ccfdbc2-a8f2-4f41-8061-73500017eb94.jpg",
         "https://picturescdn.estatesales.net/5107233/1-1/f0ab858e-91cf-4771-8924-9659ca1e9c9c.jpg",
@@ -879,7 +879,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "312 photos",
+        "311 photos",
         "furniture, collectibles and vehicles in the listing",
         "runs 3 days"
       ],

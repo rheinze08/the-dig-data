@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-22",
-  "collectedAt": "2026-11-22T14:39:46.230Z",
+  "collectedAt": "2026-11-22T18:18:35.063Z",
   "window": {
     "start": "2026-11-22",
     "end": "2026-12-05",
@@ -14,13 +14,13 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 98/98 local candidate details.",
-      "candidates": 70,
-      "included": 50
+      "detail": "Read the public sale sitemap. Checked 97/97 local candidate details.",
+      "candidates": 69,
+      "included": 49
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 25 Atlanta directory cards over 2 pages. Checked 17/17 in-person local candidate details.",
+      "detail": "Read 24 Atlanta directory cards over 2 pages. Checked 17/17 in-person local candidate details.",
       "candidates": 14,
       "included": 11
     },
@@ -38,10 +38,10 @@
     }
   },
   "counts": {
-    "candidates": 87,
-    "listings": 63,
+    "candidates": 86,
+    "listings": 62,
     "sales": 57,
-    "duplicates": 6,
+    "duplicates": 5,
     "outsideRadius": 20,
     "unlocatedListings": 1
   },
@@ -270,92 +270,6 @@
       "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
       "lat": 33.92609,
       "lng": -84.258646,
-      "approximate": false
-    },
-    {
-      "id": "a485eb7331baa7ad",
-      "title": "75% OFF SUN-Blue Moon Huge Sale - Great Deals, Unexpected Finds & More",
-      "company": "Blue Moon Estate Sales Buckhead",
-      "streetAddress": "829 Northern Avenue",
-      "city": "Clarkston",
-      "state": "GA",
-      "zip": "30021",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "12:00",
-          "end": "16:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/ga/clarkston/30021/50-off-satblue-moon-huge-2474560"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Clarkston/30021/5160309"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Clarkston/30021/5166168"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(770) 710-7513",
-      "contactUrl": "http://www.bluemoonestatesales.com/buckhead",
-      "photoCount": 190,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5166168/1-1/bf727d0b-5742-4fd6-9fa2-6bd997e88688.jpg",
-        "https://picturescdn.estatesales.net/5166168/1-1/408227ea-9bd8-40be-9a16-0959f831feec.jpg",
-        "https://picturescdn.estatesales.net/5166168/1-1/1bdb5b7b-4145-46c7-94dd-e636df19bc68.jpg",
-        "https://picturescdn.estatesales.net/5166168/1-1/ddec745b-08df-4458-a9a0-9cea9b8604be.jpg",
-        "https://picturescdn.estatesales.net/5166168/1-1/768af83c-01cb-485a-9e9a-b7b2816ac3c9.jpg",
-        "https://picturescdn.estatesales.net/5166168/1-1/e988ea32-c971-4ac3-8b01-4a746f9fc76e.jpg",
-        "https://picturescdn.estatesales.net/5166168/1-1/abefd172-d2eb-41d7-953e-164c91df2e85.jpg",
-        "https://picturescdn.estatesales.net/5166168/1-1/cbe4b770-7378-48d9-8f77-3bc48c4c8153.jpg",
-        "https://picturescdn.estatesales.net/5166168/1-1/63066c85-a28d-4eb2-adaa-b59f3c73c56b.jpg",
-        "https://picturescdn.estatesales.net/5166168/1-1/1212dc0d-167e-498d-9e97-f735a4bd5126.jpg",
-        "https://picturescdn.estatesales.net/5166168/1-1/3a60ca01-b015-450d-b2ed-ca6acb5d55f0.jpg",
-        "https://picturescdn.estatesales.net/5166168/1-1/ebc798f4-1d2d-4920-867e-697bf64ed932.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "190 photos",
-        "tools, furniture and vinyl & records in the listing",
-        "runs 4 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "vinyl & records",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "toys & games"
-      ],
-      "contentsLine": "Tools, furniture, vinyl & records, collectibles and kitchen.",
-      "lat": 33.8007504,
-      "lng": -84.2473232,
       "approximate": false
     },
     {
@@ -986,6 +900,83 @@
       "approximate": false
     },
     {
+      "id": "a485eb7331baa7ad",
+      "title": "75% OFF SUN-Blue Moon Huge Sale - Great Deals, Unexpected Finds & More",
+      "company": "Blue Moon Estate Sales Buckhead",
+      "streetAddress": "829 Northern Avenue",
+      "city": "Clarkston",
+      "state": "GA",
+      "zip": "30021",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "12:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/ga/clarkston/30021/50-off-satblue-moon-huge-2474560"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Clarkston/30021/5166168"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(770) 710-7513",
+      "contactUrl": "http://www.bluemoonestatesales.com/buckhead",
+      "photoCount": 190,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5166168/1-1/bf727d0b-5742-4fd6-9fa2-6bd997e88688.jpg",
+        "https://picturescdn.estatesales.net/5166168/1-1/408227ea-9bd8-40be-9a16-0959f831feec.jpg",
+        "https://picturescdn.estatesales.net/5166168/1-1/1bdb5b7b-4145-46c7-94dd-e636df19bc68.jpg",
+        "https://picturescdn.estatesales.net/5166168/1-1/ddec745b-08df-4458-a9a0-9cea9b8604be.jpg",
+        "https://picturescdn.estatesales.net/5166168/1-1/768af83c-01cb-485a-9e9a-b7b2816ac3c9.jpg",
+        "https://picturescdn.estatesales.net/5166168/1-1/e988ea32-c971-4ac3-8b01-4a746f9fc76e.jpg",
+        "https://picturescdn.estatesales.net/5166168/1-1/abefd172-d2eb-41d7-953e-164c91df2e85.jpg",
+        "https://picturescdn.estatesales.net/5166168/1-1/cbe4b770-7378-48d9-8f77-3bc48c4c8153.jpg",
+        "https://picturescdn.estatesales.net/5166168/1-1/63066c85-a28d-4eb2-adaa-b59f3c73c56b.jpg",
+        "https://picturescdn.estatesales.net/5166168/1-1/1212dc0d-167e-498d-9e97-f735a4bd5126.jpg",
+        "https://picturescdn.estatesales.net/5166168/1-1/3a60ca01-b015-450d-b2ed-ca6acb5d55f0.jpg",
+        "https://picturescdn.estatesales.net/5166168/1-1/ebc798f4-1d2d-4920-867e-697bf64ed932.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "190 photos",
+        "tools, furniture and vinyl & records in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "toys & games"
+      ],
+      "contentsLine": "Tools, furniture, vinyl & records, collectibles and kitchen.",
+      "lat": 33.8007504,
+      "lng": -84.2473232,
+      "approximate": false
+    },
+    {
       "id": "45d842b789edadf9",
       "title": "75% OFF Whole House Furnishings & Christmas Delight!",
       "company": "Golden Leira Designs LLC",
@@ -1058,79 +1049,6 @@
       "contentsLine": "Tools, furniture, collectibles, kitchen and clothing.",
       "lat": 33.9923301,
       "lng": -84.40013739999999,
-      "approximate": false
-    },
-    {
-      "id": "503fd9be68becdc9",
-      "title": "Donna Davis LLC - Great Smyrna Sale SUNDAY start 50%off MAYBE 75% later in day",
-      "company": "Donna Davis Estate Sales LLC, Downsizing and Estate Appraisal Services",
-      "streetAddress": "3708 Tynemoore Trace S.E",
-      "city": "Smyrna",
-      "state": "GA",
-      "zip": "30080",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "10:00",
-          "end": "16:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Smyrna/30080/5158035"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(770) 235-7638",
-      "contactUrl": "http://www.donnadavisestatesales.com",
-      "photoCount": 140,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5158035/1-1/2ca5d06d-58d0-4812-936f-fd270f9b05b8.jpg",
-        "https://picturescdn.estatesales.net/5158035/1-1/dde8404f-13a6-452b-bf8c-f07c8d151fd5.jpg",
-        "https://picturescdn.estatesales.net/5158035/1-1/8f7a3d36-f6e7-4b6a-97ca-598dcf9205bb.jpg",
-        "https://picturescdn.estatesales.net/5158035/1-1/dce5e0f3-a3fa-4c86-a599-ba39a3af7b7f.jpg",
-        "https://picturescdn.estatesales.net/5158035/1-1/75c23f94-3603-47e5-a870-53ad7e70d33c.jpg",
-        "https://picturescdn.estatesales.net/5158035/1-1/6e9aa62c-51ad-45fa-a2d6-a6918ded2704.jpg",
-        "https://picturescdn.estatesales.net/5158035/1-1/91f5ed66-16e0-483d-a9ed-7bd26c7d4048.jpg",
-        "https://picturescdn.estatesales.net/5158035/1-1/867180ab-3084-4185-9ba8-568bb640ec8c.jpg",
-        "https://picturescdn.estatesales.net/5158035/1-1/7ec4c3d2-fe34-44d5-9c56-467eba0cc538.jpg",
-        "https://picturescdn.estatesales.net/5158035/1-1/e4b591d2-19a7-4ed4-be28-8d9dbb61f1f5.jpg",
-        "https://picturescdn.estatesales.net/5158035/1-1/7ac337a2-655a-4f36-ac02-9647e55b3acd.jpg",
-        "https://picturescdn.estatesales.net/5158035/1-1/3e046565-3a6a-4eaf-986c-af7366d53b28.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "140 photos",
-        "tools, furniture and kitchen in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "toys & games",
-        "mid-century",
-        "rugs"
-      ],
-      "contentsLine": "Tools, furniture, kitchen, clothing and books.",
-      "lat": 33.857875,
-      "lng": -84.489664,
       "approximate": false
     },
     {
@@ -1270,6 +1188,79 @@
       "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
       "lat": 33.8174115,
       "lng": -84.5510887,
+      "approximate": false
+    },
+    {
+      "id": "503fd9be68becdc9",
+      "title": "Doona Davis LLC. Sunday 50-% off",
+      "company": "Donna Davis Estate Sales LLC, Downsizing and Estate Appraisal Services",
+      "streetAddress": "3708 Tynemoore Trace S.E",
+      "city": "Smyrna",
+      "state": "GA",
+      "zip": "30080",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Smyrna/30080/5158035"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(770) 235-7638",
+      "contactUrl": "http://www.donnadavisestatesales.com",
+      "photoCount": 140,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5158035/1-1/2ca5d06d-58d0-4812-936f-fd270f9b05b8.jpg",
+        "https://picturescdn.estatesales.net/5158035/1-1/dde8404f-13a6-452b-bf8c-f07c8d151fd5.jpg",
+        "https://picturescdn.estatesales.net/5158035/1-1/8f7a3d36-f6e7-4b6a-97ca-598dcf9205bb.jpg",
+        "https://picturescdn.estatesales.net/5158035/1-1/dce5e0f3-a3fa-4c86-a599-ba39a3af7b7f.jpg",
+        "https://picturescdn.estatesales.net/5158035/1-1/75c23f94-3603-47e5-a870-53ad7e70d33c.jpg",
+        "https://picturescdn.estatesales.net/5158035/1-1/6e9aa62c-51ad-45fa-a2d6-a6918ded2704.jpg",
+        "https://picturescdn.estatesales.net/5158035/1-1/91f5ed66-16e0-483d-a9ed-7bd26c7d4048.jpg",
+        "https://picturescdn.estatesales.net/5158035/1-1/867180ab-3084-4185-9ba8-568bb640ec8c.jpg",
+        "https://picturescdn.estatesales.net/5158035/1-1/7ec4c3d2-fe34-44d5-9c56-467eba0cc538.jpg",
+        "https://picturescdn.estatesales.net/5158035/1-1/e4b591d2-19a7-4ed4-be28-8d9dbb61f1f5.jpg",
+        "https://picturescdn.estatesales.net/5158035/1-1/7ac337a2-655a-4f36-ac02-9647e55b3acd.jpg",
+        "https://picturescdn.estatesales.net/5158035/1-1/3e046565-3a6a-4eaf-986c-af7366d53b28.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "140 photos",
+        "tools, furniture and kitchen in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "toys & games",
+        "mid-century",
+        "rugs"
+      ],
+      "contentsLine": "Tools, furniture, kitchen, clothing and books.",
+      "lat": 33.857875,
+      "lng": -84.489664,
       "approximate": false
     },
     {
@@ -1965,84 +1956,6 @@
       "approximate": false
     },
     {
-      "id": "0382b9e09b8a6751",
-      "title": "Bedroom Sets, Chairs, French Pieces and More in Sandy Springs",
-      "company": "Dunwoody Estate Treasures",
-      "streetAddress": null,
-      "city": "Sandy Springs",
-      "state": "GA",
-      "zip": "30328",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-21",
-          "start": "10:30",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "10:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-23",
-          "start": "10:30",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-24",
-          "start": "12:30",
-          "end": null
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Atlanta/30328/5136282"
-        }
-      ],
-      "categories": [
-        "furniture"
-      ],
-      "contactPhone": "7706095146",
-      "contactUrl": "Https://www.dunwoodyestatetreasures.com ",
-      "photoCount": 63,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5136282/1-1/da0df414-46cb-4f3f-8093-9790db31c7d3.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/eb8e1384-3515-4695-864f-fe5029439e06.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/a8fe1a95-8b11-459a-bba1-5fdeae927f9d.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/4aa90fc8-8d7d-4536-b95b-43539e400302.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/88a78c0a-18c9-4fc6-8204-c81dcc28ae7c.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/6f4a7ff4-5ef8-46f8-abdf-d8a17dbeb76f.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/bdd9ed3f-cd6e-475d-88fd-0c58cee636e0.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/50e18e82-390e-466c-bf06-b21aef3530c5.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/f5b36b92-181f-424a-99a7-d3cdfa1f785c.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/19033294-70ed-45c7-a11a-bd641f57c35e.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/575af4bf-e2df-4e6c-b64e-cd521ba64a0e.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/af171c4b-078c-4c34-92aa-e36a86e12405.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "63 photos",
-        "furniture, art and electronics in the listing",
-        "runs 4 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "art",
-        "electronics",
-        "crystal",
-        "antiques",
-        "mid-century",
-        "silver",
-        "patio furniture"
-      ],
-      "contentsLine": "Furniture, art, electronics, crystal and antiques.",
-      "lat": 33.9332303,
-      "lng": -84.3827283,
-      "approximate": true
-    },
-    {
       "id": "13808d707c448b3f",
       "title": "75% OFF SUNDAY- -Find Your PERFECT PIECE at this VINTAGE Sale in Lilburn! COMICS, ALBUMS &am",
       "company": "The Perfect Piece Estate Liquidators, Inc.",
@@ -2240,6 +2153,83 @@
       "lat": 33.727592,
       "lng": -84.257433,
       "approximate": false
+    },
+    {
+      "id": "0382b9e09b8a6751",
+      "title": "Reduced! Bob Timberlake Bedroom Sets, Leather Couch, French Pieces and More in Sandy Springs",
+      "company": "Dunwoody Estate Treasures",
+      "streetAddress": null,
+      "city": "Sandy Springs",
+      "state": "GA",
+      "zip": "30328",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-23",
+          "start": "10:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-24",
+          "start": "12:30",
+          "end": null
+        },
+        {
+          "date": "2026-11-25",
+          "start": "10:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Atlanta/30328/5136282"
+        }
+      ],
+      "categories": [
+        "furniture"
+      ],
+      "contactPhone": "7706095146",
+      "contactUrl": "Https://www.dunwoodyestatetreasures.com ",
+      "photoCount": 63,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5136282/1-1/f5b36b92-181f-424a-99a7-d3cdfa1f785c.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/da0df414-46cb-4f3f-8093-9790db31c7d3.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/eb8e1384-3515-4695-864f-fe5029439e06.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/a8fe1a95-8b11-459a-bba1-5fdeae927f9d.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/4aa90fc8-8d7d-4536-b95b-43539e400302.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/88a78c0a-18c9-4fc6-8204-c81dcc28ae7c.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/6f4a7ff4-5ef8-46f8-abdf-d8a17dbeb76f.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/bdd9ed3f-cd6e-475d-88fd-0c58cee636e0.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/50e18e82-390e-466c-bf06-b21aef3530c5.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/19033294-70ed-45c7-a11a-bd641f57c35e.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/575af4bf-e2df-4e6c-b64e-cd521ba64a0e.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/af171c4b-078c-4c34-92aa-e36a86e12405.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "63 photos",
+        "furniture and electronics in the listing",
+        "runs 4 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "electronics",
+        "crystal",
+        "antiques",
+        "mid-century",
+        "silver",
+        "patio furniture"
+      ],
+      "contentsLine": "Furniture, electronics, crystal, antiques and mid-century.",
+      "lat": 33.9332303,
+      "lng": -84.3827283,
+      "approximate": true
     },
     {
       "id": "8255a9d65c5043b1",
@@ -2609,7 +2599,7 @@
       ],
       "contactPhone": "(404) 272-6610",
       "contactUrl": "http://sandybkingestatesales.com",
-      "photoCount": 184,
+      "photoCount": 185,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5123811/1-1/6565e914-e1b4-49ff-ab8c-dc38d630949a.jpg",
         "https://picturescdn.estatesales.net/5123811/1-1/7acbbd5d-7689-477c-8fd7-8ca07c3553c9.jpg",
@@ -2626,7 +2616,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "184 photos",
+        "185 photos",
         "tools, furniture and vinyl & records in the listing",
         "runs 3 days"
       ],

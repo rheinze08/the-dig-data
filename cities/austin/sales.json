@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-22",
-  "collectedAt": "2026-11-22T14:33:01.081Z",
+  "collectedAt": "2026-11-22T18:14:12.780Z",
   "window": {
     "start": "2026-11-22",
     "end": "2026-12-05",
@@ -14,8 +14,8 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 53/53 local candidate details.",
-      "candidates": 33,
+      "detail": "Read the public sale sitemap. Checked 54/54 local candidate details.",
+      "candidates": 34,
       "included": 25
     },
     "EstateSales.org": {
@@ -26,7 +26,7 @@
     },
     "Craigslist Austin": {
       "status": "reached",
-      "detail": "26 directory listings discovered; 9 in-window estate listings before radius filtering",
+      "detail": "30 directory listings discovered; 9 in-window estate listings before radius filtering",
       "candidates": 9,
       "included": 3
     },
@@ -38,11 +38,11 @@
     }
   },
   "counts": {
-    "candidates": 48,
+    "candidates": 49,
     "listings": 30,
     "sales": 28,
     "duplicates": 2,
-    "outsideRadius": 12,
+    "outsideRadius": 13,
     "unlocatedListings": 1
   },
   "unlocated": [
@@ -1484,8 +1484,9 @@
       "categories": [],
       "contactPhone": "(737) 368-9977",
       "contactUrl": "https://www.estatesales.net/companies/TX/Austin/78748/172652",
-      "photoCount": 31,
+      "photoCount": 44,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5168253/1-1/762cb633-a19f-42b6-8a16-7465a3b44729.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/d224ccc1-fd59-4297-8797-35917ce9077c.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/262c34b2-74aa-4985-b8b4-b4584bd61dbc.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/76415271-f3e1-4b36-bdd0-7163e5959cfb.jpg",
@@ -1496,12 +1497,11 @@
         "https://picturescdn.estatesales.net/5168253/1-1/bfb60d04-a6f6-47c2-ae51-af818a5cf4ed.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/3da004d9-7eef-4e35-970a-f27265b2432c.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/92edf3e0-416d-4f1f-b18a-22f498d3c924.jpg",
-        "https://picturescdn.estatesales.net/5168253/1-1/d4da6026-6b09-4cb8-bc05-5409a524b872.jpg",
-        "https://picturescdn.estatesales.net/5168253/1-1/8589c0ba-6353-492d-8950-94b8f21c6cd6.jpg"
+        "https://picturescdn.estatesales.net/5168253/1-1/d4da6026-6b09-4cb8-bc05-5409a524b872.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "31 photos",
+        "44 photos",
         "jewelry, collectibles and clothing in the listing",
         "runs 3 days"
       ],

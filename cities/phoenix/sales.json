@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-22",
-  "collectedAt": "2026-11-22T14:36:31.359Z",
+  "collectedAt": "2026-11-22T18:16:46.864Z",
   "window": {
     "start": "2026-11-22",
     "end": "2026-12-05",
@@ -20,13 +20,13 @@
     },
     "EstateSales.org": {
       "status": "partial",
-      "detail": "Read 31 Phoenix directory cards over 2 pages. Checked 14/15 in-person local candidate details. https://estatesales.org/estate-sales/az/mesa/85205/estate-sale-mesa-11211122-2474720 — Missing public event schema",
-      "candidates": 12,
-      "included": 11
+      "detail": "Read 30 Phoenix directory cards over 2 pages. Checked 13/14 in-person local candidate details. https://estatesales.org/estate-sales/az/mesa/85205/estate-sale-mesa-11211122-2474720 — Missing public event schema",
+      "candidates": 11,
+      "included": 10
     },
     "Craigslist Phoenix": {
       "status": "reached",
-      "detail": "62 directory listings discovered; 11 in-window estate listings before radius filtering",
+      "detail": "66 directory listings discovered; 11 in-window estate listings before radius filtering",
       "candidates": 11,
       "included": 9
     },
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 54,
-    "listings": 47,
-    "sales": 39,
+    "candidates": 53,
+    "listings": 46,
+    "sales": 38,
     "duplicates": 8,
     "outsideRadius": 7,
     "unlocatedListings": 0
@@ -517,7 +517,7 @@
       ],
       "contactPhone": "(602) 228-5977",
       "contactUrl": "http://thecalhouncollective.com",
-      "photoCount": 73,
+      "photoCount": 91,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5162412/1-1/a156c301-fb8c-4b81-92bc-83b3e15b39fa.jpg",
         "https://picturescdn.estatesales.net/5162412/1-1/879924f0-6029-4e17-ada1-a70b7b3e4a9d.jpg",
@@ -534,7 +534,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "73 photos",
+        "91 photos",
         "furniture, collectibles and kitchen in the listing"
       ],
       "photoKeywords": [
@@ -547,54 +547,6 @@
       "lat": 33.637145,
       "lng": -112.2692005,
       "approximate": false
-    },
-    {
-      "id": "584f8ce1a0fa9ff6",
-      "title": "🚨 SUNDAY FINAL DAY BLOWOUT — 25% TO 50% OFF + MAKE AN OFFER! 🚨",
-      "company": null,
-      "streetAddress": "6264 E Duncan St",
-      "city": "Mesa",
-      "state": "AZ",
-      "zip": "85205",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-21",
-          "start": "08:00",
-          "end": "12:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "08:00",
-          "end": "12:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/az/mesa/85205/sunday-final-day-blowout-25-2474764"
-        }
-      ],
-      "categories": [],
-      "photoCount": 1,
-      "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2474764-xe3j2c7zc0r6kr08.webp"
-      ],
-      "digRating": "Slim Pickings",
-      "ratingReasons": [
-        "collectibles and clothing in the listing",
-        "only 1 photo"
-      ],
-      "photoKeywords": [
-        "collectibles",
-        "clothing",
-        "antiques",
-        "christmas decor"
-      ],
-      "contentsLine": "Collectibles, clothing, antiques and christmas decor.",
-      "lat": 33.4313284,
-      "lng": -111.7240535,
-      "approximate": true
     },
     {
       "id": "30cc25a7256fba6b",
@@ -938,52 +890,6 @@
       "approximate": false
     },
     {
-      "id": "89ff9bbd8fe557d1",
-      "title": "Huge backyard Contractor tradesmen estate sale",
-      "company": null,
-      "streetAddress": "7834 W Monterey way",
-      "city": "Phoenix",
-      "state": "AZ",
-      "zip": null,
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-21",
-          "start": "11 (AM/PM unspecified)",
-          "end": null
-        },
-        {
-          "date": "2026-11-22",
-          "start": "11 (AM/PM unspecified)",
-          "end": null
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist Phoenix",
-          "url": "https://www.craigslist.org/view/d/phoenix-huge-backyard-contractor/msjRjFMhxq8SLRP4vApCSe"
-        }
-      ],
-      "categories": [],
-      "photoCount": 1,
-      "photoUrls": [
-        "https://images.craigslist.org/00X0X_hMhtMuDBrRW_0CI0hR_600x450.jpg"
-      ],
-      "digRating": "Worth a Look",
-      "ratingReasons": [
-        "tools, vehicles and kitchen in the listing"
-      ],
-      "photoKeywords": [
-        "tools",
-        "vehicles",
-        "kitchen"
-      ],
-      "contentsLine": "Tools, vehicles and kitchen.",
-      "lat": 33.4836165,
-      "lng": -112.2279769,
-      "approximate": false
-    },
-    {
       "id": "578d8e20cd7360fb",
       "title": "🔧 ESTATE SALE | GARAGE PACKED WITH TOOLS + VINTAGE FURNITURE",
       "company": null,
@@ -1040,7 +946,7 @@
     },
     {
       "id": "f1e9f8ce02749c90",
-      "title": "Estate sale 61 yrs 50% off sunday nov22 8 am to 6",
+      "title": "Estate sale 61 yrs 50% off sunday nov22 10 am to 6",
       "company": null,
       "streetAddress": "51st ave. . near Komatke lane",
       "city": "Laveen",
@@ -1096,6 +1002,58 @@
       "contentsLine": "Collectibles, vehicles, kitchen, electronics and toys & games.",
       "lat": 33.3618814,
       "lng": -112.1533861,
+      "approximate": true
+    },
+    {
+      "id": "2e1186e2b2407f84",
+      "title": "Estate sale, lots of tools",
+      "company": null,
+      "streetAddress": "7834 W Monterey way near 75th Ave & Thomas Rd (Maryvale / West Phoenix)",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "start": "08:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Phoenix",
+          "url": "https://www.craigslist.org/view/d/phoenix-estate-sale-lots-of-tools/7YaAmWvGguUedCcao4WGDJ"
+        }
+      ],
+      "categories": [
+        "tools"
+      ],
+      "photoCount": 7,
+      "photoUrls": [
+        "https://images.craigslist.org/00U0U_2UKnaS1VyPn_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00606_4YI3ciW5s31_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00a0a_85tNCeg7WOx_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00404_h55XnfnnlLV_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00Q0Q_1w8wJZ7OiIc_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00O0O_dENOwz3UXpd_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00101_4QVvpN5i1xe_0t20CI_600x450.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "7 photos",
+        "tools, vehicles and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "vehicles",
+        "kitchen",
+        "electronics",
+        "cameras"
+      ],
+      "contentsLine": "Tools, vehicles, kitchen, electronics and cameras.",
+      "lat": 33.4484367,
+      "lng": -112.074141,
       "approximate": true
     },
     {
@@ -1228,7 +1186,7 @@
         }
       ],
       "categories": [],
-      "photoCount": 17,
+      "photoCount": 22,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5144415/1-1/e71360e8-19f7-4a85-a718-523948ec48ab.jpg",
         "https://picturescdn.estatesales.net/5144415/1-1/50ab212f-5a32-4efc-92fc-4a79f666d902.jpg",
@@ -1245,7 +1203,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "17 photos",
+        "22 photos",
         "furniture, collectibles and art in the listing"
       ],
       "photoKeywords": [

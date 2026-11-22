@@ -156,6 +156,11 @@
     "lng": -96.811438,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:5918 miller wilson rd:77532": {
+    "lat": 29.913981,
+    "lng": -95.063699,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:620 britt bailey blvd:77515": {
     "lat": 29.156177,
     "lng": -95.50688,
@@ -204,6 +209,11 @@
   "zip:75218": {
     "lat": 32.8446042,
     "lng": -96.7030279,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76033": {
+    "lat": 32.3368686,
+    "lng": -97.4107906,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:77005": {
@@ -314,6 +324,11 @@
   "zip:77521": {
     "lat": 29.7899305,
     "lng": -94.9812266,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77535": {
+    "lat": 30.0342076,
+    "lng": -94.890853,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:77546": {

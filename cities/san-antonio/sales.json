@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-22",
-  "collectedAt": "2026-11-22T14:34:15.138Z",
+  "collectedAt": "2026-11-22T18:15:21.380Z",
   "window": {
     "start": "2026-11-22",
     "end": "2026-12-05",
@@ -14,7 +14,7 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 59/59 local candidate details.",
+      "detail": "Read the public sale sitemap. Checked 60/60 local candidate details.",
       "candidates": 33,
       "included": 28
     },
@@ -541,72 +541,6 @@
       "approximate": true
     },
     {
-      "id": "59bf93d65b76bc7e",
-      "title": "25% off! Open @ 11:00am! Bulverde Home Sweet Home! 25% off on 11/21!",
-      "company": "Overstreet Estates, LLC",
-      "streetAddress": null,
-      "city": "Bulverde",
-      "state": "TX",
-      "zip": "78163",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "11:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "10:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Bulverde/78163/5161698"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(830) 380-2407",
-      "contactUrl": "https://www.overstreetestates.com/",
-      "photoCount": 75,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5161698/1-1/bcf6f418-dd66-484e-ba07-4d6dc1813e38.jpg",
-        "https://picturescdn.estatesales.net/5161698/1-1/aa4bc9c4-e338-4169-b674-191c3f519f4c.jpg",
-        "https://picturescdn.estatesales.net/5161698/1-1/9f023887-8a51-4a97-9572-69db03cde49a.jpg",
-        "https://picturescdn.estatesales.net/5161698/1-1/125643b9-2d63-4e8b-8591-288a8b3f381d.jpg",
-        "https://picturescdn.estatesales.net/5161698/1-1/19d05ffc-1485-4bbd-aaa2-2e2e3158037c.jpg",
-        "https://picturescdn.estatesales.net/5161698/1-1/956b8d53-1acb-4a23-a085-a1c67c06b08f.jpg",
-        "https://picturescdn.estatesales.net/5161698/1-1/1b6e7f18-1fbc-4d4c-a671-734d566820e0.jpg",
-        "https://picturescdn.estatesales.net/5161698/1-1/41e9e9f2-06e3-4107-9794-907e8b1578f8.jpg",
-        "https://picturescdn.estatesales.net/5161698/1-1/f4619641-af8d-44ce-a1dd-941eeaf3edc2.jpg",
-        "https://picturescdn.estatesales.net/5161698/1-1/85e9572a-1310-43d5-a984-7553ba736e49.jpg",
-        "https://picturescdn.estatesales.net/5161698/1-1/7ed4c18e-b652-42be-a798-c2fbec30143a.jpg",
-        "https://picturescdn.estatesales.net/5161698/1-1/30d02210-9e7a-4c2d-ad0f-2797c6fac71f.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "75 photos",
-        "furniture and toys & games in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "toys & games",
-        "antiques"
-      ],
-      "contentsLine": "Furniture, toys & games and antiques.",
-      "lat": 29.7669402,
-      "lng": -98.4267298,
-      "approximate": true
-    },
-    {
       "id": "f8e3d9b53528e5c1",
       "title": "50% off and box day! Massive warehouse sale. Sterling AMMO games comics everything",
       "company": "Back Again Resale",
@@ -748,6 +682,72 @@
       "approximate": false
     },
     {
+      "id": "59bf93d65b76bc7e",
+      "title": "50% off! Last day! Open @ 10:00am! Bulverde Home Sweet Home! 50% off!",
+      "company": "Overstreet Estates, LLC",
+      "streetAddress": null,
+      "city": "Bulverde",
+      "state": "TX",
+      "zip": "78163",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-21",
+          "start": "11:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-22",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Bulverde/78163/5161698"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(830) 380-2407",
+      "contactUrl": "https://www.overstreetestates.com/",
+      "photoCount": 75,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5161698/1-1/bcf6f418-dd66-484e-ba07-4d6dc1813e38.jpg",
+        "https://picturescdn.estatesales.net/5161698/1-1/aa4bc9c4-e338-4169-b674-191c3f519f4c.jpg",
+        "https://picturescdn.estatesales.net/5161698/1-1/9f023887-8a51-4a97-9572-69db03cde49a.jpg",
+        "https://picturescdn.estatesales.net/5161698/1-1/125643b9-2d63-4e8b-8591-288a8b3f381d.jpg",
+        "https://picturescdn.estatesales.net/5161698/1-1/19d05ffc-1485-4bbd-aaa2-2e2e3158037c.jpg",
+        "https://picturescdn.estatesales.net/5161698/1-1/956b8d53-1acb-4a23-a085-a1c67c06b08f.jpg",
+        "https://picturescdn.estatesales.net/5161698/1-1/1b6e7f18-1fbc-4d4c-a671-734d566820e0.jpg",
+        "https://picturescdn.estatesales.net/5161698/1-1/41e9e9f2-06e3-4107-9794-907e8b1578f8.jpg",
+        "https://picturescdn.estatesales.net/5161698/1-1/f4619641-af8d-44ce-a1dd-941eeaf3edc2.jpg",
+        "https://picturescdn.estatesales.net/5161698/1-1/85e9572a-1310-43d5-a984-7553ba736e49.jpg",
+        "https://picturescdn.estatesales.net/5161698/1-1/7ed4c18e-b652-42be-a798-c2fbec30143a.jpg",
+        "https://picturescdn.estatesales.net/5161698/1-1/30d02210-9e7a-4c2d-ad0f-2797c6fac71f.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "75 photos",
+        "furniture and toys & games in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "toys & games",
+        "antiques"
+      ],
+      "contentsLine": "Furniture, toys & games and antiques.",
+      "lat": 29.7669402,
+      "lng": -98.4267298,
+      "approximate": true
+    },
+    {
       "id": "3fa45716d940ce60",
       "title": "Alamo Ranch Estate Sale",
       "company": "Denny Harrison",
@@ -822,66 +822,6 @@
       "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
       "lat": 29.480654,
       "lng": -98.741959,
-      "approximate": false
-    },
-    {
-      "id": "c0420bbe0c6f9d01",
-      "title": "Blowout sale! 50% OFF",
-      "company": "1dandelion LLC",
-      "streetAddress": "351 Culebra",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78201",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "10:30",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "10:30",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "12:00",
-          "end": "16:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78201/5158845"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(210) 835-7962",
-      "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78217/139760",
-      "photoCount": 64,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5158845/1-1/053528a9-09fe-45b5-ad84-91ae725ca305.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/3cc66bc4-746a-417b-98f4-525ee09e60eb.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/71324f68-16c5-46b3-b472-bebbcb8105f6.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/6df4f042-8830-4130-8cf5-18db387aba9b.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/c9bc16d8-6015-4794-aaa4-967c8e80c63d.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/02709502-514f-4129-bd05-8bc0fc43049a.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/6eac38dd-05df-4741-bbba-a7968ca8de91.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/888857dc-9b94-40cd-b1d8-9e83d1f1b68d.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/d8d0baf8-2b55-499f-83b6-dca5603439b8.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/772dd093-890d-4dad-b192-bdac58df493e.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/5dc34b3d-b1dc-448c-b21c-2dae86c1b899.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/21902c75-090a-41ad-a79c-9c57e875828c.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "64 photos",
-        "runs 3 days"
-      ],
-      "photoKeywords": [],
-      "lat": 29.443835,
-      "lng": -98.508732,
       "approximate": false
     },
     {
@@ -1398,6 +1338,66 @@
       "approximate": false
     },
     {
+      "id": "c0420bbe0c6f9d01",
+      "title": "Blowout sale! 50% OFF",
+      "company": "1dandelion LLC",
+      "streetAddress": "351 Culebra",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78201",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-23",
+          "start": "10:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-24",
+          "start": "10:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-25",
+          "start": "10:30",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78201/5158845"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(210) 835-7962",
+      "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78217/139760",
+      "photoCount": 64,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5158845/1-1/053528a9-09fe-45b5-ad84-91ae725ca305.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/3cc66bc4-746a-417b-98f4-525ee09e60eb.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/71324f68-16c5-46b3-b472-bebbcb8105f6.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/6df4f042-8830-4130-8cf5-18db387aba9b.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/c9bc16d8-6015-4794-aaa4-967c8e80c63d.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/02709502-514f-4129-bd05-8bc0fc43049a.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/6eac38dd-05df-4741-bbba-a7968ca8de91.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/888857dc-9b94-40cd-b1d8-9e83d1f1b68d.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/d8d0baf8-2b55-499f-83b6-dca5603439b8.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/772dd093-890d-4dad-b192-bdac58df493e.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/5dc34b3d-b1dc-448c-b21c-2dae86c1b899.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/21902c75-090a-41ad-a79c-9c57e875828c.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "64 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [],
+      "lat": 29.443835,
+      "lng": -98.508732,
+      "approximate": false
+    },
+    {
       "id": "a3e380a9b0a15a3d",
       "title": "#634: Sale of the Season!",
       "company": "A Better Estate Sale Co.",
@@ -1620,10 +1620,10 @@
       "categories": [],
       "contactPhone": "(210) 363-6603",
       "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78248/50918",
-      "photoCount": 80,
+      "photoCount": 109,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5166486/1-1/27a02467-0397-4fb9-8adc-eac14686d991.jpg",
         "https://picturescdn.estatesales.net/5166486/1-1/e0bab3fc-09ae-48d7-8d1b-b7c396b82267.jpg",
+        "https://picturescdn.estatesales.net/5166486/1-1/27a02467-0397-4fb9-8adc-eac14686d991.jpg",
         "https://picturescdn.estatesales.net/5166486/1-1/577e690e-b203-4f42-a9de-6e9dffdb0658.jpg",
         "https://picturescdn.estatesales.net/5166486/1-1/dce1b7cc-ca63-431c-94bc-89b7242fa629.jpg",
         "https://picturescdn.estatesales.net/5166486/1-1/9a4d20c4-2118-4739-bd78-5a86fddab3de.jpg",
@@ -1631,13 +1631,13 @@
         "https://picturescdn.estatesales.net/5166486/1-1/5f98ca7d-c1f4-4245-b9b0-121b8f9a840d.jpg",
         "https://picturescdn.estatesales.net/5166486/1-1/d855986f-7541-45b9-af2b-399c20cce862.jpg",
         "https://picturescdn.estatesales.net/5166486/1-1/4c5e1e18-de09-4d9e-a673-0d457d21ca98.jpg",
-        "https://picturescdn.estatesales.net/5166486/1-1/236e8671-698e-40cf-8372-1a750aa9ef7b.jpg",
-        "https://picturescdn.estatesales.net/5166486/1-1/172c726c-4be5-4d80-a18d-947a93a465ad.jpg",
-        "https://picturescdn.estatesales.net/5166486/1-1/d1f7a5d8-5bb7-4139-8b3e-db2c340fb24c.jpg"
+        "https://picturescdn.estatesales.net/5166486/1-1/d7139c48-4169-4c11-86c2-2499b1cab087.jpg",
+        "https://picturescdn.estatesales.net/5166486/1-1/755cdadb-7f34-4105-b7cb-0bc68b40680d.jpg",
+        "https://picturescdn.estatesales.net/5166486/1-1/236e8671-698e-40cf-8372-1a750aa9ef7b.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "80 photos",
+        "109 photos",
         "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
@@ -1645,15 +1645,15 @@
         "tools",
         "furniture",
         "jewelry",
+        "kitchen",
         "clothing",
         "books",
         "art",
         "electronics",
         "toys & games",
-        "crystal",
-        "antiques"
+        "crystal"
       ],
-      "contentsLine": "Tools, furniture, jewelry, clothing and books.",
+      "contentsLine": "Tools, furniture, jewelry, kitchen and clothing.",
       "lat": 29.5726959,
       "lng": -98.5395497,
       "approximate": true
@@ -1825,7 +1825,7 @@
       ],
       "contactPhone": "(210) 313-2722",
       "contactUrl": "https://estatesalesbyemilee.com",
-      "photoCount": 445,
+      "photoCount": 447,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5163432/1-1/e411dee6-a960-4abd-bdde-f790144186a0.jpg",
         "https://picturescdn.estatesales.net/5163432/1-1/67e43a47-7a73-4107-9de1-d088cf629142.jpg",
@@ -1842,7 +1842,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "445 photos",
+        "447 photos",
         "tools, furniture and kitchen in the listing",
         "runs 3 days"
       ],
