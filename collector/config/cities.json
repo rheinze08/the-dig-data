@@ -198,6 +198,70 @@
           "place": "Atlanta"
         }
       }
+    },
+    {
+      "slug": "denver",
+      "name": "Denver",
+      "state": {
+        "code": "CO",
+        "name": "Colorado"
+      },
+      "center": {
+        "lat": 39.739,
+        "lng": -104.99,
+        "label": "downtown Denver"
+      },
+      "radiusMiles": 25,
+      "timeZone": "America/Denver",
+      "status": "proving",
+      "sources": {
+        "estateSalesNet": {
+          "directory": "https://www.estatesales.net/CO/Denver/80202"
+        },
+        "estateSalesOrg": {
+          "directory": "https://estatesales.org/estate-sales/co/denver?sort=date_to&radius=50"
+        },
+        "craigslist": {
+          "name": "Craigslist Denver",
+          "directory": "https://www.craigslist.org/search/city/denver-co?cat=gms&postal=80202&radius=35"
+        },
+        "gsalr": {
+          "directory": "https://gsalr.com/garage-sales-denver-co.html",
+          "place": "Denver"
+        }
+      }
+    },
+    {
+      "slug": "nashville",
+      "name": "Nashville",
+      "state": {
+        "code": "TN",
+        "name": "Tennessee"
+      },
+      "center": {
+        "lat": 36.163,
+        "lng": -86.781,
+        "label": "downtown Nashville"
+      },
+      "radiusMiles": 25,
+      "timeZone": "America/Chicago",
+      "status": "proving",
+      "sources": {
+        "estateSalesNet": {
+          "directory": "https://www.estatesales.net/TN/Nashville/37201"
+        },
+        "estateSalesOrg": {
+          "directory": "https://estatesales.org/estate-sales/tn/nashville?sort=date_to&radius=50"
+        },
+        "craigslist": {
+          "name": "Craigslist Nashville",
+          "directory": "https://www.craigslist.org/search/city/nashville-tn?cat=gms&postal=37201&radius=35"
+        },
+        "gsalr": {
+          "directory": "https://gsalr.com/garage-sales-nashville-tn.html",
+          "place": "Nashville"
+        }
+      }
     }
   ]
 }

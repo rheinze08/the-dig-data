@@ -3,6 +3,7 @@
 import {copyFile, readdir, rm} from 'node:fs/promises';
 import {collectionOrder, loadCities, paths, readJson, writeJson} from './config.mjs';
 import {buildIndex, buildSearch} from './publish.mjs';
+import {reconcilePhotos} from './photo-pass.mjs';
 import {advanceStreak, promotionDecision, PROMOTION} from './rules.mjs';
 
 function localDate(timeZone, instant) {
@@ -81,13 +82,22 @@ export async function refresh({home, collect = null, log = console.log, now = ()
   }
 
   const promoted = report.filter(entry => entry.promoted);
+  // Include retained city feeds: a failed collection doesn't expire a read.
+  // Merge before publishing either the Houston mirror or the search index.
+  const originalReads = await readJson(at.photoReads, {});
+  const generatedAt = now().toISOString();
+  const photos = reconcilePhotos(feeds, originalReads, await readJson(at.photoState, {}), generatedAt);
+  await writeJson(at.photoState, photos.state);
+  for (const slug of photos.changedCities) await writeJson(at.feed({slug}), feeds[slug]);
+  await writeJson(at.photoQueue, photos.queue);
+  if (Object.keys(photos.reads).length !== Object.keys(originalReads).length) await writeJson(at.photoReads, photos.reads);
   if (promoted.length) await writeJson(config.file, config);
   if (collect) await writeJson(at.runs, runs);
   const fallback = config.cities.find(city => city.slug === config.defaultCity);
   // The root sales.json stays the default city's feed: app v0.1.1 reads that address.
   if (feeds[fallback.slug]) await copyFile(at.feed(fallback), at.rootFeed);
   await writeJson(at.index, buildIndex(config, runs, feeds));
-  const search = buildSearch(config, feeds, now().toISOString());
+  const search = buildSearch(config, feeds, generatedAt);
   await writeJson(at.search, search);
 
   for (const entry of report) {

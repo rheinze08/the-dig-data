@@ -53,6 +53,7 @@ export function buildSearch(config, feeds, generatedAt) {
       if (Number.isFinite(sale.photoCount)) entry.photoCount = sale.photoCount;
       if (Array.isArray(sale.photoKeywords) && sale.photoKeywords.length) entry.photoKeywords = sale.photoKeywords;
       if (sale.contentsLine) entry.contentsLine = sale.contentsLine;
+      if (sale.photoRead === true) entry.photoRead = true;
       sales.push(entry);
     }
   }

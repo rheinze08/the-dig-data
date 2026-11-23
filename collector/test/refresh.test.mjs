@@ -169,3 +169,57 @@ test('index-only rebuilds the public files without moving a streak', async () =>
     await rm(dir, {recursive: true});
   }
 });
+
+test('photo reads override all published copies, survive a failed city and expire with its sale', async () => {
+  const dir = await makeHome([city('houston', 'live'), city('austin', 'proving')]);
+  try {
+    const home = dirUrl(dir);
+    const date = '2026-11-20';
+    const read = {keywords: ['chairs', 'cabinets', 'lamps'], contentsLine: 'Chairs, cabinets and lamps.', readAt: date + 'T17:00:00Z'};
+    const setReads = reads => writeFile(join(dir, 'photo-reads.json'), JSON.stringify(reads));
+    const text = ['crystal'];
+    const id = 'houston-0';
+    const collect = async entry => {
+      await collector(dir, date, {houston: 2, austin: 1})(entry);
+      const file = 'cities/' + entry.slug + '/sales.json';
+      const feed = await json(dir, file);
+      for (const sale of feed.sales) Object.assign(sale, {photoUrls: ['https://photos.example/' + sale.id], photoKeywords: text});
+      await writeFile(join(dir, file), JSON.stringify(feed));
+      return true;
+    };
+    await setReads({[id]: read, 'expired-id': read});
+    await refresh({home, collect, log: quiet});
+    const assertRead = async expected => {
+      for (const file of ['cities/houston/sales.json', 'sales.json', 'search.json']) {
+        const sale = (await json(dir, file)).sales.find(sale => sale.id === id);
+        assert.deepEqual(sale.photoKeywords, expected.keywords);
+        assert.equal(sale.contentsLine, expected.contentsLine);
+        assert.equal(sale.photoRead, expected.contentsLine ? true : undefined);
+      }
+    };
+    await assertRead(read);
+    assert.deepEqual(await json(dir, 'photo-reads.json'), {[id]: read});
+    const queue = () => json(dir, 'collector/state/photo-queue.json');
+    assert.deepEqual((await queue()).map(sale => sale.id), ['austin-0', 'houston-1']);
+
+    const revised = {...read, contentsLine: 'Lamps and cabinets stand beside the chairs.'};
+    await setReads({[id]: revised});
+    await day(dir, '2026-11-21', {houston: false, austin: 0});
+    await assertRead(revised);
+    assert.deepEqual(await json(dir, 'photo-reads.json'), {[id]: revised});
+
+    // Undo a read on retained/index-only data: the exact original contents
+    // line was absent, and the keywords originally came from a source caption.
+    await setReads({});
+    await refresh({home, log: quiet});
+    await assertRead({keywords: text});
+    assert.ok((await queue()).some(sale => sale.id === id));
+    await setReads({[id]: read});
+    await day(dir, '2026-11-22', {houston: 0, austin: 0});
+    assert.deepEqual(await json(dir, 'photo-reads.json'), {});
+    assert.deepEqual(await queue(), []);
+    assert.deepEqual(await json(dir, 'collector/state/photo-state.json'), {});
+  } finally {
+    await rm(dir, {recursive: true});
+  }
+});
