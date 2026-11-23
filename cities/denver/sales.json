@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-23",
-  "collectedAt": "2026-11-23T15:00:14.061Z",
+  "collectedAt": "2026-11-23T22:27:11.676Z",
   "window": {
     "start": "2026-11-23",
     "end": "2026-12-06",
@@ -15,8 +15,8 @@
     "EstateSales.net": {
       "status": "reached",
       "detail": "Read the public sale sitemap. Checked 19/19 local candidate details.",
-      "candidates": 6,
-      "included": 6
+      "candidates": 5,
+      "included": 5
     },
     "EstateSales.org": {
       "status": "reached",
@@ -26,7 +26,7 @@
     },
     "Craigslist Denver": {
       "status": "reached",
-      "detail": "9 directory listings discovered; 3 in-window estate listings before radius filtering",
+      "detail": "11 directory listings discovered; 3 in-window estate listings before radius filtering",
       "candidates": 3,
       "included": 3
     },
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 11,
-    "listings": 11,
-    "sales": 9,
+    "candidates": 10,
+    "listings": 10,
+    "sales": 8,
     "duplicates": 2,
     "outsideRadius": 0,
     "unlocatedListings": 0
@@ -48,63 +48,6 @@
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
-    {
-      "id": "cf8478c568effedd",
-      "title": "$1 day anything big or small",
-      "company": "The Nest Marketplace LLC",
-      "streetAddress": "8040 E. Dartmouth",
-      "city": "Denver",
-      "state": "CO",
-      "zip": "80231",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-23",
-          "start": "12:00",
-          "end": "16:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/CO/Denver/80231/5169738"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(720) 630-4203",
-      "contactUrl": "https://mybluebirdestate.com/",
-      "photoCount": 18,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5169738/1-1/9388211a-91f7-46cc-9d2d-27bdbe07eccb.jpg",
-        "https://picturescdn.estatesales.net/5169738/1-1/f4a3ac7f-50d6-4944-92d4-a3b862ba45d8.jpg",
-        "https://picturescdn.estatesales.net/5169738/1-1/05ffd522-a824-4b10-9942-8f480424a58a.jpg",
-        "https://picturescdn.estatesales.net/5169738/1-1/47de559a-8f8d-4686-ad4a-c9bbe3cc5e8c.jpg",
-        "https://picturescdn.estatesales.net/5169738/1-1/ceb250a3-c266-4b85-ab01-541a96cef29d.jpg",
-        "https://picturescdn.estatesales.net/5169738/1-1/c360641b-9e65-4d93-8454-f58200fda2b6.jpg",
-        "https://picturescdn.estatesales.net/5169738/1-1/7a65f7b8-495a-4815-9bb6-dbfbccadcf11.jpg",
-        "https://picturescdn.estatesales.net/5169738/1-1/6147a5b6-ea6d-46dc-b5ce-ab50fe5f52e5.jpg",
-        "https://picturescdn.estatesales.net/5169738/1-1/55dd4536-2c57-41e1-b828-e2fc6a55faa5.jpg",
-        "https://picturescdn.estatesales.net/5169738/1-1/c4b01826-48a0-493d-9f71-ba1c8832353f.jpg",
-        "https://picturescdn.estatesales.net/5169738/1-1/a31e4e69-294d-4b1e-b27c-e60959a58376.jpg",
-        "https://picturescdn.estatesales.net/5169738/1-1/d00a9232-2e67-4b1e-a03c-59b8ff051ce3.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "18 photos",
-        "furniture, kitchen and books in the listing"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "kitchen",
-        "books",
-        "mid-century",
-        "mirrors"
-      ],
-      "contentsLine": "Furniture, kitchen, books, mid-century and mirrors.",
-      "lat": 39.660001,
-      "lng": -104.896073,
-      "approximate": false
-    },
     {
       "id": "c9b73de405aafe46",
       "title": "Estate Sale In Thornton",
@@ -253,7 +196,7 @@
       ],
       "contactPhone": "(720) 440-3571",
       "contactUrl": "http://Www.Frontporchestatesales.com",
-      "photoCount": 167,
+      "photoCount": 197,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5163693/1-1/448cc2a1-d3c5-4ba2-9d1e-62731f8d9980.jpg",
         "https://picturescdn.estatesales.net/5163693/1-1/f2bd5553-0ae6-491b-aec6-d1fb0e235995.jpg",
@@ -270,7 +213,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "167 photos",
+        "197 photos",
         "tools, furniture and jewelry in the listing"
       ],
       "photoKeywords": [

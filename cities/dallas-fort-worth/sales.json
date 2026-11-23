@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-23",
-  "collectedAt": "2026-11-23T14:55:38.931Z",
+  "collectedAt": "2026-11-23T22:22:36.086Z",
   "window": {
     "start": "2026-11-23",
     "end": "2026-12-06",
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 107/108 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
+      "detail": "Read the public sale sitemap. Checked 109/110 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
       "candidates": 49,
       "included": 34
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 22 Dallas–Fort Worth directory cards over 2 pages. Checked 7/7 in-person local candidate details.",
-      "candidates": 4,
-      "included": 4
+      "detail": "Read 24 Dallas–Fort Worth directory cards over 2 pages. Checked 9/9 in-person local candidate details.",
+      "candidates": 6,
+      "included": 5
     },
     "Craigslist Dallas / Fort Worth": {
       "status": "reached",
-      "detail": "6 directory listings discovered; 0 in-window estate listings before radius filtering",
+      "detail": "10 directory listings discovered; 0 in-window estate listings before radius filtering",
       "candidates": 0,
       "included": 0
     },
@@ -38,94 +38,19 @@
     }
   },
   "counts": {
-    "candidates": 53,
-    "listings": 38,
-    "sales": 35,
+    "candidates": 55,
+    "listings": 39,
+    "sales": 36,
     "duplicates": 3,
-    "outsideRadius": 15,
+    "outsideRadius": 16,
     "unlocatedListings": 0
   },
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
     {
-      "id": "9588f8e0bb5fa8d6",
-      "title": "50% OFF MONDAY!! FABULOUS ARLINGTON ESTATE SALE!! SPORTS MEMORABILIA, JEWELRY & MORE!!!!",
-      "company": "Serenade Estate Sales",
-      "streetAddress": "5311 High Trail Ct",
-      "city": "Arlington",
-      "state": "TX",
-      "zip": "76017",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "14:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "11:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-23",
-          "start": "09:00",
-          "end": "12:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Arlington/76017/5153271"
-        }
-      ],
-      "categories": [
-        "jewelry",
-        "collectibles"
-      ],
-      "contactPhone": "(817) 808-3393",
-      "contactUrl": "https://www.estatesales.net/companies/TX/North-Richland-Hills/76182/168683",
-      "photoCount": 112,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5153271/1-1/8e5545d1-11fa-4307-9b28-f88e670f4c35.jpg",
-        "https://picturescdn.estatesales.net/5153271/1-1/6571f0f5-ba09-466e-834e-9efbbb085416.jpg",
-        "https://picturescdn.estatesales.net/5153271/1-1/fd4701a8-2583-4bb6-b589-a815f33b0897.jpg",
-        "https://picturescdn.estatesales.net/5153271/1-1/8221388d-f148-40f2-bacb-105ea128bc65.jpg",
-        "https://picturescdn.estatesales.net/5153271/1-1/2b741de6-752e-4023-9dd4-38e79cf523c6.jpg",
-        "https://picturescdn.estatesales.net/5153271/1-1/10f22770-c7c3-475d-9dbc-5463cd42ae35.jpg",
-        "https://picturescdn.estatesales.net/5153271/1-1/25916fe0-888e-4db4-a402-f5b3f7d7431e.jpg",
-        "https://picturescdn.estatesales.net/5153271/1-1/2b70bd26-d173-48a5-ad57-d8af9abc2899.jpg",
-        "https://picturescdn.estatesales.net/5153271/1-1/f555ab8a-3a36-4f56-bdb7-2135ae1d3fae.jpg",
-        "https://picturescdn.estatesales.net/5153271/1-1/adda7186-b7ef-4ace-9c9a-f1bbd5d46e4f.jpg",
-        "https://picturescdn.estatesales.net/5153271/1-1/c12218b0-dea2-4489-b418-ac6cd7aff766.jpg",
-        "https://picturescdn.estatesales.net/5153271/1-1/f4e79122-7f65-42a0-b4f0-e2bf4a0b1781.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "112 photos",
-        "furniture, jewelry and collectibles in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "clothing",
-        "art",
-        "electronics",
-        "toys & games",
-        "silver",
-        "cameras"
-      ],
-      "contentsLine": "Furniture, jewelry, collectibles, clothing and art.",
-      "lat": 32.6660864,
-      "lng": -97.1886115,
-      "approximate": false
-    },
-    {
       "id": "211e4e751c6b9c2d",
-      "title": "West Plano Estate Sale brought to Warehouse",
+      "title": "West Plano Estate Sale brought to Warehouse Now 80% off",
       "company": "Crush Estate Sales",
       "streetAddress": "1301 Custer Road #706 (Directly behind the Tee Time Bar)",
       "city": "Plano",
@@ -163,7 +88,7 @@
       "categories": [],
       "contactPhone": "(214) 501-3386",
       "contactUrl": "https://www.planoestatesales.com/",
-      "photoCount": 107,
+      "photoCount": 307,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5168580/1-1/81a47a4a-818e-4f84-bc67-9d9a57186b81.jpg",
         "https://picturescdn.estatesales.net/5168580/1-1/5ffb8d9f-c67e-4d10-b87e-6c0ffea5e231.jpg",
@@ -180,16 +105,76 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "107 photos",
+        "307 photos",
+        "furniture, collectibles and art in the listing",
         "runs 4 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "art",
+        "toys & games",
+        "crystal",
+        "silver",
+        "dolls"
+      ],
+      "contentsLine": "Furniture, collectibles, art, toys & games and crystal.",
+      "lat": 33.018423,
+      "lng": -96.735494,
+      "approximate": false
+    },
+    {
+      "id": "89a05893a83558b3",
+      "title": "Plano French Provincial & Hollywood Regency Estate Sale 80% off",
+      "company": "Consignment Crush Estate Sales",
+      "streetAddress": "1301 Custer #706 (Directly behind the Tee Time Bar",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75075",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-23",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-24",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-25",
+          "start": "09:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/plano/75075/plano-french-provincial-hollywood-regency-2475119"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(214) 501-3386",
+      "contactUrl": "https://estatesales.org/estate-sale-companies/consignment-crush-estate-sales-24996",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://eso-cdn.tlcdn.workers.dev/s-2475119-rt2y6efwwrxykii3.webp"
+      ],
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "runs 3 days",
+        "only 1 photo",
+        "few details in the listing"
       ],
       "photoKeywords": [
         "furniture"
       ],
       "contentsLine": "Furniture.",
-      "lat": 33.018423,
-      "lng": -96.735494,
-      "approximate": false
+      "lat": 33.0162157,
+      "lng": -96.7363333,
+      "approximate": true
     },
     {
       "id": "6d176e2c350eeb23",
@@ -669,7 +654,7 @@
       "categories": [],
       "contactPhone": "(972) 345-5312",
       "contactUrl": "http://www.whenpigsflyestatesales.com",
-      "photoCount": 579,
+      "photoCount": 599,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5013480/1-1/3d535768-2840-49d4-bda4-a21d5941d4f1.jpg",
         "https://picturescdn.estatesales.net/5013480/1-1/a76f6bca-5687-4734-8ad2-992c574359ea.jpg",
@@ -686,7 +671,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "579 photos",
+        "599 photos",
         "furniture, jewelry and collectibles in the listing",
         "runs 3 days"
       ],
@@ -871,7 +856,7 @@
       "categories": [],
       "contactPhone": "(626) 926-6354",
       "contactUrl": "http://www.treasuresoncemore.com",
-      "photoCount": 78,
+      "photoCount": 102,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5162430/1-1/92b87efd-02a6-43ce-9a14-eecc54fb75c4.jpg",
         "https://picturescdn.estatesales.net/5162430/1-1/8440155f-98a2-4c0b-9351-8176e23419e9.jpg",
@@ -888,7 +873,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "78 photos",
+        "102 photos",
         "furniture, kitchen and clothing in the listing",
         "runs 3 days"
       ],
@@ -897,10 +882,11 @@
         "kitchen",
         "clothing",
         "art",
+        "antiques",
         "lamps",
         "christmas decor"
       ],
-      "contentsLine": "Furniture, kitchen, clothing, art and lamps.",
+      "contentsLine": "Furniture, kitchen, clothing, art and antiques.",
       "lat": 33.0579749,
       "lng": -96.7454322,
       "approximate": true
@@ -1067,18 +1053,18 @@
       "contactUrl": "https://www.estatesales.net/companies/TX/Arlington/76013/20162",
       "photoCount": 198,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5120742/1-1/64603450-585e-4823-a555-0ba2cd233d8f.jpg",
+        "https://picturescdn.estatesales.net/5120742/1-1/75d2df75-e211-454e-818e-dd437f504967.jpg",
+        "https://picturescdn.estatesales.net/5120742/1-1/769d8288-dacd-4076-b5ee-e57a34eb14a1.jpg",
+        "https://picturescdn.estatesales.net/5120742/1-1/2b1f2e35-467b-49f8-b66d-76eb385786f3.jpg",
+        "https://picturescdn.estatesales.net/5120742/1-1/af781736-6b50-40ef-99ce-0bdd8e1fa946.jpg",
+        "https://picturescdn.estatesales.net/5120742/1-1/ef1efab3-5a3d-4aa4-83c7-200e7d042d96.jpg",
+        "https://picturescdn.estatesales.net/5120742/1-1/5bdd61ea-ef25-4532-b492-c6563ff72c80.jpg",
+        "https://picturescdn.estatesales.net/5120742/1-1/0e691b71-67e5-45c3-bb17-dced3a79957f.jpg",
         "https://picturescdn.estatesales.net/5120742/1-1/5fb69368-f437-4f1f-bb69-4bdf073850ef.jpg",
         "https://picturescdn.estatesales.net/5120742/1-1/46aa535b-f84a-49db-9ec3-d9a8314c3b5b.jpg",
         "https://picturescdn.estatesales.net/5120742/1-1/c44649b7-7580-4a85-9ae2-e510f3bb8407.jpg",
-        "https://picturescdn.estatesales.net/5120742/1-1/63cd6541-f3f3-4cb3-a31b-d4fe532c3792.jpg",
-        "https://picturescdn.estatesales.net/5120742/1-1/d36ea1e8-9ece-470d-a5db-357c22bebe19.jpg",
-        "https://picturescdn.estatesales.net/5120742/1-1/e7c691f2-2774-4c95-b851-8e79c116208f.jpg",
-        "https://picturescdn.estatesales.net/5120742/1-1/6ffc4a83-148a-4594-8a3b-d18cc36c896a.jpg",
-        "https://picturescdn.estatesales.net/5120742/1-1/c2ee71dd-d6f5-4175-b259-b1f467d96856.jpg",
-        "https://picturescdn.estatesales.net/5120742/1-1/c38e8e53-d07d-4689-83fc-9a367d6b5795.jpg",
-        "https://picturescdn.estatesales.net/5120742/1-1/07783e95-1c44-47e5-a3a1-dcefe1f71cd1.jpg",
-        "https://picturescdn.estatesales.net/5120742/1-1/a25c24d2-4aa5-40c0-8531-fdbd94bf8357.jpg",
-        "https://picturescdn.estatesales.net/5120742/1-1/abc2b155-af3f-4766-aebd-8de6bfc77274.jpg"
+        "https://picturescdn.estatesales.net/5120742/1-1/63cd6541-f3f3-4cb3-a31b-d4fe532c3792.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
@@ -1218,7 +1204,7 @@
     },
     {
       "id": "f356dd3ddcf8883d",
-      "title": "FABULOUS MID CENTURY TIME CAPSULE in PRESTONWOOD w/ANOTHER’S TREASURE ESTATE SALES",
+      "title": "FABULOUS in PRESTONWOOD w/ANOTHER’S TREASURE ESTATE SALES",
       "company": "Another's Treasure Estate Sales",
       "streetAddress": null,
       "city": "Plano",
@@ -1251,30 +1237,24 @@
       "categories": [],
       "contactPhone": "(214) 664-0506",
       "contactUrl": "http://www.anotherstreasure.org",
-      "photoCount": 8,
+      "photoCount": 4,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5167116/1-1/6e19e9c7-6de9-4ede-9dd3-2b0499ee5e3d.jpg",
         "https://picturescdn.estatesales.net/5167116/1-1/18a698d6-9055-4dfc-8281-caca5d0ae0f8.jpg",
-        "https://picturescdn.estatesales.net/5167116/1-1/f44cc288-8332-4b60-8bf5-a9f090f5960c.jpg",
         "https://picturescdn.estatesales.net/5167116/1-1/708138c2-4dfc-4ee7-ae83-51be88dd9bb7.jpg",
-        "https://picturescdn.estatesales.net/5167116/1-1/d943913e-8160-4046-a796-3fea7524aa22.jpg",
         "https://picturescdn.estatesales.net/5167116/1-1/658c72b4-e484-4c6a-ba26-757504c13752.jpg",
-        "https://picturescdn.estatesales.net/5167116/1-1/e8b7b45f-5191-4000-b7b6-82a5c8c96a3c.jpg",
         "https://picturescdn.estatesales.net/5167116/1-1/a8df19c9-84a1-479e-8a13-dbcae8ff6a14.jpg"
       ],
       "digRating": "Worth a Look",
       "ratingReasons": [
-        "8 photos",
         "vehicles and electronics in the listing",
         "runs 3 days"
       ],
       "photoKeywords": [
         "vehicles",
         "electronics",
-        "mid-century",
         "cameras"
       ],
-      "contentsLine": "Vehicles, electronics, mid-century and cameras.",
+      "contentsLine": "Vehicles, electronics and cameras.",
       "lat": 33.0395247,
       "lng": -96.8103301,
       "approximate": true
@@ -1856,6 +1836,56 @@
       ],
       "contentsLine": "Santa and reindeer figurines cover a dining table and sideboard, alongside glassware and a case of flatware.",
       "photoRead": true
+    },
+    {
+      "id": "15561a38d5980094",
+      "title": "Welcome Home AMAZING VINTAGE COLLECTION SALE",
+      "company": "Welcome Home",
+      "streetAddress": null,
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75228",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75228/5169933"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(325) 864-0031",
+      "contactUrl": "https://www.welcomehomeestatesales.com",
+      "photoCount": 0,
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "runs 3 days",
+        "no photos in the listing",
+        "few details in the listing"
+      ],
+      "photoKeywords": [
+        "christmas decor"
+      ],
+      "contentsLine": "Christmas decor.",
+      "lat": 32.8125108,
+      "lng": -96.6861707,
+      "approximate": true
     },
     {
       "id": "08af83067aed0314",

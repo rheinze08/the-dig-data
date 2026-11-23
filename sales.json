@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-23",
-  "collectedAt": "2026-11-23T14:53:38.266Z",
+  "collectedAt": "2026-11-23T22:20:29.543Z",
   "window": {
     "start": "2026-11-23",
     "end": "2026-12-06",
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 32/32 local candidate details.",
-      "candidates": 17,
-      "included": 14
+      "detail": "Read the public sale sitemap. Checked 31/31 local candidate details.",
+      "candidates": 15,
+      "included": 12
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 19 Houston directory cards over 1 pages. Checked 0/0 in-person local candidate details.",
+      "detail": "Read 20 Houston directory cards over 1 pages. Checked 0/0 in-person local candidate details.",
       "candidates": 0,
       "included": 0
     },
     "EstateSale.com": {
       "status": "partial",
-      "detail": "24 directory listings discovered; 4 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/911152.html — Incapsula challenge in HTTP 200 response",
+      "detail": "24 directory listings discovered; 4 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/912159.html — Incapsula challenge in HTTP 200 response",
       "candidates": 4,
       "included": 1
     },
@@ -44,9 +44,9 @@
     }
   },
   "counts": {
-    "candidates": 21,
-    "listings": 15,
-    "sales": 15,
+    "candidates": 19,
+    "listings": 13,
+    "sales": 13,
     "duplicates": 0,
     "outsideRadius": 6,
     "unlocatedListings": 0
@@ -54,156 +54,6 @@
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
-    {
-      "id": "780dc1aaf34cab51",
-      "title": "90% off Collector’s Corner on Camden by Heritage Estate Sales",
-      "company": "Heritage Estate Sales",
-      "streetAddress": "1205 Camden Rd",
-      "city": "Pasadena",
-      "state": "TX",
-      "zip": "77502",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "09:00",
-          "end": "14:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "08:00",
-          "end": "14:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "12:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-23",
-          "start": "10:00",
-          "end": "13:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Pasadena/77502/5161326"
-        }
-      ],
-      "categories": [
-        "collectibles"
-      ],
-      "contactPhone": "(281) 222-5515",
-      "contactUrl": "https://www.facebook.com/profile.php?id=100092423936366",
-      "photoCount": 601,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5161326/1-1/71b004d7-a7a9-4166-9aed-b1d4f6588e45.jpg",
-        "https://picturescdn.estatesales.net/5161326/1-1/fe7a74ac-20f8-47e8-b37f-9ecb5b1245d5.jpg",
-        "https://picturescdn.estatesales.net/5161326/1-1/39fc5879-b2d6-40fa-9ab8-c19bbb97c5eb.jpg",
-        "https://picturescdn.estatesales.net/5161326/1-1/42cbec8b-738c-4387-8097-6d56b1697feb.jpg",
-        "https://picturescdn.estatesales.net/5161326/1-1/c38a5966-3853-4a52-85d6-c419de1288f1.jpg",
-        "https://picturescdn.estatesales.net/5161326/1-1/e8fe2285-3766-4c6d-bab1-db82ec2e7108.jpg",
-        "https://picturescdn.estatesales.net/5161326/1-1/214a67d1-9999-448c-905f-81314f8e7a0a.jpg",
-        "https://picturescdn.estatesales.net/5161326/1-1/f94ab0e0-292c-4126-a7e5-a0739c704931.jpg",
-        "https://picturescdn.estatesales.net/5161326/1-1/ec41be1b-fa48-4b43-8f7a-a8c6bb37e33a.jpg",
-        "https://picturescdn.estatesales.net/5161326/1-1/fb68ce92-dcd9-43f3-a98b-9d23da04eb0d.jpg",
-        "https://picturescdn.estatesales.net/5161326/1-1/4078706f-a870-45c3-84ca-e2bacefa9f10.jpg",
-        "https://picturescdn.estatesales.net/5161326/1-1/3ed8cf63-9ba3-4ffe-b10d-7128942a0c81.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "601 photos",
-        "furniture, collectibles and kitchen in the listing",
-        "runs 4 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "collectibles",
-        "kitchen",
-        "figurines",
-        "crystal"
-      ],
-      "contentsLine": "Furniture, collectibles, kitchen, figurines and crystal.",
-      "lat": 29.6736904,
-      "lng": -95.1962186,
-      "approximate": false
-    },
-    {
-      "id": "7421d47c515af257",
-      "title": "50% OFF & DEALS The Grand Estate Extravaganza High-End Furniture & Finds from River Oaks",
-      "company": "Sharp Family Estate Sales",
-      "streetAddress": "2014 Engelmohr st",
-      "city": "Houston",
-      "state": "TX",
-      "zip": "77054",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "16:30"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "09:00",
-          "end": "16:30"
-        },
-        {
-          "date": "2026-11-23",
-          "start": "10:30",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Houston/77054/5159607"
-        }
-      ],
-      "categories": [
-        "furniture"
-      ],
-      "contactPhone": "(346) 816-8240",
-      "contactUrl": "https://www.estatesales.net/companies/TX/Houston/77021/166826",
-      "photoCount": 235,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5159607/1-1/6857f399-7f13-4a4b-abdb-51e7689f46fa.jpg",
-        "https://picturescdn.estatesales.net/5159607/1-1/3ff89423-737c-4718-94b9-84b955748125.jpg",
-        "https://picturescdn.estatesales.net/5159607/1-1/dc11497a-e4d5-4de1-8f42-720cbf60cf20.jpg",
-        "https://picturescdn.estatesales.net/5159607/1-1/b1cdf615-61bd-43d8-84fe-cb76626b902e.jpg",
-        "https://picturescdn.estatesales.net/5159607/1-1/b37c8e35-293e-48c9-b202-044d75efb188.jpg",
-        "https://picturescdn.estatesales.net/5159607/1-1/d4c2c06d-28b4-41ac-97c1-630e8565e076.jpg",
-        "https://picturescdn.estatesales.net/5159607/1-1/1ca502c9-cf9d-4048-a8f1-8855835afde7.jpg",
-        "https://picturescdn.estatesales.net/5159607/1-1/8dfb74ec-f438-43ec-9581-38e9d4f0da10.jpg",
-        "https://picturescdn.estatesales.net/5159607/1-1/9f619a8a-8bc8-4c62-b888-2f19858a5014.jpg",
-        "https://picturescdn.estatesales.net/5159607/1-1/b1a57d00-39ae-43c4-b4a3-f05d6bc1ce36.jpg",
-        "https://picturescdn.estatesales.net/5159607/1-1/8c52c2ab-8842-4763-a87e-23e9be25863e.jpg",
-        "https://picturescdn.estatesales.net/5159607/1-1/857ff606-9e12-403d-813e-b5a7aae3d6a7.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "235 photos",
-        "furniture, jewelry and collectibles in the listing",
-        "runs 4 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "clothing",
-        "christmas decor"
-      ],
-      "contentsLine": "Furniture, jewelry, collectibles, clothing and christmas decor.",
-      "lat": 29.681483,
-      "lng": -95.4012959,
-      "approximate": false
-    },
     {
       "id": "510a1b9fb19e4d83",
       "title": "Estate Sale by Family Tree Estates",
@@ -239,7 +89,7 @@
       "categories": [],
       "contactPhone": "8322676961",
       "contactUrl": "https://www.estatesales.net/companies/TX/Kemah/77565/135479",
-      "photoCount": 49,
+      "photoCount": 113,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5156790/1-1/585cc2ce-346c-4d96-88e4-63c2fdfbf87e.jpg",
         "https://picturescdn.estatesales.net/5156790/1-1/d655ac53-fa8c-40e5-9fc5-ff3ff7218eca.jpg",
@@ -256,7 +106,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "49 photos",
+        "113 photos",
         "runs 3 days"
       ],
       "photoKeywords": [],
@@ -316,7 +166,7 @@
     },
     {
       "id": "60ec3b8089dbba26",
-      "title": "THANKSGIVING PICKER ESTATE",
+      "title": "THANKSGIVING PICKER ESTATE (Prices Given as we Go)",
       "company": "Family Tree Estate Sales",
       "streetAddress": null,
       "city": "Santa Fe",
@@ -751,7 +601,7 @@
       "categories": [],
       "contactPhone": "(281) 660-6914",
       "contactUrl": "https://www.estatesales.net/companies/TX/Friendswood/77546/21818",
-      "photoCount": 83,
+      "photoCount": 82,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5155362/1-1/073c6bed-af7f-4857-8d5e-2e548e174798.jpg",
         "https://picturescdn.estatesales.net/5155362/1-1/8731e978-5077-4201-b9c8-e21665d84343.jpg",
@@ -768,7 +618,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "83 photos",
+        "82 photos",
         "furniture, collectibles and clothing in the listing",
         "runs 3 days"
       ],

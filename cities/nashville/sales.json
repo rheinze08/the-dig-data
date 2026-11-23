@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-23",
-  "collectedAt": "2026-11-23T15:01:01.463Z",
+  "collectedAt": "2026-11-23T22:27:42.922Z",
   "window": {
     "start": "2026-11-23",
     "end": "2026-12-06",
@@ -14,9 +14,9 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 27/28 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
-      "candidates": 16,
-      "included": 12
+      "detail": "Read the public sale sitemap. Checked 26/27 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
+      "candidates": 15,
+      "included": 11
     },
     "EstateSales.org": {
       "status": "reached",
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 20,
-    "listings": 16,
-    "sales": 13,
+    "candidates": 19,
+    "listings": 15,
+    "sales": 12,
     "duplicates": 3,
     "outsideRadius": 4,
     "unlocatedListings": 0
@@ -100,73 +100,6 @@
       "contentsLine": "Clothing and antiques.",
       "lat": 36.1151393,
       "lng": -86.7771901,
-      "approximate": true
-    },
-    {
-      "id": "1d434256aed6267e",
-      "title": "Clothing Sale + More",
-      "company": null,
-      "streetAddress": null,
-      "city": "Nashville",
-      "state": "TN",
-      "zip": "37211",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-29",
-          "start": "09:00",
-          "end": "16:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TN/Nashville/37211/5129349"
-        }
-      ],
-      "categories": [
-        "clothing"
-      ],
-      "photoCount": 17,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5129349/1-1/702fb6cf-f668-4112-9abb-941a99e4d0e6.jpg",
-        "https://picturescdn.estatesales.net/5129349/1-1/8ba10a58-2253-41ac-a401-7b45e4bef162.jpg",
-        "https://picturescdn.estatesales.net/5129349/1-1/66006bd2-38c6-415e-bcc2-b80a941a033f.jpg",
-        "https://picturescdn.estatesales.net/5129349/1-1/b03fabf6-06ca-49a3-a029-34bb68e61b97.jpg",
-        "https://picturescdn.estatesales.net/5129349/1-1/1b4d9edb-95b5-4a26-ba7c-2ad3202419e5.jpg",
-        "https://picturescdn.estatesales.net/5129349/1-1/729cf714-eec1-4491-9111-0cd710688c95.jpg",
-        "https://picturescdn.estatesales.net/5129349/1-1/dc85ed76-31a0-43a5-9a86-b3dcbb6a77d7.jpg",
-        "https://picturescdn.estatesales.net/5129349/1-1/99f2c5dc-e85e-4579-b416-5884ac482750.jpg",
-        "https://picturescdn.estatesales.net/5129349/1-1/2fb444c8-13a1-48bf-bf75-4be7d545a6d8.jpg",
-        "https://picturescdn.estatesales.net/5129349/1-1/b0108b1b-b9a0-4603-ac3a-419b23fa42ac.jpg",
-        "https://picturescdn.estatesales.net/5129349/1-1/039c37bc-05d0-4b35-bd6b-6b801dfaac9b.jpg",
-        "https://picturescdn.estatesales.net/5129349/1-1/37155e82-6b2a-407c-99d3-e6d9a28988dc.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "17 photos",
-        "furniture and clothing in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "clothing",
-        "mid-century",
-        "lamps"
-      ],
-      "contentsLine": "Furniture, clothing, mid-century and lamps.",
-      "lat": 36.0701997,
-      "lng": -86.7204234,
       "approximate": true
     },
     {

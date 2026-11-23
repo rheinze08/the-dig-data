@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-23",
-  "collectedAt": "2026-11-23T14:56:17.518Z",
+  "collectedAt": "2026-11-23T22:23:12.559Z",
   "window": {
     "start": "2026-11-23",
     "end": "2026-12-06",
@@ -14,13 +14,13 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 32/32 local candidate details.",
-      "candidates": 15,
-      "included": 12
+      "detail": "Read the public sale sitemap. Checked 31/31 local candidate details.",
+      "candidates": 13,
+      "included": 10
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 9 Austin directory cards over 1 pages. Checked 3/3 in-person local candidate details.",
+      "detail": "Read 8 Austin directory cards over 1 pages. Checked 3/3 in-person local candidate details.",
       "candidates": 3,
       "included": 2
     },
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 19,
-    "listings": 15,
-    "sales": 14,
+    "candidates": 17,
+    "listings": 13,
+    "sales": 12,
     "duplicates": 1,
     "outsideRadius": 4,
     "unlocatedListings": 0
@@ -48,69 +48,6 @@
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
-    {
-      "id": "22d863f7429790ed",
-      "title": "3 Home Estate Sale",
-      "company": null,
-      "streetAddress": "900 E. 53 1/2 Street",
-      "city": "Austin",
-      "state": "TX",
-      "zip": "78751",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "08:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "08:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "08:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-23",
-          "start": "08:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Austin/78751/5166792"
-        }
-      ],
-      "categories": [],
-      "photoCount": 18,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5166792/1-1/36880926-1a6d-4364-abe1-5e756d11b694.jpg",
-        "https://picturescdn.estatesales.net/5166792/1-1/291f9e73-85e6-46a7-88ad-365e9a6cfc43.jpg",
-        "https://picturescdn.estatesales.net/5166792/1-1/687d7abf-b192-42cd-8035-4a0a528093db.jpg",
-        "https://picturescdn.estatesales.net/5166792/1-1/6de7b880-6836-43a4-aef5-c3b98eeb7653.jpg",
-        "https://picturescdn.estatesales.net/5166792/1-1/4ab4326c-6bb5-410d-a699-ba8430be2c81.jpg",
-        "https://picturescdn.estatesales.net/5166792/1-1/16d030d6-d341-4090-afe6-190ce67a5f09.jpg",
-        "https://picturescdn.estatesales.net/5166792/1-1/0ad4f674-ef4a-4ed9-b32d-7aad6cdafb6a.jpg",
-        "https://picturescdn.estatesales.net/5166792/1-1/a62d49d3-1304-4b4a-bdf5-45b8c2ccfba7.jpg",
-        "https://picturescdn.estatesales.net/5166792/1-1/bb0b319e-464d-4cd0-8c04-a1d2a3b4a031.jpg",
-        "https://picturescdn.estatesales.net/5166792/1-1/f8e1d743-bd83-4297-8d50-81cd3326aaa5.jpg",
-        "https://picturescdn.estatesales.net/5166792/1-1/70e23cb1-0e95-41d8-bef6-1bb8e4acb15a.jpg",
-        "https://picturescdn.estatesales.net/5166792/1-1/044ffc77-5b4d-440b-aad7-85576feff9a7.jpg"
-      ],
-      "digRating": "Worth a Look",
-      "ratingReasons": [
-        "18 photos",
-        "runs 4 days"
-      ],
-      "photoKeywords": [],
-      "lat": 30.3138018,
-      "lng": -97.7148071,
-      "approximate": false
-    },
     {
       "id": "4494ccdf99b8539d",
       "title": "Huge Collector’s Estate Sale | Vintage Finds, Furniture & Art",
@@ -187,84 +124,6 @@
       "contentsLine": "Furniture, vinyl & records, collectibles, kitchen and art.",
       "lat": 30.4465275,
       "lng": -97.6276306,
-      "approximate": false
-    },
-    {
-      "id": "a64975670ff873de",
-      "title": "50% off most everything @ Treasures in Onion Creek (Cypress Ridge)",
-      "company": "Austin Capital Estate Sales",
-      "streetAddress": "4520 Slickrock Cove",
-      "city": "Austin",
-      "state": "TX",
-      "zip": "78747",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-23",
-          "start": "10:00",
-          "end": "12:30"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Austin/78747/5129673"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(512) 791-4652",
-      "contactUrl": "http://austincapitalestatesales.com",
-      "photoCount": 568,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5129673/1-1/8bbeea52-8a60-4579-8f7e-3ad4b3984780.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/b95501c7-4162-4971-bc63-7721d82dd3cd.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/2383c5a9-4bb5-4e94-a3e6-cc371623db72.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/61a7eee5-75fa-40c2-a1f1-80dab5d77499.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/548c4060-a711-40e9-a6aa-eaca08bbd8a5.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/8d8fe820-c7a2-4e9d-a6eb-8c9481daa4b3.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/90901fef-bca9-4233-9ae8-ffc3e4055ebc.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/d7e0f7c8-b6fb-4a14-bff0-ccff8aae5766.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/0d93b0a5-84ec-4909-87cf-c439a6d15b69.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/1ee878b2-ea03-4824-a962-6b3a95ce8dc9.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/fb3dbf6c-ed7b-4a62-a500-b587d1de6fef.jpg",
-        "https://picturescdn.estatesales.net/5129673/1-1/1be7aab4-78e5-4196-bde9-f831c8c2aff3.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "568 photos",
-        "furniture, vinyl & records and jewelry in the listing",
-        "runs 4 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "vinyl & records",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "toys & games"
-      ],
-      "contentsLine": "Furniture, vinyl & records, jewelry, collectibles and kitchen.",
-      "lat": 30.1468865,
-      "lng": -97.7796151,
       "approximate": false
     },
     {
@@ -395,7 +254,7 @@
     },
     {
       "id": "f7dbe7c3f81b1239",
-      "title": "Black Friday sale for FASHIONISTAS",
+      "title": "Black Friday Prices Without Black Friday Crowds",
       "company": "ATX & Beyond Estate Sales",
       "streetAddress": null,
       "city": "Cedar Park",
@@ -425,9 +284,7 @@
           "url": "https://www.estatesales.net/TX/Cedar-Park/78613/5165844"
         }
       ],
-      "categories": [
-        "clothing"
-      ],
+      "categories": [],
       "contactPhone": "(512) 203-4414",
       "contactUrl": "Https://www.atxbeyondestatesales.com",
       "photoCount": 53,
@@ -699,7 +556,7 @@
       "categories": [],
       "contactPhone": "(512) 843-0830",
       "contactUrl": "http://Www.nextchaptersales.com",
-      "photoCount": 15,
+      "photoCount": 58,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5162514/1-1/51057e6e-6653-4dce-b008-99291e30df6c.jpg",
         "https://picturescdn.estatesales.net/5162514/1-1/931e24c1-15a9-4907-9bca-4f6cb0dd64f5.jpg",
@@ -716,21 +573,22 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "15 photos",
-        "furniture, collectibles and vehicles in the listing"
+        "58 photos",
+        "furniture, jewelry and collectibles in the listing"
       ],
       "photoKeywords": [
         "furniture",
+        "jewelry",
         "collectibles",
         "vehicles",
         "clothing",
+        "books",
         "art",
-        "antiques",
-        "lamps",
-        "silver",
-        "christmas decor"
+        "toys & games",
+        "china",
+        "crystal"
       ],
-      "contentsLine": "Furniture, collectibles, vehicles, clothing and art.",
+      "contentsLine": "Furniture, jewelry, collectibles, vehicles and clothing.",
       "lat": 30.562779,
       "lng": -97.841673,
       "approximate": false
@@ -966,9 +824,10 @@
       ],
       "contactPhone": "(830) 734-8403",
       "contactUrl": "https://www.relicrevivalestatesales.com/",
-      "photoCount": 315,
+      "photoCount": 312,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5167587/1-1/b72731b1-0f2a-4c5d-a588-6326077d9604.jpg",
+        "https://picturescdn.estatesales.net/5167587/1-1/b9bcd46d-c37a-424e-aa9b-49e535d2c0c6.jpg",
         "https://picturescdn.estatesales.net/5167587/1-1/2be80ff4-de17-4801-aa6b-1dd243396c90.jpg",
         "https://picturescdn.estatesales.net/5167587/1-1/bc7c7484-5a3e-4781-801e-970ecfaec5bb.jpg",
         "https://picturescdn.estatesales.net/5167587/1-1/b838b580-e5ec-47fd-bc60-76c6d5e7bfca.jpg",
@@ -978,12 +837,11 @@
         "https://picturescdn.estatesales.net/5167587/1-1/00115f15-fc5f-4833-a008-6c2e45eaaa55.jpg",
         "https://picturescdn.estatesales.net/5167587/1-1/3f028fbd-7d3a-4fbb-aed8-3879bed2ddf4.jpg",
         "https://picturescdn.estatesales.net/5167587/1-1/621e67e9-062f-4d23-958e-7628eeca053d.jpg",
-        "https://picturescdn.estatesales.net/5167587/1-1/e2989086-e811-47a2-b505-dc36e3b30175.jpg",
-        "https://picturescdn.estatesales.net/5167587/1-1/37c80d67-6141-42d9-821e-c3d5b34763f0.jpg"
+        "https://picturescdn.estatesales.net/5167587/1-1/e2989086-e811-47a2-b505-dc36e3b30175.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "315 photos",
+        "312 photos",
         "tools, furniture and collectibles in the listing",
         "runs 3 days"
       ],

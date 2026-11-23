@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-23",
-  "collectedAt": "2026-11-23T14:57:08.708Z",
+  "collectedAt": "2026-11-23T22:24:00.032Z",
   "window": {
     "start": "2026-11-23",
     "end": "2026-12-06",
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 43/43 local candidate details.",
+      "detail": "Read the public sale sitemap. Checked 42/42 local candidate details.",
       "candidates": 16,
       "included": 14
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 6 San Antonio directory cards over 1 pages. Checked 2/2 in-person local candidate details.",
+      "detail": "Read 5 San Antonio directory cards over 1 pages. Checked 2/2 in-person local candidate details.",
       "candidates": 1,
       "included": 0
     },
     "Craigslist San Antonio": {
       "status": "reached",
-      "detail": "8 directory listings discovered; 0 in-window estate listings before radius filtering",
+      "detail": "9 directory listings discovered; 0 in-window estate listings before radius filtering",
       "candidates": 0,
       "included": 0
     },
@@ -49,81 +49,8 @@
   "geocodingNotes": [],
   "sales": [
     {
-      "id": "e194b21d79ac8618",
-      "title": "50% Off & $30 Basket Sales Cozy Texas Classics",
-      "company": "Satx Select Liquidators LLC",
-      "streetAddress": "2311 Copper Ash",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78232",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-21",
-          "start": "10:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "10:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-23",
-          "start": "10:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78232/5164827"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(210) 783-7900",
-      "contactUrl": "Https://satxselectliquidators.com",
-      "photoCount": 176,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5164827/1-1/e08a68e2-5413-427f-b91d-b2931992168b.jpg",
-        "https://picturescdn.estatesales.net/5164827/1-1/39632b30-631a-4d60-81f8-1329b7679554.jpg",
-        "https://picturescdn.estatesales.net/5164827/1-1/156f9dd9-935f-475d-b0c9-f3f146a9a157.jpg",
-        "https://picturescdn.estatesales.net/5164827/1-1/13c228bc-5cd8-4093-b04e-ddafc868ecce.jpg",
-        "https://picturescdn.estatesales.net/5164827/1-1/a3b5f54c-2eb3-4027-be78-a7f548cff981.jpg",
-        "https://picturescdn.estatesales.net/5164827/1-1/482cb85e-90be-4aa6-ab74-e5f8970a51a8.jpg",
-        "https://picturescdn.estatesales.net/5164827/1-1/cb88426c-b210-454c-b77a-da220d08aefd.jpg",
-        "https://picturescdn.estatesales.net/5164827/1-1/bacfcc20-1424-4634-8a3c-36a1cc9759b2.jpg",
-        "https://picturescdn.estatesales.net/5164827/1-1/2639c1aa-3ce7-4dc1-9815-b4ab56e6756e.jpg",
-        "https://picturescdn.estatesales.net/5164827/1-1/ac158517-61fc-4e83-82a1-c2e99f354864.jpg",
-        "https://picturescdn.estatesales.net/5164827/1-1/22e9fc3f-a59f-4a9b-a3e0-7bcd4d9fdf1b.jpg",
-        "https://picturescdn.estatesales.net/5164827/1-1/0044b20e-8b6a-4cea-88e2-ed33f621bbf5.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "176 photos",
-        "tools, furniture and jewelry in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "art",
-        "electronics",
-        "toys & games"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles.",
-      "lat": 29.6012297,
-      "lng": -98.4559461,
-      "approximate": false
-    },
-    {
       "id": "02ab56acec837dcf",
-      "title": "50% off and $35 Basket Sales-Grainfather Brewing System, Western Cowboy Art, Tools & Furniture",
+      "title": "75% off and $35 Basket Sales-Grainfather Brewing System, Western Cowboy Art, Tools & Furniture",
       "company": "San Antonio Estate Sales LLC",
       "streetAddress": "13714 Wondering Oak",
       "city": "San Antonio",
@@ -206,11 +133,6 @@
       "addressHidden": false,
       "sessions": [
         {
-          "date": "2026-11-23",
-          "start": "10:30",
-          "end": "16:00"
-        },
-        {
           "date": "2026-11-24",
           "start": "10:30",
           "end": "16:00"
@@ -245,10 +167,9 @@
         "https://picturescdn.estatesales.net/5158845/1-1/5dc34b3d-b1dc-448c-b21c-2dae86c1b899.jpg",
         "https://picturescdn.estatesales.net/5158845/1-1/21902c75-090a-41ad-a79c-9c57e875828c.jpg"
       ],
-      "digRating": "Deep Dig",
+      "digRating": "Worth a Look",
       "ratingReasons": [
-        "64 photos",
-        "runs 3 days"
+        "64 photos"
       ],
       "photoKeywords": [],
       "lat": 29.443835,
@@ -441,6 +362,71 @@
       "contentsLine": "Furniture, jewelry, kitchen, clothing and books.",
       "lat": 29.461887,
       "lng": -98.4941623,
+      "approximate": true
+    },
+    {
+      "id": "c90837e76026ca3b",
+      "title": "Wonderful Windcrest Vintage Estate Sale in a Gracious Garden Home w/ Furnishings",
+      "company": "Professional Estate Sales LLC",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78239",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78239/5170260"
+        }
+      ],
+      "categories": [
+        "furniture"
+      ],
+      "contactPhone": "(210) 826-7653",
+      "contactUrl": "http://www.professionalestatesales.com",
+      "photoCount": 278,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170260/1-1/d22423f5-942b-4f4e-8c6b-cd69cce5329a.jpg",
+        "https://picturescdn.estatesales.net/5170260/1-1/1a1e620d-af4d-48f5-8191-ee56153ab5d8.jpg",
+        "https://picturescdn.estatesales.net/5170260/1-1/d2d47e75-4121-4d4e-91bd-6538c37394f6.jpg",
+        "https://picturescdn.estatesales.net/5170260/1-1/b69e3151-556c-4f97-b23d-b964a07527b4.jpg",
+        "https://picturescdn.estatesales.net/5170260/1-1/6eb82f2e-7d06-493e-b2a1-6f16f9388c63.jpg",
+        "https://picturescdn.estatesales.net/5170260/1-1/090e3105-38ff-43a7-a958-9639d98f7347.jpg",
+        "https://picturescdn.estatesales.net/5170260/1-1/7781ea28-de09-45a8-80b5-fe7e97ce3af5.jpg",
+        "https://picturescdn.estatesales.net/5170260/1-1/7b9322e2-a517-4279-b5b8-6384175cae25.jpg",
+        "https://picturescdn.estatesales.net/5170260/1-1/85c55d81-208a-4867-9b32-a35e3f658a2b.jpg",
+        "https://picturescdn.estatesales.net/5170260/1-1/9d15e44b-8670-464b-9aac-6fa745f5739a.jpg",
+        "https://picturescdn.estatesales.net/5170260/1-1/d3f2c570-90fd-4342-b886-47b928f2baab.jpg",
+        "https://picturescdn.estatesales.net/5170260/1-1/913948c4-2b76-491b-bcb4-0f07bff58301.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "278 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture"
+      ],
+      "contentsLine": "Furniture.",
+      "lat": 29.5177775,
+      "lng": -98.3748987,
       "approximate": true
     },
     {

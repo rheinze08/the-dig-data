@@ -56,6 +56,9 @@
   "nominatim:street:1301 custer rd unit 706 directly behind the tee time bar:75075": {
     "retryAfter": 1795888482234
   },
+  "nominatim:street:1301 custer unit 706 directly behind the tee time bar:75075": {
+    "retryAfter": 1796077354119
+  },
   "nominatim:street:1505 starshadow dr richardson 75081 near blake:richardson": {
     "retryAfter": 1795828604945
   },
@@ -654,6 +657,11 @@
     "lng": -96.6727286,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:75075": {
+    "lat": 33.0162157,
+    "lng": -96.7363333,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:75080": {
     "lat": 32.9731163,
     "lng": -96.7407763,
@@ -707,6 +715,11 @@
   "zip:75207": {
     "lat": 32.7891032,
     "lng": -96.8216938,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75228": {
+    "lat": 32.8125108,
+    "lng": -96.6861707,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:75229": {

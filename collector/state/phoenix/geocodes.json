@@ -69,6 +69,11 @@
     "lng": -111.744466,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:19859 n 86th ave:85382": {
+    "lat": 33.665981,
+    "lng": -112.2439366,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:2320 e delgado st:85022": {
     "lat": 33.5992066,
     "lng": -112.0321047,
@@ -144,6 +149,11 @@
     "lng": -112.0095004,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:85029": {
+    "lat": 33.5978768,
+    "lng": -112.1222953,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:85035": {
     "lat": 33.4725018,
     "lng": -112.1895263,
@@ -152,6 +162,11 @@
   "zip:85087": {
     "lat": 33.881527,
     "lng": -112.1511317,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:85142": {
+    "lat": 33.22805,
+    "lng": -111.6247745,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:85205": {
@@ -167,6 +182,11 @@
   "zip:85212": {
     "lat": 33.3349433,
     "lng": -111.6199787,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:85249": {
+    "lat": 33.2232339,
+    "lng": -111.7981001,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:85254": {

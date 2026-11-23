@@ -37,6 +37,9 @@
   "nominatim:street:2124 shamrock dr:30032": {
     "retryAfter": 1795963110364
   },
+  "nominatim:street:2347 briarcrest trail ne:30345": {
+    "retryAfter": 1796077605845
+  },
   "nominatim:street:2664 ridgemore rd:30318": {
     "retryAfter": 1795963106965
   },
@@ -109,6 +112,9 @@
   "nominatim:street:5540 atlanta hwy unit e:30542": {
     "retryAfter": 1796050774851
   },
+  "nominatim:street:57 rivergate ct:30068": {
+    "retryAfter": 1796077606979
+  },
   "nominatim:street:600 middlebrooke dr:30115": {
     "retryAfter": 1795963125722
   },
@@ -169,6 +175,11 @@
   "street:2124 shamrock dr:30032": {
     "lat": 33.727592,
     "lng": -84.257433,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:2347 briarcrest trail ne:30345": {
+    "lat": 33.85387,
+    "lng": -84.26846,
     "basis": "Public listing map: EstateSales.net"
   },
   "street:2664 ridgemore rd:30318": {
@@ -386,6 +397,11 @@
     "lng": -84.607778,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:30066": {
+    "lat": 34.0352864,
+    "lng": -84.505063,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:30067": {
     "lat": 33.9283727,
     "lng": -84.4701928,
@@ -429,6 +445,11 @@
   "zip:30120": {
     "lat": 34.1615635,
     "lng": -84.831509,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30122": {
+    "lat": 33.7742855,
+    "lng": -84.6458249,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:30144": {
