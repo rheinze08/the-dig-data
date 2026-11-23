@@ -11,9 +11,9 @@
       "status": "live",
       "enabled": true,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/houston/sales.json",
-      "sales": 22,
-      "collectedAt": "2026-11-22T18:10:32.781Z",
-      "cleanRuns": 3,
+      "sales": 15,
+      "collectedAt": "2026-11-23T14:53:38.266Z",
+      "cleanRuns": 4,
       "center": {
         "lat": 29.529,
         "lng": -95.135,
@@ -29,9 +29,9 @@
       "status": "live",
       "enabled": true,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/dallas-fort-worth/sales.json",
-      "sales": 71,
-      "collectedAt": "2026-11-22T18:13:11.392Z",
-      "cleanRuns": 3,
+      "sales": 35,
+      "collectedAt": "2026-11-23T14:55:38.931Z",
+      "cleanRuns": 4,
       "center": {
         "lat": 32.9,
         "lng": -97.04,
@@ -47,9 +47,9 @@
       "status": "live",
       "enabled": true,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/austin/sales.json",
-      "sales": 28,
-      "collectedAt": "2026-11-22T18:14:12.780Z",
-      "cleanRuns": 3,
+      "sales": 14,
+      "collectedAt": "2026-11-23T14:56:17.518Z",
+      "cleanRuns": 4,
       "center": {
         "lat": 30.267,
         "lng": -97.743,
@@ -65,9 +65,9 @@
       "status": "live",
       "enabled": true,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/san-antonio/sales.json",
-      "sales": 29,
-      "collectedAt": "2026-11-22T18:15:21.380Z",
-      "cleanRuns": 3,
+      "sales": 14,
+      "collectedAt": "2026-11-23T14:57:08.708Z",
+      "cleanRuns": 4,
       "center": {
         "lat": 29.424,
         "lng": -98.494,
@@ -83,9 +83,9 @@
       "status": "proving",
       "enabled": false,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/phoenix/sales.json",
-      "sales": 38,
-      "collectedAt": "2026-11-22T18:16:46.864Z",
-      "cleanRuns": 1,
+      "sales": 22,
+      "collectedAt": "2026-11-23T14:58:24.897Z",
+      "cleanRuns": 2,
       "center": {
         "lat": 33.448,
         "lng": -112.074,
@@ -101,13 +101,49 @@
       "status": "proving",
       "enabled": false,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/atlanta/sales.json",
-      "sales": 57,
-      "collectedAt": "2026-11-22T18:18:35.063Z",
-      "cleanRuns": 1,
+      "sales": 31,
+      "collectedAt": "2026-11-23T14:59:40.338Z",
+      "cleanRuns": 2,
       "center": {
         "lat": 33.749,
         "lng": -84.388,
         "label": "downtown Atlanta"
+      },
+      "radiusMiles": 25
+    },
+    {
+      "slug": "denver",
+      "name": "Denver",
+      "state": "CO",
+      "timeZone": "America/Denver",
+      "status": "proving",
+      "enabled": false,
+      "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/denver/sales.json",
+      "sales": 9,
+      "collectedAt": "2026-11-23T15:00:14.061Z",
+      "cleanRuns": 1,
+      "center": {
+        "lat": 39.739,
+        "lng": -104.99,
+        "label": "downtown Denver"
+      },
+      "radiusMiles": 25
+    },
+    {
+      "slug": "nashville",
+      "name": "Nashville",
+      "state": "TN",
+      "timeZone": "America/Chicago",
+      "status": "proving",
+      "enabled": false,
+      "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/nashville/sales.json",
+      "sales": 13,
+      "collectedAt": "2026-11-23T15:01:01.463Z",
+      "cleanRuns": 1,
+      "center": {
+        "lat": 36.163,
+        "lng": -86.781,
+        "label": "downtown Nashville"
       },
       "radiusMiles": 25
     }

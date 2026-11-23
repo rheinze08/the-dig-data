@@ -12,6 +12,11 @@
     "lng": -97.3152701,
     "basis": "OpenStreetMap Nominatim"
   },
+  "city:manor": {
+    "lat": 30.3420882,
+    "lng": -97.555905,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "nominatim:street:102 duck lake dr:78734": {
     "retryAfter": 1795828722021
   },
@@ -29,6 +34,9 @@
   },
   "nominatim:street:13402 montview dr:78732": {
     "retryAfter": 1795828717411
+  },
+  "nominatim:street:13813 field spar dr:manor": {
+    "retryAfter": 1796050577036
   },
   "nominatim:street:14310 echo bluff:78737": {
     "retryAfter": 1795828720736

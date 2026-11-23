@@ -106,6 +106,9 @@
   "nominatim:street:5395 vinings lake view sw:30126": {
     "retryAfter": 1795963116007
   },
+  "nominatim:street:5540 atlanta hwy unit e:30542": {
+    "retryAfter": 1796050774851
+  },
   "nominatim:street:600 middlebrooke dr:30115": {
     "retryAfter": 1795963125722
   },
@@ -126,6 +129,11 @@
   "street:1086 rosedale rd ne:30306": {
     "lat": 33.784305,
     "lng": -84.348243,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1150 metropolitan pkwy sw:30310": {
+    "lat": 33.7236291,
+    "lng": -84.4075891,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:1200 to lani farm rd:30083": {
@@ -293,6 +301,11 @@
     "lng": -84.0201002,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:6810 sunny brook ln ne:30328": {
+    "lat": 33.940778,
+    "lng": -84.3796195,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:690 etowah dr ne:30060": {
     "lat": 33.9683579,
     "lng": -84.5458203,
@@ -418,6 +431,11 @@
     "lng": -84.831509,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:30144": {
+    "lat": 34.0351787,
+    "lng": -84.5944915,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:30152": {
     "lat": 34.0013766,
     "lng": -84.6463064,
@@ -436,6 +454,11 @@
   "zip:30265": {
     "lat": 33.4035264,
     "lng": -84.7117624,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30277": {
+    "lat": 33.3971279,
+    "lng": -84.6692701,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:30324": {
@@ -461,6 +484,11 @@
   "zip:30519": {
     "lat": 34.0793437,
     "lng": -83.9533857,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30542": {
+    "lat": 34.1731749,
+    "lng": -83.9008301,
     "basis": "OpenStreetMap Nominatim"
   }
 }

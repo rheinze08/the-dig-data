@@ -1,0 +1,50 @@
+{
+  "city:denver": {
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "city:thornton": {
+    "lat": 39.8695516,
+    "lng": -104.985181,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "nominatim:street:8040 e dartmouth:80231": {
+    "retryAfter": 1796050805530
+  },
+  "street:1565 wadsworth blvd:lakewood": {
+    "lat": 39.7417411,
+    "lng": -105.0814424,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:8040 e dartmouth:80231": {
+    "lat": 39.660001,
+    "lng": -104.896073,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "zip:80016": {
+    "lat": 39.5904609,
+    "lng": -104.721906,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:80109": {
+    "lat": 39.3953228,
+    "lng": -104.8990983,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:80214": {
+    "lat": 39.7460319,
+    "lng": -105.0636428,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:80236": {
+    "lat": 39.6579999,
+    "lng": -105.0413717,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:80601": {
+    "lat": 39.9700959,
+    "lng": -104.8019397,
+    "basis": "OpenStreetMap Nominatim"
+  }
+}

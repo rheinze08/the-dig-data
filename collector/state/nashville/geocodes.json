@@ -1,0 +1,72 @@
+{
+  "zip:37027": {
+    "lat": 35.997952,
+    "lng": -86.7739498,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37064": {
+    "lat": 35.9062737,
+    "lng": -86.8682941,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37069": {
+    "lat": 35.9796806,
+    "lng": -86.8992191,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37087": {
+    "lat": 36.2541122,
+    "lng": -86.2849557,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37129": {
+    "lat": 35.8940298,
+    "lng": -86.4192961,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37138": {
+    "lat": 36.2275854,
+    "lng": -86.6201971,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37172": {
+    "lat": 36.50694,
+    "lng": -86.8742713,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37204": {
+    "lat": 36.1151393,
+    "lng": -86.7771901,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37205": {
+    "lat": 36.1166075,
+    "lng": -86.8559033,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37210": {
+    "lat": 36.1442382,
+    "lng": -86.7491622,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37211": {
+    "lat": 36.0701997,
+    "lng": -86.7204234,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37214": {
+    "lat": 36.130938,
+    "lng": -86.6754191,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37221": {
+    "lat": 36.0663164,
+    "lng": -86.9456557,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:38401": {
+    "lat": 35.6163117,
+    "lng": -87.0354914,
+    "basis": "OpenStreetMap Nominatim"
+  }
+}

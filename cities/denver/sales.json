@@ -1,0 +1,627 @@
+{
+  "asOf": "2026-11-23",
+  "collectedAt": "2026-11-23T15:00:14.061Z",
+  "window": {
+    "start": "2026-11-23",
+    "end": "2026-12-06",
+    "timeZone": "America/Denver"
+  },
+  "area": {
+    "lat": 39.739,
+    "lng": -104.99,
+    "radiusMiles": 25
+  },
+  "coverage": {
+    "EstateSales.net": {
+      "status": "reached",
+      "detail": "Read the public sale sitemap. Checked 19/19 local candidate details.",
+      "candidates": 6,
+      "included": 6
+    },
+    "EstateSales.org": {
+      "status": "reached",
+      "detail": "Read 5 Denver directory cards over 1 pages. Checked 2/2 in-person local candidate details.",
+      "candidates": 2,
+      "included": 2
+    },
+    "Craigslist Denver": {
+      "status": "reached",
+      "detail": "9 directory listings discovered; 3 in-window estate listings before radius filtering",
+      "candidates": 3,
+      "included": 3
+    },
+    "GSALR.com": {
+      "status": "blocked",
+      "detail": "https://gsalr.com/garage-sales-denver-co.html — HTTP 403 Forbidden",
+      "candidates": 0,
+      "included": 0
+    }
+  },
+  "counts": {
+    "candidates": 11,
+    "listings": 11,
+    "sales": 9,
+    "duplicates": 2,
+    "outsideRadius": 0,
+    "unlocatedListings": 0
+  },
+  "unlocated": [],
+  "geocodingNotes": [],
+  "sales": [
+    {
+      "id": "cf8478c568effedd",
+      "title": "$1 day anything big or small",
+      "company": "The Nest Marketplace LLC",
+      "streetAddress": "8040 E. Dartmouth",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80231",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-23",
+          "start": "12:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Denver/80231/5169738"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(720) 630-4203",
+      "contactUrl": "https://mybluebirdestate.com/",
+      "photoCount": 18,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5169738/1-1/9388211a-91f7-46cc-9d2d-27bdbe07eccb.jpg",
+        "https://picturescdn.estatesales.net/5169738/1-1/f4a3ac7f-50d6-4944-92d4-a3b862ba45d8.jpg",
+        "https://picturescdn.estatesales.net/5169738/1-1/05ffd522-a824-4b10-9942-8f480424a58a.jpg",
+        "https://picturescdn.estatesales.net/5169738/1-1/47de559a-8f8d-4686-ad4a-c9bbe3cc5e8c.jpg",
+        "https://picturescdn.estatesales.net/5169738/1-1/ceb250a3-c266-4b85-ab01-541a96cef29d.jpg",
+        "https://picturescdn.estatesales.net/5169738/1-1/c360641b-9e65-4d93-8454-f58200fda2b6.jpg",
+        "https://picturescdn.estatesales.net/5169738/1-1/7a65f7b8-495a-4815-9bb6-dbfbccadcf11.jpg",
+        "https://picturescdn.estatesales.net/5169738/1-1/6147a5b6-ea6d-46dc-b5ce-ab50fe5f52e5.jpg",
+        "https://picturescdn.estatesales.net/5169738/1-1/55dd4536-2c57-41e1-b828-e2fc6a55faa5.jpg",
+        "https://picturescdn.estatesales.net/5169738/1-1/c4b01826-48a0-493d-9f71-ba1c8832353f.jpg",
+        "https://picturescdn.estatesales.net/5169738/1-1/a31e4e69-294d-4b1e-b27c-e60959a58376.jpg",
+        "https://picturescdn.estatesales.net/5169738/1-1/d00a9232-2e67-4b1e-a03c-59b8ff051ce3.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "18 photos",
+        "furniture, kitchen and books in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "kitchen",
+        "books",
+        "mid-century",
+        "mirrors"
+      ],
+      "contentsLine": "Furniture, kitchen, books, mid-century and mirrors.",
+      "lat": 39.660001,
+      "lng": -104.896073,
+      "approximate": false
+    },
+    {
+      "id": "c9b73de405aafe46",
+      "title": "Estate Sale In Thornton",
+      "company": null,
+      "streetAddress": null,
+      "city": "Thornton",
+      "state": "CO",
+      "zip": null,
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Denver",
+          "url": "https://www.craigslist.org/view/d/denver-estate-sale-in-thornton/mRDfVw5acRumtXaZfgZxdY"
+        }
+      ],
+      "categories": [],
+      "photoCount": 24,
+      "photoUrls": [
+        "https://images.craigslist.org/00H0H_4k0LTkMSgjo_0x20oM_600x450.jpg",
+        "https://images.craigslist.org/00505_gA3GaP4dIMf_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00z0z_5S7Xmk4qW92_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00L0L_ky1WzwDmI3W_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00f0f_j7fnuZZkiNL_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/01313_afiLNCYiAoS_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00j0j_bkHfWXtL04_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00C0C_7tobL3bIRmQ_0x20oM_600x450.jpg",
+        "https://images.craigslist.org/00r0r_dZXiIPBJzHG_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00S0S_jsktlfkB3_0x20oM_600x450.jpg",
+        "https://images.craigslist.org/00707_aTGGkl5cQq1_0x20oM_600x450.jpg",
+        "https://images.craigslist.org/00606_52hu1KRhLEs_0lM0t2_600x450.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "24 photos",
+        "tools, furniture and collectibles in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "clothing"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, vehicles and kitchen.",
+      "lat": 39.8695516,
+      "lng": -104.985181,
+      "approximate": true
+    },
+    {
+      "id": "97c9696a9704a971",
+      "title": "Garage / Estate sale. Lots to see",
+      "company": null,
+      "streetAddress": null,
+      "city": "Denver",
+      "state": "CO",
+      "zip": null,
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Denver",
+          "url": "https://www.craigslist.org/view/d/denver-garage-estate-sale-lots-to-see/a21sxMkQ23fwVhD2VpcQrR"
+        }
+      ],
+      "categories": [],
+      "photoCount": 18,
+      "photoUrls": [
+        "https://images.craigslist.org/01010_jufooeihgEM_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00G0G_7EGTMphTTYV_0oM0x2_600x450.jpg",
+        "https://images.craigslist.org/00O0O_geyvmyKdhQq_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00505_4UvSyWImGlY_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/01515_1BLKpTG6SyY_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00q0q_axu9gNVfWHu_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00v0v_2ocEu843R32_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00f0f_74WDnY5mydE_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00B0B_5irI5KO2kI5_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00Z0Z_Rz8TsPcenP_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00V0V_lpPbL1EOK8G_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00q0q_2kKtYc9V8e0_0t20CI_600x450.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "18 photos",
+        "furniture, collectibles and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "toys & games",
+        "dolls"
+      ],
+      "contentsLine": "Furniture, collectibles, kitchen, toys & games and dolls.",
+      "lat": 39.7392364,
+      "lng": -104.984862,
+      "approximate": true
+    },
+    {
+      "id": "76a26105c471b593",
+      "title": "Workbench to Wardrobe Estate Sale",
+      "company": "Front Porch Estate Sales",
+      "streetAddress": null,
+      "city": "Brighton",
+      "state": "CO",
+      "zip": "80601",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Brighton/80601/5163693"
+        }
+      ],
+      "categories": [
+        "tools"
+      ],
+      "contactPhone": "(720) 440-3571",
+      "contactUrl": "http://Www.Frontporchestatesales.com",
+      "photoCount": 167,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5163693/1-1/448cc2a1-d3c5-4ba2-9d1e-62731f8d9980.jpg",
+        "https://picturescdn.estatesales.net/5163693/1-1/f2bd5553-0ae6-491b-aec6-d1fb0e235995.jpg",
+        "https://picturescdn.estatesales.net/5163693/1-1/06b00137-fd9d-406e-8278-a6c2cb859b4f.jpg",
+        "https://picturescdn.estatesales.net/5163693/1-1/ceb4850f-1808-4d4e-b64c-840d805979c1.jpg",
+        "https://picturescdn.estatesales.net/5163693/1-1/4e99d2d8-18f2-4599-af7a-12baa92f3e86.jpg",
+        "https://picturescdn.estatesales.net/5163693/1-1/e6020c52-d967-476c-8af8-5ae3b51f4018.jpg",
+        "https://picturescdn.estatesales.net/5163693/1-1/f15ab1a5-1ac6-4905-849d-9ba5ed3e7b32.jpg",
+        "https://picturescdn.estatesales.net/5163693/1-1/dd2fd0ba-7fa1-45e6-ad6f-0fea0b9f4fb1.jpg",
+        "https://picturescdn.estatesales.net/5163693/1-1/4fca6f8f-f4ff-4886-86dc-82ca63eb17ff.jpg",
+        "https://picturescdn.estatesales.net/5163693/1-1/0586b7de-4f5f-4c13-a3c8-387b8e9c4b78.jpg",
+        "https://picturescdn.estatesales.net/5163693/1-1/39681870-3b1a-476f-b6ac-f688834d294c.jpg",
+        "https://picturescdn.estatesales.net/5163693/1-1/e55dd0e6-7834-4789-b9fc-9e6e4cb7a474.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "167 photos",
+        "tools, furniture and jewelry in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "figurines",
+        "mid-century"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
+      "lat": 39.9700959,
+      "lng": -104.8019397,
+      "approximate": true
+    },
+    {
+      "id": "78dc9eaabd02d56a",
+      "title": "ESTATE SALE Nov 27-29 – Antiques, Art Glass, Jewelry & More – Lakewood",
+      "company": null,
+      "streetAddress": "1565 Wadsworth Blvd",
+      "city": "Lakewood",
+      "state": "CO",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Denver",
+          "url": "https://www.craigslist.org/view/d/denver-estate-sale-nov-antiques-art/nAqmzFsBHuTRhqmPyjHcAE"
+        }
+      ],
+      "categories": [
+        "jewelry"
+      ],
+      "photoCount": 4,
+      "photoUrls": [
+        "https://images.craigslist.org/00101_jmd8SIbumds_0fF0fF_600x450.jpg",
+        "https://images.craigslist.org/00D0D_9uUeQlssryH_0iq0iq_600x450.jpg",
+        "https://images.craigslist.org/00D0D_7fdzG9nFORq_0if0oD_600x450.jpg",
+        "https://images.craigslist.org/00000_693fOb0XIdw_0lQ0dK_600x450.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "furniture, jewelry and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "art",
+        "figurines",
+        "antiques",
+        "rugs"
+      ],
+      "contentsLine": "Furniture, jewelry, collectibles, art and figurines.",
+      "lat": 39.7417411,
+      "lng": -105.0814424,
+      "approximate": false
+    },
+    {
+      "id": "099a155d6f87dd45",
+      "title": "Grasons: HUGE Castle Rock Estate Sale! Native American, Fine Art, John Deere, Knives, Antiques, More",
+      "company": "Grasons Of Southeast Aurora, CO",
+      "streetAddress": null,
+      "city": "Castle Rock",
+      "state": "CO",
+      "zip": "80109",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/co/castle-rock/80109/grasons-estate-sales-huge-castle-2474591"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Castle-Rock/80109/5166468"
+        }
+      ],
+      "categories": [
+        "art"
+      ],
+      "contactPhone": "(720) 779-0279",
+      "contactUrl": "https://www.grasons.com/southeast-aurora/",
+      "photoCount": 291,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5166468/1-1/57495a8c-97d2-41cb-8ca8-5bb1f5c490d0.jpg",
+        "https://picturescdn.estatesales.net/5166468/1-1/296e5cdd-8cb1-48b0-a0d4-27377a69479a.jpg",
+        "https://picturescdn.estatesales.net/5166468/1-1/2d7790e0-6b0d-4abc-8ff7-d5edc0883672.jpg",
+        "https://picturescdn.estatesales.net/5166468/1-1/a21bfeac-c9be-40b6-ae06-6aefd3557a60.jpg",
+        "https://picturescdn.estatesales.net/5166468/1-1/7f8f32bc-4490-4ed1-a99c-f4cb3bb6ba22.jpg",
+        "https://picturescdn.estatesales.net/5166468/1-1/b9bd8260-0439-40d6-a95f-8eb52cd4391f.jpg",
+        "https://picturescdn.estatesales.net/5166468/1-1/71a702bc-a9c3-41e7-b712-96495d906998.jpg",
+        "https://picturescdn.estatesales.net/5166468/1-1/49948506-bf97-4232-a580-8130bba33de8.jpg",
+        "https://picturescdn.estatesales.net/5166468/1-1/f16f8ac3-1ba0-4a0d-bb99-37d2fddad45c.jpg",
+        "https://picturescdn.estatesales.net/5166468/1-1/817966fb-64bb-4aa9-8335-94979751ff17.jpg",
+        "https://picturescdn.estatesales.net/5166468/1-1/a2451ca0-af10-4f67-8f4d-bfe35ff68e1f.jpg",
+        "https://picturescdn.estatesales.net/5166468/1-1/36003b82-19ba-45e6-bcf2-378c77114942.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "291 photos",
+        "tools, furniture and jewelry in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "toys & games"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
+      "lat": 39.3953228,
+      "lng": -104.8990983,
+      "approximate": true
+    },
+    {
+      "id": "31a639e11a262688",
+      "title": "KISMET ESTATE SALES! Comics, Star Wars, Sports Jerseys, Instruments, Music T-Shirts & More!",
+      "company": "Kismet Estate Sales",
+      "streetAddress": null,
+      "city": "Centennial",
+      "state": "CO",
+      "zip": "80016",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Aurora/80016/5168427"
+        }
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "contactPhone": "(983) 955-9549",
+      "contactUrl": "https://www.kismetestatesales.com",
+      "photoCount": 104,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5168427/1-1/4ea7a77c-b9e8-46cf-94bd-df9fc4e5175a.jpg",
+        "https://picturescdn.estatesales.net/5168427/1-1/db4e5798-cb7e-4834-888b-582ea8b67a43.jpg",
+        "https://picturescdn.estatesales.net/5168427/1-1/4ee9e317-8c87-4280-92c2-77560c24aec9.jpg",
+        "https://picturescdn.estatesales.net/5168427/1-1/0268dfb4-f08f-441a-b2ac-d8a7cbb9b133.jpg",
+        "https://picturescdn.estatesales.net/5168427/1-1/a3ec2599-169c-4e4a-9c76-bfb0333a77ef.jpg",
+        "https://picturescdn.estatesales.net/5168427/1-1/d25bec43-a5aa-4922-aa79-f68188fe2552.jpg",
+        "https://picturescdn.estatesales.net/5168427/1-1/f8bac5e4-66db-4282-9016-b5a92a7b546b.jpg",
+        "https://picturescdn.estatesales.net/5168427/1-1/4408b6a5-6731-4986-8890-1f9dd6c5e258.jpg",
+        "https://picturescdn.estatesales.net/5168427/1-1/0c7b1814-2a03-4a61-bea9-dd10565cc4e1.jpg",
+        "https://picturescdn.estatesales.net/5168427/1-1/9342ab84-b8a8-4ac1-b494-a7e30c528756.jpg",
+        "https://picturescdn.estatesales.net/5168427/1-1/a2a5dfdc-7d19-4b82-95e1-01daace0da3d.jpg",
+        "https://picturescdn.estatesales.net/5168427/1-1/196d98e5-66e7-474e-bfb4-861d6c40b991.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "104 photos",
+        "tools, furniture and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "electronics",
+        "toys & games",
+        "guitars",
+        "comics"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, kitchen and clothing.",
+      "lat": 39.5904609,
+      "lng": -104.721906,
+      "approximate": true
+    },
+    {
+      "id": "bc2f7d8294bb8ad2",
+      "title": "Fishing Rods, Reels, Fly Tying and more in Lakewood!",
+      "company": "Ck & Done",
+      "streetAddress": null,
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80214",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/co/lakewood/80214/fishing-rods-reels-fly-tying-2475097"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Denver/80214/5169882"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(303) 898-5119",
+      "contactUrl": "https://www.ckdone.com/",
+      "photoCount": 61,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5169882/1-1/02bf02bf-70d2-4f54-bc46-0cb26ee536b0.jpg",
+        "https://picturescdn.estatesales.net/5169882/1-1/55fde602-eb10-4877-90fb-e4d17a0e8c3f.jpg",
+        "https://picturescdn.estatesales.net/5169882/1-1/8f283a98-72cf-453f-9900-efc4c6dc77ed.jpg",
+        "https://picturescdn.estatesales.net/5169882/1-1/e727c729-faed-4a0f-88fe-dfc2da84577f.jpg",
+        "https://picturescdn.estatesales.net/5169882/1-1/835fc795-b41f-47dd-a321-7138e153701a.jpg",
+        "https://picturescdn.estatesales.net/5169882/1-1/f7dc957b-22a7-46cd-8edf-e7933e8c7825.jpg",
+        "https://picturescdn.estatesales.net/5169882/1-1/cc154b1b-4144-4a6e-a3d1-80797111659f.jpg",
+        "https://picturescdn.estatesales.net/5169882/1-1/bdb226f8-ce51-4236-aa07-e987c2b4815f.jpg",
+        "https://picturescdn.estatesales.net/5169882/1-1/7675e2c9-e637-4fa7-befb-82536c98bbfc.jpg",
+        "https://picturescdn.estatesales.net/5169882/1-1/3b6d2e71-8ca7-48be-abdd-a523d112cf4a.jpg",
+        "https://picturescdn.estatesales.net/5169882/1-1/1ed29343-2818-4aa6-8237-ae83658e74fd.jpg",
+        "https://picturescdn.estatesales.net/5169882/1-1/7ae99393-d7db-442b-86ff-5f0c77e0a31f.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "61 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [],
+      "lat": 39.7460319,
+      "lng": -105.0636428,
+      "approximate": true
+    },
+    {
+      "id": "e6cc14516545a007",
+      "title": "Sweet on Stanford",
+      "company": "Silversun Estate Sales",
+      "streetAddress": null,
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80236",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Denver/80236/5166141"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(303) 910-9095",
+      "contactUrl": "http://www.silversunsales.com",
+      "photoCount": 52,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5166141/1-1/f6e2041a-77a8-4f02-a887-ab89c545bfb1.jpg",
+        "https://picturescdn.estatesales.net/5166141/1-1/72d52611-2075-4265-8172-63f37198b4f3.jpg",
+        "https://picturescdn.estatesales.net/5166141/1-1/69ba5b1d-fe28-43ff-b38b-8dc6ae7e9700.jpg",
+        "https://picturescdn.estatesales.net/5166141/1-1/0cff4964-57da-4553-bb99-d2a4921a835d.jpg",
+        "https://picturescdn.estatesales.net/5166141/1-1/a5844ae2-26ca-4e93-8d38-3cc63a091c4c.jpg",
+        "https://picturescdn.estatesales.net/5166141/1-1/d558bd45-8668-4da2-a5b7-2f783b429306.jpg",
+        "https://picturescdn.estatesales.net/5166141/1-1/1513a4fd-6e08-4767-852c-46add984406e.jpg",
+        "https://picturescdn.estatesales.net/5166141/1-1/0d46352a-fc5e-4ae6-9773-f8bc49007f61.jpg",
+        "https://picturescdn.estatesales.net/5166141/1-1/f026bf7d-8b7c-479a-9d93-80b04839af35.jpg",
+        "https://picturescdn.estatesales.net/5166141/1-1/743e771e-df56-4d11-a0fd-03da05ae257b.jpg",
+        "https://picturescdn.estatesales.net/5166141/1-1/c465b372-a1d7-47ee-9ba5-070e11c3edfa.jpg",
+        "https://picturescdn.estatesales.net/5166141/1-1/4d1f8dfa-9d6a-4579-a9b8-89b413221ae6.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "52 photos"
+      ],
+      "photoKeywords": [],
+      "lat": 39.6579999,
+      "lng": -105.0413717,
+      "approximate": true
+    }
+  ]
+}

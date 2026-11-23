@@ -6,42 +6,54 @@
   },
   "cities": {
     "houston": {
-      "cleanRuns": 3,
-      "lastCleanDate": "2026-11-22",
-      "lastRunDate": "2026-11-22",
+      "cleanRuns": 4,
+      "lastCleanDate": "2026-11-23",
+      "lastRunDate": "2026-11-23",
       "lastResult": "clean"
     },
     "dallas-fort-worth": {
-      "cleanRuns": 3,
-      "lastCleanDate": "2026-11-22",
-      "lastRunDate": "2026-11-22",
+      "cleanRuns": 4,
+      "lastCleanDate": "2026-11-23",
+      "lastRunDate": "2026-11-23",
       "lastResult": "clean",
       "promotedOn": "2026-11-22"
     },
     "austin": {
-      "cleanRuns": 3,
-      "lastCleanDate": "2026-11-22",
-      "lastRunDate": "2026-11-22",
+      "cleanRuns": 4,
+      "lastCleanDate": "2026-11-23",
+      "lastRunDate": "2026-11-23",
       "lastResult": "clean",
       "promotedOn": "2026-11-22"
     },
     "san-antonio": {
-      "cleanRuns": 3,
-      "lastCleanDate": "2026-11-22",
-      "lastRunDate": "2026-11-22",
+      "cleanRuns": 4,
+      "lastCleanDate": "2026-11-23",
+      "lastRunDate": "2026-11-23",
       "lastResult": "clean",
       "promotedOn": "2026-11-22"
     },
     "phoenix": {
-      "cleanRuns": 1,
-      "lastCleanDate": "2026-11-22",
-      "lastRunDate": "2026-11-22",
+      "cleanRuns": 2,
+      "lastCleanDate": "2026-11-23",
+      "lastRunDate": "2026-11-23",
       "lastResult": "clean"
     },
     "atlanta": {
+      "cleanRuns": 2,
+      "lastCleanDate": "2026-11-23",
+      "lastRunDate": "2026-11-23",
+      "lastResult": "clean"
+    },
+    "denver": {
       "cleanRuns": 1,
-      "lastCleanDate": "2026-11-22",
-      "lastRunDate": "2026-11-22",
+      "lastCleanDate": "2026-11-23",
+      "lastRunDate": "2026-11-23",
+      "lastResult": "clean"
+    },
+    "nashville": {
+      "cleanRuns": 1,
+      "lastCleanDate": "2026-11-23",
+      "lastRunDate": "2026-11-23",
       "lastResult": "clean"
     }
   }

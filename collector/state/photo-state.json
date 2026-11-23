@@ -1,72 +1,66 @@
 {
-  "00565c19db6fe5f6": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "00fd8d2f4ff2888b": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "0125f0ba8c77affd": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "01c05ce21ccaac37": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "024609b28b867c3b": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "02ab56acec837dcf": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "02be5275563b4405": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "dallas-fort-worth": {
+        "photoKeywords": [
+          "tools",
+          "furniture",
+          "jewelry",
+          "collectibles",
+          "kitchen",
+          "clothing",
+          "art",
+          "electronics",
+          "china",
+          "crystal"
+        ],
+        "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen."
+      }
+    }
   },
   "0382b9e09b8a6751": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "03d3345da4dc5205": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "059bc691bb95ed2d": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "08af83067aed0314": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
+  "0915935d6d21b0b0": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
+  },
+  "099a155d6f87dd45": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
+  },
   "09eaa9f45509e3de": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "0b29fdedccaaff05": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "0ab317b4913bd29c": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
-  "0db863ee4941281e": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "0eb294fb7e3fcaba": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "0ff5987ff24d5b5e": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "10d00aff10fd27d1": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "10df4aed4197009f": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "0b5aaa0aea070799": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "112e1359aaffa0b8": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "113c7c880bfe1f4e": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "131cf95e8fb2e961": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "13748b519ddd05f7": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "13808d707c448b3f": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "dallas-fort-worth": {
+        "photoKeywords": [
+          "furniture",
+          "kitchen",
+          "clothing"
+        ],
+        "contentsLine": "Furniture, kitchen and clothing."
+      }
+    }
   },
   "138d9a3c1b57b79e": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -77,38 +71,51 @@
   "1529965de9ec588a": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "1552ae954159c57f": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "1574bd1bfd26aeef": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "15f3d21f1192af98": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "166eab839f40ea32": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "atlanta": {
+        "photoKeywords": [
+          "tools",
+          "furniture",
+          "collectibles",
+          "clothing",
+          "art",
+          "figurines",
+          "antiques",
+          "christmas decor"
+        ],
+        "contentsLine": "Tools, furniture, collectibles, clothing and art."
+      }
+    }
   },
   "16ae5de0e2e832e9": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "phoenix": {
+        "photoKeywords": [
+          "furniture",
+          "jewelry",
+          "art",
+          "electronics",
+          "toys & games",
+          "antiques",
+          "mid-century",
+          "rugs",
+          "pianos"
+        ],
+        "contentsLine": "Furniture, jewelry, art, electronics and toys & games."
+      }
+    }
   },
-  "17480cfe8b6b136b": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "198d005543dd367e": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "1a66b073473a3d9a": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "182d42bd2a5071b8": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "1a7a36c0aec58429": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "1caac9641240a4aa": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "1d0d069b3adfebe9": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "1d434256aed6267e": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "1e5aadf599713086": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -116,32 +123,34 @@
   "1f94b1d8d59d26b3": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "1fd129ce69eaa99f": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "203ea7ec9a0f35f9": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "2081835b521a3efd": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "2105c54c8bfa22a2": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "211e4e751c6b9c2d": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "21b5c4c5b25c6daf": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "phoenix": {
+        "photoKeywords": []
+      }
+    }
   },
   "22d863f7429790ed": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "2383175fe77ff0a5": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "2566d30f92f50a5b": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "263279bc3d71f404": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "atlanta": {
+        "photoKeywords": [
+          "mirrors",
+          "christmas decor"
+        ],
+        "contentsLine": "Mirrors and christmas decor."
+      }
+    }
   },
   "274ec09330214d26": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -150,10 +159,43 @@
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "2930857d63a044b2": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "austin": {
+        "photoKeywords": [
+          "tools",
+          "furniture",
+          "collectibles",
+          "vehicles",
+          "kitchen",
+          "clothing",
+          "art",
+          "electronics",
+          "figurines",
+          "crystal"
+        ],
+        "contentsLine": "Tools, furniture, collectibles, vehicles and kitchen."
+      }
+    }
   },
   "294679e620014b91": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "austin": {
+        "photoKeywords": [
+          "furniture",
+          "collectibles",
+          "kitchen",
+          "clothing",
+          "books",
+          "art",
+          "toys & games",
+          "antiques",
+          "christmas decor"
+        ],
+        "contentsLine": "Furniture, collectibles, kitchen, clothing and books."
+      }
+    }
   },
   "29e01d40b2f08f8b": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -162,78 +204,116 @@
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "2ad3313b7ddb690b": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "atlanta": {
+        "photoKeywords": []
+      }
+    }
   },
   "2c0914ce4fcdc73f": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "2d56b81a9e1923d5": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "san-antonio": {
+        "photoKeywords": [
+          "tools",
+          "furniture",
+          "jewelry",
+          "kitchen",
+          "clothing",
+          "books",
+          "art",
+          "electronics",
+          "toys & games",
+          "crystal"
+        ],
+        "contentsLine": "Tools, furniture, jewelry, kitchen and clothing."
+      }
+    }
   },
   "2dbe04150546c650": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "2dc9d38168c25dcf": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "2e1186e2b2407f84": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "2e950512cf2a3d72": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "houston": {
+        "photoKeywords": []
+      }
+    }
   },
   "304f9dc77d01baf9": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "30cc25a7256fba6b": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "31d85b438ed4161d": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "31a639e11a262688": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "32367a54e4d3fcc5": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "334d1454eaf0086b": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "san-antonio": {
+        "photoKeywords": [
+          "tools",
+          "furniture",
+          "kitchen",
+          "clothing",
+          "toys & games",
+          "patio furniture"
+        ],
+        "contentsLine": "Tools, furniture, kitchen, clothing and toys & games."
+      }
+    }
   },
   "33762de9e90b6ea9": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "349cef1eeb47df8e": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "35e1c8a5a69629ad": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
-  "34b5227346b96a7f": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "3b66de8337cd9798": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "3bfa7e6776de0515": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "36bbe86e8f21a892": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "3d5ae09f535a544c": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "3e502141f7d1ead5": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "phoenix": {
+        "photoKeywords": [
+          "furniture",
+          "vinyl & records",
+          "jewelry",
+          "kitchen",
+          "clothing",
+          "books",
+          "art",
+          "electronics",
+          "antiques",
+          "rugs"
+        ],
+        "contentsLine": "Furniture, vinyl & records, jewelry, kitchen and clothing."
+      }
+    }
   },
   "3eb230ca3fd1ae60": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "atlanta": {
+        "photoKeywords": [
+          "tools",
+          "furniture",
+          "toys & games",
+          "mid-century"
+        ],
+        "contentsLine": "Tools, furniture, toys & games and mid-century."
+      }
+    }
   },
   "3f7e9b024c22aa67": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "3fa45716d940ce60": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "3fc9275fddf5efd7": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "410242c97c81bcd8": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "438808997173b381": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "443d7f2c4a509dff": {
@@ -245,35 +325,33 @@
   "4494ccdf99b8539d": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "45d842b789edadf9": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "47b0c73100bbe19e": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "46fe67df2ea66b0a": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "4a8b36b6b63c940c": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "4ba8164a02b31a1d": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "4bc5fc63cacb8916": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "4cc54d87430288b6": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "4f10146de68cad43": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "4f5ba1a5822454a4": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "4f70e14fe1d55ff1": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "503fd9be68becdc9": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "atlanta": {
+        "photoKeywords": [
+          "furniture",
+          "kitchen",
+          "clothing",
+          "books",
+          "art",
+          "china",
+          "lamps",
+          "mirrors",
+          "christmas decor"
+        ],
+        "contentsLine": "Furniture, kitchen, clothing, books and art."
+      }
+    }
   },
   "50b912945174ae6e": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -281,44 +359,62 @@
   "510a1b9fb19e4d83": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "510f9b0d3bbff46d": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "51772471cdbf34a0": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "52a474b536c45f6a": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "54e01ba5487c44c7": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "556fec54a5ff6918": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "56d183aea4aa6cec": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "577bf02519f1ab28": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "578d8e20cd7360fb": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "59bf93d65b76bc7e": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "59e88589a519be1a": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "5a90cf43949ca89a": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "houston": {
+        "photoKeywords": [
+          "tools",
+          "furniture",
+          "jewelry",
+          "collectibles",
+          "kitchen",
+          "clothing",
+          "books",
+          "art",
+          "electronics",
+          "toys & games"
+        ],
+        "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen."
+      }
+    }
   },
   "5ac8cc8baacaf4ef": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "dallas-fort-worth": {
+        "photoKeywords": [
+          "tools",
+          "furniture",
+          "collectibles",
+          "kitchen",
+          "clothing",
+          "books",
+          "electronics",
+          "toys & games",
+          "china",
+          "antiques"
+        ],
+        "contentsLine": "Tools, furniture, collectibles, kitchen and clothing."
+      }
+    }
   },
   "5b0c1431d7b705bf": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "phoenix": {
+        "photoKeywords": [
+          "vehicles"
+        ],
+        "contentsLine": "Vehicles."
+      }
+    }
   },
   "5d8a059bd75e7055": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -326,28 +422,31 @@
   "5e31c4db22734637": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "5f203c81e7272911": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "5fc0cb3ec6d13d4c": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "atlanta": {
+        "photoKeywords": [
+          "tools",
+          "furniture",
+          "jewelry",
+          "collectibles",
+          "kitchen",
+          "clothing",
+          "books",
+          "christmas decor"
+        ],
+        "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen."
+      }
+    }
   },
   "60ec3b8089dbba26": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "630c7bf070699bfa": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "66c769df10b69e83": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "6741133fee31dea5": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "6af62420d28ef234": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "6b432fc68bc5f353": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "6bb7d2547f3d5e5b": {
@@ -359,14 +458,8 @@
   "6d9f93f9a26f90db": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "6fcc291c701d6d7b": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "72549b8680cc2dbb": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "7260c12af7ae5845": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "6ef7ed8800bbd90b": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "726778cc721f0735": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -383,14 +476,14 @@
   "7421d47c515af257": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "742906a1b83fcde9": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "74ac7dd82bdd8e2b": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "77f896d020937ccc": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "75ff60faba785a04": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
+  },
+  "76a26105c471b593": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "780dc1aaf34cab51": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -398,8 +491,8 @@
   "78b9cce9a04e3b60": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "78d688a543759918": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "78dc9eaabd02d56a": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "7b90411317ffbd45": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -410,86 +503,83 @@
   "7bf3e8244968b025": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "7d63dc7792667483": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "7ec8d4e99c3d72cf": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "7fabe57f964da73e": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "80bad8b31b559ee1": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "816d80a75c3c1a3a": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "8255a9d65c5043b1": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "82c515db01a37476": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "8142ed7cca66908e": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "85bd91046a8b8c76": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "88d9511fd8f151ff": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "8a2bec391b93540d": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "8bd880d82eda54d5": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "8cfe20b069385d64": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "8d6371d408160485": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "8db86517e76e44c0": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "8e56a00856f4e1b4": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "8ed576ea1c0b4cb7": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "8ed96edece4bebd1": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "9081b1e6adb2b110": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "912abaaf5a933572": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "95131865685a3f22": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "9588f8e0bb5fa8d6": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
+  "958ad8deb99f9819": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
+  },
   "959f00f7e370f8b8": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "973e0e5b1df0d2b5": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "972ba1eb9bfd77a9": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
-  "983c6d3c00e40f1f": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "9a728d505ba40345": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "97c9696a9704a971": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "9edf020a15019786": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "9f0e95a3bb447234": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "dallas-fort-worth": {
+        "photoKeywords": [
+          "furniture",
+          "jewelry",
+          "collectibles",
+          "kitchen",
+          "art",
+          "toys & games",
+          "crystal",
+          "antiques",
+          "lamps",
+          "silver"
+        ],
+        "contentsLine": "Furniture, jewelry, collectibles, kitchen and art."
+      }
+    }
   },
   "a0cf9e9504b3a5ee": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "a1aecd517a8dcd97": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "atlanta": {
+        "photoKeywords": [
+          "vinyl & records",
+          "jewelry",
+          "kitchen",
+          "clothing",
+          "books",
+          "toys & games",
+          "lamps",
+          "silver",
+          "christmas decor"
+        ],
+        "contentsLine": "Vinyl & records, jewelry, kitchen, clothing and books."
+      }
+    }
   },
   "a22e2d41fc584895": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -500,11 +590,8 @@
   "a3e380a9b0a15a3d": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "a485eb7331baa7ad": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "a512647e9563019a": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "a5d5551f99c9aa7e": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "a64975670ff873de": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -512,44 +599,48 @@
   "a79f908b58fbfa02": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "a9e67e831f781fda": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "a7d01dd1619d258a": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "abe1efb96c3f898e": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "ac3fe73ab9312bde": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "atlanta": {
+        "photoKeywords": [
+          "furniture"
+        ],
+        "contentsLine": "Furniture."
+      }
+    }
   },
   "aeecb0444133422b": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "b0d4b0bea60fe663": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "b1b05208182ed34e": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
-  "b14d2b101b268fda": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "b26fbcc42db32da0": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "b34f57e115fdbcae": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "b380971dee9e0e20": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "b53e8b03f6e061f2": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "b5853144915c4768": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "b5c48691b6fb568f": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "b769bcb8baef84dd": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "b999bacc9c00828a": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "dallas-fort-worth": {
+        "photoKeywords": [
+          "tools",
+          "furniture",
+          "vinyl & records",
+          "jewelry",
+          "collectibles",
+          "vehicles",
+          "kitchen",
+          "clothing",
+          "art",
+          "electronics"
+        ],
+        "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles."
+      }
+    }
   },
   "b99d78f12d5f1c32": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -558,7 +649,21 @@
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "bb3486a7096df173": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "houston": {
+        "photoKeywords": [
+          "furniture",
+          "collectibles",
+          "clothing",
+          "art",
+          "china",
+          "antiques",
+          "patio furniture"
+        ],
+        "contentsLine": "Furniture, collectibles, clothing, art and china."
+      }
+    }
   },
   "bb3bde53aa119fa6": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -566,13 +671,10 @@
   "bb9090b41a98fa85": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "be693ae91512e1e7": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "bc2f7d8294bb8ad2": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "bf66c12a4e95c9a3": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "c01d4e71cabe23ba": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "c0420bbe0c6f9d01": {
@@ -581,41 +683,23 @@
   "c143ada0435fe7b6": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "c2c80c3df0e4101f": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "c413e5c1a71b0b80": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "c4e6bad9cfe373f0": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "c6f85bdc0cf18d10": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "c90a49519e934627": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "ca31b81372c89b9c": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "cac6c44b629d8beb": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "cacc5f0f6e535998": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "c9b73de405aafe46": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "cb01b6f3c33ce976": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "cd806ff94bb5497c": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "ce881c72715069d8": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "cf6d2212ceb133b3": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "cf771fca93be4e7c": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
+  },
+  "cf8478c568effedd": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "d0c6bdf31800b6d7": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -632,106 +716,139 @@
   "d6d7ae910922b1dd": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "d7af71176a5577a0": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "d829136ac1ac8e12": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "d8ea2ce61baf37bc": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "d91df3b7d7230d0e": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "houston": {
+        "photoKeywords": [
+          "furniture",
+          "collectibles",
+          "kitchen",
+          "books",
+          "toys & games",
+          "china"
+        ],
+        "contentsLine": "Furniture, collectibles, kitchen, books and toys & games."
+      }
+    }
+  },
+  "dfe6652fc33661c1": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "e0317008a4a1da91": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "e158f2f7d84f0c50": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "e1946804b0f8f3fd": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "e0be762fad514e1f": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "e194b21d79ac8618": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "e1c210a2bb54080b": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+  "e275ab209f26a3c1": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "e38fcaaf6994ecf3": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "e3e538763c4513ab": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "e4fa7a6c64dd10fa": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "e6ac053eb6beb2e7": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
+  "e6cc14516545a007": {
+    "firstSeen": "2026-11-23T15:01:01.473Z"
+  },
   "e7d26568e2b5c40e": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "e86447d98a1f3c3d": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "e939117f9e6f2aef": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "ecae07eb664f1bd1": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "ed7d49c4e84ecee9": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "edd22b3d2dc3e000": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "ee3eaedc0d2cbf88": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "f0815319c3a3d2f6": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "f18298913a934062": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "f1e9f8ce02749c90": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "houston": {
+        "photoKeywords": [
+          "tools",
+          "furniture",
+          "collectibles",
+          "vehicles",
+          "kitchen",
+          "art",
+          "antiques",
+          "lamps"
+        ],
+        "contentsLine": "Tools, furniture, collectibles, vehicles and kitchen."
+      }
+    }
   },
   "f356dd3ddcf8883d": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "f635c6a629c9f398": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "dallas-fort-worth": {
+        "photoKeywords": [
+          "collectibles"
+        ],
+        "contentsLine": "Collectibles."
+      }
+    }
   },
   "f673574549115166": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "atlanta": {
+        "photoKeywords": [
+          "tools",
+          "furniture",
+          "collectibles",
+          "kitchen",
+          "clothing",
+          "books",
+          "china",
+          "mid-century",
+          "lamps",
+          "silver"
+        ],
+        "contentsLine": "Tools, furniture, collectibles, kitchen and clothing."
+      }
+    }
   },
   "f7dbe7c3f81b1239": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "f89197650a401c51": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "f8e3d9b53528e5c1": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "f903d523e89bc65b": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
-  "f918630f2202974f": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "fadb3e47297ffecf": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
   "fc0c19769513aa74": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "phoenix": {
+        "photoKeywords": [
+          "tools",
+          "furniture",
+          "vinyl & records",
+          "collectibles",
+          "vehicles",
+          "kitchen",
+          "clothing",
+          "books",
+          "art",
+          "antiques"
+        ],
+        "contentsLine": "Tools, furniture, vinyl & records, collectibles and vehicles."
+      }
+    }
   },
   "fedb3cf013d8645d": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
+    "firstSeen": "2026-11-22T18:18:35.063Z",
+    "originals": {
+      "dallas-fort-worth": {
+        "photoKeywords": []
+      }
+    }
   }
 }
