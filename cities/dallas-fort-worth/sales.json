@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-24",
-  "collectedAt": "2026-11-24T14:22:14.918Z",
+  "collectedAt": "2026-11-24T20:59:39.650Z",
   "window": {
     "start": "2026-11-24",
     "end": "2026-12-07",
@@ -14,13 +14,13 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 108/109 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
-      "candidates": 52,
-      "included": 37
+      "detail": "Read the public sale sitemap. Checked 115/116 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
+      "candidates": 53,
+      "included": 38
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 25 Dallas–Fort Worth directory cards over 2 pages. Checked 12/12 in-person local candidate details.",
+      "detail": "Read 28 Dallas–Fort Worth directory cards over 2 pages. Checked 12/12 in-person local candidate details.",
       "candidates": 9,
       "included": 8
     },
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 62,
-    "listings": 46,
-    "sales": 41,
+    "candidates": 63,
+    "listings": 47,
+    "sales": 42,
     "duplicates": 5,
     "outsideRadius": 16,
     "unlocatedListings": 0
@@ -50,7 +50,7 @@
   "sales": [
     {
       "id": "211e4e751c6b9c2d",
-      "title": "West Plano Estate Sale brought to Warehouse Now 80% off",
+      "title": "West Plano Estate Sale brought to Warehouse Now 70% off",
       "company": "Crush Estate Sales",
       "streetAddress": "1301 Custer Road #706 (Directly behind the Tee Time Bar)",
       "city": "Plano",
@@ -183,7 +183,7 @@
     },
     {
       "id": "89a05893a83558b3",
-      "title": "Plano French Provincial & Hollywood Regency Estate Sale 80% off",
+      "title": "Plano French Provincial & Hollywood Regency Estate Sale",
       "company": "Consignment Crush Estate Sales",
       "streetAddress": "1301 Custer #706 (Directly behind the Tee Time Bar",
       "city": "Plano",
@@ -204,7 +204,7 @@
         {
           "date": "2026-11-25",
           "start": "09:00",
-          "end": "17:00"
+          "end": "15:00"
         }
       ],
       "sources": [
@@ -275,7 +275,7 @@
       ],
       "contactPhone": "(972) 972-0007",
       "contactUrl": "http://www.TiffanyNicolesEstateSales.com",
-      "photoCount": 23,
+      "photoCount": 351,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5168301/1-1/acfc20d2-05d0-4918-a9e2-00831fb7533e.jpg",
         "https://picturescdn.estatesales.net/5168301/1-1/44dfa59e-29d9-476b-bf11-6be512b5f641.jpg",
@@ -290,9 +290,9 @@
         "https://picturescdn.estatesales.net/5168301/1-1/d2c4115a-de12-418d-8b89-01cf70d25118.jpg",
         "https://picturescdn.estatesales.net/5168301/1-1/28897474-d689-4397-b1d4-e3d42bbc945c.jpg"
       ],
-      "digRating": "Worth a Look",
+      "digRating": "Deep Dig",
       "ratingReasons": [
-        "23 photos",
+        "351 photos",
         "runs 3 days"
       ],
       "photoKeywords": [
@@ -670,7 +670,7 @@
       "categories": [],
       "contactPhone": "9413307165",
       "contactUrl": "http://www.lorisestatesales.com",
-      "photoCount": 668,
+      "photoCount": 673,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5142741/2-1/7cb06798-4fef-4f50-950d-42ea1bfbb78a.jpg",
         "https://picturescdn.estatesales.net/5142741/1-1/0dec7d7d-2513-421e-bf24-294952c046a6.jpg",
@@ -687,7 +687,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "668 photos",
+        "673 photos",
         "tools, furniture and jewelry in the listing",
         "runs 4 days"
       ],
@@ -1375,6 +1375,79 @@
       "approximate": true
     },
     {
+      "id": "a628edad8e6c4386",
+      "title": "Black Friday Estate Sale in Fairmount Historic District - Ft Worth",
+      "company": "Millchell Inc.",
+      "streetAddress": null,
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76110",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76110/5171352"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(817) 994-2727",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Fort-Worth/76110/174632",
+      "photoCount": 42,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5171352/1-1/604ecd3a-d783-4894-8741-f986355df85a.jpg",
+        "https://picturescdn.estatesales.net/5171352/1-1/9cddb879-d023-49ab-b893-e9b4e61f0522.jpg",
+        "https://picturescdn.estatesales.net/5171352/1-1/8a6033b1-617c-42e4-a890-607f9c781f5d.jpg",
+        "https://picturescdn.estatesales.net/5171352/1-1/6b034cf6-4096-4776-aad7-6e77059a9be2.jpg",
+        "https://picturescdn.estatesales.net/5171352/1-1/e61e4822-6666-465e-8ae8-9e97055266af.jpg",
+        "https://picturescdn.estatesales.net/5171352/1-1/fe320f71-565f-49cf-8150-75416710128a.jpg",
+        "https://picturescdn.estatesales.net/5171352/1-1/e4ed66c7-755e-48ef-aabf-cfa326ee07d6.jpg",
+        "https://picturescdn.estatesales.net/5171352/1-1/86b6b05e-20c2-4e22-b8f0-84e57de18bca.jpg",
+        "https://picturescdn.estatesales.net/5171352/1-1/aa8a2d32-ee5b-4960-b319-40a1ca431cf9.jpg",
+        "https://picturescdn.estatesales.net/5171352/1-1/f5c14daa-810b-4d82-9c10-48518f8f331c.jpg",
+        "https://picturescdn.estatesales.net/5171352/1-1/2c48e74c-b9ee-41d2-9c34-61596f0efe07.jpg",
+        "https://picturescdn.estatesales.net/5171352/1-1/45173a6b-a419-4e0c-8b6d-1b43cefaa7f0.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "42 photos",
+        "furniture, collectibles and vehicles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "china",
+        "crystal"
+      ],
+      "contentsLine": "Furniture, collectibles, vehicles, kitchen and clothing.",
+      "lat": 32.710013,
+      "lng": -97.3385542,
+      "approximate": true
+    },
+    {
       "id": "e7d26568e2b5c40e",
       "title": "Black Friday Warehouse Sale : by Treme",
       "company": "Treme Realty LLC",
@@ -1737,7 +1810,7 @@
       "categories": [],
       "contactPhone": "(469) 471-4187",
       "contactUrl": "https://www.retrobettiesestatesales.com",
-      "photoCount": 180,
+      "photoCount": 337,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5168928/1-1/f691aad2-cd47-4f83-a627-975d3fa02db7.jpg",
         "https://picturescdn.estatesales.net/5168928/1-1/ae23cad9-b8ee-4a7e-a651-de687f9ff162.jpg",
@@ -1754,7 +1827,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "180 photos",
+        "337 photos",
         "tools, furniture and collectibles in the listing",
         "runs 3 days"
       ],

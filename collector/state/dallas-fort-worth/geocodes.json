@@ -830,6 +830,11 @@
     "lng": -97.3809922,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:76110": {
+    "lat": 32.710013,
+    "lng": -97.3385542,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:76112": {
     "lat": 32.7583875,
     "lng": -97.2270583,

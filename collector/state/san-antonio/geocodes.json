@@ -113,6 +113,11 @@
     "lng": -98.512931,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:2063 chinaberry ln:78130": {
+    "lat": 29.6806381,
+    "lng": -98.0931839,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:21527 tenore:78259": {
     "lat": 29.6407094,
     "lng": -98.4264045,
@@ -261,6 +266,11 @@
   "zip:78114": {
     "lat": 29.1516408,
     "lng": -98.1730171,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78130": {
+    "lat": 29.6960657,
+    "lng": -98.1111893,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:78163": {

@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-24",
-  "collectedAt": "2026-11-24T14:26:34.758Z",
+  "collectedAt": "2026-11-24T21:04:14.559Z",
   "window": {
     "start": "2026-11-24",
     "end": "2026-12-07",
@@ -14,15 +14,15 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 77/77 local candidate details.",
-      "candidates": 44,
-      "included": 31
+      "detail": "Read the public sale sitemap. Checked 81/81 local candidate details.",
+      "candidates": 46,
+      "included": 33
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 21 Atlanta directory cards over 2 pages. Checked 10/10 in-person local candidate details.",
-      "candidates": 6,
-      "included": 5
+      "detail": "Read 22 Atlanta directory cards over 2 pages. Checked 11/11 in-person local candidate details.",
+      "candidates": 7,
+      "included": 6
     },
     "Craigslist Atlanta": {
       "status": "reached",
@@ -38,74 +38,16 @@
     }
   },
   "counts": {
-    "candidates": 50,
-    "listings": 36,
-    "sales": 35,
-    "duplicates": 1,
+    "candidates": 53,
+    "listings": 39,
+    "sales": 37,
+    "duplicates": 2,
     "outsideRadius": 14,
     "unlocatedListings": 0
   },
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
-    {
-      "id": "a7d01dd1619d258a",
-      "title": "Midcentury and more Blow out sale. 75% off.",
-      "company": "J&K Fleas An'Tiques",
-      "streetAddress": "2347 Briarcrest Trail NE",
-      "city": "Atlanta",
-      "state": "GA",
-      "zip": "30345",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-24",
-          "start": "11:00",
-          "end": "14:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Atlanta/30345/5169378"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "7067170155",
-      "contactUrl": "http://j-and-k-enterprises.com/",
-      "photoCount": 104,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5169378/1-1/f45c3940-08dc-4a9a-b993-ce71f0fa6d87.jpg",
-        "https://picturescdn.estatesales.net/5169378/1-1/8f8a2230-1dad-4bf6-a566-05e989f9b715.jpg",
-        "https://picturescdn.estatesales.net/5169378/1-1/39714892-3f16-411e-b742-47621976904d.jpg",
-        "https://picturescdn.estatesales.net/5169378/1-1/c3b80d19-99a4-43ee-891a-558d994a1b97.jpg",
-        "https://picturescdn.estatesales.net/5169378/1-1/23231271-58e3-48c8-a786-9ec9956152d8.jpg",
-        "https://picturescdn.estatesales.net/5169378/1-1/e37404ed-cefe-4389-bd46-0acc111ee985.jpg",
-        "https://picturescdn.estatesales.net/5169378/1-1/ae81ae45-88e4-4b1d-8a1f-3df5f0c384b8.jpg",
-        "https://picturescdn.estatesales.net/5169378/1-1/0731e116-7311-486a-adb1-b55172fd38cd.jpg",
-        "https://picturescdn.estatesales.net/5169378/1-1/758a85c9-b058-4a8f-bc15-5cde95a74fa3.jpg",
-        "https://picturescdn.estatesales.net/5169378/1-1/80b777f7-396d-4955-a682-1c92661295be.jpg",
-        "https://picturescdn.estatesales.net/5169378/1-1/5d230543-1341-4d21-9269-d9e73257a46c.jpg",
-        "https://picturescdn.estatesales.net/5169378/1-1/73362d44-4596-4af3-9744-3145f6af418b.jpg"
-      ],
-      "digRating": "Worth a Look",
-      "ratingReasons": [
-        "104 photos"
-      ],
-      "lat": 33.85387,
-      "lng": -84.26846,
-      "approximate": false,
-      "photoKeywords": [
-        "Lane storage chest",
-        "cushioned armchairs",
-        "loveseat",
-        "dresser",
-        "wall mirror",
-        "floral serving platter"
-      ],
-      "contentsLine": "A Lane chest stands open with its tray raised. Two cushioned armchairs and a loveseat have rounded frames.",
-      "photoRead": true
-    },
     {
       "id": "0382b9e09b8a6751",
       "title": "Bob Timberlake Bedroom Sets, Leather Couch, French Pieces and More in Sandy Springs",
@@ -145,7 +87,6 @@
       "contactUrl": "Https://www.dunwoodyestatetreasures.com ",
       "photoCount": 64,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5136282/2-1/9f5115dc-ac20-46cb-a53f-1be52e410f74.jpg",
         "https://picturescdn.estatesales.net/5136282/1-1/c92be611-2802-4cc5-9016-2303d2a65771.jpg",
         "https://picturescdn.estatesales.net/5136282/1-1/50e18e82-390e-466c-bf06-b21aef3530c5.jpg",
         "https://picturescdn.estatesales.net/5136282/1-1/f5b36b92-181f-424a-99a7-d3cdfa1f785c.jpg",
@@ -156,7 +97,8 @@
         "https://picturescdn.estatesales.net/5136282/1-1/a8fe1a95-8b11-459a-bba1-5fdeae927f9d.jpg",
         "https://picturescdn.estatesales.net/5136282/1-1/da0df414-46cb-4f3f-8093-9790db31c7d3.jpg",
         "https://picturescdn.estatesales.net/5136282/1-1/eb8e1384-3515-4695-864f-fe5029439e06.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/6e68fcde-4c05-4cc7-9f3d-2c06ea3411f9.jpg"
+        "https://picturescdn.estatesales.net/5136282/1-1/6e68fcde-4c05-4cc7-9f3d-2c06ea3411f9.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/6f4a7ff4-5ef8-46f8-abdf-d8a17dbeb76f.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
@@ -226,6 +168,78 @@
       "lat": 33.479085,
       "lng": -84.572934,
       "approximate": false
+    },
+    {
+      "id": "1ee0339953df788d",
+      "title": "Antiques, Chimineas, Waterford Must See",
+      "company": "Dunwoody Estate Treasures",
+      "streetAddress": null,
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30338",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-25",
+          "start": "10:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-27",
+          "start": "11:15",
+          "end": "17:45"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:30",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Atlanta/30338/5170545"
+        }
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "contactPhone": "7706095146",
+      "contactUrl": "Https://www.dunwoodyestatetreasures.com ",
+      "photoCount": 39,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170545/1-1/f7710f06-4798-4c37-ab0f-3f406ee6b346.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/b87e8e75-aad0-4e08-9b57-553c28010901.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/d906ad44-76ee-45ee-98d3-7dfdc70f1f36.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/91f8f6f4-f3ba-415c-a602-51b0965dfd29.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/f28877db-e77f-4139-9b51-c69447dd38f7.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/02029e1d-e1e5-4881-af03-cc31ba8faffd.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/93d1de6a-337d-4b9a-9681-d1a5072d894e.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/844e9d35-aa9c-492d-ab7d-3562f1540782.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/3d7e4b2d-4e2e-48b9-a913-5be0f6dae9f7.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/c22fdb61-a8f3-4526-a439-f846eccd22f5.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/873376f1-956b-4319-bca9-49adce3d43df.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/1a04d48c-583d-4483-8ee1-43de11d3fe7d.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "39 photos",
+        "furniture, collectibles and kitchen in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "antiques",
+        "mirrors",
+        "pianos",
+        "patio furniture"
+      ],
+      "contentsLine": "Furniture, collectibles, kitchen, antiques and mirrors.",
+      "lat": 33.9441071,
+      "lng": -84.321633,
+      "approximate": true
     },
     {
       "id": "3f7e9b024c22aa67",
@@ -357,7 +371,7 @@
     },
     {
       "id": "54e01ba5487c44c7",
-      "title": "Donna DavisLLC- Rare Antique perfume filled and empty bottles ,costume jewelry",
+      "title": "Donna DavisLLC- Rare Lifetime Perfume Bottle Collection beginning 1913, Costume Jewelry",
       "company": "Donna Davis Estate Sales LLC, Downsizing and Estate Appraisal Services",
       "streetAddress": "1790 Cheshire Bridge Road",
       "city": "Atlanta",
@@ -397,24 +411,24 @@
       ],
       "contactPhone": "(770) 235-7638",
       "contactUrl": "http://www.donnadavisestatesales.com",
-      "photoCount": 89,
+      "photoCount": 97,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5133690/1-1/130a936d-6fd3-4072-892f-ce711e5a0226.jpg",
         "https://picturescdn.estatesales.net/5133690/1-1/d02cba1f-cf5e-4aa5-8baa-4167581ce3cd.jpg",
+        "https://picturescdn.estatesales.net/5133690/1-1/32b56da0-337f-433d-8133-35f23fb73005.jpg",
         "https://picturescdn.estatesales.net/5133690/1-1/13399dd6-52ce-4ac1-ba10-b1616dd8382b.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/5dbefa17-d7f7-43b3-a6b7-77465b1b8ebc.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/8a4117d1-1f53-4c07-a5fa-a53596898ee4.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/41ea1feb-33fa-455a-9995-0ba63414a5d2.jpg",
+        "https://picturescdn.estatesales.net/5133690/1-1/1d49df26-018f-4d57-8c7e-4d7998020247.jpg",
+        "https://picturescdn.estatesales.net/5133690/2-1/e6490595-365e-4685-b8d9-f90f9f636be1.jpg",
+        "https://picturescdn.estatesales.net/5133690/2-1/8745c76a-6f28-4889-80ef-4f475c3c92be.jpg",
+        "https://picturescdn.estatesales.net/5133690/1-1/c4ef22dc-30c5-4e34-a50a-71a139faca79.jpg",
         "https://picturescdn.estatesales.net/5133690/1-1/29e2d0d3-ad5b-4103-812a-e52a39341334.jpg",
         "https://picturescdn.estatesales.net/5133690/1-1/5e5f4ad0-547d-4f56-9553-a857e1594394.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/033e5779-8fc4-4d1c-a5e8-7b7dc450b449.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/e85723d6-3e15-451a-add0-466d9db07809.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/1e68571a-b80f-495e-8735-2fecf7e662f2.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/b453fea7-7ad1-4462-9f79-3ecb4fc54e79.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/7271d5c3-c91f-4ac8-a93e-104a99ae0b60.jpg"
+        "https://picturescdn.estatesales.net/5133690/2-1/a07cf772-a354-4eda-99a0-cb1a355d3289.jpg",
+        "https://picturescdn.estatesales.net/5133690/1-1/033e5779-8fc4-4d1c-a5e8-7b7dc450b449.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "89 photos",
+        "97 photos",
         "jewelry, collectibles and books in the listing",
         "runs 4 days"
       ],
@@ -549,6 +563,75 @@
       "photoRead": true
     },
     {
+      "id": "34163407f52ef541",
+      "title": "PRIVATE COLLECTION OF SPECIALTY BEADS * CUSTOM JEWLERY * CRAFTING SUPPLIES",
+      "company": "McHenry Estate Sales",
+      "streetAddress": "161 RIVER RIDGE LANE",
+      "city": "Roswell",
+      "state": "GA",
+      "zip": "30075",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Roswell/30075/5169804"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(404) 667-1614",
+      "contactUrl": "https://www.estatesales.net/companies/GA/Canton/30115/21611",
+      "photoCount": 97,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5169804/1-1/017405fc-ae65-4d4b-877b-19cb0cd4a16e.jpg",
+        "https://picturescdn.estatesales.net/5169804/1-1/63b46e98-e212-45e5-873f-e74c799003f1.jpg",
+        "https://picturescdn.estatesales.net/5169804/1-1/90959896-4877-4211-93c0-ac23c820d50f.jpg",
+        "https://picturescdn.estatesales.net/5169804/1-1/38b8f895-62ec-47d7-b5b2-436990c6be20.jpg",
+        "https://picturescdn.estatesales.net/5169804/1-1/0a140a0a-4cd5-4af5-a1cc-2221e8c9b6b2.jpg",
+        "https://picturescdn.estatesales.net/5169804/1-1/6cbf1d0a-0b21-4c9a-a595-49d3bf0899bb.jpg",
+        "https://picturescdn.estatesales.net/5169804/1-1/229d4b08-59fb-4974-a718-3e403531b799.jpg",
+        "https://picturescdn.estatesales.net/5169804/1-1/c8919264-d584-47e0-95eb-8636fea7a0ae.jpg",
+        "https://picturescdn.estatesales.net/5169804/1-1/e02a354b-6daa-4966-bfe0-f8568f6edd6e.jpg",
+        "https://picturescdn.estatesales.net/5169804/1-1/98a8def9-90e6-4c6c-a65e-7b3efd9072f1.jpg",
+        "https://picturescdn.estatesales.net/5169804/1-1/70537ec7-1a89-4451-89fe-2631bb4d063a.jpg",
+        "https://picturescdn.estatesales.net/5169804/1-1/a75de27e-4df5-48b0-9eab-3f80216fe60f.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "97 photos",
+        "tools, jewelry and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "jewelry",
+        "collectibles",
+        "clothing",
+        "crystal",
+        "lamps"
+      ],
+      "contentsLine": "Tools, jewelry, collectibles, clothing and crystal.",
+      "lat": 34.005607,
+      "lng": -84.357966,
+      "approximate": false
+    },
+    {
       "id": "c143ada0435fe7b6",
       "title": "EAST COBB - Complete Estate-60’s/70’s Rock Albums-Art-MCM",
       "company": "Sandy B King A Division Of Fit For A Queen Antiques",
@@ -586,8 +669,9 @@
       ],
       "contactPhone": "(404) 272-6610",
       "contactUrl": "http://sandybkingestatesales.com",
-      "photoCount": 201,
+      "photoCount": 206,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5123811/1-1/06a77daf-11b2-42c7-a2dc-f44a302ee996.jpg",
         "https://picturescdn.estatesales.net/5123811/1-1/724ff73b-9d24-46af-871a-186889c245b1.jpg",
         "https://picturescdn.estatesales.net/5123811/1-1/6565e914-e1b4-49ff-ab8c-dc38d630949a.jpg",
         "https://picturescdn.estatesales.net/5123811/1-1/7acbbd5d-7689-477c-8fd7-8ca07c3553c9.jpg",
@@ -598,12 +682,11 @@
         "https://picturescdn.estatesales.net/5123811/1-1/c497455d-ea79-41f9-acd8-c8da9cb4e417.jpg",
         "https://picturescdn.estatesales.net/5123811/1-1/963727e0-07c9-4701-b0ba-f5935b590d65.jpg",
         "https://picturescdn.estatesales.net/5123811/1-1/886405a7-df8f-4ea1-b220-dbd32a036625.jpg",
-        "https://picturescdn.estatesales.net/5123811/1-1/58cf830e-b328-4162-9434-d34b4447dc01.jpg",
-        "https://picturescdn.estatesales.net/5123811/1-1/cf4e96bd-d6eb-4a01-a6d1-984cd3931c1a.jpg"
+        "https://picturescdn.estatesales.net/5123811/1-1/58cf830e-b328-4162-9434-d34b4447dc01.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "201 photos",
+        "206 photos",
         "tools, furniture and vinyl & records in the listing",
         "runs 3 days"
       ],
@@ -829,13 +912,13 @@
       "categories": [],
       "contactPhone": "(562) 372-1104",
       "contactUrl": "https://www.jcconsignestate.com",
-      "photoCount": 62,
+      "photoCount": 61,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5150595/1-1/7a8e4197-8e28-4720-9504-a9032d0e1b9f.jpg",
-        "https://picturescdn.estatesales.net/5150595/1-1/567fc963-2911-4715-8e9c-8c8dd83817da.jpg",
         "https://picturescdn.estatesales.net/5150595/1-1/00d72438-340e-469a-b77f-b5cbddd5a155.jpg",
         "https://picturescdn.estatesales.net/5169111/1-1/1bd83a25-1653-448e-a314-9ddf0e57be38.jpg",
         "https://picturescdn.estatesales.net/5150595/1-1/8404e4fe-09c1-4f7d-8e59-390eb7fb73d1.jpg",
+        "https://picturescdn.estatesales.net/5169111/1-1/75a32196-ce28-4b61-819d-408f552be09a.jpg",
         "https://picturescdn.estatesales.net/5169111/1-1/96bc3da9-167d-40c0-80f5-a2bce2f3d05f.jpg",
         "https://picturescdn.estatesales.net/5150595/1-1/ab8faa5c-4c08-4c77-9138-2b89f9dcb96d.jpg",
         "https://picturescdn.estatesales.net/5150595/1-1/4633f5ec-931a-4ae2-ba4f-be4775cca5d1.jpg",
@@ -846,7 +929,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "62 photos",
+        "61 photos",
         "tools, furniture and collectibles in the listing"
       ],
       "lat": 33.4814476,
@@ -957,24 +1040,24 @@
       "categories": [],
       "contactPhone": "(770) 527-1313",
       "contactUrl": "http://www.unclebucksestatesales.com",
-      "photoCount": 104,
+      "photoCount": 97,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5169405/1-1/6dd379af-7a4d-44f0-b1e1-756da0c865fc.jpg",
-        "https://picturescdn.estatesales.net/5169405/1-1/0aa8ad5f-d42e-4f82-8466-93bab45a17df.jpg",
-        "https://picturescdn.estatesales.net/5169405/1-1/24b990fd-d20d-4463-b806-2ca5bdd33251.jpg",
-        "https://picturescdn.estatesales.net/5169405/1-1/60219f99-248b-4c16-83d1-7d8535ec25c2.jpg",
-        "https://picturescdn.estatesales.net/5169405/1-1/07537daa-fafd-4d63-ba83-7a4e6071f7f5.jpg",
-        "https://picturescdn.estatesales.net/5169405/1-1/e9b4eba0-1e55-4f19-b8d5-4e32114c3be3.jpg",
-        "https://picturescdn.estatesales.net/5169405/1-1/b86e4910-c44a-45eb-8e9a-4ed42ade361d.jpg",
         "https://picturescdn.estatesales.net/5169405/1-1/cfc82e58-a102-41a5-b679-c5977cf07e07.jpg",
         "https://picturescdn.estatesales.net/5169405/1-1/885da39d-38f2-4e0e-9241-5590bce8ed58.jpg",
         "https://picturescdn.estatesales.net/5169405/1-1/5f826c83-8ad5-4722-96ae-e643501796fd.jpg",
         "https://picturescdn.estatesales.net/5169405/1-1/6d0284a8-5174-4af9-9243-5b2059dea569.jpg",
-        "https://picturescdn.estatesales.net/5169405/1-1/5a878845-70ae-4bfe-8a8c-ad91bc965c34.jpg"
+        "https://picturescdn.estatesales.net/5169405/1-1/5a878845-70ae-4bfe-8a8c-ad91bc965c34.jpg",
+        "https://picturescdn.estatesales.net/5169405/1-1/acbdcc7c-b6dd-47f4-99db-e30f7922edd3.jpg",
+        "https://picturescdn.estatesales.net/5169405/1-1/a8fad0d6-d907-4299-8061-842a8d32b6c5.jpg",
+        "https://picturescdn.estatesales.net/5169405/1-1/5b7c227b-9005-49b2-b05d-1dcfca2d46c9.jpg",
+        "https://picturescdn.estatesales.net/5169405/1-1/9fdb85d0-e627-4901-bbb6-4d7f538618af.jpg",
+        "https://picturescdn.estatesales.net/5169405/1-1/71c40e2d-30f7-4c0f-9b15-f4dc1ce054a1.jpg",
+        "https://picturescdn.estatesales.net/5169405/1-1/21fe8960-5cc7-4628-a122-e9e77837a766.jpg",
+        "https://picturescdn.estatesales.net/5169405/1-1/9e310910-c5e3-4cf7-bc87-4005f0f10c2b.jpg"
       ],
       "digRating": "Worth a Look",
       "ratingReasons": [
-        "104 photos"
+        "97 photos"
       ],
       "lat": 34.0351787,
       "lng": -84.5944915,
@@ -2088,7 +2171,7 @@
       ],
       "contactPhone": "(770) 235-7638",
       "contactUrl": "http://www.donnadavisestatesales.com",
-      "photoCount": 122,
+      "photoCount": 129,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5170347/1-1/1b8d0249-5c41-42f7-844a-61ec64f59267.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/72f8bc22-97a0-4fbe-b0f8-970e9214f333.jpg",
@@ -2098,23 +2181,24 @@
         "https://picturescdn.estatesales.net/5170347/1-1/9312d683-dd90-4f25-a093-2eb433475095.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/70b3f279-f575-49a5-ad8e-eff81af5bb02.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/369de2a5-cb3e-4974-80fb-4e98b3518fd1.jpg",
+        "https://picturescdn.estatesales.net/5170347/1-1/45ff8de8-f499-46cf-93a9-067ac32bf53c.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/44997eec-57c2-4790-9286-72807a90164d.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/cca0e9fb-11f2-4617-9e7b-318d6f13874a.jpg",
-        "https://picturescdn.estatesales.net/5170347/1-1/81a805d8-6e93-405a-b243-280a039b20a4.jpg",
-        "https://picturescdn.estatesales.net/5170347/1-1/7da99e3b-60ac-4b9d-aed5-b14d5e60a573.jpg"
+        "https://picturescdn.estatesales.net/5170347/1-1/81a805d8-6e93-405a-b243-280a039b20a4.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "122 photos",
+        "129 photos",
         "furniture and collectibles in the listing",
         "runs 3 days"
       ],
       "photoKeywords": [
         "furniture",
         "collectibles",
-        "antiques"
+        "antiques",
+        "lamps"
       ],
-      "contentsLine": "Furniture, collectibles and antiques.",
+      "contentsLine": "Furniture, collectibles, antiques and lamps.",
       "lat": 34.0013766,
       "lng": -84.6463064,
       "approximate": true
@@ -2179,6 +2263,73 @@
       ],
       "contentsLine": "A pair of high-backed floral armchairs appears alongside a white refrigerator and boxes of mugs and serving pieces.",
       "photoRead": true
+    },
+    {
+      "id": "1a1541d987591f8e",
+      "title": "Stone Estate Solutions, LLC - Vintage finds and more in Lilburn",
+      "company": "Stone Estate Solutions, LLC",
+      "streetAddress": null,
+      "city": "Lilburn",
+      "state": "GA",
+      "zip": "30047",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/ga/lilburn/30047/stone-estate-solutions-llc-vintage-2475293"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Lilburn/30047/5171223"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(678) 361-1524",
+      "contactUrl": "https://stoneestatesolutions.com/",
+      "photoCount": 141,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5171223/1-1/539858ef-4437-4063-9d1c-35cea8efa831.jpg",
+        "https://picturescdn.estatesales.net/5171223/1-1/00391643-e313-4d5f-afe2-27e52ae07146.jpg",
+        "https://picturescdn.estatesales.net/5171223/1-1/89d8a869-acb1-4801-82d0-681a48f19793.jpg",
+        "https://picturescdn.estatesales.net/5171223/1-1/e253bf4b-4c66-49d8-9a61-4a8ea544dafc.jpg",
+        "https://picturescdn.estatesales.net/5171223/1-1/afc2d672-5523-4428-845f-65901cd1260d.jpg",
+        "https://picturescdn.estatesales.net/5171223/1-1/3d3c66a8-7eae-48a8-a921-b0d0ae966be5.jpg",
+        "https://picturescdn.estatesales.net/5171223/1-1/99277c57-d13e-4eff-9a9c-8165c84b2bd1.jpg",
+        "https://picturescdn.estatesales.net/5171223/1-1/3ba0b1df-5f6c-4d70-9751-148f6397c591.jpg",
+        "https://picturescdn.estatesales.net/5171223/1-1/fe0f96db-25b6-4eff-8bdb-eb1b00e1a910.jpg",
+        "https://picturescdn.estatesales.net/5171223/1-1/c2d995d6-bb77-49bc-99a5-9d0571af8488.jpg",
+        "https://picturescdn.estatesales.net/5171223/1-1/70d9ece9-ff68-454d-8e8a-685d4bf56521.jpg",
+        "https://picturescdn.estatesales.net/5171223/1-1/2531fd12-46cd-41f0-a421-c8b356994b4e.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "141 photos",
+        "tools, furniture and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "kitchen",
+        "art",
+        "antiques",
+        "patio furniture"
+      ],
+      "contentsLine": "Tools, furniture, kitchen, art and antiques.",
+      "lat": 33.8731136,
+      "lng": -84.1186563,
+      "approximate": true
     },
     {
       "id": "abe1efb96c3f898e",

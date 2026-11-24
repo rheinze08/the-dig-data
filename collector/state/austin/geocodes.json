@@ -12,6 +12,11 @@
     "lng": -97.3152701,
     "basis": "OpenStreetMap Nominatim"
   },
+  "city:kyle": {
+    "lat": 29.9892816,
+    "lng": -97.877174,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "city:manor": {
     "lat": 30.3420882,
     "lng": -97.555905,
@@ -61,6 +66,9 @@
   },
   "nominatim:street:307 evening grosbeak dr pflugerville tx 78660:78660": {
     "retryAfter": 1795828719453
+  },
+  "nominatim:street:310 wildcat hollow dr near roland ln:kyle": {
+    "retryAfter": 1796158819355
   },
   "nominatim:street:3403 toro cayon rd:78746": {
     "retryAfter": 1795828710578
@@ -325,6 +333,11 @@
   "zip:78749": {
     "lat": 30.2141604,
     "lng": -97.8590638,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78750": {
+    "lat": 30.425422,
+    "lng": -97.7991759,
     "basis": "OpenStreetMap Nominatim"
   }
 }

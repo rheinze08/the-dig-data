@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-24",
-  "collectedAt": "2026-11-24T14:23:41.984Z",
+  "collectedAt": "2026-11-24T21:01:17.248Z",
   "window": {
     "start": "2026-11-24",
     "end": "2026-12-07",
@@ -13,15 +13,15 @@
   },
   "coverage": {
     "EstateSales.net": {
-      "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 45/45 local candidate details.",
-      "candidates": 17,
+      "status": "partial",
+      "detail": "Read the public sale sitemap. Checked 47/48 local candidate details. https://www.estatesales.net/TX/San-Antonio/78233/5139138 — ETIMEDOUT",
+      "candidates": 18,
       "included": 14
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 5 San Antonio directory cards over 1 pages. Checked 2/2 in-person local candidate details.",
-      "candidates": 1,
+      "detail": "Read 7 San Antonio directory cards over 1 pages. Checked 3/3 in-person local candidate details.",
+      "candidates": 2,
       "included": 0
     },
     "Craigslist San Antonio": {
@@ -38,11 +38,11 @@
     }
   },
   "counts": {
-    "candidates": 18,
+    "candidates": 20,
     "listings": 14,
     "sales": 14,
     "duplicates": 0,
-    "outsideRadius": 4,
+    "outsideRadius": 6,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -50,7 +50,7 @@
   "sales": [
     {
       "id": "c0420bbe0c6f9d01",
-      "title": "Blowout sale! 50% OFF",
+      "title": "sale! 50% OFF",
       "company": "1dandelion LLC",
       "streetAddress": "351 Culebra",
       "city": "San Antonio",
@@ -60,11 +60,21 @@
       "sessions": [
         {
           "date": "2026-11-24",
+          "start": "12:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-25",
           "start": "10:30",
           "end": "16:00"
         },
         {
-          "date": "2026-11-25",
+          "date": "2026-11-26",
+          "start": "14:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-27",
           "start": "10:30",
           "end": "16:00"
         }
@@ -93,9 +103,10 @@
         "https://picturescdn.estatesales.net/5158845/1-1/5dc34b3d-b1dc-448c-b21c-2dae86c1b899.jpg",
         "https://picturescdn.estatesales.net/5158845/1-1/21902c75-090a-41ad-a79c-9c57e875828c.jpg"
       ],
-      "digRating": "Worth a Look",
+      "digRating": "Deep Dig",
       "ratingReasons": [
-        "64 photos"
+        "64 photos",
+        "runs 4 days"
       ],
       "photoKeywords": [],
       "lat": 29.443835,

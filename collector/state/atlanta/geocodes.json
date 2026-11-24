@@ -152,6 +152,11 @@
     "lng": -84.331004,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:161 river ridge ln:30075": {
+    "lat": 34.005607,
+    "lng": -84.357966,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:173 rowland springs rd se:30121": {
     "lat": 34.2111855,
     "lng": -84.738879,
@@ -505,6 +510,11 @@
   "zip:30328": {
     "lat": 33.9332303,
     "lng": -84.3827283,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30338": {
+    "lat": 33.9441071,
+    "lng": -84.321633,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:30342": {

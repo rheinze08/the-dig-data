@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-24",
-  "collectedAt": "2026-11-24T14:25:04.248Z",
+  "collectedAt": "2026-11-24T21:02:36.233Z",
   "window": {
     "start": "2026-11-24",
     "end": "2026-12-07",
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 71/71 local candidate details.",
-      "candidates": 28,
-      "included": 24
+      "detail": "Read the public sale sitemap. Checked 70/70 local candidate details.",
+      "candidates": 27,
+      "included": 23
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 24 Phoenix directory cards over 2 pages. Checked 8/8 in-person local candidate details.",
-      "candidates": 7,
-      "included": 6
+      "detail": "Read 24 Phoenix directory cards over 2 pages. Checked 7/7 in-person local candidate details.",
+      "candidates": 6,
+      "included": 5
     },
     "Craigslist Phoenix": {
       "status": "reached",
-      "detail": "13 directory listings discovered; 1 in-window estate listings before radius filtering",
+      "detail": "20 directory listings discovered; 1 in-window estate listings before radius filtering",
       "candidates": 1,
       "included": 1
     },
@@ -38,10 +38,10 @@
     }
   },
   "counts": {
-    "candidates": 36,
-    "listings": 31,
-    "sales": 27,
-    "duplicates": 4,
+    "candidates": 34,
+    "listings": 29,
+    "sales": 26,
+    "duplicates": 3,
     "outsideRadius": 5,
     "unlocatedListings": 0
   },
@@ -247,6 +247,50 @@
       "photoRead": true
     },
     {
+      "id": "b975f66024ea51af",
+      "title": "Black Friday madness in Gilbert",
+      "company": "Allegro Estate Sales & Services Az LLC",
+      "streetAddress": null,
+      "city": "Gilbert",
+      "state": "AZ",
+      "zip": "85295",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "08:00",
+          "end": "12:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "08:00",
+          "end": "12:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Gilbert/85295/5171475"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(602) 818-1414",
+      "contactUrl": "https://allegroestatesalesaz.net/",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5171475/1-1/ef81e865-e551-459d-b474-0552c61f8ca7.jpg"
+      ],
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "only 1 photo",
+        "few details in the listing"
+      ],
+      "photoKeywords": [],
+      "lat": 33.3079424,
+      "lng": -111.7349621,
+      "approximate": true
+    },
+    {
       "id": "32367a54e4d3fcc5",
       "title": "Surprise Coyote Lakes Estate Sale by Radiant Estate Sales",
       "company": "Radiant Estate Sales",
@@ -307,55 +351,6 @@
       "contentsLine": "Tools, furniture, kitchen, art and mid-century.",
       "lat": 33.6418191,
       "lng": -112.3164288,
-      "approximate": true
-    },
-    {
-      "id": "29e01d40b2f08f8b",
-      "title": "Tools and more",
-      "company": "Allegro Estate Sales & Services Az LLC",
-      "streetAddress": null,
-      "city": "Phoenix",
-      "state": "AZ",
-      "zip": "85035",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "08:00",
-          "end": "12:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "08:00",
-          "end": "12:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/AZ/Phoenix/85035/5168778"
-        }
-      ],
-      "categories": [
-        "tools"
-      ],
-      "contactPhone": "(602) 818-1414",
-      "contactUrl": "https://allegroestatesalesaz.net/",
-      "photoCount": 1,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5168778/1-1/de5a39fa-3ece-44fc-bcbb-fb0023e46f13.jpg"
-      ],
-      "digRating": "Slim Pickings",
-      "ratingReasons": [
-        "only 1 photo",
-        "few details in the listing"
-      ],
-      "photoKeywords": [
-        "tools"
-      ],
-      "contentsLine": "Tools.",
-      "lat": 33.4725018,
-      "lng": -112.1895263,
       "approximate": true
     },
     {
@@ -489,77 +484,6 @@
       "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
       "lat": 33.6054313,
       "lng": -112.2815411,
-      "approximate": true
-    },
-    {
-      "id": "6d9f93f9a26f90db",
-      "title": "Scottsdale Estate Sale",
-      "company": "Fresh Start Estate Sales",
-      "streetAddress": null,
-      "city": "Scottsdale",
-      "state": "AZ",
-      "zip": "85254",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "09:00",
-          "end": "13:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "09:00",
-          "end": "13:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/az/scottsdale/85254/scottsdale-estate-sale-2468140"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/AZ/Scottsdale/85254/5097216"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(480) 486-0606",
-      "contactUrl": "http://www.freshstartestatesale.com",
-      "photoCount": 182,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5097216/1-1/5da1f368-c5d4-4e4b-9d95-fead410739a8.jpg",
-        "https://picturescdn.estatesales.net/5097216/1-1/9e2a9095-cdc3-4bd9-b59b-408db6243a6e.jpg",
-        "https://picturescdn.estatesales.net/5097216/1-1/bc1c5b0c-9b17-46d9-8ebe-863add9dd712.jpg",
-        "https://picturescdn.estatesales.net/5097216/1-1/afa7a007-f515-44d7-9666-614dfdf1ed01.jpg",
-        "https://picturescdn.estatesales.net/5097216/1-1/2896c7e3-be45-4426-a9ef-8220617568db.jpg",
-        "https://picturescdn.estatesales.net/5097216/1-1/53b4d137-60b8-440e-9613-1cfca5187af8.jpg",
-        "https://picturescdn.estatesales.net/5097216/1-1/ea70b706-7a4d-41fe-920f-fa204ad7fdd6.jpg",
-        "https://picturescdn.estatesales.net/5097216/1-1/d5846c24-8cf9-4a76-bbaf-55648b459e2f.jpg",
-        "https://picturescdn.estatesales.net/5097216/1-1/86153e3c-4d93-44ec-b45d-426e89209457.jpg",
-        "https://picturescdn.estatesales.net/5097216/1-1/9c0c2136-cee5-419e-a246-4d83ad67d6a2.jpg",
-        "https://picturescdn.estatesales.net/5097216/1-1/4a2212f8-7b9e-4972-b94a-65ff7d623e4e.jpg",
-        "https://picturescdn.estatesales.net/5097216/1-1/b480bd81-872c-43b8-9833-ee89a643c77d.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "182 photos",
-        "tools, furniture and collectibles in the listing"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "collectibles",
-        "kitchen",
-        "art",
-        "electronics",
-        "figurines",
-        "lamps",
-        "mirrors",
-        "patio furniture"
-      ],
-      "contentsLine": "Tools, furniture, collectibles, kitchen and art.",
-      "lat": 33.6190495,
-      "lng": -111.9551044,
       "approximate": true
     },
     {

@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-24",
-  "collectedAt": "2026-11-24T14:27:40.871Z",
+  "collectedAt": "2026-11-24T21:05:26.127Z",
   "window": {
     "start": "2026-11-24",
     "end": "2026-12-07",
@@ -14,9 +14,9 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 30/31 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
-      "candidates": 18,
-      "included": 13
+      "detail": "Read the public sale sitemap. Checked 34/35 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
+      "candidates": 22,
+      "included": 17
     },
     "EstateSales.org": {
       "status": "reached",
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 22,
-    "listings": 17,
-    "sales": 14,
+    "candidates": 26,
+    "listings": 21,
+    "sales": 18,
     "duplicates": 3,
     "outsideRadius": 5,
     "unlocatedListings": 0
@@ -171,6 +171,120 @@
       "contentsLine": "Furniture, vinyl & records, collectibles, books and art.",
       "lat": 36.3150086,
       "lng": -86.6090316,
+      "approximate": true
+    },
+    {
+      "id": "fa72b61fd680f41d",
+      "title": "Packed Franklin Estate Sale - Carters Creek!!",
+      "company": "New Life Estate Sales",
+      "streetAddress": null,
+      "city": "Franklin",
+      "state": "TN",
+      "zip": "37064",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Franklin/37064/5171094"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(615) 739-4496",
+      "contactUrl": "https://newlifeestatesales.com/",
+      "photoCount": 192,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5171094/1-1/e08bc79e-85c5-47a7-b660-9201d1b95803.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/aa793c02-a037-4c5e-994a-474d3d589dd5.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/00fe4ec1-701e-4829-8f44-7c0a995a4e73.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/11869090-9a66-4109-a06b-9cf05a4304cc.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/d3d1846e-5461-4f67-9752-bfcee1f40021.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/64487c11-beb6-4e8c-9f98-2a09026de33e.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/71ade0f4-024f-4949-9827-9805d9a3a2de.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/eb3618ff-1be0-49ef-b4c4-3cb80a5c6298.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/532117df-7a28-476a-a8a2-8c45b28e189f.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/bde96e1d-ba91-4716-beda-9157c0f63234.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/87180ae8-9fbe-4b5f-8138-b2a0e854c318.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/55319cdf-5a7d-4c38-b7bf-ec4a3fd48380.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "192 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [],
+      "lat": 35.9062737,
+      "lng": -86.8682941,
+      "approximate": true
+    },
+    {
+      "id": "182c1ecab61a6e28",
+      "title": "5,600 Sq Ft Forrest Hills Estate Sale - Long Uphill Hike to the house!",
+      "company": "New Life Estate Sales",
+      "streetAddress": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37215",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Nashville/37215/5171124"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(615) 739-4496",
+      "contactUrl": "https://newlifeestatesales.com/",
+      "photoCount": 302,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5171124/1-1/4df6d7da-14e6-4797-9019-f3f89d485a38.jpg",
+        "https://picturescdn.estatesales.net/5171124/1-1/8805a54a-bcd3-4229-95ec-fc634b8821af.jpg",
+        "https://picturescdn.estatesales.net/5171124/1-1/ec254595-605a-4388-bf2a-879454a25ced.jpg",
+        "https://picturescdn.estatesales.net/5171124/1-1/d5513212-0afe-4c57-969a-4435212b0cb2.jpg",
+        "https://picturescdn.estatesales.net/5171124/1-1/886c7c2f-a541-4e41-8e33-019998c04051.jpg",
+        "https://picturescdn.estatesales.net/5171124/1-1/596e76dc-0edd-479a-a21b-fe6982d44da1.jpg",
+        "https://picturescdn.estatesales.net/5171124/1-1/c9a61c03-786f-4ec9-988f-db6c304e3ece.jpg",
+        "https://picturescdn.estatesales.net/5171124/1-1/f6fa1b97-68bb-4516-be3a-45a93d29e4c8.jpg",
+        "https://picturescdn.estatesales.net/5171124/1-1/fe951160-913f-4b4e-bb3c-8ec7fc72b7b8.jpg",
+        "https://picturescdn.estatesales.net/5171124/1-1/8f39f315-eee1-47c3-94df-0f904448a6d2.jpg",
+        "https://picturescdn.estatesales.net/5171124/1-1/7b55fc93-42c8-476e-8244-96afb70b809b.jpg",
+        "https://picturescdn.estatesales.net/5171124/1-1/abd277c4-c585-4dd7-8f42-96132d21456f.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "302 photos"
+      ],
+      "photoKeywords": [],
+      "lat": 36.0975857,
+      "lng": -86.8212725,
       "approximate": true
     },
     {
@@ -569,6 +683,76 @@
       "approximate": true
     },
     {
+      "id": "09cd8785c07106bd",
+      "title": "Music Row Office Sale -100 Piece Art Collection, Silver plate, Furniture",
+      "company": "Dr. Holloway's Estate Sales",
+      "streetAddress": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37212",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "08:30",
+          "end": "14:30"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "08:30",
+          "end": "13:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Nashville/37212/5171187"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "art"
+      ],
+      "contactPhone": "(615) 336-1675",
+      "contactUrl": "http://www.drhollowaysestatesales.com",
+      "photoCount": 206,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5171187/1-1/c39b67e2-29e2-4751-b981-86e6dc2fe2de.jpg",
+        "https://picturescdn.estatesales.net/5171187/1-1/e48b508e-d5a0-4628-8c32-8f6da1a426b3.jpg",
+        "https://picturescdn.estatesales.net/5171187/1-1/0b6c6a21-7d9a-4e88-be0e-0b53885fbd7a.jpg",
+        "https://picturescdn.estatesales.net/5171187/1-1/b31fd984-2411-4a53-9d2a-c10e531270fe.jpg",
+        "https://picturescdn.estatesales.net/5171187/1-1/8dd493c6-fc7d-4f30-9d28-cb76f12e0fa7.jpg",
+        "https://picturescdn.estatesales.net/5171187/1-1/277a0bdf-d2b1-4c08-b5bd-118ba83378dc.jpg",
+        "https://picturescdn.estatesales.net/5171187/1-1/efaa2756-2b82-432c-a36d-c1858889a959.jpg",
+        "https://picturescdn.estatesales.net/5171187/1-1/06d3c662-18db-414e-8629-81dfadb45503.jpg",
+        "https://picturescdn.estatesales.net/5171187/1-1/22666c9b-1c6f-4af7-96bb-e18259fbf31b.jpg",
+        "https://picturescdn.estatesales.net/5171187/1-1/869b7c45-b9be-43e1-94b3-773de5285d5f.jpg",
+        "https://picturescdn.estatesales.net/5171187/1-1/ef5dc030-eb28-484e-8113-b005e58600f6.jpg",
+        "https://picturescdn.estatesales.net/5171187/1-1/69051376-48ba-41a5-b996-8ee27320ad15.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "206 photos",
+        "tools, furniture and collectibles in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "art",
+        "toys & games",
+        "china",
+        "antiques",
+        "mid-century",
+        "rugs"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, kitchen and art.",
+      "lat": 36.1365855,
+      "lng": -86.7990364,
+      "approximate": true
+    },
+    {
       "id": "972ba1eb9bfd77a9",
       "title": "Packed Collectibles Estate Sale",
       "company": "Estate Greats",
@@ -627,6 +811,60 @@
       ],
       "contentsLine": "Dolls sit on a chest of drawers beside a table covered with gnomes, dogs and owls under a framed mirror.",
       "photoRead": true
+    },
+    {
+      "id": "732437c812514505",
+      "title": "Vintage Treasures",
+      "company": "A Daisy A Day Estate Sales",
+      "streetAddress": null,
+      "city": "Gallatin",
+      "state": "TN",
+      "zip": "37066",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Gallatin/37066/5171322"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "6156336780",
+      "contactUrl": "http://www.adaisyadayvintage.com",
+      "photoCount": 122,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5171322/1-1/c4b55f4a-0b10-4ee9-bad5-4259be02809b.jpg",
+        "https://picturescdn.estatesales.net/5171322/1-1/a6d594e2-2f27-45c6-af4d-0c6df2c963f5.jpg",
+        "https://picturescdn.estatesales.net/5171322/1-1/68240a80-9562-498a-b7d2-d9c4bf7ee77d.jpg",
+        "https://picturescdn.estatesales.net/5171322/1-1/af46de73-76f1-43c3-8574-2977720c5711.jpg",
+        "https://picturescdn.estatesales.net/5171322/1-1/58909a73-93dc-4dff-b163-ec0192a77e5a.jpg",
+        "https://picturescdn.estatesales.net/5171322/1-1/77115d73-70b4-4d62-80f3-f2338c61a218.jpg",
+        "https://picturescdn.estatesales.net/5171322/1-1/8d73b075-691c-4c44-b9fc-541e45c6a1b4.jpg",
+        "https://picturescdn.estatesales.net/5171322/1-1/05e66188-36c1-4a28-9ac2-4a10f29b64bf.jpg",
+        "https://picturescdn.estatesales.net/5171322/1-1/2fb565b5-cb00-4c68-aa9d-af9b0b228df7.jpg",
+        "https://picturescdn.estatesales.net/5171322/1-1/016e45b8-91ba-4a83-a5db-4114ee215348.jpg",
+        "https://picturescdn.estatesales.net/5171322/1-1/dce73514-a538-41e5-b6f7-39c6b1ea52b2.jpg",
+        "https://picturescdn.estatesales.net/5171322/1-1/c2e08aca-2557-436f-b9e1-58d341b40467.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "122 photos"
+      ],
+      "photoKeywords": [],
+      "lat": 36.3845475,
+      "lng": -86.4611459,
+      "approximate": true
     },
     {
       "id": "cf6d2212ceb133b3",

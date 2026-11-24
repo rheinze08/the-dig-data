@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-24",
-  "collectedAt": "2026-11-24T14:20:06.174Z",
+  "collectedAt": "2026-11-24T20:57:30.162Z",
   "window": {
     "start": "2026-11-24",
     "end": "2026-12-07",
@@ -20,19 +20,19 @@
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 18 Houston directory cards over 1 pages. Checked 0/0 in-person local candidate details.",
+      "detail": "Read 20 Houston directory cards over 1 pages. Checked 0/0 in-person local candidate details.",
       "candidates": 0,
       "included": 0
     },
     "EstateSale.com": {
       "status": "partial",
-      "detail": "22 directory listings discovered; 3 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/911152.html — Incapsula challenge in HTTP 200 response",
-      "candidates": 3,
+      "detail": "23 directory listings discovered; 4 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/911152.html — Incapsula challenge in HTTP 200 response",
+      "candidates": 4,
       "included": 1
     },
     "Craigslist Houston": {
       "status": "reached",
-      "detail": "8 directory listings discovered; 0 in-window estate listings before radius filtering",
+      "detail": "9 directory listings discovered; 0 in-window estate listings before radius filtering",
       "candidates": 0,
       "included": 0
     },
@@ -44,11 +44,11 @@
     }
   },
   "counts": {
-    "candidates": 19,
+    "candidates": 20,
     "listings": 13,
     "sales": 13,
     "duplicates": 0,
-    "outsideRadius": 6,
+    "outsideRadius": 7,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -162,24 +162,9 @@
       "categories": [],
       "contactPhone": "8322676961",
       "contactUrl": "https://www.estatesales.net/companies/TX/Kemah/77565/135479",
-      "photoCount": 69,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5156793/1-1/553a96e0-ddaf-4b5a-a1b1-453d2d908f54.jpg",
-        "https://picturescdn.estatesales.net/5156793/1-1/89b8a555-fcff-4d49-8e23-e20e5f2af0ea.jpg",
-        "https://picturescdn.estatesales.net/5156793/1-1/41712d14-278e-4247-b8bf-77b27064a4cf.jpg",
-        "https://picturescdn.estatesales.net/5156793/1-1/a1668a95-9f38-4fc5-b914-cde26868fee4.jpg",
-        "https://picturescdn.estatesales.net/5156793/1-1/a3c9588e-b10c-404e-b270-35858462e04b.jpg",
-        "https://picturescdn.estatesales.net/5156793/1-1/76581a0f-bb77-4802-99de-9ac639668250.jpg",
-        "https://picturescdn.estatesales.net/5156793/1-1/f4bcac6a-f57e-49ae-90eb-0f0795209045.jpg",
-        "https://picturescdn.estatesales.net/5156793/1-1/a215f42b-7a08-48a5-9ba8-6e1ed4a990c9.jpg",
-        "https://picturescdn.estatesales.net/5156793/1-1/1f8b6bd0-72af-4f29-9298-4f0f02a2634f.jpg",
-        "https://picturescdn.estatesales.net/5156793/1-1/942dbeea-8f6c-4806-927b-9c2b7813c518.jpg",
-        "https://picturescdn.estatesales.net/5156793/1-1/0ca2269a-5cbc-4102-afb0-15aa717ae783.jpg",
-        "https://picturescdn.estatesales.net/5156793/1-1/676c1c2b-47f6-4d8d-8c36-768d4801674c.jpg"
-      ],
+      "photoCount": 0,
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "69 photos",
         "furniture, collectibles and kitchen in the listing",
         "runs 3 days"
       ],
@@ -197,6 +182,79 @@
       "contentsLine": "Furniture, collectibles, kitchen, clothing and art.",
       "lat": 29.5750991,
       "lng": -95.1319716,
+      "approximate": true
+    },
+    {
+      "id": "0125f0ba8c77affd",
+      "title": "One House, Many Treasures!! A-multi estate sale",
+      "company": "Soussan Estates",
+      "streetAddress": null,
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77074",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "11:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77074/5166993"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(832) 250-5444",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Houston/77074/173072",
+      "photoCount": 32,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5166993/1-1/4cfa6921-217b-45b9-aee3-815b9215a2da.jpg",
+        "https://picturescdn.estatesales.net/5166993/1-1/825ec2b5-ad00-43aa-8f52-cb9a7a9534cf.jpg",
+        "https://picturescdn.estatesales.net/5166993/1-1/b49e3674-cc7e-4681-94dd-9169fccca22c.jpg",
+        "https://picturescdn.estatesales.net/5166993/1-1/b7ea0ed7-af9d-4b96-9af9-269b31bcfd42.jpg",
+        "https://picturescdn.estatesales.net/5166993/1-1/439f586c-4284-44a2-8405-3157f3ed9770.jpg",
+        "https://picturescdn.estatesales.net/5166993/1-1/1fd1626b-10ed-409e-90b3-9edeeb8377a6.jpg",
+        "https://picturescdn.estatesales.net/5166993/1-1/969d53d1-39cb-469d-b8b2-0465727090fd.jpg",
+        "https://picturescdn.estatesales.net/5166993/1-1/430e4e74-f14b-4b69-af88-699c2a3f37f1.jpg",
+        "https://picturescdn.estatesales.net/5166993/1-1/a047ff14-d6b1-4eec-a60c-2565980e0b31.jpg",
+        "https://picturescdn.estatesales.net/5166993/1-1/89251a45-7b20-4ff0-a14d-d1aecff729ba.jpg",
+        "https://picturescdn.estatesales.net/5166993/1-1/e71a748f-4597-4617-b4a4-93b6532da421.jpg",
+        "https://picturescdn.estatesales.net/5166993/1-1/ae9131fe-c697-4a42-8116-92921b41818e.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "32 photos",
+        "tools, furniture and jewelry in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "art",
+        "china",
+        "crystal",
+        "antiques"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
+      "lat": 29.6839743,
+      "lng": -95.5056867,
       "approximate": true
     },
     {
@@ -270,79 +328,6 @@
       "contentsLine": "Furniture, collectibles, vehicles, kitchen and art.",
       "lat": 29.3856773,
       "lng": -95.1281039,
-      "approximate": true
-    },
-    {
-      "id": "0125f0ba8c77affd",
-      "title": "One House, Many Treasures!! A-multi estate sale",
-      "company": "Soussan Estates",
-      "streetAddress": null,
-      "city": "Houston",
-      "state": "TX",
-      "zip": "77074",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "10:30",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-29",
-          "start": "11:30",
-          "end": "17:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Houston/77074/5166993"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(832) 250-5444",
-      "contactUrl": "https://www.estatesales.net/companies/TX/Houston/77074/173072",
-      "photoCount": 32,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5166993/1-1/4cfa6921-217b-45b9-aee3-815b9215a2da.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/825ec2b5-ad00-43aa-8f52-cb9a7a9534cf.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/b49e3674-cc7e-4681-94dd-9169fccca22c.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/b7ea0ed7-af9d-4b96-9af9-269b31bcfd42.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/439f586c-4284-44a2-8405-3157f3ed9770.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/1fd1626b-10ed-409e-90b3-9edeeb8377a6.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/969d53d1-39cb-469d-b8b2-0465727090fd.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/430e4e74-f14b-4b69-af88-699c2a3f37f1.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/a047ff14-d6b1-4eec-a60c-2565980e0b31.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/89251a45-7b20-4ff0-a14d-d1aecff729ba.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/e71a748f-4597-4617-b4a4-93b6532da421.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/ae9131fe-c697-4a42-8116-92921b41818e.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "32 photos",
-        "tools, furniture and jewelry in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "art",
-        "china",
-        "crystal",
-        "antiques"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
-      "lat": 29.6839743,
-      "lng": -95.5056867,
       "approximate": true
     },
     {

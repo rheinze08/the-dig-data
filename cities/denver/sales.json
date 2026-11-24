@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-24",
-  "collectedAt": "2026-11-24T14:27:01.546Z",
+  "collectedAt": "2026-11-24T21:04:42.679Z",
   "window": {
     "start": "2026-11-24",
     "end": "2026-12-07",
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 21/21 local candidate details.",
-      "candidates": 6,
-      "included": 6
+      "detail": "Read the public sale sitemap. Checked 24/24 local candidate details.",
+      "candidates": 7,
+      "included": 7
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 7 Denver directory cards over 1 pages. Checked 4/4 in-person local candidate details.",
+      "detail": "Read 8 Denver directory cards over 1 pages. Checked 4/4 in-person local candidate details.",
       "candidates": 4,
       "included": 4
     },
     "Craigslist Denver": {
       "status": "reached",
-      "detail": "10 directory listings discovered; 4 in-window estate listings before radius filtering",
+      "detail": "11 directory listings discovered; 4 in-window estate listings before radius filtering",
       "candidates": 4,
       "included": 4
     },
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 14,
-    "listings": 14,
-    "sales": 12,
+    "candidates": 15,
+    "listings": 15,
+    "sales": 13,
     "duplicates": 2,
     "outsideRadius": 0,
     "unlocatedListings": 0
@@ -272,6 +272,70 @@
       ],
       "contentsLine": "Miniature lighthouses fill a tabletop, plush animals line a cubby shelf, and mugs sit above a window.",
       "photoRead": true
+    },
+    {
+      "id": "92ac2fa3123ba738",
+      "title": "Robinson Estate Sale",
+      "company": null,
+      "streetAddress": null,
+      "city": "Westminster",
+      "state": "CO",
+      "zip": "80234",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Denver/80234/5171205"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "7202723641",
+      "photoCount": 30,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5171205/1-1/cedb9ee5-9f2d-4648-a836-82329f64c6d7.jpg",
+        "https://picturescdn.estatesales.net/5171205/1-1/1af76037-25a3-4a85-af68-049eb0d6b634.jpg",
+        "https://picturescdn.estatesales.net/5171205/1-1/fe6d6faa-ea2e-4110-b24a-21c96dd175fe.jpg",
+        "https://picturescdn.estatesales.net/5171205/1-1/3e8120a4-e1d9-4286-9b58-08a3590eaec7.jpg",
+        "https://picturescdn.estatesales.net/5171205/1-1/3081b2fe-9cb0-4bac-bd94-0876845d9716.jpg",
+        "https://picturescdn.estatesales.net/5171205/1-1/74063416-efd7-4ea1-9c4c-e0436d31f0b2.jpg",
+        "https://picturescdn.estatesales.net/5171205/1-1/de7e805c-ac94-4611-8c01-03a902596019.jpg",
+        "https://picturescdn.estatesales.net/5171205/1-1/f737fea7-4b53-4144-94d3-3db53c2a59c7.jpg",
+        "https://picturescdn.estatesales.net/5171205/1-1/b0121ae4-8519-4749-9a4a-118df114c285.jpg",
+        "https://picturescdn.estatesales.net/5171205/1-1/9276d14d-b5d1-4d3a-b4fd-1f914f5b9a71.jpg",
+        "https://picturescdn.estatesales.net/5171205/1-1/440c3892-b19e-48df-9fbe-5261ea1bf5c6.jpg",
+        "https://picturescdn.estatesales.net/5171205/1-1/c0eb379d-5c16-4680-861e-a9461710ce16.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "30 photos",
+        "tools, furniture and jewelry in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "electronics",
+        "toys & games"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, vehicles and kitchen.",
+      "lat": 39.9136137,
+      "lng": -105.0081452,
+      "approximate": true
     },
     {
       "id": "76a26105c471b593",
