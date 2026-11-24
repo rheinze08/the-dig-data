@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-23",
-  "collectedAt": "2026-11-23T22:23:12.559Z",
+  "asOf": "2026-11-24",
+  "collectedAt": "2026-11-24T14:22:49.625Z",
   "window": {
-    "start": "2026-11-23",
-    "end": "2026-12-06",
+    "start": "2026-11-24",
+    "end": "2026-12-07",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 31/31 local candidate details.",
-      "candidates": 13,
-      "included": 10
+      "detail": "Read the public sale sitemap. Checked 30/30 local candidate details.",
+      "candidates": 12,
+      "included": 9
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 8 Austin directory cards over 1 pages. Checked 3/3 in-person local candidate details.",
+      "detail": "Read 9 Austin directory cards over 1 pages. Checked 3/3 in-person local candidate details.",
       "candidates": 3,
       "included": 2
     },
     "Craigslist Austin": {
       "status": "reached",
-      "detail": "9 directory listings discovered; 1 in-window estate listings before radius filtering",
+      "detail": "10 directory listings discovered; 1 in-window estate listings before radius filtering",
       "candidates": 1,
       "included": 1
     },
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 17,
-    "listings": 13,
-    "sales": 12,
+    "candidates": 16,
+    "listings": 12,
+    "sales": 11,
     "duplicates": 1,
     "outsideRadius": 4,
     "unlocatedListings": 0
@@ -48,84 +48,6 @@
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
-    {
-      "id": "4494ccdf99b8539d",
-      "title": "Huge Collector’s Estate Sale | Vintage Finds, Furniture & Art",
-      "company": null,
-      "streetAddress": "307 Evening grosbeak drive",
-      "city": "Pflugerville",
-      "state": "TX",
-      "zip": "78660",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "start": "09:00",
-          "end": "19:00"
-        },
-        {
-          "date": "2026-11-21",
-          "start": "09:00",
-          "end": "19:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "09:00",
-          "end": "19:00"
-        },
-        {
-          "date": "2026-11-23",
-          "start": "09:00",
-          "end": "19:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Pflugerville/78660/5167167"
-        }
-      ],
-      "categories": [
-        "furniture",
-        "collectibles",
-        "art"
-      ],
-      "contactPhone": "8583317603",
-      "photoCount": 53,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5167167/1-1/95817955-887b-4f59-a1f0-14e7a30da34b.jpg",
-        "https://picturescdn.estatesales.net/5167167/1-1/35be8c3e-c4f4-4642-97d9-fe39f9dc7e0d.jpg",
-        "https://picturescdn.estatesales.net/5167167/1-1/87fffb25-a9fa-4266-b795-f676273f5013.jpg",
-        "https://picturescdn.estatesales.net/5167167/1-1/b4b15a5e-d4d0-4e37-8e32-87bbb030171f.jpg",
-        "https://picturescdn.estatesales.net/5167167/1-1/95c58279-3403-467a-b3b1-cbb41b02eab9.jpg",
-        "https://picturescdn.estatesales.net/5167167/1-1/fc1cabb7-47db-4d94-b4c6-ac271fbed6ed.jpg",
-        "https://picturescdn.estatesales.net/5167167/1-1/1f4babd5-e2f7-441f-8b63-07b0518675d1.jpg",
-        "https://picturescdn.estatesales.net/5167167/1-1/feaa2c55-cfc4-405f-87c0-5fe5f9e83922.jpg",
-        "https://picturescdn.estatesales.net/5167167/1-1/a43bb4ca-2d3d-41f4-9afa-83c92281f133.jpg",
-        "https://picturescdn.estatesales.net/5167167/1-1/0b474163-976e-467e-a665-5ee3e7444d4d.jpg",
-        "https://picturescdn.estatesales.net/5167167/1-1/cd939933-1545-4e0a-ab14-9a0b0300cdfa.jpg",
-        "https://picturescdn.estatesales.net/5167167/1-1/7b9a7778-8d3e-431b-81fe-1596e240a761.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "53 photos",
-        "furniture, vinyl & records and collectibles in the listing",
-        "runs 4 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "vinyl & records",
-        "collectibles",
-        "kitchen",
-        "art",
-        "lamps",
-        "mirrors"
-      ],
-      "contentsLine": "Furniture, vinyl & records, collectibles, kitchen and art.",
-      "lat": 30.4465275,
-      "lng": -97.6276306,
-      "approximate": false
-    },
     {
       "id": "d0c6bdf31800b6d7",
       "title": "MASSIVE 6,000 SQ FT ESTATE MOVED TO HUTTO! 3 DAYS OF TREASURES!",
@@ -287,7 +209,7 @@
       "categories": [],
       "contactPhone": "(512) 203-4414",
       "contactUrl": "Https://www.atxbeyondestatesales.com",
-      "photoCount": 53,
+      "photoCount": 80,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5165844/1-1/ca113fd7-06b8-4c7a-83f6-8feac0539a52.jpg",
         "https://picturescdn.estatesales.net/5165844/1-1/3fb9df8a-644e-43f1-aef9-8f9a0fbbb6b1.jpg",
@@ -304,7 +226,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "53 photos",
+        "80 photos",
         "tools, jewelry and clothing in the listing",
         "runs 3 days"
       ],
@@ -373,13 +295,18 @@
         "24 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "books"
-      ],
-      "contentsLine": "Books.",
       "lat": 30.3420882,
       "lng": -97.555905,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "action figures",
+        "framed movie posters",
+        "books",
+        "poker table",
+        "folding chairs"
+      ],
+      "contentsLine": "Action figures stand among shelves of books. Framed movie posters hang behind a green poker table and folding chairs.",
+      "photoRead": true
     },
     {
       "id": "85bd91046a8b8c76",
@@ -416,24 +343,24 @@
       "categories": [],
       "contactPhone": "(737) 368-9977",
       "contactUrl": "https://www.estatesales.net/companies/TX/Austin/78748/172652",
-      "photoCount": 51,
+      "photoCount": 70,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5168253/1-1/ea150f65-9fa9-458f-b1ce-e60bd5c63d56.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/48eb0a05-8c7b-4af4-bf78-c89d69cc7815.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/9c6aa811-7992-4196-8fc3-819c5ca6627a.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/629d8a95-269c-45e1-8a19-a932a1a38219.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/716559d4-f4e1-45b1-9f31-2c8c55786cd3.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/340ef80f-8b33-44d1-859c-51cb28506d55.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/762cb633-a19f-42b6-8a16-7465a3b44729.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/d224ccc1-fd59-4297-8797-35917ce9077c.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/262c34b2-74aa-4985-b8b4-b4584bd61dbc.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/76415271-f3e1-4b36-bdd0-7163e5959cfb.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/d2f60702-38c0-48fd-ba2a-d2d89617861e.jpg",
-        "https://picturescdn.estatesales.net/5168253/1-1/d11e7303-d099-4087-8917-5c4029e11931.jpg",
-        "https://picturescdn.estatesales.net/5168253/1-1/24cc765d-0574-4d65-9f72-752781956c1d.jpg",
-        "https://picturescdn.estatesales.net/5168253/1-1/39f87f93-449b-4211-a76a-48002475a610.jpg",
-        "https://picturescdn.estatesales.net/5168253/1-1/bfb60d04-a6f6-47c2-ae51-af818a5cf4ed.jpg",
-        "https://picturescdn.estatesales.net/5168253/1-1/3da004d9-7eef-4e35-970a-f27265b2432c.jpg",
-        "https://picturescdn.estatesales.net/5168253/1-1/92edf3e0-416d-4f1f-b18a-22f498d3c924.jpg"
+        "https://picturescdn.estatesales.net/5168253/1-1/d11e7303-d099-4087-8917-5c4029e11931.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "51 photos",
+        "70 photos",
         "jewelry, collectibles and clothing in the listing",
         "runs 3 days"
       ],
@@ -444,7 +371,8 @@
         "art",
         "antiques",
         "lamps",
-        "silver"
+        "silver",
+        "coins"
       ],
       "contentsLine": "Jewelry, collectibles, clothing, art and antiques.",
       "lat": 30.1636136,
@@ -686,7 +614,7 @@
       "categories": [],
       "contactPhone": "(512) 474-2485",
       "contactUrl": "http://www.austinestatesales.net/",
-      "photoCount": 244,
+      "photoCount": 268,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5151762/1-1/3818fdae-e3a8-40f1-b9d5-eece1cf7cbf5.jpg",
         "https://picturescdn.estatesales.net/5151762/1-1/cc28cf0a-5435-4dd2-83cc-943d07312dec.jpg",
@@ -703,7 +631,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "244 photos",
+        "268 photos",
         "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
@@ -824,7 +752,7 @@
       ],
       "contactPhone": "(830) 734-8403",
       "contactUrl": "https://www.relicrevivalestatesales.com/",
-      "photoCount": 312,
+      "photoCount": 311,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5167587/1-1/b72731b1-0f2a-4c5d-a588-6326077d9604.jpg",
         "https://picturescdn.estatesales.net/5167587/1-1/b9bcd46d-c37a-424e-aa9b-49e535d2c0c6.jpg",
@@ -841,7 +769,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "312 photos",
+        "311 photos",
         "tools, furniture and collectibles in the listing",
         "runs 3 days"
       ],

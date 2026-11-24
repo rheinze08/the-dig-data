@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-23",
-  "collectedAt": "2026-11-23T22:25:30.466Z",
+  "asOf": "2026-11-24",
+  "collectedAt": "2026-11-24T14:25:04.248Z",
   "window": {
-    "start": "2026-11-23",
-    "end": "2026-12-06",
+    "start": "2026-11-24",
+    "end": "2026-12-07",
     "timeZone": "America/Phoenix"
   },
   "area": {
@@ -15,18 +15,18 @@
     "EstateSales.net": {
       "status": "reached",
       "detail": "Read the public sale sitemap. Checked 71/71 local candidate details.",
-      "candidates": 27,
-      "included": 23
+      "candidates": 28,
+      "included": 24
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 25 Phoenix directory cards over 2 pages. Checked 8/8 in-person local candidate details.",
+      "detail": "Read 24 Phoenix directory cards over 2 pages. Checked 8/8 in-person local candidate details.",
       "candidates": 7,
       "included": 6
     },
     "Craigslist Phoenix": {
       "status": "reached",
-      "detail": "16 directory listings discovered; 1 in-window estate listings before radius filtering",
+      "detail": "13 directory listings discovered; 1 in-window estate listings before radius filtering",
       "candidates": 1,
       "included": 1
     },
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 35,
-    "listings": 30,
-    "sales": 26,
+    "candidates": 36,
+    "listings": 31,
+    "sales": 27,
     "duplicates": 4,
     "outsideRadius": 5,
     "unlocatedListings": 0
@@ -49,137 +49,14 @@
   "geocodingNotes": [],
   "sales": [
     {
-      "id": "7fabe57f964da73e",
-      "title": "Gilbert estate sale",
-      "company": null,
-      "streetAddress": "4210 s splendor pl",
-      "city": "Gilbert",
-      "state": "AZ",
-      "zip": "85297",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-22",
-          "start": "10:30",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-23",
-          "start": "10:30",
-          "end": "15:30"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/AZ/Gilbert/85297/5144415"
-        }
-      ],
-      "categories": [],
-      "photoCount": 22,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5144415/1-1/e71360e8-19f7-4a85-a718-523948ec48ab.jpg",
-        "https://picturescdn.estatesales.net/5144415/1-1/50ab212f-5a32-4efc-92fc-4a79f666d902.jpg",
-        "https://picturescdn.estatesales.net/5144415/1-1/e3009ed2-c161-4284-a8f8-c7d34f51293a.jpg",
-        "https://picturescdn.estatesales.net/5144415/1-1/7b85f3ef-193f-475a-a97d-1873945aa601.jpg",
-        "https://picturescdn.estatesales.net/5144415/1-1/01b3f5d3-54a4-436b-a914-8346687ce860.jpg",
-        "https://picturescdn.estatesales.net/5144415/1-1/203f8008-1e44-4b21-8c80-ed39ebace84b.jpg",
-        "https://picturescdn.estatesales.net/5144415/1-1/b5de0ee0-34df-45ad-9eec-0a4cc804b4a0.jpg",
-        "https://picturescdn.estatesales.net/5144415/1-1/e9d7ac1d-c955-4190-9bb2-a2bd868bcef8.jpg",
-        "https://picturescdn.estatesales.net/5144415/1-1/341c6826-351c-4583-8a95-5da5459f9eed.jpg",
-        "https://picturescdn.estatesales.net/5144415/1-1/648dfb04-4a53-4480-8539-364a44e22c3a.jpg",
-        "https://picturescdn.estatesales.net/5144415/1-1/6c0fe67f-f3be-418a-b5b9-b6b57324298e.jpg",
-        "https://picturescdn.estatesales.net/5144415/1-1/f03b3930-1704-4982-90d5-6dc1060cfef2.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "22 photos",
-        "furniture, collectibles and art in the listing"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "collectibles",
-        "art",
-        "figurines",
-        "antiques",
-        "rugs",
-        "mirrors",
-        "patio furniture"
-      ],
-      "contentsLine": "Furniture, collectibles, art, figurines and antiques.",
-      "lat": 33.2743215,
-      "lng": -111.7011071,
-      "approximate": false
-    },
-    {
-      "id": "a5d5551f99c9aa7e",
-      "title": "Estate sale 61 yrs 50% off monday nov23 8 am to 6",
-      "company": null,
-      "streetAddress": "51st ave. . near Komatke lane",
-      "city": "Laveen",
-      "state": "AZ",
-      "zip": null,
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-23",
-          "start": "08:00",
-          "end": "18:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist Phoenix",
-          "url": "https://www.craigslist.org/view/d/laveen-estate-sale-61-yrs-50-off-monday/nMkJymcHKeF3iPFGS2USYG"
-        }
-      ],
-      "categories": [],
-      "photoCount": 23,
-      "photoUrls": [
-        "https://images.craigslist.org/00202_dZexOBVE0HV_0Nm13O_600x450.jpg",
-        "https://images.craigslist.org/00F0F_6gASe69j8PJ_13O0Nm_600x450.jpg",
-        "https://images.craigslist.org/00g0g_7afE11XFgEk_0Nm13O_600x450.jpg",
-        "https://images.craigslist.org/00D0D_geSklITD8SV_13O0Nm_600x450.jpg",
-        "https://images.craigslist.org/00Q0Q_7IT5TFI4h26_0Nm13O_600x450.jpg",
-        "https://images.craigslist.org/00m0m_ly96iHhWYA6_0Nm13O_600x450.jpg",
-        "https://images.craigslist.org/00P0P_19ohewi5g0Q_13O0Nm_600x450.jpg",
-        "https://images.craigslist.org/00y0y_j6AC5OPP16L_0Nm13O_600x450.jpg",
-        "https://images.craigslist.org/00z0z_7L9fIu2uMAP_13O0Nm_600x450.jpg",
-        "https://images.craigslist.org/00C0C_CHXgLQeLu7_13O0Nm_600x450.jpg",
-        "https://images.craigslist.org/00u0u_uiBL9vvHsR_0Nm13O_600x450.jpg",
-        "https://images.craigslist.org/00e0e_g9HbVRwAGF_13O0Nm_600x450.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "23 photos",
-        "collectibles, vehicles and kitchen in the listing"
-      ],
-      "photoKeywords": [
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "electronics",
-        "toys & games",
-        "antiques",
-        "silver",
-        "coins",
-        "dolls",
-        "christmas decor"
-      ],
-      "contentsLine": "Collectibles, vehicles, kitchen, electronics and toys & games.",
-      "lat": 33.3618814,
-      "lng": -112.1533861,
-      "approximate": true
-    },
-    {
       "id": "bb3bde53aa119fa6",
       "title": "Zen Decor, Rattan, Asian & Classic Furniture , Household Items",
       "company": "His & Hers Estate Sale Services",
-      "streetAddress": null,
+      "streetAddress": "10722 W. Welk Dr.",
       "city": "Sun City",
       "state": "AZ",
       "zip": "85373",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-24",
@@ -236,8 +113,68 @@
         "silver"
       ],
       "contentsLine": "Tools, furniture, mirrors and silver.",
-      "lat": 33.6617412,
-      "lng": -112.2899359,
+      "lat": 33.6440435,
+      "lng": -112.2915,
+      "approximate": false
+    },
+    {
+      "id": "d962063c862adefa",
+      "title": "Estate sale 61 yrs 50% off tuesday nov24 8 am to 6",
+      "company": null,
+      "streetAddress": "51st ave. . near Komatke lane",
+      "city": "Laveen",
+      "state": "AZ",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-24",
+          "start": "08:00",
+          "end": "18:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Phoenix",
+          "url": "https://www.craigslist.org/view/d/laveen-estate-sale-61-yrs-50-off/nMkJymcHKeF3iPFGS2USYG"
+        }
+      ],
+      "categories": [],
+      "photoCount": 23,
+      "photoUrls": [
+        "https://images.craigslist.org/00202_dZexOBVE0HV_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00F0F_6gASe69j8PJ_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00g0g_7afE11XFgEk_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00D0D_geSklITD8SV_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00Q0Q_7IT5TFI4h26_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00m0m_ly96iHhWYA6_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00P0P_19ohewi5g0Q_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00y0y_j6AC5OPP16L_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00z0z_7L9fIu2uMAP_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00C0C_CHXgLQeLu7_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00u0u_uiBL9vvHsR_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00e0e_g9HbVRwAGF_13O0Nm_600x450.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "23 photos",
+        "collectibles, vehicles and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "electronics",
+        "toys & games",
+        "antiques",
+        "silver",
+        "coins",
+        "dolls",
+        "christmas decor"
+      ],
+      "contentsLine": "Collectibles, vehicles, kitchen, electronics and toys & games.",
+      "lat": 33.3618814,
+      "lng": -112.1533861,
       "approximate": true
     },
     {
@@ -295,13 +232,19 @@
         "104 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "christmas decor"
-      ],
-      "contentsLine": "Christmas decor.",
       "lat": 33.665981,
       "lng": -112.2439366,
-      "approximate": false
+      "approximate": false,
+      "photoKeywords": [
+        "Brinks lockbox",
+        "black sofa",
+        "throw pillows",
+        "Elgato Video Capture",
+        "stylus pen",
+        "framed duck art"
+      ],
+      "contentsLine": "Photos show a gray Brinks lockbox, a black sofa with throw pillows and framed art of ducks flying over a lakeside cabin.",
+      "photoRead": true
     },
     {
       "id": "32367a54e4d3fcc5",
@@ -652,7 +595,7 @@
       ],
       "contactPhone": "(623) 628-4987",
       "contactUrl": "http://www.fullhouseestatesales.net",
-      "photoCount": 121,
+      "photoCount": 169,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5162955/1-1/407a9a32-9f2a-45df-8df8-c505f101a823.jpg",
         "https://picturescdn.estatesales.net/5162955/1-1/81918dac-b82f-4f2b-8d75-cdbaba78bac0.jpg",
@@ -669,7 +612,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "121 photos",
+        "169 photos",
         "tools, furniture and vinyl & records in the listing"
       ],
       "photoKeywords": [
@@ -691,7 +634,7 @@
     },
     {
       "id": "a22e2d41fc584895",
-      "title": "Scottsdale Estate Sale",
+      "title": "Scottsdale Estate Sale 4 Million Dollar Home",
       "company": "Fresh Start Estate Sales",
       "streetAddress": null,
       "city": "Scottsdale",
@@ -792,22 +735,20 @@
         "437 photos",
         "tools, furniture and collectibles in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "collectibles",
-        "kitchen",
-        "books",
-        "art",
-        "electronics",
-        "toys & games",
-        "figurines",
-        "china"
-      ],
-      "contentsLine": "Tools, furniture, collectibles, kitchen and books.",
       "lat": 33.5978768,
       "lng": -112.1222953,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "push-button desk phones",
+        "portable record player",
+        "rocking chair",
+        "table lamps",
+        "hutch",
+        "strawberry jar",
+        "horn speaker"
+      ],
+      "contentsLine": "Cream and turquoise desk phones sit under table lamps. A portable record player rests in an open case.",
+      "photoRead": true
     },
     {
       "id": "1f94b1d8d59d26b3",
@@ -950,6 +891,66 @@
       "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
       "lat": 33.6238943,
       "lng": -112.1768643,
+      "approximate": true
+    },
+    {
+      "id": "9d83ced8155c2239",
+      "title": "+++ONE BANGER OF A SALE TO CLOSE OUT THE YEAR+++",
+      "company": "Lenore and Auntie Glads Estate Sales, LLC",
+      "streetAddress": null,
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85028",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "08:00",
+          "end": "13:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "08:00",
+          "end": "13:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "08:00",
+          "end": "13:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Phoenix/85028/5170521"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(623) 215-5552",
+      "contactUrl": "https://www.phxestatesales.com",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170521/1-1/3f2ce52b-668a-4a26-bf5e-70b9a3b41459.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "tools, furniture and jewelry in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "clothing",
+        "books",
+        "crystal",
+        "christmas decor",
+        "patio furniture"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and clothing.",
+      "lat": 33.5841986,
+      "lng": -112.0095004,
       "approximate": true
     },
     {
@@ -1128,22 +1129,18 @@
         "tools, furniture and vinyl & records in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "vinyl & records",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics"
-      ],
-      "contentsLine": "Tools, furniture, vinyl & records, collectibles and vehicles.",
       "lat": 33.5841986,
       "lng": -112.0095004,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "model race cars",
+        "Olsonite Eagle model",
+        "Sheraton Thompson Special model",
+        "Bowes Special model",
+        "Ferrari model car"
+      ],
+      "contentsLine": "Open-wheel models include a white No. 6 Olsonite Eagle, a red No. 20 STP car and a red No. 10 Ferrari.",
+      "photoRead": true
     },
     {
       "id": "3d5ae09f535a544c",
@@ -1167,6 +1164,11 @@
         },
         {
           "date": "2026-12-05",
+          "start": "09:00",
+          "end": "13:00"
+        },
+        {
+          "date": "2026-12-06",
           "start": "09:00",
           "end": "13:00"
         }
@@ -1199,7 +1201,7 @@
       "ratingReasons": [
         "409 photos",
         "furniture, vinyl & records and jewelry in the listing",
-        "runs 3 days"
+        "runs 4 days"
       ],
       "lat": 33.6190495,
       "lng": -111.9551044,
@@ -1213,6 +1215,84 @@
         "shirts"
       ],
       "contentsLine": "Closet rails hold shirts and sleeveless tops. Other photos show a glass-front cabinet and metal serving pieces.",
+      "photoRead": true
+    },
+    {
+      "id": "5b0c1431d7b705bf",
+      "title": "Phoenix Estate Sale Cobra, Ford Truck Ford Ford",
+      "company": "Fresh Start Estate Sales",
+      "streetAddress": null,
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85021",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "13:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "13:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "13:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "09:00",
+          "end": "13:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/az/phoenix/85021/phoenix-estate-sale-2470694"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Phoenix/85021/5113395"
+        }
+      ],
+      "categories": [
+        "vehicles"
+      ],
+      "contactPhone": "(480) 486-0606",
+      "contactUrl": "http://www.freshstartestatesale.com",
+      "photoCount": 122,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5113395/1-1/47814428-33c2-4606-89fa-519ffa6a5bbe.jpg",
+        "https://picturescdn.estatesales.net/5113395/1-1/7d13fc09-3f23-4f97-9610-55ea2dedea7c.jpg",
+        "https://picturescdn.estatesales.net/5113395/1-1/bba5aec7-2271-4d65-85c1-0bb31072064f.jpg",
+        "https://picturescdn.estatesales.net/5113395/1-1/65b4971c-dae5-4a6d-9985-94f81091cb78.jpg",
+        "https://picturescdn.estatesales.net/5113395/1-1/1b464577-81bd-4ca8-b73d-1fc43609bd3b.jpg",
+        "https://picturescdn.estatesales.net/5113395/1-1/74001b16-c16e-4da1-b637-f8cecf3c7536.jpg",
+        "https://picturescdn.estatesales.net/5113395/1-1/92b892bb-8692-4387-ac81-3a63f127b972.jpg",
+        "https://picturescdn.estatesales.net/5113395/1-1/88110a10-efc8-4c8b-ba62-9642ba8925b3.jpg",
+        "https://picturescdn.estatesales.net/5113395/1-1/59ef66eb-8b7d-414d-8b98-a408096bf86c.jpg",
+        "https://picturescdn.estatesales.net/5113395/1-1/ac36f6df-9661-4169-bf98-a8be1a8cfa6a.jpg",
+        "https://picturescdn.estatesales.net/5113395/1-1/8f361ef3-b236-4acd-a4e3-9dc84b90daba.jpg",
+        "https://picturescdn.estatesales.net/5113395/1-1/3917d245-4025-4fd8-a72c-bd7afc005240.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "122 photos",
+        "runs 4 days"
+      ],
+      "lat": 33.5618763,
+      "lng": -112.092873,
+      "approximate": true,
+      "photoKeywords": [
+        "two-seat roadster",
+        "side exhaust pipes",
+        "roll bar",
+        "bucket seats"
+      ],
+      "contentsLine": "A blue roadster with white racing stripes has a roll bar, side exhaust pipes and white bucket seats.",
       "photoRead": true
     },
     {
@@ -1279,6 +1359,60 @@
       "approximate": true
     },
     {
+      "id": "cb431916e2edadf9",
+      "title": "Amazing Finds Estate Sales",
+      "company": "Amazing Finds Estate Sales",
+      "streetAddress": null,
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zip": "85254",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "08:00",
+          "end": "13:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "08:00",
+          "end": "13:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Scottsdale/85254/5169471"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(623) 256-4976",
+      "contactUrl": "https://www.amazingfindsestatesales.com/",
+      "photoCount": 193,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5169471/1-1/2277d9bf-f0be-4c17-b5f7-975661139e8b.jpg",
+        "https://picturescdn.estatesales.net/5169471/1-1/9df2ac3d-222d-4ec2-8890-0eeb83f0d7a2.jpg",
+        "https://picturescdn.estatesales.net/5169471/1-1/b5f266b3-8f90-45f6-9823-004b77710155.jpg",
+        "https://picturescdn.estatesales.net/5169471/1-1/73da13d2-4d72-4918-92f5-f0186660aaf3.jpg",
+        "https://picturescdn.estatesales.net/5169471/1-1/cfee677c-8092-443b-97b5-42685ed3f472.jpg",
+        "https://picturescdn.estatesales.net/5169471/1-1/edf12c51-1eee-4294-8123-36a78dcdc24c.jpg",
+        "https://picturescdn.estatesales.net/5169471/1-1/50c21a87-c3ff-469c-985c-c455371141ca.jpg",
+        "https://picturescdn.estatesales.net/5169471/1-1/e6345629-6223-444d-96d3-0af2ae55dbb2.jpg",
+        "https://picturescdn.estatesales.net/5169471/1-1/b10cd39d-e980-4903-ab01-57fa1c6a4e83.jpg",
+        "https://picturescdn.estatesales.net/5169471/1-1/97e726a5-577e-476c-9644-4d3239908c8d.jpg",
+        "https://picturescdn.estatesales.net/5169471/1-1/f3f8ef2e-bf41-40fc-977a-5e24f96cd597.jpg",
+        "https://picturescdn.estatesales.net/5169471/1-1/0c782417-9bc5-4bfc-b8bf-da56dec8847f.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "193 photos"
+      ],
+      "photoKeywords": [],
+      "lat": 33.6190495,
+      "lng": -111.9551044,
+      "approximate": true
+    },
+    {
       "id": "36bbe86e8f21a892",
       "title": "Collectors Dream, Antiques, Vintage and PACKED Cave Creek Estate Sale by Radiant Estate Sales",
       "company": "Radiant Estate Sales",
@@ -1336,22 +1470,21 @@
         "furniture, vinyl & records and jewelry in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "vinyl & records",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "toys & games"
-      ],
-      "contentsLine": "Furniture, vinyl & records, jewelry, collectibles and kitchen.",
       "lat": 33.7784771,
       "lng": -111.9683306,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "Bally slot machine",
+        "Scrabble",
+        "glass-front bookcase",
+        "Santa figurines",
+        "china hutch",
+        "dinette table",
+        "red dinette chairs",
+        "teacups"
+      ],
+      "contentsLine": "A Bally slot machine stands beside stacks of Scrabble games. Red and white dishes cover a table with red chairs.",
+      "photoRead": true
     },
     {
       "id": "dd8117b504e7a929",
@@ -1383,7 +1516,7 @@
       "categories": [],
       "contactPhone": "4805400098",
       "contactUrl": "https://www.estatesales.net/companies/AZ/Chandler/85248/142496",
-      "photoCount": 53,
+      "photoCount": 82,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5169927/1-1/ee7e3b9c-bda2-4305-bb49-f816c58b7574.jpg",
         "https://picturescdn.estatesales.net/5169927/1-1/823e668e-58e8-4a1d-8d7e-81b4ac5ef519.jpg",
@@ -1400,12 +1533,19 @@
       ],
       "digRating": "Worth a Look",
       "ratingReasons": [
-        "53 photos"
+        "82 photos"
       ],
-      "photoKeywords": [],
       "lat": 33.2232339,
       "lng": -111.7981001,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "Santa figurines",
+        "stuffed orangutans",
+        "LED Christmas trees",
+        "snowman decoration"
+      ],
+      "contentsLine": "Santa figures include one holding a tennis racket. Two white stuffed orangutans sit side by side.",
+      "photoRead": true
     },
     {
       "id": "138d9a3c1b57b79e",
@@ -1516,73 +1656,6 @@
         "wood sideboard"
       ],
       "contentsLine": "A tan sofa and swivel recliner sit by a square coffee table. Other rooms show a wood desk, sideboard and dresser.",
-      "photoRead": true
-    },
-    {
-      "id": "5b0c1431d7b705bf",
-      "title": "Phoenix Estate Sale Cobra, Ford Truck Ford Ford",
-      "company": "Fresh Start Estate Sales",
-      "streetAddress": null,
-      "city": "Phoenix",
-      "state": "AZ",
-      "zip": "85021",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-12-04",
-          "start": "09:00",
-          "end": "13:00"
-        },
-        {
-          "date": "2026-12-05",
-          "start": "09:00",
-          "end": "13:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/az/phoenix/85021/phoenix-estate-sale-2470694"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/AZ/Phoenix/85021/5113395"
-        }
-      ],
-      "categories": [
-        "vehicles"
-      ],
-      "contactPhone": "(480) 486-0606",
-      "contactUrl": "http://www.freshstartestatesale.com",
-      "photoCount": 122,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5113395/1-1/47814428-33c2-4606-89fa-519ffa6a5bbe.jpg",
-        "https://picturescdn.estatesales.net/5113395/1-1/7d13fc09-3f23-4f97-9610-55ea2dedea7c.jpg",
-        "https://picturescdn.estatesales.net/5113395/1-1/bba5aec7-2271-4d65-85c1-0bb31072064f.jpg",
-        "https://picturescdn.estatesales.net/5113395/1-1/65b4971c-dae5-4a6d-9985-94f81091cb78.jpg",
-        "https://picturescdn.estatesales.net/5113395/1-1/1b464577-81bd-4ca8-b73d-1fc43609bd3b.jpg",
-        "https://picturescdn.estatesales.net/5113395/1-1/74001b16-c16e-4da1-b637-f8cecf3c7536.jpg",
-        "https://picturescdn.estatesales.net/5113395/1-1/92b892bb-8692-4387-ac81-3a63f127b972.jpg",
-        "https://picturescdn.estatesales.net/5113395/1-1/88110a10-efc8-4c8b-ba62-9642ba8925b3.jpg",
-        "https://picturescdn.estatesales.net/5113395/1-1/59ef66eb-8b7d-414d-8b98-a408096bf86c.jpg",
-        "https://picturescdn.estatesales.net/5113395/1-1/ac36f6df-9661-4169-bf98-a8be1a8cfa6a.jpg",
-        "https://picturescdn.estatesales.net/5113395/1-1/8f361ef3-b236-4acd-a4e3-9dc84b90daba.jpg",
-        "https://picturescdn.estatesales.net/5113395/1-1/3917d245-4025-4fd8-a72c-bd7afc005240.jpg"
-      ],
-      "digRating": "Worth a Look",
-      "ratingReasons": [
-        "122 photos"
-      ],
-      "lat": 33.5618763,
-      "lng": -112.092873,
-      "approximate": true,
-      "photoKeywords": [
-        "two-seat roadster",
-        "side exhaust pipes",
-        "roll bar",
-        "bucket seats"
-      ],
-      "contentsLine": "A blue roadster with white racing stripes has a roll bar, side exhaust pipes and white bucket seats.",
       "photoRead": true
     },
     {

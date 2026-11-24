@@ -59,6 +59,11 @@
   "nominatim:street:9702 wrangler dr:85373": {
     "retryAfter": 1795962947347
   },
+  "street:10722 w welk dr:85373": {
+    "lat": 33.6440435,
+    "lng": -112.2915,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:1519 e winged foot dr:85249": {
     "lat": 33.2094518,
     "lng": -111.8144454,

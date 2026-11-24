@@ -59,6 +59,9 @@
   "nominatim:street:1301 custer unit 706 directly behind the tee time bar:75075": {
     "retryAfter": 1796077354119
   },
+  "nominatim:street:13342 mt castle dr:75234": {
+    "retryAfter": 1796134931270
+  },
   "nominatim:street:1505 starshadow dr richardson 75081 near blake:richardson": {
     "retryAfter": 1795828604945
   },
@@ -367,10 +370,20 @@
     "lng": -97.102601,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:2316 english cir:75041": {
+    "lat": 32.8857903,
+    "lng": -96.6625737,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:2325 san marcus dallas:75228": {
     "lat": 32.831858,
     "lng": -96.677018,
     "basis": "Public listing map: EstateSales.net"
+  },
+  "street:236 w bedford euless rd:76053": {
+    "lat": 32.8340392,
+    "lng": -97.1715926,
+    "basis": "OpenStreetMap Nominatim"
   },
   "street:2441 pinebluff dr:75228": {
     "lat": 32.8042785,
@@ -702,6 +715,11 @@
     "lng": -96.6075687,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:75150": {
+    "lat": 32.8133775,
+    "lng": -96.6257472,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:75180": {
     "lat": 32.7243047,
     "lng": -96.6138618,
@@ -730,6 +748,11 @@
   "zip:75230": {
     "lat": 32.8972495,
     "lng": -96.7955588,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75234": {
+    "lat": 32.9213267,
+    "lng": -96.8833169,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:75244": {
@@ -830,6 +853,11 @@
   "zip:76137": {
     "lat": 32.8633006,
     "lng": -97.2895955,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76148": {
+    "lat": 32.8689226,
+    "lng": -97.2507183,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:76209": {

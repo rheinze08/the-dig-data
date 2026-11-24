@@ -162,6 +162,11 @@
     "lng": -84.502266,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:1790 cheshire bridge rd:30324": {
+    "lat": 33.8085791,
+    "lng": -84.3640674,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:1810 greystone ct:30068": {
     "lat": 33.9923301,
     "lng": -84.40013739999999,
@@ -322,6 +327,11 @@
     "lng": -84.5458203,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:711 trabert ave nw:30318": {
+    "lat": 33.7954852,
+    "lng": -84.411255,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:711 trabert ave sw:30318": {
     "lat": 33.795597,
     "lng": -84.411195,
@@ -450,6 +460,11 @@
   "zip:30122": {
     "lat": 33.7742855,
     "lng": -84.6458249,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30132": {
+    "lat": 33.9365431,
+    "lng": -84.8316449,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:30144": {

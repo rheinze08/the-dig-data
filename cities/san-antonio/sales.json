@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-23",
-  "collectedAt": "2026-11-23T22:24:00.032Z",
+  "asOf": "2026-11-24",
+  "collectedAt": "2026-11-24T14:23:41.984Z",
   "window": {
-    "start": "2026-11-23",
-    "end": "2026-12-06",
+    "start": "2026-11-24",
+    "end": "2026-12-07",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,8 +14,8 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 42/42 local candidate details.",
-      "candidates": 16,
+      "detail": "Read the public sale sitemap. Checked 45/45 local candidate details.",
+      "candidates": 17,
       "included": 14
     },
     "EstateSales.org": {
@@ -38,90 +38,16 @@
     }
   },
   "counts": {
-    "candidates": 17,
+    "candidates": 18,
     "listings": 14,
     "sales": 14,
     "duplicates": 0,
-    "outsideRadius": 3,
+    "outsideRadius": 4,
     "unlocatedListings": 0
   },
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
-    {
-      "id": "02ab56acec837dcf",
-      "title": "75% off and $35 Basket Sales-Grainfather Brewing System, Western Cowboy Art, Tools & Furniture",
-      "company": "San Antonio Estate Sales LLC",
-      "streetAddress": "13714 Wondering Oak",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78247",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-21",
-          "start": "10:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-22",
-          "start": "10:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-23",
-          "start": "10:00",
-          "end": "17:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78247/5166360"
-        }
-      ],
-      "categories": [
-        "tools",
-        "furniture",
-        "art"
-      ],
-      "contactPhone": "(210) 664-5050",
-      "contactUrl": "https://saesllc.com",
-      "photoCount": 171,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5166360/1-1/f401538c-7613-47ba-8696-a5e5a43c4974.jpg",
-        "https://picturescdn.estatesales.net/5166360/1-1/4499d242-27b2-46b9-b3d5-a88dc0e73277.jpg",
-        "https://picturescdn.estatesales.net/5166360/1-1/922bc5a9-7c9f-4220-8fee-dcccc24a4283.jpg",
-        "https://picturescdn.estatesales.net/5166360/1-1/6a9f3799-44c7-4737-9c64-8be84284b52c.jpg",
-        "https://picturescdn.estatesales.net/5166360/1-1/2c58fbe5-141d-46d3-bd5c-c185d194e5a1.jpg",
-        "https://picturescdn.estatesales.net/5166360/1-1/83ee4bee-701b-4354-8c03-8358d3a1a28a.jpg",
-        "https://picturescdn.estatesales.net/5166360/1-1/710dfcde-ae1f-464a-8ddc-27d9edad8836.jpg",
-        "https://picturescdn.estatesales.net/5166360/1-1/25910896-6616-4536-8cde-4e8753e7ba05.jpg",
-        "https://picturescdn.estatesales.net/5166360/1-1/cf2c0d13-7150-47b6-b206-c67d616e0df5.jpg",
-        "https://picturescdn.estatesales.net/5166360/1-1/9586e197-303c-4d1d-bfdb-ebcfe17025ae.jpg",
-        "https://picturescdn.estatesales.net/5166360/1-1/1eea72e6-8a37-4c9c-99a3-a396de78d7ec.jpg",
-        "https://picturescdn.estatesales.net/5166360/1-1/f861a7b5-06c3-48bb-941b-94ed58aa0d52.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "171 photos",
-        "tools, furniture and collectibles in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "art",
-        "toys & games"
-      ],
-      "contentsLine": "Tools, furniture, collectibles, vehicles and kitchen.",
-      "lat": 29.5658081,
-      "lng": -98.4310994,
-      "approximate": false
-    },
     {
       "id": "c0420bbe0c6f9d01",
       "title": "Blowout sale! 50% OFF",
@@ -295,6 +221,69 @@
       "approximate": true
     },
     {
+      "id": "9e1820020e5936e6",
+      "title": "Bachelor Pad",
+      "company": "Top Hat Estate Sales",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78217",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-01",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-02",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78217/5170932"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(210) 838-4654",
+      "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78208/135248",
+      "photoCount": 51,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170932/1-1/a6fb5633-eb3f-4f31-8417-688efc0628a8.jpg",
+        "https://picturescdn.estatesales.net/5170932/1-1/95704160-2b1e-4b97-8044-a93c7c353579.jpg",
+        "https://picturescdn.estatesales.net/5170932/1-1/2e277510-1632-4088-8900-15d2285c203e.jpg",
+        "https://picturescdn.estatesales.net/5170932/1-1/2adcbde8-d483-4795-a2f1-821c60ee67a9.jpg",
+        "https://picturescdn.estatesales.net/5170932/1-1/e6c87ae6-b57f-4009-bd4f-b954e359defe.jpg",
+        "https://picturescdn.estatesales.net/5170932/1-1/d4bacdfc-2f7f-4474-97df-96d98be7905c.jpg",
+        "https://picturescdn.estatesales.net/5170932/1-1/b6acae68-4c8f-4f14-8d02-2e4c9b964eaa.jpg",
+        "https://picturescdn.estatesales.net/5170932/1-1/bbd1c0e7-0d8f-411d-9e55-4025466ae1a1.jpg",
+        "https://picturescdn.estatesales.net/5170932/1-1/9e90157d-1616-4e16-a092-ffeec60b2d79.jpg",
+        "https://picturescdn.estatesales.net/5170932/1-1/0204d22a-d5b5-472d-abe0-1c4dc9757ee4.jpg",
+        "https://picturescdn.estatesales.net/5170932/1-1/a9447019-f38c-47bb-9d08-f7de0aa911fa.jpg",
+        "https://picturescdn.estatesales.net/5170932/1-1/ecd1cf00-12b9-4648-90c9-9e2d2672d0de.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "51 photos",
+        "tools, furniture and vinyl & records in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "vehicles",
+        "clothing",
+        "mid-century"
+      ],
+      "contentsLine": "Tools, furniture, vinyl & records, vehicles and clothing.",
+      "lat": 29.5391544,
+      "lng": -98.4240602,
+      "approximate": true
+    },
+    {
       "id": "a79f908b58fbfa02",
       "title": "Secret stash in Monte Vista",
       "company": "Top Hat Estate Sales",
@@ -421,13 +410,20 @@
         "278 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture"
-      ],
-      "contentsLine": "Furniture.",
       "lat": 29.5177775,
       "lng": -98.3748987,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "floral sofas",
+        "coffee table",
+        "fireplace tools",
+        "mantel clock",
+        "framed mirror",
+        "patterned pots",
+        "table lamps"
+      ],
+      "contentsLine": "Two floral sofas flank a coffee table. A framed mirror and a clock stand on the mantel above patterned pots.",
+      "photoRead": true
     },
     {
       "id": "2c0914ce4fcdc73f",
@@ -464,7 +460,7 @@
       "categories": [],
       "contactPhone": "(210) 363-6603",
       "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78248/50918",
-      "photoCount": 109,
+      "photoCount": 245,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5166486/1-1/e0bab3fc-09ae-48d7-8d1b-b7c396b82267.jpg",
         "https://picturescdn.estatesales.net/5166486/1-1/27a02467-0397-4fb9-8adc-eac14686d991.jpg",
@@ -481,7 +477,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "109 photos",
+        "245 photos",
         "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
@@ -684,22 +680,21 @@
         "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "figurines"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
       "lat": 29.5638506,
       "lng": -98.6155369,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "bird field guides",
+        "butterfly books",
+        "throw pillows",
+        "dining table",
+        "dining chairs",
+        "candlesticks",
+        "serving platter",
+        "table runner"
+      ],
+      "contentsLine": "Bird and butterfly guides cover the sofas and coffee table. A painted platter sits between two candlesticks.",
+      "photoRead": true
     },
     {
       "id": "b1b05208182ed34e",
@@ -757,16 +752,20 @@
         "furniture and art in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "art",
-        "mirrors",
-        "pianos"
-      ],
-      "contentsLine": "Furniture, art, mirrors and pianos.",
       "lat": 29.7099405,
       "lng": -98.6398306,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "Hyundai grand piano",
+        "piano bench",
+        "sheet music",
+        "framed wall mirror",
+        "figurines",
+        "lidded jars",
+        "framed floral art"
+      ],
+      "contentsLine": "A white Hyundai grand piano has a matching padded bench and sheet music. Figurines stand beneath a gold-tone mirror.",
+      "photoRead": true
     },
     {
       "id": "334d1454eaf0086b",
@@ -805,7 +804,7 @@
       ],
       "contactPhone": "(210) 313-2722",
       "contactUrl": "https://estatesalesbyemilee.com",
-      "photoCount": 456,
+      "photoCount": 424,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5163432/1-1/e411dee6-a960-4abd-bdde-f790144186a0.jpg",
         "https://picturescdn.estatesales.net/5163432/1-1/67e43a47-7a73-4107-9de1-d088cf629142.jpg",
@@ -822,7 +821,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "456 photos",
+        "424 photos",
         "tools, furniture and kitchen in the listing",
         "runs 3 days"
       ],

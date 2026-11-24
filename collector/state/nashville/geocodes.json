@@ -4,6 +4,11 @@
     "lng": -86.7739498,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:37048": {
+    "lat": 36.4962802,
+    "lng": -86.6048649,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:37064": {
     "lat": 35.9062737,
     "lng": -86.8682941,
@@ -12,6 +17,16 @@
   "zip:37069": {
     "lat": 35.9796806,
     "lng": -86.8992191,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37075": {
+    "lat": 36.3150086,
+    "lng": -86.6090316,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:37076": {
+    "lat": 36.1807257,
+    "lng": -86.5972246,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:37087": {

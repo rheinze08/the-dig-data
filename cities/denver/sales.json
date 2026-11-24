@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-23",
-  "collectedAt": "2026-11-23T22:27:11.676Z",
+  "asOf": "2026-11-24",
+  "collectedAt": "2026-11-24T14:27:01.546Z",
   "window": {
-    "start": "2026-11-23",
-    "end": "2026-12-06",
+    "start": "2026-11-24",
+    "end": "2026-12-07",
     "timeZone": "America/Denver"
   },
   "area": {
@@ -14,21 +14,21 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 19/19 local candidate details.",
-      "candidates": 5,
-      "included": 5
+      "detail": "Read the public sale sitemap. Checked 21/21 local candidate details.",
+      "candidates": 6,
+      "included": 6
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 5 Denver directory cards over 1 pages. Checked 2/2 in-person local candidate details.",
-      "candidates": 2,
-      "included": 2
+      "detail": "Read 7 Denver directory cards over 1 pages. Checked 4/4 in-person local candidate details.",
+      "candidates": 4,
+      "included": 4
     },
     "Craigslist Denver": {
       "status": "reached",
-      "detail": "11 directory listings discovered; 3 in-window estate listings before radius filtering",
-      "candidates": 3,
-      "included": 3
+      "detail": "10 directory listings discovered; 4 in-window estate listings before radius filtering",
+      "candidates": 4,
+      "included": 4
     },
     "GSALR.com": {
       "status": "blocked",
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 10,
-    "listings": 10,
-    "sales": 8,
+    "candidates": 14,
+    "listings": 14,
+    "sales": 12,
     "duplicates": 2,
     "outsideRadius": 0,
     "unlocatedListings": 0
@@ -48,6 +48,71 @@
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
+    {
+      "id": "cd77d480b5400b91",
+      "title": "Black Friday Estate Sale Fun",
+      "company": null,
+      "streetAddress": null,
+      "city": "Brighton",
+      "state": "CO",
+      "zip": null,
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Denver",
+          "url": "https://www.craigslist.org/view/d/brighton-black-friday-estate-sale-fun/qv7kSh9zmMkTrah6c2xbpf"
+        }
+      ],
+      "categories": [],
+      "photoCount": 24,
+      "photoUrls": [
+        "https://images.craigslist.org/00f0f_2TTHteJZI8j_0hq0d4_600x450.jpg",
+        "https://images.craigslist.org/00W0W_lAYhYpVyzvs_0hq0d4_600x450.jpg",
+        "https://images.craigslist.org/00h0h_5N4rgbLJER9_0d40hq_600x450.jpg",
+        "https://images.craigslist.org/00i0i_4RjdleibsTt_0d40hq_600x450.jpg",
+        "https://images.craigslist.org/00o0o_bLjlBUqHQ5_0d40hq_600x450.jpg",
+        "https://images.craigslist.org/00o0o_7v7at51DfSj_0d40hq_600x450.jpg",
+        "https://images.craigslist.org/00a0a_5GwYR4PrGIG_0hq0d4_600x450.jpg",
+        "https://images.craigslist.org/00A0A_iHGXj6VBhvn_0hq0d4_600x450.jpg",
+        "https://images.craigslist.org/00y0y_bVqHyEZqwRk_0d40hq_600x450.jpg",
+        "https://images.craigslist.org/00e0e_duYecyXZcXy_0d40hq_600x450.jpg",
+        "https://images.craigslist.org/00U0U_fMhg5d52ytg_0hq0d4_600x450.jpg",
+        "https://images.craigslist.org/01313_gIFtgDRwjAB_0d40hq_600x450.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "24 photos",
+        "tools, furniture and jewelry in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "figurines",
+        "mid-century"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
+      "lat": 39.983721,
+      "lng": -104.8110775,
+      "approximate": true
+    },
     {
       "id": "c9b73de405aafe46",
       "title": "Estate Sale In Thornton",
@@ -91,17 +156,60 @@
         "24 photos",
         "tools, furniture and collectibles in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "clothing"
-      ],
-      "contentsLine": "Tools, furniture, collectibles, vehicles and kitchen.",
       "lat": 39.8695516,
       "lng": -104.985181,
+      "approximate": true,
+      "photoKeywords": [
+        "three-wheel motorcycle",
+        "patchwork jacket",
+        "model airplanes",
+        "cowboy boots",
+        "sewing magazines"
+      ],
+      "contentsLine": "A black motorcycle has two rear wheels. Other photos show a patchwork jacket, model planes and stitched cowboy boots.",
+      "photoRead": true
+    },
+    {
+      "id": "38c8b43af5d4e191",
+      "title": "From Work Bench To Wardrobe Black Friday Estate Sale",
+      "company": "Front Porch Estate Sales",
+      "streetAddress": null,
+      "city": "Brighton",
+      "state": "CO",
+      "zip": "80601",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/co/brighton/80601/from-work-bench-to-wardrobe-2475219"
+        }
+      ],
+      "categories": [],
+      "contactUrl": "https://estatesales.org/estate-sale-companies/front-porch-estate-sales-11085",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://eso-cdn.tlcdn.workers.dev/s-2475219-qf38q8oq0enky669.webp"
+      ],
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "only 1 photo",
+        "few details in the listing"
+      ],
+      "photoKeywords": [],
+      "lat": 39.9700959,
+      "lng": -104.8019397,
       "approximate": true
     },
     {
@@ -152,21 +260,22 @@
         "18 photos",
         "furniture, collectibles and kitchen in the listing"
       ],
-      "photoKeywords": [
-        "furniture",
-        "collectibles",
-        "kitchen",
-        "toys & games",
-        "dolls"
-      ],
-      "contentsLine": "Furniture, collectibles, kitchen, toys & games and dolls.",
       "lat": 39.7392364,
       "lng": -104.984862,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "lighthouse figurines",
+        "glass display cabinet",
+        "stuffed animals",
+        "coffee mugs",
+        "glass jars"
+      ],
+      "contentsLine": "Miniature lighthouses fill a tabletop, plush animals line a cubby shelf, and mugs sit above a window.",
+      "photoRead": true
     },
     {
       "id": "76a26105c471b593",
-      "title": "Workbench to Wardrobe Estate Sale",
+      "title": "Workbench to Wardrobe Thanksgiving Estate Sale",
       "company": "Front Porch Estate Sales",
       "streetAddress": null,
       "city": "Brighton",
@@ -216,22 +325,18 @@
         "197 photos",
         "tools, furniture and jewelry in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "figurines",
-        "mid-century"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
       "lat": 39.9700959,
       "lng": -104.8019397,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "floor mirror",
+        "jewelry armoire",
+        "pillar candle holder",
+        "console cabinet",
+        "upholstered armchair"
+      ],
+      "contentsLine": "A branch-shaped holder carries three pillar candles atop a low cabinet. Other pieces include a standing mirror.",
+      "photoRead": true
     },
     {
       "id": "78dc9eaabd02d56a",
@@ -280,18 +385,59 @@
         "furniture, jewelry and collectibles in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "art",
-        "figurines",
-        "antiques",
-        "rugs"
-      ],
-      "contentsLine": "Furniture, jewelry, collectibles, art and figurines.",
       "lat": 39.7417411,
       "lng": -105.0814424,
+      "approximate": false,
+      "photoKeywords": [
+        "amber floral vase",
+        "green handled jug",
+        "blue pitcher",
+        "checkered bowl"
+      ],
+      "contentsLine": "An amber floral vase, two handled jugs in green and blue, and a bowl with multicolored squares are pictured.",
+      "photoRead": true
+    },
+    {
+      "id": "0996b11d8b268783",
+      "title": "THE BIGGEST SALE OF THE YEAR IS HERE — AND IT'S ONLY ONE DAY.",
+      "company": "Cobblestone Too",
+      "streetAddress": "1862 Wadsworth Blvd",
+      "city": "Lakewood",
+      "state": "CO",
+      "zip": "80214",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "18:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/co/lakewood/80214/the-biggest-sale-of-the-2475181"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(303) 274-0235",
+      "contactUrl": "https://estatesales.org/estate-sale-companies/cobblestone-too-9907",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://eso-cdn.tlcdn.workers.dev/s-2475181-9sd6hnt0pymknjsy.webp"
+      ],
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "only 1 photo",
+        "few details in the listing"
+      ],
+      "photoKeywords": [
+        "jewelry",
+        "silver"
+      ],
+      "contentsLine": "Jewelry and silver.",
+      "lat": 39.7463655,
+      "lng": -105.081267,
       "approximate": false
     },
     {
@@ -356,22 +502,18 @@
         "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "toys & games"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
       "lat": 39.3953228,
       "lng": -104.8990983,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "toy tractors",
+        "model farm trailers",
+        "John Deere signs",
+        "abstract paintings",
+        "numbered print"
+      ],
+      "contentsLine": "Green and yellow model tractors line shelves below John Deere signs. The artwork includes red and black abstracts.",
+      "photoRead": true
     },
     {
       "id": "31a639e11a262688",
@@ -431,22 +573,19 @@
         "tools, furniture and collectibles in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "electronics",
-        "toys & games",
-        "guitars",
-        "comics"
-      ],
-      "contentsLine": "Tools, furniture, collectibles, kitchen and clothing.",
       "lat": 39.5904609,
       "lng": -104.721906,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "Star Wars action figures",
+        "Hoth Chewbacca figure",
+        "Jar Jar Binks figure",
+        "Sith accessory set",
+        "Batman books",
+        "Daredevil figure"
+      ],
+      "contentsLine": "Rows of packaged Star Wars figures include Hoth Chewbacca and Jar Jar Binks. A shelf holds Batman books.",
+      "photoRead": true
     },
     {
       "id": "bc2f7d8294bb8ad2",
@@ -507,9 +646,90 @@
         "61 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [],
       "lat": 39.7460319,
       "lng": -105.0636428,
+      "approximate": true,
+      "photoKeywords": [
+        "fly tying feathers",
+        "dubbing",
+        "fly fishing hooks",
+        "multi-drawer cabinet",
+        "desk lamp",
+        "framed fish print"
+      ],
+      "contentsLine": "Packets of fly tying feathers, dubbing and hooks fill a divided box and labeled cabinet drawers.",
+      "photoRead": true
+    },
+    {
+      "id": "694eebe876a02465",
+      "title": "Great Gifts for the Holidays in Hiwan Hills",
+      "company": "Meadowlark Estate Services",
+      "streetAddress": null,
+      "city": "Evergreen",
+      "state": "CO",
+      "zip": "80439",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Evergreen/80439/5170698"
+        }
+      ],
+      "categories": [],
+      "contactUrl": "https://www.meadowlarkestateservices.net/",
+      "photoCount": 205,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170698/1-1/dfbbd82d-32a0-4ed2-9bfa-88295b7c6003.jpg",
+        "https://picturescdn.estatesales.net/5170698/1-1/dd1533e0-3a87-44fd-ba60-3e61ad0f1cc2.jpg",
+        "https://picturescdn.estatesales.net/5170698/1-1/ab2f9718-cb91-4fed-9bf3-c436ff8aa921.jpg",
+        "https://picturescdn.estatesales.net/5170698/1-1/443441b9-dd92-43e8-9648-d0936e0b5190.jpg",
+        "https://picturescdn.estatesales.net/5170698/1-1/4a2a79d2-6535-43b4-b8d7-3bb80b74385e.jpg",
+        "https://picturescdn.estatesales.net/5170698/1-1/2233461f-4b16-44a5-848c-54e92b4e6e28.jpg",
+        "https://picturescdn.estatesales.net/5170698/1-1/32840668-dcd7-4291-8fec-c42af54b10d4.jpg",
+        "https://picturescdn.estatesales.net/5170698/1-1/14abdc72-5a29-48e5-82ba-6edb874c78cf.jpg",
+        "https://picturescdn.estatesales.net/5170698/1-1/5d1f22ac-5c63-480b-8ac8-81037b278698.jpg",
+        "https://picturescdn.estatesales.net/5170698/1-1/df41399f-3ad9-45f4-9439-394d55091c6f.jpg",
+        "https://picturescdn.estatesales.net/5170698/1-1/de4eb11e-4806-4e5a-975c-2a0577863c94.jpg",
+        "https://picturescdn.estatesales.net/5170698/1-1/d3e05b8d-82df-4075-aaff-4e1dd8a81978.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "205 photos",
+        "tools, furniture and vinyl & records in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "art",
+        "electronics",
+        "toys & games"
+      ],
+      "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
+      "lat": 39.6205238,
+      "lng": -105.3831556,
       "approximate": true
     },
     {
@@ -561,10 +781,21 @@
       "ratingReasons": [
         "52 photos"
       ],
-      "photoKeywords": [],
       "lat": 39.6579999,
       "lng": -105.0413717,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "colored stemware",
+        "tea set",
+        "decorative vases",
+        "candelabra",
+        "glass bowls",
+        "figurines",
+        "framed floral art",
+        "tureen"
+      ],
+      "contentsLine": "Colored stemware fills a shelf. A floral tureen, glass bowls and candelabra sit beneath a framed picture of poppies.",
+      "photoRead": true
     }
   ]
 }

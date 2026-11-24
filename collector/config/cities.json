@@ -149,7 +149,7 @@
       },
       "radiusMiles": 25,
       "timeZone": "America/Phoenix",
-      "status": "proving",
+      "status": "live",
       "sources": {
         "estateSalesNet": {
           "directory": "https://www.estatesales.net/AZ/Phoenix/85004"
@@ -181,7 +181,7 @@
       },
       "radiusMiles": 25,
       "timeZone": "America/New_York",
-      "status": "proving",
+      "status": "live",
       "sources": {
         "estateSalesNet": {
           "directory": "https://www.estatesales.net/GA/Atlanta/30303"

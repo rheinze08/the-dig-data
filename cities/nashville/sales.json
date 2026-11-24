@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-23",
-  "collectedAt": "2026-11-23T22:27:42.922Z",
+  "asOf": "2026-11-24",
+  "collectedAt": "2026-11-24T14:27:40.871Z",
   "window": {
-    "start": "2026-11-23",
-    "end": "2026-12-06",
+    "start": "2026-11-24",
+    "end": "2026-12-07",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,9 +14,9 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 26/27 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
-      "candidates": 15,
-      "included": 11
+      "detail": "Read the public sale sitemap. Checked 30/31 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
+      "candidates": 18,
+      "included": 13
     },
     "EstateSales.org": {
       "status": "reached",
@@ -38,11 +38,11 @@
     }
   },
   "counts": {
-    "candidates": 19,
-    "listings": 15,
-    "sales": 12,
+    "candidates": 22,
+    "listings": 17,
+    "sales": 14,
     "duplicates": 3,
-    "outsideRadius": 4,
+    "outsideRadius": 5,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -103,6 +103,77 @@
       "approximate": true
     },
     {
+      "id": "1f717a8402c14936",
+      "title": "Black Friday Sale",
+      "company": "Shorty’s Garage Estate Sales",
+      "streetAddress": null,
+      "city": "Hendersonville",
+      "state": "TN",
+      "zip": "37075",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Hendersonville/37075/5170677"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(615) 543-1100",
+      "contactUrl": "https://www.facebook.com/profile.php?id=61552038952422&mibextid=LQQJ4d",
+      "photoCount": 185,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170677/1-1/6a5e296e-7b54-40d4-9e25-fee31224faa4.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/5aa54059-af5d-4928-843c-07f7b9beb2cd.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/2e6e0bf5-31be-4f8f-a616-04c40d804b16.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/c2805fa2-a6fd-419b-a6bf-47b924f2b801.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/4e67c6a0-2e91-47ec-9cdd-ae0873bd30fb.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/3823bb96-cdb0-4bf2-b75d-490554d8780f.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/750b0f44-1942-4e24-a1a7-e3687a1a8bac.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/c200786c-159e-4172-aee1-4cfbf83b83d8.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/5d6e25be-11ad-48da-839d-e518b9b2a5ff.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/7d5d8138-9f73-4b5a-ab0b-1692248d19fb.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/bd34358b-8715-468c-b2c7-6628858679d9.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/de9bdafc-a890-4c70-b9a5-5e919bc62a14.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "185 photos",
+        "furniture, vinyl & records and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "vinyl & records",
+        "collectibles",
+        "books",
+        "art",
+        "electronics",
+        "toys & games",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, vinyl & records, collectibles, books and art.",
+      "lat": 36.3150086,
+      "lng": -86.6090316,
+      "approximate": true
+    },
+    {
       "id": "e275ab209f26a3c1",
       "title": "Executive Home- Like New! Pre-sale Opportunities",
       "company": "Busy Bee Moving Sales",
@@ -158,22 +229,19 @@
         "furniture, collectibles and vehicles in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "art",
-        "toys & games",
-        "rugs",
-        "lamps",
-        "mirrors"
-      ],
-      "contentsLine": "Furniture, collectibles, vehicles, kitchen and clothing.",
       "lat": 35.997952,
       "lng": -86.7739498,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "dining table",
+        "nailhead dining chairs",
+        "tufted dining bench",
+        "counter stools",
+        "white armchairs",
+        "coffee table"
+      ],
+      "contentsLine": "A tufted bench and nailhead-trimmed chairs flank a long dining table. Upholstered stools line the kitchen island.",
+      "photoRead": true
     },
     {
       "id": "6ef7ed8800bbd90b",
@@ -230,12 +298,90 @@
         "560 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture"
-      ],
-      "contentsLine": "Furniture.",
       "lat": 36.2275854,
       "lng": -86.6201971,
+      "approximate": true,
+      "photoKeywords": [
+        "model sailboat",
+        "shell field guide",
+        "patterned neckties",
+        "orca figurine",
+        "framed seascape",
+        "sailboat artwork",
+        "knot tying book"
+      ],
+      "contentsLine": "A three-masted model sailboat stands beside a shell guide. Striped and paisley neckties hang in rows.",
+      "photoRead": true
+    },
+    {
+      "id": "97564ef0046733ff",
+      "title": "Vintage Guitars & Amps, Christmas, Milk Glass, Ceramics & More",
+      "company": null,
+      "streetAddress": null,
+      "city": "Hermitage",
+      "state": "TN",
+      "zip": "37076",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Hermitage/37076/5157318"
+        }
+      ],
+      "categories": [],
+      "photoCount": 36,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5157318/1-1/5bb9d10a-1190-497d-ac6d-237e5afa7d18.jpg",
+        "https://picturescdn.estatesales.net/5157318/1-1/edf92468-52f7-41cd-8949-258d0744b49a.jpg",
+        "https://picturescdn.estatesales.net/5157318/1-1/e6f2cd5d-d291-47de-97e9-c55adf8db6f6.jpg",
+        "https://picturescdn.estatesales.net/5157318/1-1/e12fbf41-48c5-41db-9bd5-d053d407d83e.jpg",
+        "https://picturescdn.estatesales.net/5157318/1-1/870bbb49-be7a-4061-90bb-541854470298.jpg",
+        "https://picturescdn.estatesales.net/5157318/1-1/fde504f3-e68e-426e-8d07-e138b0df3e0e.jpg",
+        "https://picturescdn.estatesales.net/5157318/1-1/e3abea1a-64ff-4e4c-b300-b1aa68e4f5ff.jpg",
+        "https://picturescdn.estatesales.net/5157318/1-1/c9982f8c-627b-4459-af78-870a1777ce43.jpg",
+        "https://picturescdn.estatesales.net/5157318/1-1/443a10d4-d2c1-46a2-8fcd-0871b17e4aa0.jpg",
+        "https://picturescdn.estatesales.net/5157318/1-1/add96a21-e153-4731-962b-dce4e5dc0fc2.jpg",
+        "https://picturescdn.estatesales.net/5157318/1-1/bc97c737-972e-4791-9ed5-66c553a749b5.jpg",
+        "https://picturescdn.estatesales.net/5157318/1-1/957f0662-cec3-4a48-874b-b20f2f09a5b0.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "36 photos",
+        "furniture, vinyl & records and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "vinyl & records",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "books",
+        "electronics",
+        "figurines",
+        "lamps",
+        "guitars"
+      ],
+      "contentsLine": "Furniture, vinyl & records, collectibles, vehicles and kitchen.",
+      "lat": 36.1807257,
+      "lng": -86.5972246,
       "approximate": true
     },
     {
@@ -301,18 +447,16 @@
         "collectibles and kitchen in the listing",
         "runs 4 days"
       ],
-      "photoKeywords": [
-        "collectibles",
-        "kitchen",
-        "figurines",
-        "china",
-        "crystal",
-        "antiques"
-      ],
-      "contentsLine": "Collectibles, kitchen, figurines, china and crystal.",
       "lat": 36.50694,
       "lng": -86.8742713,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "mantel clock",
+        "pendulum movement",
+        "hinged boxes"
+      ],
+      "contentsLine": "A mantel clock has paired columns and an ornate dial. Two hinged boxes have blue interiors and keyholes.",
+      "photoRead": true
     },
     {
       "id": "182d42bd2a5071b8",
@@ -363,10 +507,21 @@
       "ratingReasons": [
         "39 photos"
       ],
-      "photoKeywords": [],
       "lat": 35.9062737,
       "lng": -86.8682941,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "armchairs",
+        "ottomans",
+        "dining table",
+        "cane-back dining chairs",
+        "bookcases",
+        "drop-front desk",
+        "banker's lamp",
+        "sun hats"
+      ],
+      "contentsLine": "Two patterned armchairs have matching ottomans. A green-shaded banker's lamp sits on a drop-front desk.",
+      "photoRead": true
     },
     {
       "id": "958ad8deb99f9819",
@@ -459,18 +614,19 @@
         "furniture, collectibles and kitchen in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "collectibles",
-        "kitchen",
-        "books",
-        "figurines",
-        "china"
-      ],
-      "contentsLine": "Furniture, collectibles, kitchen, books and figurines.",
       "lat": 36.130938,
       "lng": -86.6754191,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "dolls",
+        "gnome figurines",
+        "owl figurines",
+        "dog figurines",
+        "chest of drawers",
+        "wall mirror"
+      ],
+      "contentsLine": "Dolls sit on a chest of drawers beside a table covered with gnomes, dogs and owls under a framed mirror.",
+      "photoRead": true
     },
     {
       "id": "cf6d2212ceb133b3",
@@ -526,21 +682,18 @@
         "10 photos",
         "tools, furniture and art in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "art",
-        "toys & games",
-        "china",
-        "crystal",
-        "antiques",
-        "christmas decor",
-        "patio furniture"
-      ],
-      "contentsLine": "Tools, furniture, art, toys & games and china.",
       "lat": 35.997952,
       "lng": -86.7739498,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "dolphin suncatcher",
+        "fireplace screen",
+        "decorative wall keys",
+        "framed wall mirror",
+        "piano artwork"
+      ],
+      "contentsLine": "A round dolphin suncatcher, a scrollwork fireplace screen, two oversized wall keys and a framed mirror are pictured.",
+      "photoRead": true
     },
     {
       "id": "0915935d6d21b0b0",
@@ -584,18 +737,16 @@
       "ratingReasons": [
         "furniture, collectibles and kitchen in the listing"
       ],
-      "photoKeywords": [
-        "furniture",
-        "collectibles",
-        "kitchen",
-        "books",
-        "antiques",
-        "mid-century"
-      ],
-      "contentsLine": "Furniture, collectibles, kitchen, books and antiques.",
       "lat": 36.1442382,
       "lng": -86.7491622,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "casserole dish",
+        "glass lid",
+        "kitchen canisters"
+      ],
+      "contentsLine": "An oval casserole dish with a clear patterned lid sits in front of labeled kitchen canisters.",
+      "photoRead": true
     },
     {
       "id": "75ff60faba785a04",
@@ -635,16 +786,16 @@
       "ratingReasons": [
         "furniture, kitchen and art in the listing"
       ],
-      "photoKeywords": [
-        "furniture",
-        "kitchen",
-        "art",
-        "mirrors"
-      ],
-      "contentsLine": "Furniture, kitchen, art and mirrors.",
       "lat": 36.0663164,
       "lng": -86.9456557,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "street scene art",
+        "bell tower artwork",
+        "gold-tone picture frames"
+      ],
+      "contentsLine": "A gold-tone frame surrounds a street scene with pink buildings and a bell tower.",
+      "photoRead": true
     },
     {
       "id": "46fe67df2ea66b0a",
@@ -736,21 +887,17 @@
       "ratingReasons": [
         "tools, furniture and kitchen in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "kitchen",
-        "clothing",
-        "china",
-        "crystal",
-        "lamps",
-        "mirrors",
-        "christmas decor"
-      ],
-      "contentsLine": "Tools, furniture, kitchen, clothing and china.",
       "lat": 35.9062737,
       "lng": -86.8682941,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "brown armchair",
+        "nailhead trim",
+        "area rug",
+        "console table"
+      ],
+      "contentsLine": "A brown armchair with nailhead trim and tapered legs sits on a light rug beside a console table.",
+      "photoRead": true
     }
   ]
 }

@@ -1,4 +1,9 @@
 {
+  "city:brighton": {
+    "lat": 39.983721,
+    "lng": -104.8110775,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "city:denver": {
     "lat": 39.7392364,
     "lng": -104.984862,
@@ -15,6 +20,11 @@
   "street:1565 wadsworth blvd:lakewood": {
     "lat": 39.7417411,
     "lng": -105.0814424,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1862 wadsworth blvd:80214": {
+    "lat": 39.7463655,
+    "lng": -105.081267,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:8040 e dartmouth:80231": {
@@ -40,6 +50,11 @@
   "zip:80236": {
     "lat": 39.6579999,
     "lng": -105.0413717,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:80439": {
+    "lat": 39.6205238,
+    "lng": -105.3831556,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:80601": {
