@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T14:22:16.465Z",
+  "collectedAt": "2026-11-25T15:01:43.044Z",
   "window": {
     "start": "2026-11-25",
     "end": "2026-12-08",
@@ -16,7 +16,7 @@
       "status": "partial",
       "detail": "Read the public sale sitemap. Checked 124/125 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
       "candidates": 55,
-      "included": 39
+      "included": 38
     },
     "EstateSales.org": {
       "status": "reached",
@@ -39,10 +39,10 @@
   },
   "counts": {
     "candidates": 65,
-    "listings": 48,
+    "listings": 47,
     "sales": 43,
-    "duplicates": 5,
-    "outsideRadius": 17,
+    "duplicates": 4,
+    "outsideRadius": 18,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -369,66 +369,8 @@
       "approximate": true
     },
     {
-      "id": "304f9dc77d01baf9",
-      "title": "~Incredible Denton Estate Sale! More info coming soon!",
-      "company": "DFW ESTATE LIQUIDATORS",
-      "streetAddress": "10500 Cascade Dr",
-      "city": "Denton",
-      "state": "TX",
-      "zip": "76207",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "09:00",
-          "end": "16:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/denton-/76207/incredible-denton-estate-sale-more-2468441"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Denton/76207/5122920"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(682) 239-1746",
-      "contactUrl": "https://estatesales.org/estate-sale-companies/a-dfw-estate-liquidators-3768",
-      "photoCount": 121,
-      "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-qsniuma04njk1s24.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-46ho36o41202mv1w.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-lzxej9i495qgvzvb.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-zcvqj4jmwgji6jm1.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-fac86nxsjx48xtz8.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-qjhv7hlzqgv3hgwq.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-h5hwy40ycg8ts7yx.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-lkj3gaozpwo8bju4.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-nu979nz2zdvsq78g.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-no7jsb1x03clh27g.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-0d0ytist2aquuvya.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-sn59ux7lu0y6r5aw.jpg"
-      ],
-      "digRating": "Worth a Look",
-      "ratingReasons": [
-        "121 photos"
-      ],
-      "photoKeywords": [],
-      "lat": 33.1437328,
-      "lng": -97.236173,
-      "approximate": false
-    },
-    {
       "id": "464c5d9f72f14531",
-      "title": "~Massive *2 Phase* Garland, TX -Black Friday Weekend- Estate Sale! More info coming soon!",
+      "title": "~Massive *2 Phase* Garland, TX -Black Friday Weekend- Estate Sale! Collectibles, Memorabilia, Shop, Tools, Instruments, Bronze Sculptures, Christmas, Blenko Collection & Much More!",
       "company": "DFW ESTATE LIQUIDATORS",
       "streetAddress": "2316 English Cir",
       "city": "Garland",
@@ -462,7 +404,11 @@
           "url": "https://www.estatesales.net/TX/Garland/75041/5114622"
         }
       ],
-      "categories": [],
+      "categories": [
+        "tools",
+        "collectibles",
+        "art"
+      ],
       "contactPhone": "(682) 239-1746",
       "contactUrl": "https://estatesales.org/estate-sale-companies/a-dfw-estate-liquidators-3768",
       "photoCount": 278,
@@ -1004,6 +950,74 @@
       ],
       "contentsLine": "Two bookcases flank a doorway. Other photos show shirts on hangers, stacks of blankets and car wheels with tires.",
       "photoRead": true
+    },
+    {
+      "id": "cff5379bdb5021d4",
+      "title": "Incredible Denton Estate Sale! Collectibles, Silver, Brass, Curio, Antiques, Fashion, Accents, Fine Furniture, Mid Century, Nice Patio Furniture, Appliances, Leather & More!",
+      "company": "DFW ESTATE LIQUIDATORS",
+      "streetAddress": "10500 Cascade Dr",
+      "city": "Denton",
+      "state": "TX",
+      "zip": "76207",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/denton/76207/incredible-denton-estate-sale-more-2468441"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "collectibles",
+        "clothing"
+      ],
+      "contactPhone": "(682) 239-1746",
+      "contactUrl": "https://estatesales.org/estate-sale-companies/a-dfw-estate-liquidators-3768",
+      "photoCount": 20,
+      "photoUrls": [
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-qsniuma04njk1s24.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-46ho36o41202mv1w.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-lzxej9i495qgvzvb.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-zcvqj4jmwgji6jm1.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-fac86nxsjx48xtz8.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-qjhv7hlzqgv3hgwq.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-h5hwy40ycg8ts7yx.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-lkj3gaozpwo8bju4.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-nu979nz2zdvsq78g.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-no7jsb1x03clh27g.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-0d0ytist2aquuvya.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-sn59ux7lu0y6r5aw.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "20 photos",
+        "furniture, collectibles and clothing in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "clothing",
+        "antiques",
+        "mid-century",
+        "silver",
+        "patio furniture"
+      ],
+      "contentsLine": "Furniture, collectibles, clothing, antiques and mid-century.",
+      "lat": 33.1437328,
+      "lng": -97.236173,
+      "approximate": false
     },
     {
       "id": "591fcc4c4d6f2872",

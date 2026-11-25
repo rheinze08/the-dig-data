@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T14:19:56.233Z",
+  "collectedAt": "2026-11-25T14:59:23.542Z",
   "window": {
     "start": "2026-11-25",
     "end": "2026-12-08",
@@ -14,7 +14,7 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 33/33 local candidate details.",
+      "detail": "Read the public sale sitemap. Checked 34/34 local candidate details.",
       "candidates": 19,
       "included": 13
     },
@@ -26,8 +26,8 @@
     },
     "EstateSale.com": {
       "status": "partial",
-      "detail": "24 directory listings discovered; 3 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/911152.html — Incapsula challenge in HTTP 200 response",
-      "candidates": 3,
+      "detail": "22 directory listings discovered; 4 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/909255.html — Incapsula challenge in HTTP 200 response",
+      "candidates": 4,
       "included": 1
     },
     "Craigslist Houston": {
@@ -44,11 +44,11 @@
     }
   },
   "counts": {
-    "candidates": 22,
+    "candidates": 23,
     "listings": 14,
     "sales": 14,
     "duplicates": 0,
-    "outsideRadius": 8,
+    "outsideRadius": 9,
     "unlocatedListings": 0
   },
   "unlocated": [],

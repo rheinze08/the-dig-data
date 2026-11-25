@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T14:22:56.727Z",
+  "collectedAt": "2026-11-25T15:02:24.111Z",
   "window": {
     "start": "2026-11-25",
     "end": "2026-12-08",
@@ -14,7 +14,7 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 35/35 local candidate details.",
+      "detail": "Read the public sale sitemap. Checked 36/36 local candidate details.",
       "candidates": 14,
       "included": 11
     },

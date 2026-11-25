@@ -396,16 +396,16 @@
         "photoKeywords": [
           "tools",
           "furniture",
+          "vinyl & records",
           "jewelry",
+          "collectibles",
+          "vehicles",
           "kitchen",
           "clothing",
           "books",
-          "art",
-          "electronics",
-          "toys & games",
-          "crystal"
+          "art"
         ],
-        "contentsLine": "Tools, furniture, jewelry, kitchen and clothing."
+        "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles."
       }
     }
   },
@@ -416,9 +416,6 @@
         "photoKeywords": []
       }
     }
-  },
-  "304f9dc77d01baf9": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "31a639e11a262688": {
     "firstSeen": "2026-11-23T15:01:01.473Z",
@@ -1463,6 +1460,9 @@
   },
   "cf771fca93be4e7c": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
+  },
+  "cff5379bdb5021d4": {
+    "firstSeen": "2026-11-25T15:07:39.263Z"
   },
   "d0c6bdf31800b6d7": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
