@@ -71,6 +71,20 @@ test('EstateSales.org: schema contact, description and gallery photos are captur
   assert.match(record.description, /china set/);
 });
 
+test('EstateSales.org: the site\'s no-photo placeholder is not a photo of the sale', () => {
+  const event = {
+    '@type': 'Event', name: 'Offsite Estate Sale',
+    image: ['https://estatesales.org/2036244653/css/images/nophoto_sales_800x800.png'],
+    location: {address: {addressLocality: 'Hurst', postalCode: '76053'}},
+  };
+  const html = `<html><body>
+    <span>In-person:</span> <ul><li>Sat, Nov 21, 2026 9AM - 3PM</li></ul>
+    <script type="application/ld+json">${JSON.stringify(event)}</script></body></html>`;
+  const record = orgListing(html, 'https://estatesales.org/estate-sales/tx/hurst/76053/x-43');
+  assert.equal(record.photoUrls, undefined);
+  assert.equal(record.photoCount, undefined);
+});
+
 test('Craigslist: a phone written in the posting and its photos are captured', () => {
   const html = `<html><head><meta name="geo.placename" content="Houston, TX 77005"></head><body>
     <span id="titletextonly">Estate Sale - Tools &amp; Furniture</span>

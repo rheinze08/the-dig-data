@@ -189,9 +189,13 @@ export function orgListing(html, url) {
   if (description) record.description = description;
   // Gallery photos are the CDN images named for this sale; data-aspect is
   // the full-size URL, src its thumbnail. Alt text here is the generic
-  // "Estate sale photo", which carries no signal and is dropped.
+  // "Estate sale photo", which carries no signal and is dropped. A sale with
+  // no photos names the site's "nophoto" placeholder as its schema image;
+  // that is not a photo of the sale and is left out.
   const photoUrls = new Set();
-  for (const image of [].concat(event.image ?? [])) if (/^https:\/\//.test(image)) photoUrls.add(image);
+  for (const image of [].concat(event.image ?? [])) {
+    if (/^https:\/\//.test(image) && !/\/nophoto[^/]*$/i.test(new URL(image).pathname)) photoUrls.add(image);
+  }
   for (const match of html.matchAll(/<img\b[^>]*\bdata-aspect="(https:\/\/eso-cdn\.[^"]+\.jpg)"[^>]*>/gi)) {
     photoUrls.add(match[1]);
   }
