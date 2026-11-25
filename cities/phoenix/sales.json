@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T15:04:51.832Z",
+  "collectedAt": "2026-11-25T20:25:12.091Z",
   "window": {
     "start": "2026-11-25",
     "end": "2026-12-08",
@@ -14,9 +14,9 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 77/77 local candidate details.",
-      "candidates": 33,
-      "included": 29
+      "detail": "Read the public sale sitemap. Checked 78/78 local candidate details.",
+      "candidates": 34,
+      "included": 30
     },
     "EstateSales.org": {
       "status": "reached",
@@ -26,9 +26,9 @@
     },
     "Craigslist Phoenix": {
       "status": "reached",
-      "detail": "27 directory listings discovered; 1 in-window estate listings before radius filtering",
-      "candidates": 1,
-      "included": 1
+      "detail": "32 directory listings discovered; 2 in-window estate listings before radius filtering",
+      "candidates": 2,
+      "included": 2
     },
     "GSALR.com": {
       "status": "blocked",
@@ -38,10 +38,10 @@
     }
   },
   "counts": {
-    "candidates": 41,
-    "listings": 36,
-    "sales": 32,
-    "duplicates": 4,
+    "candidates": 43,
+    "listings": 38,
+    "sales": 33,
+    "duplicates": 5,
     "outsideRadius": 5,
     "unlocatedListings": 0
   },
@@ -134,7 +134,7 @@
         },
         {
           "date": "2026-11-27",
-          "start": "08:00",
+          "start": "09:00",
           "end": "14:00"
         },
         {
@@ -452,6 +452,80 @@
       "approximate": false
     },
     {
+      "id": "743e8108da2462a7",
+      "title": "Sun City West Estate Sale | Patio Furniture, Jewelry, Sewing Supplies & More",
+      "company": "Linden Estate Sales",
+      "streetAddress": "14413 W Via Tercero",
+      "city": "Sun City West",
+      "state": "AZ",
+      "zip": "85375",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "08:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "08:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Phoenix",
+          "url": "https://www.craigslist.org/view/d/sun-city-west-sun-city-west-estate-sale/7pGDzXGyNXbyY26juvj2aj"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Sun-City-West/85375/5172633"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "jewelry"
+      ],
+      "contactPhone": "(602) 805-5040",
+      "contactUrl": "https://www.lindenestatesales.com/",
+      "photoCount": 70,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172633/1-1/cf418afc-3c6b-42b2-a04f-e6fdf810bbf2.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/ae1c5804-b759-451c-8519-614ccd7453d1.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/1b376d1f-0b35-4d7f-824d-7dd6bf51f9c3.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/1c6e55f4-6e8c-4254-a4f6-19485f9e6121.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/fc57160a-d94c-494d-a739-8099bbde99a8.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/e35f276f-d262-4956-a06e-f053a764482e.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/333b3158-e2ea-4aeb-b9ab-50185c4780cd.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/8d241ec9-1e78-481b-8f3f-c06ec7f820b7.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/95b9ab62-1724-4753-8ee8-15b19b990faf.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/fdddebd9-7a74-4159-a7dd-1019da19a0a8.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/cd304380-534b-47d8-b745-fd4395d86658.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/8a256a88-56f1-43f2-aa83-fae8f7b0a6c4.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "70 photos",
+        "tools, furniture and jewelry in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles.",
+      "lat": 33.691199,
+      "lng": -112.3718039,
+      "approximate": false
+    },
+    {
       "id": "32367a54e4d3fcc5",
       "title": "Surprise Coyote Lakes Estate Sale by Radiant Estate Sales",
       "company": "Radiant Estate Sales",
@@ -609,24 +683,24 @@
       "categories": [
         "collectibles"
       ],
-      "photoCount": 82,
+      "photoCount": 68,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5159148/1-1/5f354d25-8530-4616-8ff3-a3c3c3f5c633.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/291d7b48-d4a0-4cc0-9cf4-4aea2044c240.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/3fdbf567-194c-4bc2-a8a4-e0e05dcba89e.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/f49b9e50-1ce7-44ae-b80f-ed6b1a23ee94.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/2a91d456-914e-4ce7-a832-c5a80b8c6604.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/13a80630-22cf-4155-a378-5e5703d1d8ea.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/7eb348c3-b7ca-42f3-8c73-b784839a6c9f.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/2dd70d93-abd0-433d-bdd9-bc71c4ac2cf2.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/1b813ba3-00a8-4f3c-b055-4cab0e4b591f.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/1dd95e6b-9948-4233-94b8-b706cf50638e.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/d5b14e23-106c-4b50-b692-4a5a4370ad28.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/f94049f9-4a63-4905-8b7c-230e7048070c.jpg"
+        "https://picturescdn.estatesales.net/5159148/1-1/de134fbf-a7e9-4811-b36d-1df017be3186.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/fc6d8372-be47-4a4d-b98b-ecfa4c108ff6.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/e0651fe0-2c12-4f14-94bb-c0889ef73ffc.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/ed482bff-556b-4e18-b95b-d055f0677ccb.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/47d45287-c029-4e17-b38d-1df79d1c0d48.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/33fcec34-6416-4334-a1d5-105a42d0ec84.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/102e3e55-ce1a-4650-ae2c-d26aac08a673.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/6c09c522-6fc9-4438-a647-5face97704a7.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/b0040e0f-bc20-474c-a3c4-f4084af792d0.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/b6331121-3f17-472c-9027-137f6dcdd5b1.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/a8c901ac-437b-405f-9c79-88d39b22049a.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/26d0f1fb-c8d1-430f-a0a7-cae33a6661c2.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "82 photos",
+        "68 photos",
         "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
@@ -2007,7 +2081,7 @@
       "categories": [],
       "contactPhone": "(520) 590-9922",
       "contactUrl": "http://www.infiniteestatesale.com",
-      "photoCount": 20,
+      "photoCount": 47,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5134746/1-1/22f59c9a-0487-4641-85b4-c304371fb866.jpg",
         "https://picturescdn.estatesales.net/5134746/1-1/2ef87692-56fd-4a69-a0ad-b3004bf10f1c.jpg",
@@ -2024,7 +2098,7 @@
       ],
       "digRating": "Worth a Look",
       "ratingReasons": [
-        "20 photos"
+        "47 photos"
       ],
       "lat": 33.483369,
       "lng": -112.3940798,

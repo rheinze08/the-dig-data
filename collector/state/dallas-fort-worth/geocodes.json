@@ -210,6 +210,11 @@
     "lng": -96.735494,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:1301 custer unit 706 directly behind the tee time bar:75075": {
+    "lat": 33.018423,
+    "lng": -96.735494,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:1310 briarmeade dr:duncanville": {
     "lat": 32.6310642,
     "lng": -96.9391299,
@@ -629,6 +634,11 @@
     "lat": 33.136182,
     "lng": -96.792207,
     "basis": "Public listing map: EstateSales.net"
+  },
+  "zip:75002": {
+    "lat": 33.0982949,
+    "lng": -96.6128454,
+    "basis": "OpenStreetMap Nominatim"
   },
   "zip:75022": {
     "lat": 33.0239585,

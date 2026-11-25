@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T15:07:39.249Z",
+  "collectedAt": "2026-11-25T20:28:09.394Z",
   "window": {
     "start": "2026-11-25",
     "end": "2026-12-08",
@@ -14,7 +14,7 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 35/36 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
+      "detail": "Read the public sale sitemap. Checked 36/37 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
       "candidates": 22,
       "included": 17
     },
@@ -137,24 +137,24 @@
       "categories": [],
       "contactPhone": "6154996512",
       "contactUrl": "https://estategreats.net",
-      "photoCount": 581,
+      "photoCount": 580,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5159613/1-1/b7b37faa-06cb-4740-ab24-9e02d395956c.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/e3597e01-e482-48cb-816e-0e9d79d45f42.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/f4bee86f-b406-4436-ada1-a5b4af860c99.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/a9a96e7e-3294-4373-86f9-46d8f90c548a.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/d3e6508b-f210-49b9-965c-efaee11fbfe2.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/541b045c-673b-472b-8cd5-e596bc40d361.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/4bcd70fa-7058-462d-a93b-8f28fb642c6d.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/9c60babe-32f9-4e54-9f4f-ae00535e7416.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/331b13bf-1c21-4f64-94c0-c84c3b0ba72e.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/54034018-e91b-491f-a039-f9bc42eaa6b4.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/047a1a34-ed69-48b1-be35-322c6d548b7b.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/4956a175-fec7-448d-9130-32e72fb4f737.jpg"
+        "https://picturescdn.estatesales.net/5159613/1-1/6d73772b-a9c8-4e1d-95e1-1be15af11c63.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/162030f9-40db-4120-b2b3-d9c627ac4136.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/a0ad3cad-3337-4540-9b80-567116e0ab51.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/4a05e5e6-068c-4fa5-845e-a1f8cacbc340.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/6140e1e6-d4fe-4207-a167-441797fd134f.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/bd786f3a-ce1c-477f-873d-c8640f4a48fd.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/49b3af09-58df-47b0-828a-bff576f6c333.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/92ef5157-8613-406c-b8b5-d4ebc9afdca5.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/edfe9a90-a282-4f86-8407-3fa7040fa4e0.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/c66c6c6f-a251-4b6c-a103-2817c3c10c20.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/acf89486-275c-4307-aa63-0ce119cc8d84.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/8d624afb-e1ca-407f-b2f4-21dc86362e57.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "581 photos",
+        "580 photos",
         "tools, furniture and vinyl & records in the listing",
         "runs 3 days"
       ],
@@ -164,11 +164,11 @@
         "vinyl & records",
         "jewelry",
         "collectibles",
+        "vehicles",
         "kitchen",
         "clothing",
         "books",
-        "art",
-        "electronics"
+        "art"
       ],
       "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
       "lat": 36.1151393,
@@ -216,14 +216,14 @@
         "https://picturescdn.estatesales.net/5170677/1-1/5aa54059-af5d-4928-843c-07f7b9beb2cd.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/2e6e0bf5-31be-4f8f-a616-04c40d804b16.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/c2805fa2-a6fd-419b-a6bf-47b924f2b801.jpg",
-        "https://picturescdn.estatesales.net/5170677/1-1/4e67c6a0-2e91-47ec-9cdd-ae0873bd30fb.jpg",
-        "https://picturescdn.estatesales.net/5170677/1-1/3823bb96-cdb0-4bf2-b75d-490554d8780f.jpg",
-        "https://picturescdn.estatesales.net/5170677/1-1/750b0f44-1942-4e24-a1a7-e3687a1a8bac.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/c200786c-159e-4172-aee1-4cfbf83b83d8.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/5d6e25be-11ad-48da-839d-e518b9b2a5ff.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/7d5d8138-9f73-4b5a-ab0b-1692248d19fb.jpg",
-        "https://picturescdn.estatesales.net/5170677/1-1/bd34358b-8715-468c-b2c7-6628858679d9.jpg",
-        "https://picturescdn.estatesales.net/5170677/1-1/de9bdafc-a890-4c70-b9a5-5e919bc62a14.jpg"
+        "https://picturescdn.estatesales.net/5170677/1-1/de9bdafc-a890-4c70-b9a5-5e919bc62a14.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/f2fddfc4-30c8-48e2-9876-636be80480ac.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/b2da5db8-130b-4dce-8739-f0d923f50948.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/9b19d7ec-bc32-4484-8d3b-fb0ab69ec683.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/92a63e7a-ec7e-4273-add8-2e28f229da9b.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [

@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T15:01:43.044Z",
+  "collectedAt": "2026-11-25T20:22:02.212Z",
   "window": {
     "start": "2026-11-25",
     "end": "2026-12-08",
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 124/125 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
-      "candidates": 55,
-      "included": 38
+      "detail": "Read the public sale sitemap. Checked 129/130 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
+      "candidates": 58,
+      "included": 41
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 28 Dallas–Fort Worth directory cards over 2 pages. Checked 12/12 in-person local candidate details.",
-      "candidates": 9,
+      "detail": "Read 31 Dallas–Fort Worth directory cards over 2 pages. Checked 13/13 in-person local candidate details.",
+      "candidates": 10,
       "included": 8
     },
     "Craigslist Dallas / Fort Worth": {
       "status": "reached",
-      "detail": "10 directory listings discovered; 1 in-window estate listings before radius filtering",
+      "detail": "11 directory listings discovered; 1 in-window estate listings before radius filtering",
       "candidates": 1,
       "included": 1
     },
@@ -38,10 +38,10 @@
     }
   },
   "counts": {
-    "candidates": 65,
-    "listings": 47,
-    "sales": 43,
-    "duplicates": 4,
+    "candidates": 69,
+    "listings": 50,
+    "sales": 44,
+    "duplicates": 6,
     "outsideRadius": 18,
     "unlocatedListings": 0
   },
@@ -116,9 +116,9 @@
     },
     {
       "id": "89a05893a83558b3",
-      "title": "Plano French Provincial & Hollywood Regency Estate Sale",
-      "company": "Consignment Crush Estate Sales",
-      "streetAddress": "1301 Custer #706 (Directly behind the Tee Time Bar",
+      "title": "Bold & Beautiful Estate Sale + 7 sales at 70% off",
+      "company": "Crush Estate Sales",
+      "streetAddress": "1301 Custer #706 (Directly behind the Tee Time Bar)",
       "city": "Plano",
       "state": "TX",
       "zip": "75075",
@@ -137,31 +137,55 @@
         {
           "date": "2026-11-25",
           "start": "09:00",
-          "end": "15:00"
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "17:00"
         }
       ],
       "sources": [
         {
           "name": "EstateSales.org",
           "url": "https://estatesales.org/estate-sales/tx/plano/75075/plano-french-provincial-hollywood-regency-2475119"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75075/5172522"
         }
       ],
       "categories": [],
       "contactPhone": "(214) 501-3386",
-      "contactUrl": "https://estatesales.org/estate-sale-companies/consignment-crush-estate-sales-24996",
-      "photoCount": 1,
+      "contactUrl": "https://www.planoestatesales.com/",
+      "photoCount": 300,
       "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2475119-rt2y6efwwrxykii3.webp"
+        "https://picturescdn.estatesales.net/5172522/1-1/e6b10bbd-3d69-42c2-8408-1be21a79beaf.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/4bcc259d-8d93-4eff-990d-7714a3db7037.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/a1741d20-f3c5-40cb-9b83-8b89a280a727.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/3ec8d95e-59d7-447f-b3f6-f931e555d62a.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/5f5b696b-bfc3-4188-8981-4f2173369a8c.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/c2854863-f43e-47d6-bfe5-e60a275d3fb8.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/96636625-eeee-4742-b7ad-2ebf4366de08.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/655c7630-a02b-4d5c-bd98-d429e8421dba.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/470eb947-ca32-4396-92ee-bba776786782.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/9b2e3f32-482e-49a1-a5bd-33c18e1dfbab.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/622bccdc-7c29-431a-be16-30eccd013b47.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/c17ab7d0-7b11-4ac0-83af-a37b84b7b178.jpg"
       ],
-      "digRating": "Slim Pickings",
+      "digRating": "Deep Dig",
       "ratingReasons": [
-        "runs 3 days",
-        "only 1 photo",
-        "few details in the listing"
+        "300 photos",
+        "runs 5 days"
       ],
-      "lat": 33.0162157,
-      "lng": -96.7363333,
-      "approximate": true,
+      "lat": 33.018423,
+      "lng": -96.735494,
+      "approximate": false,
       "photoKeywords": [
         "tufted sofa",
         "scroll arms",
@@ -313,12 +337,12 @@
       "sessions": [
         {
           "date": "2026-11-27",
-          "start": "08:30",
+          "start": "08:00",
           "end": "17:00"
         },
         {
           "date": "2026-11-28",
-          "start": "08:30",
+          "start": "08:00",
           "end": "17:00"
         }
       ],
@@ -331,7 +355,7 @@
       "categories": [],
       "contactPhone": "(469) 744-8786",
       "contactUrl": "https://dayspringestatesales.com/",
-      "photoCount": 837,
+      "photoCount": 846,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5160396/1-1/d5892579-2eae-4387-9732-aaf10d56d9e5.jpg",
         "https://picturescdn.estatesales.net/5160396/1-1/6ba57bd4-a6d6-4ab3-842a-def11d8b540b.jpg",
@@ -348,7 +372,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "837 photos",
+        "846 photos",
         "tools, furniture and collectibles in the listing"
       ],
       "photoKeywords": [
@@ -952,7 +976,68 @@
       "photoRead": true
     },
     {
-      "id": "cff5379bdb5021d4",
+      "id": "9c06f475e30bb4d8",
+      "title": "Highland Park/Beverly Dr. Diggers Estate Sale",
+      "company": null,
+      "streetAddress": null,
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75205",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75205/5172699"
+        }
+      ],
+      "categories": [],
+      "photoCount": 23,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172699/1-1/0bd69aed-548b-46f8-b1d6-2bc0e3542314.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/dc646452-29e2-4bf3-b365-3348dc6d2fcb.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/e2763ae4-1fad-47dd-9401-e24abe3e5f2e.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/bfd6d6b8-5b3a-4f4b-8e1d-9ee37764dbb5.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/e6bd4a02-5db8-402b-9a81-cb07a886bf1d.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/3caf0a99-98a4-41ad-b181-a0c0d229fd3a.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/735b4cda-a650-4eb3-a5d6-ee26d22f13d7.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/e4059546-0a85-497c-a617-f328eeff4420.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/c0ac9461-82a3-47e3-990d-e4373c4bcd92.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/3ae409d0-6d4a-4561-bf2c-d6e510b18360.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/780679ff-021e-456a-b48f-461478a8d5c4.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/0d224289-a3b1-4d9b-bf2f-25b49b1545b0.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "23 photos",
+        "tools, furniture and clothing in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "clothing",
+        "toys & games",
+        "antiques",
+        "dolls"
+      ],
+      "contentsLine": "Tools, furniture, clothing, toys & games and antiques.",
+      "lat": 32.8366956,
+      "lng": -96.7888596,
+      "approximate": true
+    },
+    {
+      "id": "97682ffd2fcdb836",
       "title": "Incredible Denton Estate Sale! Collectibles, Silver, Brass, Curio, Antiques, Fashion, Accents, Fine Furniture, Mid Century, Nice Patio Furniture, Appliances, Leather & More!",
       "company": "DFW ESTATE LIQUIDATORS",
       "streetAddress": "10500 Cascade Dr",
@@ -975,7 +1060,11 @@
       "sources": [
         {
           "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/denton/76207/incredible-denton-estate-sale-more-2468441"
+          "url": "https://estatesales.org/estate-sales/tx/denton/76207/incredible-denton-estate-sale-collectibles-2468441"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Denton/76207/5122920"
         }
       ],
       "categories": [
@@ -985,7 +1074,7 @@
       ],
       "contactPhone": "(682) 239-1746",
       "contactUrl": "https://estatesales.org/estate-sale-companies/a-dfw-estate-liquidators-3768",
-      "photoCount": 20,
+      "photoCount": 121,
       "photoUrls": [
         "https://eso-cdn.tlcdn.workers.dev/s-2468441-qsniuma04njk1s24.jpg",
         "https://eso-cdn.tlcdn.workers.dev/s-2468441-46ho36o41202mv1w.jpg",
@@ -1002,19 +1091,22 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "20 photos",
-        "furniture, collectibles and clothing in the listing"
+        "121 photos",
+        "tools, furniture and collectibles in the listing"
       ],
       "photoKeywords": [
+        "tools",
         "furniture",
         "collectibles",
+        "kitchen",
         "clothing",
-        "antiques",
-        "mid-century",
-        "silver",
-        "patio furniture"
+        "books",
+        "art",
+        "electronics",
+        "crystal",
+        "antiques"
       ],
-      "contentsLine": "Furniture, collectibles, clothing, antiques and mid-century.",
+      "contentsLine": "Tools, furniture, collectibles, kitchen and clothing.",
       "lat": 33.1437328,
       "lng": -97.236173,
       "approximate": false
@@ -1569,13 +1661,9 @@
         }
       ],
       "categories": [],
-      "photoCount": 1,
-      "photoUrls": [
-        "https://estatesales.org/2036244653/css/images/nophoto_sales_800x800.png"
-      ],
       "digRating": "Slim Pickings",
       "ratingReasons": [
-        "only 1 photo",
+        "no photo count from the source",
         "few details in the listing"
       ],
       "photoKeywords": [
@@ -1772,8 +1860,8 @@
       "contactUrl": "https://dayspringestatesales.com/",
       "photoCount": 1095,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5156826/1-1/57a24f10-2b08-4efe-b147-d5c324b3446d.jpg",
         "https://picturescdn.estatesales.net/5156826/1-1/120d9868-2038-48b2-8eb2-624ca7185422.jpg",
+        "https://picturescdn.estatesales.net/5156826/1-1/57a24f10-2b08-4efe-b147-d5c324b3446d.jpg",
         "https://picturescdn.estatesales.net/5156826/1-1/69586573-189c-4156-90d7-662fa173b309.jpg",
         "https://picturescdn.estatesales.net/5156826/1-1/75d1428c-9d89-4774-8d2a-e9758d0a76e0.jpg",
         "https://picturescdn.estatesales.net/5156826/1-1/7e8e8aa6-adc7-438e-9dcb-78ade7682d22.jpg",
@@ -1788,9 +1876,22 @@
       "digRating": "Deep Dig",
       "ratingReasons": [
         "1095 photos",
+        "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles.",
       "lat": 33.0902532,
       "lng": -96.7464336,
       "approximate": true

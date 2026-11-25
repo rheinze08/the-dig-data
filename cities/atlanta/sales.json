@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T15:06:28.101Z",
+  "collectedAt": "2026-11-25T20:26:57.105Z",
   "window": {
     "start": "2026-11-25",
     "end": "2026-12-08",
@@ -14,9 +14,9 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 86/86 local candidate details.",
-      "candidates": 47,
-      "included": 35
+      "detail": "Read the public sale sitemap. Checked 89/89 local candidate details.",
+      "candidates": 49,
+      "included": 36
     },
     "EstateSales.org": {
       "status": "reached",
@@ -26,7 +26,7 @@
     },
     "Craigslist Atlanta": {
       "status": "reached",
-      "detail": "6 directory listings discovered; 0 in-window estate listings before radius filtering",
+      "detail": "7 directory listings discovered; 0 in-window estate listings before radius filtering",
       "candidates": 0,
       "included": 0
     },
@@ -38,11 +38,11 @@
     }
   },
   "counts": {
-    "candidates": 55,
-    "listings": 42,
-    "sales": 40,
+    "candidates": 57,
+    "listings": 43,
+    "sales": 41,
     "duplicates": 2,
-    "outsideRadius": 13,
+    "outsideRadius": 14,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -136,7 +136,7 @@
         },
         {
           "date": "2026-11-27",
-          "start": "11:15",
+          "start": "10:00",
           "end": "17:45"
         },
         {
@@ -156,9 +156,10 @@
       ],
       "contactPhone": "7706095146",
       "contactUrl": "Https://www.dunwoodyestatetreasures.com ",
-      "photoCount": 39,
+      "photoCount": 41,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5170545/1-1/f7710f06-4798-4c37-ab0f-3f406ee6b346.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/1a04d48c-583d-4483-8ee1-43de11d3fe7d.jpg",
         "https://picturescdn.estatesales.net/5170545/1-1/b87e8e75-aad0-4e08-9b57-553c28010901.jpg",
         "https://picturescdn.estatesales.net/5170545/1-1/d906ad44-76ee-45ee-98d3-7dfdc70f1f36.jpg",
         "https://picturescdn.estatesales.net/5170545/1-1/91f8f6f4-f3ba-415c-a602-51b0965dfd29.jpg",
@@ -168,12 +169,11 @@
         "https://picturescdn.estatesales.net/5170545/1-1/844e9d35-aa9c-492d-ab7d-3562f1540782.jpg",
         "https://picturescdn.estatesales.net/5170545/1-1/3d7e4b2d-4e2e-48b9-a913-5be0f6dae9f7.jpg",
         "https://picturescdn.estatesales.net/5170545/1-1/c22fdb61-a8f3-4526-a439-f846eccd22f5.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/873376f1-956b-4319-bca9-49adce3d43df.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/1a04d48c-583d-4483-8ee1-43de11d3fe7d.jpg"
+        "https://picturescdn.estatesales.net/5170545/1-1/873376f1-956b-4319-bca9-49adce3d43df.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "39 photos",
+        "41 photos",
         "furniture, collectibles and kitchen in the listing",
         "runs 3 days"
       ],
@@ -1061,7 +1061,7 @@
       "categories": [],
       "contactPhone": "(770) 527-1313",
       "contactUrl": "http://www.unclebucksestatesales.com",
-      "photoCount": 97,
+      "photoCount": 96,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5169405/1-1/cfc82e58-a102-41a5-b679-c5977cf07e07.jpg",
         "https://picturescdn.estatesales.net/5169405/1-1/885da39d-38f2-4e0e-9241-5590bce8ed58.jpg",
@@ -1078,7 +1078,7 @@
       ],
       "digRating": "Worth a Look",
       "ratingReasons": [
-        "97 photos"
+        "96 photos"
       ],
       "lat": 34.0351787,
       "lng": -84.5944915,
@@ -2628,6 +2628,71 @@
       ],
       "contentsLine": "A glass-front china cabinet and wood dining table are shown alongside a floral sofa, coffee table and lamps.",
       "photoRead": true
+    },
+    {
+      "id": "f267ff177e7340c1",
+      "title": "Kennesaw Early American and Antiques",
+      "company": null,
+      "streetAddress": null,
+      "city": "Kennesaw",
+      "state": "GA",
+      "zip": "30152",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Kennesaw/30152/5172417"
+        }
+      ],
+      "categories": [],
+      "photoCount": 49,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172417/1-1/42696e6a-77e7-4516-8e88-a8a36ee7dd9c.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/8a02b056-71d2-47c6-a989-ec047798af3c.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/f4658fe4-4864-4734-83b6-508d037b4329.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/3d202c66-8c1f-4e83-bbd5-93deca07c413.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/67579123-e5e7-4a38-8a8b-e1356955a23d.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/8e2125b5-6fda-4804-814f-7b29360b6bd4.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/132dfdd7-13cc-49ff-88c6-6fe1ac90f898.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/c0355a34-d0d2-4fb0-b68a-682cfb098404.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/599b2b47-943e-40af-ab6e-bc15d6b6f135.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/872b2b58-0342-4f70-b6ec-0194904062b1.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/b3f45c0c-c71c-449c-b815-6c6f09d2f357.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/73933c2c-622f-4960-9910-4ef80cdcfc5d.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "49 photos",
+        "tools, furniture and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "kitchen",
+        "clothing",
+        "books",
+        "toys & games",
+        "crystal",
+        "antiques",
+        "dolls",
+        "christmas decor"
+      ],
+      "contentsLine": "Tools, furniture, kitchen, clothing and books.",
+      "lat": 34.0013766,
+      "lng": -84.6463064,
+      "approximate": true
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T14:59:23.542Z",
+  "collectedAt": "2026-11-25T20:19:36.874Z",
   "window": {
     "start": "2026-11-25",
     "end": "2026-12-08",
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 34/34 local candidate details.",
+      "detail": "Read the public sale sitemap. Checked 36/36 local candidate details.",
       "candidates": 19,
       "included": 13
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 19 Houston directory cards over 1 pages. Checked 0/0 in-person local candidate details.",
+      "detail": "Read 21 Houston directory cards over 2 pages. Checked 0/0 in-person local candidate details.",
       "candidates": 0,
       "included": 0
     },
     "EstateSale.com": {
       "status": "partial",
-      "detail": "22 directory listings discovered; 4 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/909255.html — Incapsula challenge in HTTP 200 response",
+      "detail": "25 directory listings discovered; 4 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/909255.html — Incapsula challenge in HTTP 200 response",
       "candidates": 4,
       "included": 1
     },
@@ -393,11 +393,11 @@
       "id": "0b5aaa0aea070799",
       "title": "POST-THANKSGIVING ESTATE SALE Listing ID#: 912284",
       "company": "Karacostas Estate Sale Services",
-      "streetAddress": null,
+      "streetAddress": "1019 Tiki Drive",
       "city": "Tiki Island",
       "state": "TX",
       "zip": "77554",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-28",
@@ -425,9 +425,9 @@
         "few details in the listing"
       ],
       "photoKeywords": [],
-      "lat": 29.2743047,
-      "lng": -94.9161403,
-      "approximate": true
+      "lat": 29.2973777,
+      "lng": -94.9118315,
+      "approximate": false
     },
     {
       "id": "2a7a411e458e6dad",

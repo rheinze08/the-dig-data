@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T15:07:39.263Z",
+  "generatedAt": "2026-11-25T20:28:09.404Z",
   "categories": [
     "tools",
     "furniture",
@@ -22,15 +22,15 @@
       "state": "TX",
       "status": "live",
       "sales": 14,
-      "collectedAt": "2026-11-25T14:59:23.542Z"
+      "collectedAt": "2026-11-25T20:19:36.874Z"
     },
     {
       "slug": "dallas-fort-worth",
       "name": "Dallas–Fort Worth",
       "state": "TX",
       "status": "live",
-      "sales": 43,
-      "collectedAt": "2026-11-25T15:01:43.044Z"
+      "sales": 44,
+      "collectedAt": "2026-11-25T20:22:02.212Z"
     },
     {
       "slug": "austin",
@@ -38,7 +38,7 @@
       "state": "TX",
       "status": "live",
       "sales": 14,
-      "collectedAt": "2026-11-25T15:02:24.111Z"
+      "collectedAt": "2026-11-25T20:22:44.603Z"
     },
     {
       "slug": "san-antonio",
@@ -46,23 +46,23 @@
       "state": "TX",
       "status": "live",
       "sales": 16,
-      "collectedAt": "2026-11-25T15:03:23.082Z"
+      "collectedAt": "2026-11-25T20:23:43.290Z"
     },
     {
       "slug": "phoenix",
       "name": "Phoenix",
       "state": "AZ",
       "status": "live",
-      "sales": 32,
-      "collectedAt": "2026-11-25T15:04:51.832Z"
+      "sales": 33,
+      "collectedAt": "2026-11-25T20:25:12.091Z"
     },
     {
       "slug": "atlanta",
       "name": "Atlanta",
       "state": "GA",
       "status": "live",
-      "sales": 40,
-      "collectedAt": "2026-11-25T15:06:28.101Z"
+      "sales": 41,
+      "collectedAt": "2026-11-25T20:26:57.105Z"
     },
     {
       "slug": "denver",
@@ -70,7 +70,7 @@
       "state": "CO",
       "status": "proving",
       "sales": 14,
-      "collectedAt": "2026-11-25T15:06:58.153Z"
+      "collectedAt": "2026-11-25T20:27:27.053Z"
     },
     {
       "slug": "nashville",
@@ -78,7 +78,7 @@
       "state": "TN",
       "status": "proving",
       "sales": 19,
-      "collectedAt": "2026-11-25T15:07:39.249Z"
+      "collectedAt": "2026-11-25T20:28:09.394Z"
     }
   ],
   "sales": [
@@ -322,9 +322,9 @@
       "categories": [],
       "firstDate": "2026-11-28",
       "lastDate": "2026-11-29",
-      "lat": 29.2743047,
-      "lng": -94.9161403,
-      "approximate": true,
+      "lat": 29.2973777,
+      "lng": -94.9118315,
+      "approximate": false,
       "sources": [
         {
           "name": "EstateSale.com",
@@ -721,22 +721,26 @@
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
       "status": "live",
-      "title": "Plano French Provincial & Hollywood Regency Estate Sale",
-      "company": "Consignment Crush Estate Sales",
+      "title": "Bold & Beautiful Estate Sale + 7 sales at 70% off",
+      "company": "Crush Estate Sales",
       "categories": [],
       "firstDate": "2026-11-23",
-      "lastDate": "2026-11-25",
-      "lat": 33.0162157,
-      "lng": -96.7363333,
-      "approximate": true,
+      "lastDate": "2026-11-28",
+      "lat": 33.018423,
+      "lng": -96.735494,
+      "approximate": false,
       "sources": [
         {
           "name": "EstateSales.org",
           "url": "https://estatesales.org/estate-sales/tx/plano/75075/plano-french-provincial-hollywood-regency-2475119"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75075/5172522"
         }
       ],
-      "digRating": "Slim Pickings",
-      "photoCount": 1,
+      "digRating": "Deep Dig",
+      "photoCount": 300,
       "photoKeywords": [
         "tufted sofa",
         "scroll arms",
@@ -746,7 +750,18 @@
       "contentsLine": "A cream two-cushion sofa has a button-tufted back, scrolling arms, nailhead trim and gold-toned claw feet.",
       "photoRead": true,
       "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2475119-rt2y6efwwrxykii3.webp"
+        "https://picturescdn.estatesales.net/5172522/1-1/e6b10bbd-3d69-42c2-8408-1be21a79beaf.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/4bcc259d-8d93-4eff-990d-7714a3db7037.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/a1741d20-f3c5-40cb-9b83-8b89a280a727.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/3ec8d95e-59d7-447f-b3f6-f931e555d62a.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/5f5b696b-bfc3-4188-8981-4f2173369a8c.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/c2854863-f43e-47d6-bfe5-e60a275d3fb8.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/96636625-eeee-4742-b7ad-2ebf4366de08.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/655c7630-a02b-4d5c-bd98-d429e8421dba.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/470eb947-ca32-4396-92ee-bba776786782.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/9b2e3f32-482e-49a1-a5bd-33c18e1dfbab.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/622bccdc-7c29-431a-be16-30eccd013b47.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/c17ab7d0-7b11-4ac0-83af-a37b84b7b178.jpg"
       ]
     },
     {
@@ -852,7 +867,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 837,
+      "photoCount": 846,
       "photoKeywords": [
         "tools",
         "furniture",
@@ -1269,7 +1284,52 @@
       ]
     },
     {
-      "id": "cff5379bdb5021d4",
+      "id": "9c06f475e30bb4d8",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "live",
+      "title": "Highland Park/Beverly Dr. Diggers Estate Sale",
+      "company": null,
+      "categories": [],
+      "firstDate": "2026-11-27",
+      "lastDate": "2026-11-28",
+      "lat": 32.8366956,
+      "lng": -96.7888596,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75205/5172699"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 23,
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "clothing",
+        "toys & games",
+        "antiques",
+        "dolls"
+      ],
+      "contentsLine": "Tools, furniture, clothing, toys & games and antiques.",
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172699/1-1/0bd69aed-548b-46f8-b1d6-2bc0e3542314.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/dc646452-29e2-4bf3-b365-3348dc6d2fcb.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/e2763ae4-1fad-47dd-9401-e24abe3e5f2e.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/bfd6d6b8-5b3a-4f4b-8e1d-9ee37764dbb5.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/e6bd4a02-5db8-402b-9a81-cb07a886bf1d.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/3caf0a99-98a4-41ad-b181-a0c0d229fd3a.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/735b4cda-a650-4eb3-a5d6-ee26d22f13d7.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/e4059546-0a85-497c-a617-f328eeff4420.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/c0ac9461-82a3-47e3-990d-e4373c4bcd92.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/3ae409d0-6d4a-4561-bf2c-d6e510b18360.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/780679ff-021e-456a-b48f-461478a8d5c4.jpg",
+        "https://picturescdn.estatesales.net/5172699/1-1/0d224289-a3b1-4d9b-bf2f-25b49b1545b0.jpg"
+      ]
+    },
+    {
+      "id": "97682ffd2fcdb836",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
       "status": "live",
@@ -1288,21 +1348,28 @@
       "sources": [
         {
           "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/denton/76207/incredible-denton-estate-sale-more-2468441"
+          "url": "https://estatesales.org/estate-sales/tx/denton/76207/incredible-denton-estate-sale-collectibles-2468441"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Denton/76207/5122920"
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 20,
+      "photoCount": 121,
       "photoKeywords": [
+        "tools",
         "furniture",
         "collectibles",
+        "kitchen",
         "clothing",
-        "antiques",
-        "mid-century",
-        "silver",
-        "patio furniture"
+        "books",
+        "art",
+        "electronics",
+        "crystal",
+        "antiques"
       ],
-      "contentsLine": "Furniture, collectibles, clothing, antiques and mid-century.",
+      "contentsLine": "Tools, furniture, collectibles, kitchen and clothing.",
       "photoUrls": [
         "https://eso-cdn.tlcdn.workers.dev/s-2468441-qsniuma04njk1s24.jpg",
         "https://eso-cdn.tlcdn.workers.dev/s-2468441-46ho36o41202mv1w.jpg",
@@ -1681,14 +1748,10 @@
         }
       ],
       "digRating": "Slim Pickings",
-      "photoCount": 1,
       "photoKeywords": [
         "antiques"
       ],
-      "contentsLine": "Antiques.",
-      "photoUrls": [
-        "https://estatesales.org/2036244653/css/images/nophoto_sales_800x800.png"
-      ]
+      "contentsLine": "Antiques."
     },
     {
       "id": "f356dd3ddcf8883d",
@@ -1807,9 +1870,22 @@
       ],
       "digRating": "Deep Dig",
       "photoCount": 1095,
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles.",
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5156826/1-1/57a24f10-2b08-4efe-b147-d5c324b3446d.jpg",
         "https://picturescdn.estatesales.net/5156826/1-1/120d9868-2038-48b2-8eb2-624ca7185422.jpg",
+        "https://picturescdn.estatesales.net/5156826/1-1/57a24f10-2b08-4efe-b147-d5c324b3446d.jpg",
         "https://picturescdn.estatesales.net/5156826/1-1/69586573-189c-4156-90d7-662fa173b309.jpg",
         "https://picturescdn.estatesales.net/5156826/1-1/75d1428c-9d89-4774-8d2a-e9758d0a76e0.jpg",
         "https://picturescdn.estatesales.net/5156826/1-1/7e8e8aa6-adc7-438e-9dcb-78ade7682d22.jpg",
@@ -2574,7 +2650,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 152,
+      "photoCount": 157,
       "photoKeywords": [
         "collectibles",
         "books",
@@ -3165,7 +3241,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 64,
+      "photoCount": 69,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5158845/1-1/053528a9-09fe-45b5-ad84-91ae725ca305.jpg",
         "https://picturescdn.estatesales.net/5158845/1-1/3cc66bc4-746a-417b-98f4-525ee09e60eb.jpg",
@@ -3461,7 +3537,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 243,
+      "photoCount": 242,
       "photoKeywords": [
         "framed figure drawing",
         "hippo artwork",
@@ -3800,18 +3876,18 @@
       ],
       "contentsLine": "Furniture, kitchen, books and art.",
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5073984/1-1/31b1e13e-4720-4e91-af5c-d6f071b08b14.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/447cbf23-b8c2-42a5-a3f1-e5e426a421c4.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/4850782a-8990-429a-954c-bc1cd535ac08.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/8d82fd83-1dd8-41de-ad42-128c147607ad.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/178f189b-b68e-4681-b46d-5b6eaa6aefac.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/0c04a6a9-9467-41d0-8e21-b93108b077ec.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/946a6405-3c20-4f50-9b61-b2d822c288f8.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/b9e1d895-e850-4d26-9ac8-a99f87be6b91.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/f1732c26-84f9-4def-84b5-5f11a4ee2b53.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/a896281b-3e49-4e64-8974-d2060311f62f.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/567c7e7e-ff89-43cd-9fef-bc72c06dc888.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/e941c440-96dc-4658-990c-6f65e2dac736.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/44416fa7-b8ed-43e7-a20e-6595c552cf1c.jpg"
+        "https://picturescdn.estatesales.net/5073984/1-1/44416fa7-b8ed-43e7-a20e-6595c552cf1c.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/d2373474-d316-4e4b-aa88-cede602bc427.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/989dfe30-a801-414e-b6fd-3335bae41516.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/e21b511e-07ee-4dea-a7a9-794b78ce50b0.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/8707f227-5a84-4f7e-bc9b-2df5175a802a.jpg"
       ]
     },
     {
@@ -4090,6 +4166,62 @@
       ]
     },
     {
+      "id": "743e8108da2462a7",
+      "citySlug": "phoenix",
+      "cityName": "Phoenix",
+      "status": "live",
+      "title": "Sun City West Estate Sale | Patio Furniture, Jewelry, Sewing Supplies & More",
+      "company": "Linden Estate Sales",
+      "categories": [
+        "furniture",
+        "jewelry"
+      ],
+      "firstDate": "2026-11-27",
+      "lastDate": "2026-11-28",
+      "lat": 33.691199,
+      "lng": -112.3718039,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "Craigslist Phoenix",
+          "url": "https://www.craigslist.org/view/d/sun-city-west-sun-city-west-estate-sale/7pGDzXGyNXbyY26juvj2aj"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Sun-City-West/85375/5172633"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 70,
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles.",
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172633/1-1/cf418afc-3c6b-42b2-a04f-e6fdf810bbf2.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/ae1c5804-b759-451c-8519-614ccd7453d1.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/1b376d1f-0b35-4d7f-824d-7dd6bf51f9c3.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/1c6e55f4-6e8c-4254-a4f6-19485f9e6121.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/fc57160a-d94c-494d-a739-8099bbde99a8.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/e35f276f-d262-4956-a06e-f053a764482e.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/333b3158-e2ea-4aeb-b9ab-50185c4780cd.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/8d241ec9-1e78-481b-8f3f-c06ec7f820b7.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/95b9ab62-1724-4753-8ee8-15b19b990faf.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/fdddebd9-7a74-4159-a7dd-1019da19a0a8.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/cd304380-534b-47d8-b745-fd4395d86658.jpg",
+        "https://picturescdn.estatesales.net/5172633/1-1/8a256a88-56f1-43f2-aa83-fae8f7b0a6c4.jpg"
+      ]
+    },
+    {
       "id": "32367a54e4d3fcc5",
       "citySlug": "phoenix",
       "cityName": "Phoenix",
@@ -4192,7 +4324,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 82,
+      "photoCount": 68,
       "photoKeywords": [
         "tools",
         "furniture",
@@ -4207,18 +4339,18 @@
       ],
       "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5159148/1-1/5f354d25-8530-4616-8ff3-a3c3c3f5c633.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/291d7b48-d4a0-4cc0-9cf4-4aea2044c240.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/3fdbf567-194c-4bc2-a8a4-e0e05dcba89e.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/f49b9e50-1ce7-44ae-b80f-ed6b1a23ee94.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/2a91d456-914e-4ce7-a832-c5a80b8c6604.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/13a80630-22cf-4155-a378-5e5703d1d8ea.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/7eb348c3-b7ca-42f3-8c73-b784839a6c9f.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/2dd70d93-abd0-433d-bdd9-bc71c4ac2cf2.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/1b813ba3-00a8-4f3c-b055-4cab0e4b591f.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/1dd95e6b-9948-4233-94b8-b706cf50638e.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/d5b14e23-106c-4b50-b692-4a5a4370ad28.jpg",
-        "https://picturescdn.estatesales.net/5159148/1-1/f94049f9-4a63-4905-8b7c-230e7048070c.jpg"
+        "https://picturescdn.estatesales.net/5159148/1-1/de134fbf-a7e9-4811-b36d-1df017be3186.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/fc6d8372-be47-4a4d-b98b-ecfa4c108ff6.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/e0651fe0-2c12-4f14-94bb-c0889ef73ffc.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/ed482bff-556b-4e18-b95b-d055f0677ccb.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/47d45287-c029-4e17-b38d-1df79d1c0d48.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/33fcec34-6416-4334-a1d5-105a42d0ec84.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/102e3e55-ce1a-4650-ae2c-d26aac08a673.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/6c09c522-6fc9-4438-a647-5face97704a7.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/b0040e0f-bc20-474c-a3c4-f4084af792d0.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/b6331121-3f17-472c-9027-137f6dcdd5b1.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/a8c901ac-437b-405f-9c79-88d39b22049a.jpg",
+        "https://picturescdn.estatesales.net/5159148/1-1/26d0f1fb-c8d1-430f-a0a7-cae33a6661c2.jpg"
       ]
     },
     {
@@ -5121,7 +5253,7 @@
         }
       ],
       "digRating": "Worth a Look",
-      "photoCount": 20,
+      "photoCount": 47,
       "photoKeywords": [
         "blue-and-white plates",
         "decorative vases",
@@ -5263,7 +5395,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 39,
+      "photoCount": 41,
       "photoKeywords": [
         "grand piano",
         "piano bench",
@@ -5277,6 +5409,7 @@
       "photoRead": true,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5170545/1-1/f7710f06-4798-4c37-ab0f-3f406ee6b346.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/1a04d48c-583d-4483-8ee1-43de11d3fe7d.jpg",
         "https://picturescdn.estatesales.net/5170545/1-1/b87e8e75-aad0-4e08-9b57-553c28010901.jpg",
         "https://picturescdn.estatesales.net/5170545/1-1/d906ad44-76ee-45ee-98d3-7dfdc70f1f36.jpg",
         "https://picturescdn.estatesales.net/5170545/1-1/91f8f6f4-f3ba-415c-a602-51b0965dfd29.jpg",
@@ -5286,8 +5419,7 @@
         "https://picturescdn.estatesales.net/5170545/1-1/844e9d35-aa9c-492d-ab7d-3562f1540782.jpg",
         "https://picturescdn.estatesales.net/5170545/1-1/3d7e4b2d-4e2e-48b9-a913-5be0f6dae9f7.jpg",
         "https://picturescdn.estatesales.net/5170545/1-1/c22fdb61-a8f3-4526-a439-f846eccd22f5.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/873376f1-956b-4319-bca9-49adce3d43df.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/1a04d48c-583d-4483-8ee1-43de11d3fe7d.jpg"
+        "https://picturescdn.estatesales.net/5170545/1-1/873376f1-956b-4319-bca9-49adce3d43df.jpg"
       ]
     },
     {
@@ -5895,7 +6027,7 @@
         }
       ],
       "digRating": "Worth a Look",
-      "photoCount": 97,
+      "photoCount": 96,
       "photoKeywords": [
         "Chevrolet Trailblazer",
         "black SUV",
@@ -6918,6 +7050,55 @@
       ]
     },
     {
+      "id": "f267ff177e7340c1",
+      "citySlug": "atlanta",
+      "cityName": "Atlanta",
+      "status": "live",
+      "title": "Kennesaw Early American and Antiques",
+      "company": null,
+      "categories": [],
+      "firstDate": "2026-12-05",
+      "lastDate": "2026-12-06",
+      "lat": 34.0013766,
+      "lng": -84.6463064,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Kennesaw/30152/5172417"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 49,
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "kitchen",
+        "clothing",
+        "books",
+        "toys & games",
+        "crystal",
+        "antiques",
+        "dolls",
+        "christmas decor"
+      ],
+      "contentsLine": "Tools, furniture, kitchen, clothing and books.",
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172417/1-1/42696e6a-77e7-4516-8e88-a8a36ee7dd9c.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/8a02b056-71d2-47c6-a989-ec047798af3c.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/f4658fe4-4864-4734-83b6-508d037b4329.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/3d202c66-8c1f-4e83-bbd5-93deca07c413.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/67579123-e5e7-4a38-8a8b-e1356955a23d.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/8e2125b5-6fda-4804-814f-7b29360b6bd4.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/132dfdd7-13cc-49ff-88c6-6fe1ac90f898.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/c0355a34-d0d2-4fb0-b68a-682cfb098404.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/599b2b47-943e-40af-ab6e-bc15d6b6f135.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/872b2b58-0342-4f70-b6ec-0194904062b1.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/b3f45c0c-c71c-449c-b815-6c6f09d2f357.jpg",
+        "https://picturescdn.estatesales.net/5172417/1-1/73933c2c-622f-4960-9910-4ef80cdcfc5d.jpg"
+      ]
+    },
+    {
       "id": "cd77d480b5400b91",
       "citySlug": "denver",
       "cityName": "Denver",
@@ -7587,33 +7768,33 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 581,
+      "photoCount": 580,
       "photoKeywords": [
         "tools",
         "furniture",
         "vinyl & records",
         "jewelry",
         "collectibles",
+        "vehicles",
         "kitchen",
         "clothing",
         "books",
-        "art",
-        "electronics"
+        "art"
       ],
       "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5159613/1-1/b7b37faa-06cb-4740-ab24-9e02d395956c.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/e3597e01-e482-48cb-816e-0e9d79d45f42.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/f4bee86f-b406-4436-ada1-a5b4af860c99.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/a9a96e7e-3294-4373-86f9-46d8f90c548a.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/d3e6508b-f210-49b9-965c-efaee11fbfe2.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/541b045c-673b-472b-8cd5-e596bc40d361.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/4bcd70fa-7058-462d-a93b-8f28fb642c6d.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/9c60babe-32f9-4e54-9f4f-ae00535e7416.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/331b13bf-1c21-4f64-94c0-c84c3b0ba72e.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/54034018-e91b-491f-a039-f9bc42eaa6b4.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/047a1a34-ed69-48b1-be35-322c6d548b7b.jpg",
-        "https://picturescdn.estatesales.net/5159613/1-1/4956a175-fec7-448d-9130-32e72fb4f737.jpg"
+        "https://picturescdn.estatesales.net/5159613/1-1/6d73772b-a9c8-4e1d-95e1-1be15af11c63.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/162030f9-40db-4120-b2b3-d9c627ac4136.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/a0ad3cad-3337-4540-9b80-567116e0ab51.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/4a05e5e6-068c-4fa5-845e-a1f8cacbc340.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/6140e1e6-d4fe-4207-a167-441797fd134f.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/bd786f3a-ce1c-477f-873d-c8640f4a48fd.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/49b3af09-58df-47b0-828a-bff576f6c333.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/92ef5157-8613-406c-b8b5-d4ebc9afdca5.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/edfe9a90-a282-4f86-8407-3fa7040fa4e0.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/c66c6c6f-a251-4b6c-a103-2817c3c10c20.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/acf89486-275c-4307-aa63-0ce119cc8d84.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/8d624afb-e1ca-407f-b2f4-21dc86362e57.jpg"
       ]
     },
     {
@@ -7651,14 +7832,14 @@
         "https://picturescdn.estatesales.net/5170677/1-1/5aa54059-af5d-4928-843c-07f7b9beb2cd.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/2e6e0bf5-31be-4f8f-a616-04c40d804b16.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/c2805fa2-a6fd-419b-a6bf-47b924f2b801.jpg",
-        "https://picturescdn.estatesales.net/5170677/1-1/4e67c6a0-2e91-47ec-9cdd-ae0873bd30fb.jpg",
-        "https://picturescdn.estatesales.net/5170677/1-1/3823bb96-cdb0-4bf2-b75d-490554d8780f.jpg",
-        "https://picturescdn.estatesales.net/5170677/1-1/750b0f44-1942-4e24-a1a7-e3687a1a8bac.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/c200786c-159e-4172-aee1-4cfbf83b83d8.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/5d6e25be-11ad-48da-839d-e518b9b2a5ff.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/7d5d8138-9f73-4b5a-ab0b-1692248d19fb.jpg",
-        "https://picturescdn.estatesales.net/5170677/1-1/bd34358b-8715-468c-b2c7-6628858679d9.jpg",
-        "https://picturescdn.estatesales.net/5170677/1-1/de9bdafc-a890-4c70-b9a5-5e919bc62a14.jpg"
+        "https://picturescdn.estatesales.net/5170677/1-1/de9bdafc-a890-4c70-b9a5-5e919bc62a14.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/f2fddfc4-30c8-48e2-9876-636be80480ac.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/b2da5db8-130b-4dce-8739-f0d923f50948.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/9b19d7ec-bc32-4484-8d3b-fb0ab69ec683.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/92a63e7a-ec7e-4273-add8-2e28f229da9b.jpg"
       ]
     },
     {

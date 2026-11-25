@@ -12,7 +12,7 @@
       "enabled": true,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/houston/sales.json",
       "sales": 14,
-      "collectedAt": "2026-11-25T14:59:23.542Z",
+      "collectedAt": "2026-11-25T20:19:36.874Z",
       "cleanRuns": 6,
       "center": {
         "lat": 29.529,
@@ -29,8 +29,8 @@
       "status": "live",
       "enabled": true,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/dallas-fort-worth/sales.json",
-      "sales": 43,
-      "collectedAt": "2026-11-25T15:01:43.044Z",
+      "sales": 44,
+      "collectedAt": "2026-11-25T20:22:02.212Z",
       "cleanRuns": 6,
       "center": {
         "lat": 32.9,
@@ -48,7 +48,7 @@
       "enabled": true,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/austin/sales.json",
       "sales": 14,
-      "collectedAt": "2026-11-25T15:02:24.111Z",
+      "collectedAt": "2026-11-25T20:22:44.603Z",
       "cleanRuns": 6,
       "center": {
         "lat": 30.267,
@@ -66,7 +66,7 @@
       "enabled": true,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/san-antonio/sales.json",
       "sales": 16,
-      "collectedAt": "2026-11-25T15:03:23.082Z",
+      "collectedAt": "2026-11-25T20:23:43.290Z",
       "cleanRuns": 6,
       "center": {
         "lat": 29.424,
@@ -83,8 +83,8 @@
       "status": "live",
       "enabled": true,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/phoenix/sales.json",
-      "sales": 32,
-      "collectedAt": "2026-11-25T15:04:51.832Z",
+      "sales": 33,
+      "collectedAt": "2026-11-25T20:25:12.091Z",
       "cleanRuns": 4,
       "center": {
         "lat": 33.448,
@@ -101,8 +101,8 @@
       "status": "live",
       "enabled": true,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/atlanta/sales.json",
-      "sales": 40,
-      "collectedAt": "2026-11-25T15:06:28.101Z",
+      "sales": 41,
+      "collectedAt": "2026-11-25T20:26:57.105Z",
       "cleanRuns": 4,
       "center": {
         "lat": 33.749,
@@ -120,7 +120,7 @@
       "enabled": false,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/denver/sales.json",
       "sales": 14,
-      "collectedAt": "2026-11-25T15:06:58.153Z",
+      "collectedAt": "2026-11-25T20:27:27.053Z",
       "cleanRuns": 3,
       "center": {
         "lat": 39.739,
@@ -138,7 +138,7 @@
       "enabled": false,
       "feedUrl": "https://raw.githubusercontent.com/rheinze08/the-dig-data/main/cities/nashville/sales.json",
       "sales": 19,
-      "collectedAt": "2026-11-25T15:07:39.249Z",
+      "collectedAt": "2026-11-25T20:28:09.394Z",
       "cleanRuns": 3,
       "center": {
         "lat": 36.163,

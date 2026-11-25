@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T15:06:58.153Z",
+  "collectedAt": "2026-11-25T20:27:27.053Z",
   "window": {
     "start": "2026-11-25",
     "end": "2026-12-08",
@@ -26,7 +26,7 @@
     },
     "Craigslist Denver": {
       "status": "reached",
-      "detail": "8 directory listings discovered; 4 in-window estate listings before radius filtering",
+      "detail": "9 directory listings discovered; 4 in-window estate listings before radius filtering",
       "candidates": 4,
       "included": 4
     },

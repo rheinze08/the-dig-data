@@ -46,6 +46,11 @@
   "nominatim:street:923 crosstimbers:77022": {
     "retryAfter": 1795668842205
   },
+  "street:1019 tiki dr:77554": {
+    "lat": 29.2973777,
+    "lng": -94.9118315,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:11306 christian:77044": {
     "lat": 29.878055045631,
     "lng": -95.154208971048,

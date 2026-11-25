@@ -452,6 +452,11 @@
     "lng": -84.045593,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:30102": {
+    "lat": 34.0983032,
+    "lng": -84.6126058,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:30114": {
     "lat": 34.2293164,
     "lng": -84.5069013,

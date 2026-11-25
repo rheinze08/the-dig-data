@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T15:02:24.111Z",
+  "collectedAt": "2026-11-25T20:22:44.603Z",
   "window": {
     "start": "2026-11-25",
     "end": "2026-12-08",
@@ -14,7 +14,7 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 36/36 local candidate details.",
+      "detail": "Read the public sale sitemap. Checked 37/37 local candidate details.",
       "candidates": 14,
       "included": 11
     },
@@ -26,7 +26,7 @@
     },
     "Craigslist Austin": {
       "status": "reached",
-      "detail": "9 directory listings discovered; 2 in-window estate listings before radius filtering",
+      "detail": "11 directory listings discovered; 2 in-window estate listings before radius filtering",
       "candidates": 2,
       "included": 2
     },
@@ -143,7 +143,7 @@
       "categories": [],
       "contactPhone": "(833) 989-8999",
       "contactUrl": "https://myestatetoliquidate.com/",
-      "photoCount": 152,
+      "photoCount": 157,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5168865/1-1/4b2db2d0-79c6-4451-8661-0393d158ddd4.jpg",
         "https://picturescdn.estatesales.net/5168865/1-1/48ad7114-1154-4623-8ea5-db07093425ba.jpg",
@@ -160,7 +160,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "152 photos",
+        "157 photos",
         "collectibles and books in the listing",
         "runs 3 days"
       ],

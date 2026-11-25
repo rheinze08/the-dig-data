@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T15:03:23.082Z",
+  "collectedAt": "2026-11-25T20:23:43.290Z",
   "window": {
     "start": "2026-11-25",
     "end": "2026-12-08",
@@ -14,7 +14,7 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 51/51 local candidate details.",
+      "detail": "Read the public sale sitemap. Checked 52/52 local candidate details.",
       "candidates": 20,
       "included": 15
     },
@@ -26,7 +26,7 @@
     },
     "Craigslist San Antonio": {
       "status": "reached",
-      "detail": "10 directory listings discovered; 1 in-window estate listings before radius filtering",
+      "detail": "12 directory listings discovered; 1 in-window estate listings before radius filtering",
       "candidates": 1,
       "included": 1
     },
@@ -66,7 +66,7 @@
         {
           "date": "2026-11-25",
           "start": "10:30",
-          "end": "16:00"
+          "end": "17:00"
         },
         {
           "date": "2026-11-26",
@@ -88,7 +88,7 @@
       "categories": [],
       "contactPhone": "(210) 835-7962",
       "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78217/139760",
-      "photoCount": 64,
+      "photoCount": 69,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5158845/1-1/053528a9-09fe-45b5-ad84-91ae725ca305.jpg",
         "https://picturescdn.estatesales.net/5158845/1-1/3cc66bc4-746a-417b-98f4-525ee09e60eb.jpg",
@@ -105,7 +105,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "64 photos",
+        "69 photos",
         "runs 4 days"
       ],
       "photoKeywords": [],
@@ -540,7 +540,7 @@
       "categories": [],
       "contactPhone": "(210) 363-6603",
       "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78248/50918",
-      "photoCount": 243,
+      "photoCount": 242,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5166486/1-1/e0bab3fc-09ae-48d7-8d1b-b7c396b82267.jpg",
         "https://picturescdn.estatesales.net/5166486/1-1/27a02467-0397-4fb9-8adc-eac14686d991.jpg",
@@ -557,7 +557,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "243 photos",
+        "242 photos",
         "tools, furniture and vinyl & records in the listing",
         "runs 3 days"
       ],
@@ -1053,18 +1053,18 @@
       "contactUrl": "https://estatesalesbyemilee.com",
       "photoCount": 91,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5073984/1-1/31b1e13e-4720-4e91-af5c-d6f071b08b14.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/447cbf23-b8c2-42a5-a3f1-e5e426a421c4.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/4850782a-8990-429a-954c-bc1cd535ac08.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/8d82fd83-1dd8-41de-ad42-128c147607ad.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/178f189b-b68e-4681-b46d-5b6eaa6aefac.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/0c04a6a9-9467-41d0-8e21-b93108b077ec.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/946a6405-3c20-4f50-9b61-b2d822c288f8.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/b9e1d895-e850-4d26-9ac8-a99f87be6b91.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/f1732c26-84f9-4def-84b5-5f11a4ee2b53.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/a896281b-3e49-4e64-8974-d2060311f62f.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/567c7e7e-ff89-43cd-9fef-bc72c06dc888.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/e941c440-96dc-4658-990c-6f65e2dac736.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/44416fa7-b8ed-43e7-a20e-6595c552cf1c.jpg"
+        "https://picturescdn.estatesales.net/5073984/1-1/44416fa7-b8ed-43e7-a20e-6595c552cf1c.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/d2373474-d316-4e4b-aa88-cede602bc427.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/989dfe30-a801-414e-b6fd-3335bae41516.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/e21b511e-07ee-4dea-a7a9-794b78ce50b0.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/8707f227-5a84-4f7e-bc9b-2df5175a802a.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
