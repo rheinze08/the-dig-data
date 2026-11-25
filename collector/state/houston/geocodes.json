@@ -226,9 +226,19 @@
     "lng": -95.3902848,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:77007": {
+    "lat": 29.7707517,
+    "lng": -95.4024696,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:77008": {
     "lat": 29.8000235,
     "lng": -95.4231826,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77018": {
+    "lat": 29.8206419,
+    "lng": -95.4238762,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:77019": {

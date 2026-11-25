@@ -14,6 +14,11 @@
     "lng": -98.4951405,
     "basis": "OpenStreetMap Nominatim"
   },
+  "city:windcrest": {
+    "lat": 29.515508,
+    "lng": -98.3802925,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "nominatim:street:114 e castle ln:78213": {
     "retryAfter": 1795828837610
   },
@@ -59,11 +64,17 @@
   "nominatim:street:3903 eisenhauer:78218": {
     "retryAfter": 1795828833816
   },
+  "nominatim:street:410 e bandera:78006": {
+    "retryAfter": 1796221435005
+  },
   "nominatim:street:4913 sh 173n devine tx 78016:devine": {
     "retryAfter": 1795828871232
   },
   "nominatim:street:560 jaylee:78133": {
     "retryAfter": 1795828858885
+  },
+  "nominatim:street:5830 grandwood dr:windcrest": {
+    "retryAfter": 1796221435945
   },
   "nominatim:street:6025 mike nesmith st:78238": {
     "retryAfter": 1795828839547
@@ -196,6 +207,11 @@
   "street:3903 eisenhauer:78218": {
     "lat": 29.497409,
     "lng": -98.419527,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:410 e bandera:78006": {
+    "lat": 29.780659,
+    "lng": -98.723116,
     "basis": "Public listing map: EstateSales.net"
   },
   "street:560 jaylee:78133": {

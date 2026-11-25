@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-24",
-  "collectedAt": "2026-11-24T21:01:17.248Z",
+  "asOf": "2026-11-25",
+  "collectedAt": "2026-11-25T14:23:57.015Z",
   "window": {
-    "start": "2026-11-24",
-    "end": "2026-12-07",
+    "start": "2026-11-25",
+    "end": "2026-12-08",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -13,10 +13,10 @@
   },
   "coverage": {
     "EstateSales.net": {
-      "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 47/48 local candidate details. https://www.estatesales.net/TX/San-Antonio/78233/5139138 — ETIMEDOUT",
-      "candidates": 18,
-      "included": 14
+      "status": "reached",
+      "detail": "Read the public sale sitemap. Checked 51/51 local candidate details.",
+      "candidates": 20,
+      "included": 15
     },
     "EstateSales.org": {
       "status": "reached",
@@ -26,9 +26,9 @@
     },
     "Craigslist San Antonio": {
       "status": "reached",
-      "detail": "9 directory listings discovered; 0 in-window estate listings before radius filtering",
-      "candidates": 0,
-      "included": 0
+      "detail": "10 directory listings discovered; 1 in-window estate listings before radius filtering",
+      "candidates": 1,
+      "included": 1
     },
     "GSALR.com": {
       "status": "blocked",
@@ -38,11 +38,11 @@
     }
   },
   "counts": {
-    "candidates": 20,
-    "listings": 14,
-    "sales": 14,
+    "candidates": 23,
+    "listings": 16,
+    "sales": 16,
     "duplicates": 0,
-    "outsideRadius": 6,
+    "outsideRadius": 7,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -114,6 +114,62 @@
       "approximate": false
     },
     {
+      "id": "2ae505037f0dd2fd",
+      "title": "5830 Grandwood dr estate sale",
+      "company": null,
+      "streetAddress": "5830 Grandwood dr",
+      "city": "Windcrest",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "08:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-28",
+          "start": "08:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-29",
+          "start": "08:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist San Antonio",
+          "url": "https://www.craigslist.org/view/d/san-antonio-5830-grandwood-dr-estate/7XAzTnsgj1P3s5pgoJH1L6"
+        }
+      ],
+      "categories": [],
+      "photoCount": 7,
+      "photoUrls": [
+        "https://images.craigslist.org/00F0F_3eRUou5u9jk_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00D0D_ikln0lOtgPk_0hC0t2_600x450.jpg",
+        "https://images.craigslist.org/00N0N_g6Y7rah6STj_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00o0o_doro0ENJPF9_0lO0t2_600x450.jpg",
+        "https://images.craigslist.org/00101_lVUsu5VFQD8_0lE0t2_600x450.jpg",
+        "https://images.craigslist.org/00v0v_eTpjc2opBU9_0lN0t2_600x450.jpg",
+        "https://images.craigslist.org/00P0P_hnipP6bg87v_0lM0t2_600x450.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "7 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture"
+      ],
+      "contentsLine": "Furniture.",
+      "lat": 29.515508,
+      "lng": -98.3802925,
+      "approximate": true
+    },
+    {
       "id": "a3e380a9b0a15a3d",
       "title": "#634: Sale of the Season!",
       "company": "A Better Estate Sale Co.",
@@ -148,12 +204,25 @@
       "categories": [],
       "contactPhone": "(210) 464-1764",
       "contactUrl": "http://www.abetterestatesale.com/",
-      "photoCount": 0,
-      "digRating": "Slim Pickings",
+      "photoCount": 502,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5163381/1-1/b12a581e-5f16-4684-8c2c-f34f306908e2.jpg",
+        "https://picturescdn.estatesales.net/5163381/1-1/04d1a612-f69d-42ba-904e-005a73c1b440.jpg",
+        "https://picturescdn.estatesales.net/5163381/1-1/c5d82118-8a28-48ea-b668-3a0e634054b6.jpg",
+        "https://picturescdn.estatesales.net/5163381/1-1/5cc07cef-1921-454c-8eb4-411268ad80a3.jpg",
+        "https://picturescdn.estatesales.net/5163381/1-1/f6a60fb1-2900-4c63-ba33-82e7ea0cf166.jpg",
+        "https://picturescdn.estatesales.net/5163381/1-1/2ae89b11-4e7c-446c-8dd1-75c2d880458c.jpg",
+        "https://picturescdn.estatesales.net/5163381/1-1/1b1b7a42-c745-40a0-abdd-b17e4239e562.jpg",
+        "https://picturescdn.estatesales.net/5163381/1-1/7734aca1-5e22-4211-b6e3-cb741b127023.jpg",
+        "https://picturescdn.estatesales.net/5163381/1-1/46a01ec8-411d-4057-9417-ac99cbd79182.jpg",
+        "https://picturescdn.estatesales.net/5163381/1-1/bb1cb2b2-79a5-4311-b077-f30385027a1e.jpg",
+        "https://picturescdn.estatesales.net/5163381/1-1/0f5b3cf7-8cf8-499f-bf05-6aaeb8f37550.jpg",
+        "https://picturescdn.estatesales.net/5163381/1-1/783817d2-cfe2-411a-bdda-2e549528fcf4.jpg"
+      ],
+      "digRating": "Deep Dig",
       "ratingReasons": [
-        "runs 3 days",
-        "no photos in the listing",
-        "few details in the listing"
+        "502 photos",
+        "runs 3 days"
       ],
       "photoKeywords": [],
       "lat": 29.590754,
@@ -261,8 +330,11 @@
       "categories": [],
       "contactPhone": "(210) 838-4654",
       "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78208/135248",
-      "photoCount": 51,
+      "photoCount": 70,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5170932/1-1/aa37fa6b-9eab-4e1f-a117-24b50ed2540c.jpg",
+        "https://picturescdn.estatesales.net/5170932/1-1/b1b070a5-a448-4a97-84df-b73ee8590625.jpg",
+        "https://picturescdn.estatesales.net/5170932/1-1/e0543736-8777-43ec-b9d1-2f54c07fcdad.jpg",
         "https://picturescdn.estatesales.net/5170932/1-1/a6fb5633-eb3f-4f31-8417-688efc0628a8.jpg",
         "https://picturescdn.estatesales.net/5170932/1-1/95704160-2b1e-4b97-8044-a93c7c353579.jpg",
         "https://picturescdn.estatesales.net/5170932/1-1/2e277510-1632-4088-8900-15d2285c203e.jpg",
@@ -271,28 +343,25 @@
         "https://picturescdn.estatesales.net/5170932/1-1/d4bacdfc-2f7f-4474-97df-96d98be7905c.jpg",
         "https://picturescdn.estatesales.net/5170932/1-1/b6acae68-4c8f-4f14-8d02-2e4c9b964eaa.jpg",
         "https://picturescdn.estatesales.net/5170932/1-1/bbd1c0e7-0d8f-411d-9e55-4025466ae1a1.jpg",
-        "https://picturescdn.estatesales.net/5170932/1-1/9e90157d-1616-4e16-a092-ffeec60b2d79.jpg",
-        "https://picturescdn.estatesales.net/5170932/1-1/0204d22a-d5b5-472d-abe0-1c4dc9757ee4.jpg",
-        "https://picturescdn.estatesales.net/5170932/1-1/a9447019-f38c-47bb-9d08-f7de0aa911fa.jpg",
-        "https://picturescdn.estatesales.net/5170932/1-1/ecd1cf00-12b9-4648-90c9-9e2d2672d0de.jpg"
+        "https://picturescdn.estatesales.net/5170932/1-1/9e90157d-1616-4e16-a092-ffeec60b2d79.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "51 photos",
+        "70 photos",
         "tools, furniture and vinyl & records in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "vinyl & records",
-        "vehicles",
-        "clothing",
-        "mid-century"
-      ],
-      "contentsLine": "Tools, furniture, vinyl & records, vehicles and clothing.",
       "lat": 29.5391544,
       "lng": -98.4240602,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "horse figurine",
+        "mantel clock",
+        "Santa wall quilt",
+        "frog doll",
+        "woven basket"
+      ],
+      "contentsLine": "A saddled horse figurine, a mantel clock, a patchwork Santa wall hanging and a frog doll are on display.",
+      "photoRead": true
     },
     {
       "id": "a79f908b58fbfa02",
@@ -329,7 +398,7 @@
       "categories": [],
       "contactPhone": "(210) 838-4654",
       "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78208/135248",
-      "photoCount": 65,
+      "photoCount": 121,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5167146/1-1/62e576fc-c549-4690-aa6e-907b7d5d3dd6.jpg",
         "https://picturescdn.estatesales.net/5167146/1-1/ebb06c29-d973-47c6-ae5e-f5bca1142d2e.jpg",
@@ -346,7 +415,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "65 photos",
+        "121 photos",
         "furniture, jewelry and kitchen in the listing",
         "runs 3 days"
       ],
@@ -543,7 +612,7 @@
       ],
       "contactPhone": "(210) 844-2130",
       "contactUrl": "https://www.junehayes.com/",
-      "photoCount": 112,
+      "photoCount": 136,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5163522/1-1/adbbfd84-13a6-4453-8222-ec05d8f85062.jpg",
         "https://picturescdn.estatesales.net/5163522/1-1/876c9132-8517-49c1-9959-4460c629f893.jpg",
@@ -560,7 +629,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "112 photos",
+        "136 photos",
         "jewelry, collectibles and clothing in the listing",
         "runs 3 days"
       ],
@@ -706,6 +775,69 @@
       ],
       "contentsLine": "Bird and butterfly guides cover the sofas and coffee table. A painted platter sits between two candlesticks.",
       "photoRead": true
+    },
+    {
+      "id": "bc6df8ae74172e03",
+      "title": "EveryTreasure has a Story",
+      "company": "Carousel of Life Estate Sales and Service",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78260",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "10:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78260/5171421"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(210) 920-5881",
+      "contactUrl": "http://carouseloflifeestatesales.net/",
+      "photoCount": 349,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5171421/1-1/e4a0a710-953c-4dbc-8712-cc98bae1f27e.jpg",
+        "https://picturescdn.estatesales.net/5171421/1-1/fe411197-dcd3-44e9-96a6-391a43caffaa.jpg",
+        "https://picturescdn.estatesales.net/5171421/1-1/446e0ef5-33ad-4864-94c4-a3b5303a0e2b.jpg",
+        "https://picturescdn.estatesales.net/5171421/1-1/b1737aad-0389-403d-8385-2dd82b47a751.jpg",
+        "https://picturescdn.estatesales.net/5171421/1-1/486ca025-eb7f-47ac-9425-6087a5cca255.jpg",
+        "https://picturescdn.estatesales.net/5171421/1-1/1ee359a7-279e-468d-8968-af6bd20a33db.jpg",
+        "https://picturescdn.estatesales.net/5171421/1-1/954a9ed5-3417-4ef1-b5a2-cb89eb21b397.jpg",
+        "https://picturescdn.estatesales.net/5171421/1-1/2945ba64-1832-46a8-80f5-78595ecfa3df.jpg",
+        "https://picturescdn.estatesales.net/5171421/1-1/b3807eda-9929-4a81-8123-b87235829137.jpg",
+        "https://picturescdn.estatesales.net/5171421/1-1/1b4d0e5e-c0e4-470c-987f-a1c5d9edcfcf.jpg",
+        "https://picturescdn.estatesales.net/5171421/1-1/2b454376-864a-4e4f-894e-3bbf601234fb.jpg",
+        "https://picturescdn.estatesales.net/5171421/1-1/cecd7648-fc7c-452f-9f8b-045899b5c427.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "349 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "electronics"
+      ],
+      "contentsLine": "Electronics.",
+      "lat": 29.717573,
+      "lng": -98.4637654,
+      "approximate": true
     },
     {
       "id": "b1b05208182ed34e",
@@ -891,7 +1023,7 @@
     },
     {
       "id": "280dd0611afe0fd6",
-      "title": "Feels Like Fall @Garden Ridge",
+      "title": "Feels Like Maple @ Garden Ridge",
       "company": "Estates By Emilee LLC",
       "streetAddress": null,
       "city": "San Antonio",
@@ -919,24 +1051,24 @@
       "categories": [],
       "contactPhone": "(210) 313-2722",
       "contactUrl": "https://estatesalesbyemilee.com",
-      "photoCount": 21,
+      "photoCount": 91,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5073984/1-1/447cbf23-b8c2-42a5-a3f1-e5e426a421c4.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/4850782a-8990-429a-954c-bc1cd535ac08.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/8148429a-e04f-4bf5-858e-d40da1d4ea46.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/8325146a-729d-48c6-9494-365488219931.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/e126c792-6915-44d8-9e12-1f8747deb10b.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/8538c52f-18d4-4f75-8dee-f16eed06d18d.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/8d82fd83-1dd8-41de-ad42-128c147607ad.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/816b4388-0e08-4127-9608-c0d8ee8d1826.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/178f189b-b68e-4681-b46d-5b6eaa6aefac.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/0c04a6a9-9467-41d0-8e21-b93108b077ec.jpg",
         "https://picturescdn.estatesales.net/5073984/1-1/946a6405-3c20-4f50-9b61-b2d822c288f8.jpg",
-        "https://picturescdn.estatesales.net/5073984/1-1/b9e1d895-e850-4d26-9ac8-a99f87be6b91.jpg"
+        "https://picturescdn.estatesales.net/5073984/1-1/b9e1d895-e850-4d26-9ac8-a99f87be6b91.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/f1732c26-84f9-4def-84b5-5f11a4ee2b53.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/a896281b-3e49-4e64-8974-d2060311f62f.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/567c7e7e-ff89-43cd-9fef-bc72c06dc888.jpg",
+        "https://picturescdn.estatesales.net/5073984/1-1/e941c440-96dc-4658-990c-6f65e2dac736.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "21 photos",
+        "91 photos",
         "furniture, kitchen and books in the listing"
       ],
       "photoKeywords": [

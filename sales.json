@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-24",
-  "collectedAt": "2026-11-24T20:57:30.162Z",
+  "asOf": "2026-11-25",
+  "collectedAt": "2026-11-25T14:19:56.233Z",
   "window": {
-    "start": "2026-11-24",
-    "end": "2026-12-07",
+    "start": "2026-11-25",
+    "end": "2026-12-08",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,20 +14,20 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 31/31 local candidate details.",
-      "candidates": 16,
-      "included": 12
+      "detail": "Read the public sale sitemap. Checked 33/33 local candidate details.",
+      "candidates": 19,
+      "included": 13
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 20 Houston directory cards over 1 pages. Checked 0/0 in-person local candidate details.",
+      "detail": "Read 19 Houston directory cards over 1 pages. Checked 0/0 in-person local candidate details.",
       "candidates": 0,
       "included": 0
     },
     "EstateSale.com": {
       "status": "partial",
-      "detail": "23 directory listings discovered; 4 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/911152.html — Incapsula challenge in HTTP 200 response",
-      "candidates": 4,
+      "detail": "24 directory listings discovered; 3 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/911152.html — Incapsula challenge in HTTP 200 response",
+      "candidates": 3,
       "included": 1
     },
     "Craigslist Houston": {
@@ -44,16 +44,66 @@
     }
   },
   "counts": {
-    "candidates": 20,
-    "listings": 13,
-    "sales": 13,
+    "candidates": 22,
+    "listings": 14,
+    "sales": 14,
     "duplicates": 0,
-    "outsideRadius": 7,
+    "outsideRadius": 8,
     "unlocatedListings": 0
   },
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
+    {
+      "id": "1cccbc7f7587ad02",
+      "title": "Estate Sale",
+      "company": null,
+      "streetAddress": null,
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77007",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77007/5170362"
+        }
+      ],
+      "categories": [],
+      "photoCount": 0,
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "tools, furniture and vinyl & records in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "toys & games"
+      ],
+      "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
+      "lat": 29.7707517,
+      "lng": -95.4024696,
+      "approximate": true
+    },
     {
       "id": "510a1b9fb19e4d83",
       "title": "Estate Sale by Family Tree Estates",
@@ -146,11 +196,6 @@
           "date": "2026-11-28",
           "start": "10:00",
           "end": "15:00"
-        },
-        {
-          "date": "2026-11-29",
-          "start": "10:00",
-          "end": "15:00"
         }
       ],
       "sources": [
@@ -162,11 +207,25 @@
       "categories": [],
       "contactPhone": "8322676961",
       "contactUrl": "https://www.estatesales.net/companies/TX/Kemah/77565/135479",
-      "photoCount": 0,
+      "photoCount": 127,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5156793/1-1/62ab1575-8115-4312-98e8-1b28595f7a9e.jpg",
+        "https://picturescdn.estatesales.net/5156793/1-1/81adef11-f942-4bf0-bc90-7c864dc3e193.jpg",
+        "https://picturescdn.estatesales.net/5156793/1-1/ce860582-350d-4076-b0e0-92dacc398f53.jpg",
+        "https://picturescdn.estatesales.net/5156793/1-1/d114c716-734d-4550-b839-615fe463545d.jpg",
+        "https://picturescdn.estatesales.net/5156793/1-1/9bc8f1be-7105-4d85-830f-768b222d9887.jpg",
+        "https://picturescdn.estatesales.net/5156793/1-1/68ce607b-c79d-41b1-9e8b-59f35e0b2ad4.jpg",
+        "https://picturescdn.estatesales.net/5156793/1-1/e7a6087a-f580-42cc-b260-04a3d8bd3013.jpg",
+        "https://picturescdn.estatesales.net/5156793/1-1/78462106-18c5-4bc4-9687-34dc0f648f85.jpg",
+        "https://picturescdn.estatesales.net/5156793/1-1/94240200-e069-4d40-bb28-dab81e06a662.jpg",
+        "https://picturescdn.estatesales.net/5156793/1-1/448b43df-0105-48ad-8410-d3ddf539eb7c.jpg",
+        "https://picturescdn.estatesales.net/5156793/1-1/290baeaf-16ff-4f6e-b469-323ed24344e9.jpg",
+        "https://picturescdn.estatesales.net/5156793/1-1/97d1f579-2c0a-4069-a7ce-f6aa24327fec.jpg"
+      ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "furniture, collectibles and kitchen in the listing",
-        "runs 3 days"
+        "127 photos",
+        "furniture, collectibles and kitchen in the listing"
       ],
       "photoKeywords": [
         "furniture",
@@ -332,7 +391,7 @@
     },
     {
       "id": "0b5aaa0aea070799",
-      "title": "ESTATE SALE Listing ID#: 912284",
+      "title": "POST-THANKSGIVING ESTATE SALE Listing ID#: 912284",
       "company": "Karacostas Estate Sale Services",
       "streetAddress": null,
       "city": "Tiki Island",
@@ -348,7 +407,7 @@
         {
           "date": "2026-11-29",
           "start": "10:00",
-          "end": "15:00"
+          "end": "16:00"
         }
       ],
       "sources": [

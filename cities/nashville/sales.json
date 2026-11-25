@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-24",
-  "collectedAt": "2026-11-24T21:05:26.127Z",
+  "asOf": "2026-11-25",
+  "collectedAt": "2026-11-25T14:28:12.146Z",
   "window": {
-    "start": "2026-11-24",
-    "end": "2026-12-07",
+    "start": "2026-11-25",
+    "end": "2026-12-08",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,15 +14,15 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 34/35 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
+      "detail": "Read the public sale sitemap. Checked 35/36 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
       "candidates": 22,
       "included": 17
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 8 Nashville directory cards over 1 pages. Checked 8/8 in-person local candidate details.",
-      "candidates": 4,
-      "included": 4
+      "detail": "Read 9 Nashville directory cards over 1 pages. Checked 9/9 in-person local candidate details.",
+      "candidates": 5,
+      "included": 5
     },
     "Craigslist Nashville": {
       "status": "reached",
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 26,
-    "listings": 21,
-    "sales": 18,
+    "candidates": 27,
+    "listings": 22,
+    "sales": 19,
     "duplicates": 3,
     "outsideRadius": 5,
     "unlocatedListings": 0
@@ -48,6 +48,60 @@
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
+    {
+      "id": "1b38ea8e75acdabd",
+      "title": "Berry Hill Black Friday Sale - Phase 2",
+      "company": "Estate Greats Estate Sales",
+      "streetAddress": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37204",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tn/nashville/37204/berry-hill-black-friday-sale-2475373"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(615) 899-4222",
+      "contactUrl": "https://estatesales.org/estate-sale-companies/estate-greats-23125",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://eso-cdn.tlcdn.workers.dev/s-2475373-k6ubii48o8j08lka.webp"
+      ],
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "runs 3 days",
+        "only 1 photo",
+        "few details in the listing"
+      ],
+      "photoKeywords": [
+        "clothing",
+        "antiques"
+      ],
+      "contentsLine": "Clothing and antiques.",
+      "lat": 36.1151393,
+      "lng": -86.7771901,
+      "approximate": true
+    },
     {
       "id": "35e1c8a5a69629ad",
       "title": "Berry Hill Black Friday Sale - Phase 2",
@@ -83,21 +137,40 @@
       "categories": [],
       "contactPhone": "6154996512",
       "contactUrl": "https://estategreats.net",
-      "photoCount": 1,
+      "photoCount": 581,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5159613/1-1/c18872ac-ff6a-4924-9075-4d901f8e4802.jpg"
+        "https://picturescdn.estatesales.net/5159613/1-1/b7b37faa-06cb-4740-ab24-9e02d395956c.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/e3597e01-e482-48cb-816e-0e9d79d45f42.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/f4bee86f-b406-4436-ada1-a5b4af860c99.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/a9a96e7e-3294-4373-86f9-46d8f90c548a.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/d3e6508b-f210-49b9-965c-efaee11fbfe2.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/541b045c-673b-472b-8cd5-e596bc40d361.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/4bcd70fa-7058-462d-a93b-8f28fb642c6d.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/9c60babe-32f9-4e54-9f4f-ae00535e7416.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/331b13bf-1c21-4f64-94c0-c84c3b0ba72e.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/54034018-e91b-491f-a039-f9bc42eaa6b4.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/047a1a34-ed69-48b1-be35-322c6d548b7b.jpg",
+        "https://picturescdn.estatesales.net/5159613/1-1/4956a175-fec7-448d-9130-32e72fb4f737.jpg"
       ],
-      "digRating": "Slim Pickings",
+      "digRating": "Deep Dig",
       "ratingReasons": [
-        "runs 3 days",
-        "only 1 photo",
-        "few details in the listing"
+        "581 photos",
+        "tools, furniture and vinyl & records in the listing",
+        "runs 3 days"
       ],
       "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "jewelry",
+        "collectibles",
+        "kitchen",
         "clothing",
-        "antiques"
+        "books",
+        "art",
+        "electronics"
       ],
-      "contentsLine": "Clothing and antiques.",
+      "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
       "lat": 36.1151393,
       "lng": -86.7771901,
       "approximate": true
@@ -137,7 +210,7 @@
       "categories": [],
       "contactPhone": "(615) 543-1100",
       "contactUrl": "https://www.facebook.com/profile.php?id=61552038952422&mibextid=LQQJ4d",
-      "photoCount": 185,
+      "photoCount": 236,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5170677/1-1/6a5e296e-7b54-40d4-9e25-fee31224faa4.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/5aa54059-af5d-4928-843c-07f7b9beb2cd.jpg",
@@ -154,24 +227,22 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "185 photos",
+        "236 photos",
         "furniture, vinyl & records and collectibles in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "vinyl & records",
-        "collectibles",
-        "books",
-        "art",
-        "electronics",
-        "toys & games",
-        "christmas decor"
-      ],
-      "contentsLine": "Furniture, vinyl & records, collectibles, books and art.",
       "lat": 36.3150086,
       "lng": -86.6090316,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "leg lamp",
+        "dining table",
+        "ladder-back chairs",
+        "upholstered armchairs",
+        "pillar candle holders"
+      ],
+      "contentsLine": "A fishnet leg lamp has a fringed shade. Ladder-back chairs and upholstered armchairs surround a dining table.",
+      "photoRead": true
     },
     {
       "id": "fa72b61fd680f41d",
@@ -208,34 +279,45 @@
       "categories": [],
       "contactPhone": "(615) 739-4496",
       "contactUrl": "https://newlifeestatesales.com/",
-      "photoCount": 192,
+      "photoCount": 694,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5171094/1-1/e08bc79e-85c5-47a7-b660-9201d1b95803.jpg",
-        "https://picturescdn.estatesales.net/5171094/1-1/aa793c02-a037-4c5e-994a-474d3d589dd5.jpg",
-        "https://picturescdn.estatesales.net/5171094/1-1/00fe4ec1-701e-4829-8f44-7c0a995a4e73.jpg",
-        "https://picturescdn.estatesales.net/5171094/1-1/11869090-9a66-4109-a06b-9cf05a4304cc.jpg",
-        "https://picturescdn.estatesales.net/5171094/1-1/d3d1846e-5461-4f67-9752-bfcee1f40021.jpg",
-        "https://picturescdn.estatesales.net/5171094/1-1/64487c11-beb6-4e8c-9f98-2a09026de33e.jpg",
-        "https://picturescdn.estatesales.net/5171094/1-1/71ade0f4-024f-4949-9827-9805d9a3a2de.jpg",
-        "https://picturescdn.estatesales.net/5171094/1-1/eb3618ff-1be0-49ef-b4c4-3cb80a5c6298.jpg",
-        "https://picturescdn.estatesales.net/5171094/1-1/532117df-7a28-476a-a8a2-8c45b28e189f.jpg",
-        "https://picturescdn.estatesales.net/5171094/1-1/bde96e1d-ba91-4716-beda-9157c0f63234.jpg",
-        "https://picturescdn.estatesales.net/5171094/1-1/87180ae8-9fbe-4b5f-8138-b2a0e854c318.jpg",
-        "https://picturescdn.estatesales.net/5171094/1-1/55319cdf-5a7d-4c38-b7bf-ec4a3fd48380.jpg"
+        "https://picturescdn.estatesales.net/5171094/1-1/a319411c-5bbd-4a69-af4b-a4c257dbdab5.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/4b63110d-7f05-451b-9a17-6530a1e8a5f0.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/0d9f4a7d-ffe0-4e9c-87c7-4e5131a5ddec.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/269eea5f-0363-4e77-a791-91d8dffbd6aa.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/d364048c-116a-41f5-ba53-8b78b88fba76.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/6d8f1999-a5d1-438c-a0c9-2ec8caaacb17.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/8a552da3-cfe1-47c4-b199-b36293a319cf.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/d1c940de-1c3f-47a7-8f25-a1d51b6f5189.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/f9c359de-f794-4a25-a207-b534faf5e563.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/69751d89-0c3b-42b4-b462-b03b4da446eb.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/782a669e-5ee9-41fb-b11b-f916a3c52267.jpg",
+        "https://picturescdn.estatesales.net/5171094/1-1/d803a315-d4e7-4c01-a889-72f0990c018f.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "192 photos",
+        "694 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [],
       "lat": 35.9062737,
       "lng": -86.8682941,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "computer monitor",
+        "desktop tower",
+        "keyboard",
+        "desk lamp",
+        "printer",
+        "paper shredder",
+        "cordless phone",
+        "calculators"
+      ],
+      "contentsLine": "A monitor, keyboard, phone and calculators sit on a corner desk with a paper shredder and computer tower below.",
+      "photoRead": true
     },
     {
       "id": "182c1ecab61a6e28",
-      "title": "5,600 Sq Ft Forrest Hills Estate Sale - Long Uphill Hike to the house!",
+      "title": "Upscale Multi-Million Dollar Forrest Hills Estate Sale!",
       "company": "New Life Estate Sales",
       "streetAddress": null,
       "city": "Nashville",
@@ -244,12 +326,12 @@
       "addressHidden": true,
       "sessions": [
         {
-          "date": "2026-11-28",
+          "date": "2026-11-27",
           "start": "10:00",
           "end": "16:00"
         },
         {
-          "date": "2026-11-29",
+          "date": "2026-11-28",
           "start": "10:00",
           "end": "16:00"
         }
@@ -282,10 +364,21 @@
       "ratingReasons": [
         "302 photos"
       ],
-      "photoKeywords": [],
       "lat": 36.0975857,
       "lng": -86.8212725,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "stemware",
+        "glass pitchers",
+        "serving trays",
+        "framed landscapes",
+        "upholstered armchairs",
+        "dining table",
+        "console table",
+        "wall mirror"
+      ],
+      "contentsLine": "Dining tables hold stemware, pitchers and serving trays. Framed landscapes sit on tables and upholstered chairs.",
+      "photoRead": true
     },
     {
       "id": "e275ab209f26a3c1",
@@ -481,22 +574,20 @@
         "furniture, vinyl & records and collectibles in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "vinyl & records",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "books",
-        "electronics",
-        "figurines",
-        "lamps",
-        "guitars"
-      ],
-      "contentsLine": "Furniture, vinyl & records, collectibles, vehicles and kitchen.",
       "lat": 36.1807257,
       "lng": -86.5972246,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "electric guitars",
+        "acoustic guitars",
+        "guitar cases",
+        "effects pedals",
+        "guitar necks",
+        "tuning keys",
+        "soundhole pickup"
+      ],
+      "contentsLine": "Electric and acoustic guitars lie in open cases. Effects pedals, guitar necks and tuning keys cover a table.",
+      "photoRead": true
     },
     {
       "id": "dfe6652fc33661c1",
@@ -735,22 +826,17 @@
         "206 photos",
         "tools, furniture and collectibles in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "collectibles",
-        "kitchen",
-        "art",
-        "toys & games",
-        "china",
-        "antiques",
-        "mid-century",
-        "rugs"
-      ],
-      "contentsLine": "Tools, furniture, collectibles, kitchen and art.",
       "lat": 36.1365855,
       "lng": -86.7990364,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "Madonna and Child portrait",
+        "ornate picture frame",
+        "patio armchair",
+        "chair cushions"
+      ],
+      "contentsLine": "A Madonna and Child portrait has an ornate gold-colored frame. A black patio armchair has cream cushions.",
+      "photoRead": true
     },
     {
       "id": "972ba1eb9bfd77a9",
@@ -861,10 +947,18 @@
       "ratingReasons": [
         "122 photos"
       ],
-      "photoKeywords": [],
       "lat": 36.3845475,
       "lng": -86.4611459,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "dog art prints",
+        "dog portrait plate",
+        "dog-shaped dish",
+        "dog mug",
+        "cat and fish cup"
+      ],
+      "contentsLine": "Cartoon dogs decorate prints, a round plate, a square platter and a mug. A pink cup shows a cat and a fish.",
+      "photoRead": true
     },
     {
       "id": "cf6d2212ceb133b3",

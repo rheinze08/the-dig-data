@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-24",
-  "collectedAt": "2026-11-24T21:04:14.559Z",
+  "asOf": "2026-11-25",
+  "collectedAt": "2026-11-25T14:27:00.622Z",
   "window": {
-    "start": "2026-11-24",
-    "end": "2026-12-07",
+    "start": "2026-11-25",
+    "end": "2026-12-08",
     "timeZone": "America/New_York"
   },
   "area": {
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 81/81 local candidate details.",
-      "candidates": 46,
-      "included": 33
+      "detail": "Read the public sale sitemap. Checked 86/86 local candidate details.",
+      "candidates": 47,
+      "included": 35
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 22 Atlanta directory cards over 2 pages. Checked 11/11 in-person local candidate details.",
-      "candidates": 7,
-      "included": 6
+      "detail": "Read 24 Atlanta directory cards over 2 pages. Checked 12/12 in-person local candidate details.",
+      "candidates": 8,
+      "included": 7
     },
     "Craigslist Atlanta": {
       "status": "reached",
-      "detail": "5 directory listings discovered; 0 in-window estate listings before radius filtering",
+      "detail": "6 directory listings discovered; 0 in-window estate listings before radius filtering",
       "candidates": 0,
       "included": 0
     },
@@ -38,11 +38,11 @@
     }
   },
   "counts": {
-    "candidates": 53,
-    "listings": 39,
-    "sales": 37,
+    "candidates": 55,
+    "listings": 42,
+    "sales": 40,
     "duplicates": 2,
-    "outsideRadius": 14,
+    "outsideRadius": 13,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -87,6 +87,8 @@
       "contactUrl": "Https://www.dunwoodyestatetreasures.com ",
       "photoCount": 64,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5136282/1-1/eb8e1384-3515-4695-864f-fe5029439e06.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/d479e326-d6ef-4dd1-af81-fa66430ce585.jpg",
         "https://picturescdn.estatesales.net/5136282/1-1/c92be611-2802-4cc5-9016-2303d2a65771.jpg",
         "https://picturescdn.estatesales.net/5136282/1-1/50e18e82-390e-466c-bf06-b21aef3530c5.jpg",
         "https://picturescdn.estatesales.net/5136282/1-1/f5b36b92-181f-424a-99a7-d3cdfa1f785c.jpg",
@@ -96,9 +98,7 @@
         "https://picturescdn.estatesales.net/5136282/1-1/c8449fd6-dc64-4d7d-bff0-7bbddb3d490b.jpg",
         "https://picturescdn.estatesales.net/5136282/1-1/a8fe1a95-8b11-459a-bba1-5fdeae927f9d.jpg",
         "https://picturescdn.estatesales.net/5136282/1-1/da0df414-46cb-4f3f-8093-9790db31c7d3.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/eb8e1384-3515-4695-864f-fe5029439e06.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/6e68fcde-4c05-4cc7-9f3d-2c06ea3411f9.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/6f4a7ff4-5ef8-46f8-abdf-d8a17dbeb76f.jpg"
+        "https://picturescdn.estatesales.net/5136282/1-1/6e68fcde-4c05-4cc7-9f3d-2c06ea3411f9.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
@@ -110,64 +110,14 @@
         "furniture",
         "electronics",
         "crystal",
-        "antiques",
         "mid-century",
         "silver",
         "patio furniture"
       ],
-      "contentsLine": "Furniture, electronics, crystal, antiques and mid-century.",
+      "contentsLine": "Furniture, electronics, crystal, mid-century and silver.",
       "lat": 33.9332303,
       "lng": -84.3827283,
       "approximate": true
-    },
-    {
-      "id": "255156699b3a3538",
-      "title": "$20 to enter. Carry out what you can in one trip",
-      "company": "Eden And Tate Estate Sales, LLC",
-      "streetAddress": "290 Pendleton tr",
-      "city": "Tyrone",
-      "state": "GA",
-      "zip": "30290",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-24",
-          "start": "16:00",
-          "end": "17:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Tyrone/30290/5170323"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(678) 793-9779",
-      "contactUrl": "https://www.estatesales.net/companies/GA/Peachtree-City/30269/20150",
-      "photoCount": 48,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5170323/1-1/13b810aa-91f5-4775-a37f-ed34a3a34e00.jpg",
-        "https://picturescdn.estatesales.net/5170323/1-1/fead0dc1-6a31-4a07-b4cc-f67c238804b8.jpg",
-        "https://picturescdn.estatesales.net/5170323/1-1/8091607f-7bb3-40b4-9a45-40c6fa89e61d.jpg",
-        "https://picturescdn.estatesales.net/5170323/1-1/594445fb-cb86-4c1c-9733-65c13287e2e9.jpg",
-        "https://picturescdn.estatesales.net/5170323/1-1/1c4feb34-d483-482c-875a-fbc08b5477f5.jpg",
-        "https://picturescdn.estatesales.net/5170323/1-1/283142ac-c549-4dd4-aebc-86664d32e745.jpg",
-        "https://picturescdn.estatesales.net/5170323/1-1/b4bb0244-c3b3-4256-a2f7-49d34261a8d1.jpg",
-        "https://picturescdn.estatesales.net/5170323/1-1/180746cf-be24-4776-8d99-a891fc006cff.jpg",
-        "https://picturescdn.estatesales.net/5170323/1-1/13850e07-dbfc-40ce-bb4c-af4408ce5d77.jpg",
-        "https://picturescdn.estatesales.net/5170323/1-1/279be4de-5782-4747-90ed-bbbe4ecab5b7.jpg",
-        "https://picturescdn.estatesales.net/5170323/1-1/b2e87049-0754-4489-9bf0-dc11c28d73a1.jpg",
-        "https://picturescdn.estatesales.net/5170323/1-1/053c66f5-9730-4af2-8c70-3b06b1750622.jpg"
-      ],
-      "digRating": "Worth a Look",
-      "ratingReasons": [
-        "48 photos"
-      ],
-      "photoKeywords": [],
-      "lat": 33.479085,
-      "lng": -84.572934,
-      "approximate": false
     },
     {
       "id": "1ee0339953df788d",
@@ -227,19 +177,20 @@
         "furniture, collectibles and kitchen in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "collectibles",
-        "kitchen",
-        "antiques",
-        "mirrors",
-        "pianos",
-        "patio furniture"
-      ],
-      "contentsLine": "Furniture, collectibles, kitchen, antiques and mirrors.",
       "lat": 33.9441071,
       "lng": -84.321633,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "grand piano",
+        "piano bench",
+        "sideboard",
+        "console table",
+        "dresser with mirror",
+        "floral table lamp",
+        "plant stand"
+      ],
+      "contentsLine": "A black grand piano and bench, a sideboard with turned legs, a mirrored dresser and a lamp with a rose-patterned shade.",
+      "photoRead": true
     },
     {
       "id": "3f7e9b024c22aa67",
@@ -276,7 +227,7 @@
       "categories": [],
       "contactPhone": "(678) 234-6956",
       "contactUrl": "https://www.estatesales.net/companies/GA/Loganville/30052/27368",
-      "photoCount": 555,
+      "photoCount": 619,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5100888/1-1/6a42cb4c-7100-43b5-8e29-386dade3cffb.jpg",
         "https://picturescdn.estatesales.net/5100888/1-1/49e0f787-a15a-4e04-a018-1d46d7960a76.jpg",
@@ -293,7 +244,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "555 photos",
+        "619 photos",
         "runs 3 days"
       ],
       "photoKeywords": [],
@@ -371,7 +322,7 @@
     },
     {
       "id": "54e01ba5487c44c7",
-      "title": "Donna DavisLLC- Rare Lifetime Perfume Bottle Collection beginning 1913, Costume Jewelry",
+      "title": "Donna Davis LLC- Rare Lifetime Perfume Bottle Collection beginning 1913, Costume Jewelry",
       "company": "Donna Davis Estate Sales LLC, Downsizing and Estate Appraisal Services",
       "streetAddress": "1790 Cheshire Bridge Road",
       "city": "Atlanta",
@@ -499,15 +450,21 @@
         "furniture and collectibles in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "collectibles",
-        "antiques"
-      ],
-      "contentsLine": "Furniture, collectibles and antiques.",
       "lat": 33.7954852,
       "lng": -84.411255,
-      "approximate": false
+      "approximate": false,
+      "photoKeywords": [
+        "floral armchair",
+        "upholstered footstool",
+        "cane-back chairs",
+        "display cabinet",
+        "table lamps",
+        "framed cattle scene",
+        "botanical pictures",
+        "red stemware"
+      ],
+      "contentsLine": "A green floral armchair and footstool sit in front of a display cabinet. A framed cattle scene hangs above two lamps.",
+      "photoRead": true
     },
     {
       "id": "7ec8d4e99c3d72cf",
@@ -618,18 +575,17 @@
         "tools, jewelry and collectibles in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "jewelry",
-        "collectibles",
-        "clothing",
-        "crystal",
-        "lamps"
-      ],
-      "contentsLine": "Tools, jewelry, collectibles, clothing and crystal.",
       "lat": 34.005607,
       "lng": -84.357966,
-      "approximate": false
+      "approximate": false,
+      "photoKeywords": [
+        "loose beads",
+        "bead strands",
+        "pendant necklaces",
+        "bracelets"
+      ],
+      "contentsLine": "Bins hold packets of colorful beads and looped bead strands. Necklaces and bracelets hang on display stands.",
+      "photoRead": true
     },
     {
       "id": "c143ada0435fe7b6",
@@ -669,7 +625,7 @@
       ],
       "contactPhone": "(404) 272-6610",
       "contactUrl": "http://sandybkingestatesales.com",
-      "photoCount": 206,
+      "photoCount": 216,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5123811/1-1/06a77daf-11b2-42c7-a2dc-f44a302ee996.jpg",
         "https://picturescdn.estatesales.net/5123811/1-1/724ff73b-9d24-46af-871a-186889c245b1.jpg",
@@ -686,7 +642,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "206 photos",
+        "216 photos",
         "tools, furniture and vinyl & records in the listing",
         "runs 3 days"
       ],
@@ -811,18 +767,20 @@
         "15 photos",
         "furniture, clothing and art in the listing"
       ],
-      "photoKeywords": [
-        "furniture",
-        "clothing",
-        "art",
-        "china",
-        "lamps",
-        "pianos"
-      ],
-      "contentsLine": "Furniture, clothing, art, china and lamps.",
       "lat": 33.9664631,
       "lng": -84.2433532,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "floral still life",
+        "framed rabbit art",
+        "landscape pictures",
+        "Easter figurines",
+        "woven baskets",
+        "elephant table lamp",
+        "colored bottles"
+      ],
+      "contentsLine": "Framed flowers, rabbits and landscapes hang on the walls. Tables hold Easter figurines, baskets and an elephant lamp.",
+      "photoRead": true
     },
     {
       "id": "70bc9e5467e61921",
@@ -886,6 +844,69 @@
       ],
       "contentsLine": "Shelves hold model ships, lanterns and paired dragons. A hand-cranked pasta maker sits beside barn-patterned plates.",
       "photoRead": true
+    },
+    {
+      "id": "16574108748e469e",
+      "title": "Fine Antiques, Spode Christmas, Restoration Wood Furniture & Oil Paintings: 1-Day Marietta Sale",
+      "company": null,
+      "streetAddress": null,
+      "city": "Marietta",
+      "state": "GA",
+      "zip": "30064",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Marietta/30064/5172231"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "art"
+      ],
+      "photoCount": 34,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172231/1-1/258efac2-67b0-41ba-950b-4e0c63528a60.jpg",
+        "https://picturescdn.estatesales.net/5172231/1-1/6aa7fea4-62e1-4a1c-b1f2-4f93a122d757.jpg",
+        "https://picturescdn.estatesales.net/5172231/1-1/d2569555-fd37-486d-86b8-39077670a58a.jpg",
+        "https://picturescdn.estatesales.net/5172231/1-1/928a2309-6473-4fae-83a5-36f5269b3613.jpg",
+        "https://picturescdn.estatesales.net/5172231/1-1/aeec455b-e29e-4ac4-8e9e-9803afda1095.jpg",
+        "https://picturescdn.estatesales.net/5172231/1-1/8bcfb017-de80-4dac-8930-6e9cb373a4d5.jpg",
+        "https://picturescdn.estatesales.net/5172231/1-1/7c3b333d-95a4-411c-b0c1-27cd95bce6ea.jpg",
+        "https://picturescdn.estatesales.net/5172231/1-1/24120281-89c5-418e-ab26-350228a45f53.jpg",
+        "https://picturescdn.estatesales.net/5172231/1-1/bb6d78bf-3a5a-46d9-b91c-7e1232cbfeb2.jpg",
+        "https://picturescdn.estatesales.net/5172231/1-1/67ea43f5-b656-4775-9fb0-cf5255b1ee0d.jpg",
+        "https://picturescdn.estatesales.net/5172231/1-1/55f3b3f8-ca0e-4dc5-a6b0-2516925c2549.jpg",
+        "https://picturescdn.estatesales.net/5172231/1-1/f744c866-39a8-4880-b088-bbe20ebd1e39.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "34 photos",
+        "furniture, vehicles and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "vehicles",
+        "kitchen",
+        "books",
+        "art",
+        "china",
+        "crystal",
+        "antiques",
+        "lamps",
+        "mirrors"
+      ],
+      "contentsLine": "Furniture, vehicles, kitchen, books and art.",
+      "lat": 33.940102,
+      "lng": -84.607778,
+      "approximate": true
     },
     {
       "id": "ce276e29f90285ec",
@@ -1318,6 +1339,72 @@
       "photoRead": true
     },
     {
+      "id": "b036d8f7647e70c1",
+      "title": "Snellville Estate Sale | Antique Oak, Victorian Bedroom, Grandfather Clock & So Much More!",
+      "company": "Top Shelf Estate Sales",
+      "streetAddress": null,
+      "city": "Snellville",
+      "state": "GA",
+      "zip": "30039",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/ga/snellville/30039/snellville-estate-sale-antique-oak-2474740"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(678) 614-1869",
+      "contactUrl": "https://estatesales.org/estate-sale-companies/top-shelf-estate-sales-25689",
+      "photoCount": 20,
+      "photoUrls": [
+        "https://eso-cdn.tlcdn.workers.dev/s-2474740-k7gpw75joza2xlzf.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474740-wcg85b9o3sq0g2t5.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474740-vn3ws2blamcud3z5.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474740-j86gaiczbaq0hap5.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474740-2n3imt2x9cjos34m.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474740-b78j1hmv774sgbnn.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474740-u4lwkezptz3xpu7b.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474740-ofl2cgjouexgm092.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474740-w0g3luu88l3vw33s.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474740-keh7smxyqeyxl4qr.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474740-upwnalpozei16w8n.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474740-jscp91700oa4e13u.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "20 photos",
+        "furniture and art in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "art",
+        "antiques"
+      ],
+      "contentsLine": "Furniture, art and antiques.",
+      "lat": 33.8108899,
+      "lng": -84.043116,
+      "approximate": true
+    },
+    {
       "id": "ba5a22df2827e720",
       "title": "Snellville Estate Sale | Antique Oak, Victorian Bedroom, Grandfather Clock & So Much More!",
       "company": "Top Shelf & Co Realty & Estate Sales",
@@ -1352,9 +1439,24 @@
       "categories": [],
       "contactPhone": "(678) 614-1869",
       "contactUrl": "http://www.topshelfandco.com",
-      "photoCount": 0,
+      "photoCount": 65,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5165517/1-1/cccb9d67-91e0-464d-b778-f1070cf64bd2.jpg",
+        "https://picturescdn.estatesales.net/5165517/1-1/376bd215-b316-4a77-82ba-16e74dcf7117.jpg",
+        "https://picturescdn.estatesales.net/5165517/1-1/474c960b-8c1a-4009-901a-4e7ea47caae7.jpg",
+        "https://picturescdn.estatesales.net/5165517/1-1/aec58c79-8956-4250-a8a6-0e1eb778de37.jpg",
+        "https://picturescdn.estatesales.net/5165517/1-1/70b5f3e6-c633-4826-a5b7-cc029b527a53.jpg",
+        "https://picturescdn.estatesales.net/5165517/1-1/deb0274b-fce8-4089-b976-c05cce519723.jpg",
+        "https://picturescdn.estatesales.net/5165517/1-1/cb2ad3a9-a797-4463-8d70-301515f1eedb.jpg",
+        "https://picturescdn.estatesales.net/5165517/1-1/1deced85-8711-44a0-92b1-6d0629a4fdd9.jpg",
+        "https://picturescdn.estatesales.net/5165517/1-1/ffee0c95-62a3-48dd-a6d0-198188975386.jpg",
+        "https://picturescdn.estatesales.net/5165517/1-1/2dd2441c-6eb0-43d8-a2a4-5aa5c28dbf7f.jpg",
+        "https://picturescdn.estatesales.net/5165517/1-1/bdd0744c-1943-412f-a3bd-a95ff8ae98c5.jpg",
+        "https://picturescdn.estatesales.net/5165517/1-1/4951a8d1-0845-4d93-9caa-cf018261f88f.jpg"
+      ],
       "digRating": "Deep Dig",
       "ratingReasons": [
+        "65 photos",
         "furniture, jewelry and collectibles in the listing",
         "runs 3 days"
       ],
@@ -1510,7 +1612,7 @@
       ],
       "contactPhone": "7706095146",
       "contactUrl": "Https://www.dunwoodyestatetreasures.com ",
-      "photoCount": 71,
+      "photoCount": 69,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5150499/1-1/f5a3bf00-3cab-489d-83ec-7b78203a8fa9.jpg",
         "https://picturescdn.estatesales.net/5150499/1-1/c1e799a3-376d-497c-a784-9a428a842d6c.jpg",
@@ -1527,26 +1629,24 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "71 photos",
+        "69 photos",
         "furniture, jewelry and collectibles in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "toys & games",
-        "figurines",
-        "antiques",
-        "silver",
-        "watches"
-      ],
-      "contentsLine": "Furniture, jewelry, collectibles, kitchen and clothing.",
       "lat": 33.9664631,
       "lng": -84.2433532,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "chaise sectional",
+        "upholstered armchair",
+        "coffee tables",
+        "round side table",
+        "TV stand",
+        "bed frame",
+        "throw pillows"
+      ],
+      "contentsLine": "A dark sectional and armchair have pale piping and patterned pillows. A black TV stand has sliding doors.",
+      "photoRead": true
     },
     {
       "id": "489357ee83656c06",
@@ -1681,10 +1781,21 @@
         "153 photos",
         "runs 4 days"
       ],
-      "photoKeywords": [],
       "lat": 33.940102,
       "lng": -84.607778,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "books",
+        "dining table",
+        "dining chairs",
+        "teacups and saucers",
+        "smoking pipes",
+        "framed still lifes",
+        "floral area rug",
+        "table lamp"
+      ],
+      "contentsLine": "Striped-seat chairs surround a table set with teacups and plates. A lidded box holds smoking pipes and tobacco boxes.",
+      "photoRead": true
     },
     {
       "id": "3eb230ca3fd1ae60",
@@ -1791,7 +1902,7 @@
       "categories": [],
       "contactPhone": "(470) 373-0774",
       "contactUrl": "https://cottco.co/",
-      "photoCount": 376,
+      "photoCount": 497,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5160546/1-1/264117b4-cceb-4636-bcb8-ab5d3d13040b.jpg",
         "https://picturescdn.estatesales.net/5160546/1-1/9450a183-a588-49e5-8b64-3a4826838e83.jpg",
@@ -1808,7 +1919,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "376 photos",
+        "497 photos",
         "runs 3 days"
       ],
       "lat": 33.8147146,
@@ -2020,6 +2131,57 @@
       "photoRead": true
     },
     {
+      "id": "24b423a9d90a769b",
+      "title": "CASTLE ESTATE SALES by Steve & Deanna",
+      "company": "Castle Estate Sales",
+      "streetAddress": null,
+      "city": "Marietta",
+      "state": "GA",
+      "zip": "30064",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Marietta/30064/5171568"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(470) 258-3110",
+      "contactUrl": "https://www.estatesales.net/companies/GA/Woodstock/30189/150296",
+      "photoCount": 2,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5171568/1-1/ee652418-06f5-413c-965c-8abc8a0da646.jpg",
+        "https://picturescdn.estatesales.net/5171568/1-1/6ac9a71a-d89b-43e3-8abc-1ed78dc43768.jpg"
+      ],
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "runs 3 days",
+        "only 2 photos",
+        "few details in the listing"
+      ],
+      "photoKeywords": [],
+      "lat": 33.940102,
+      "lng": -84.607778,
+      "approximate": true
+    },
+    {
       "id": "f673574549115166",
       "title": "Chastain Park Lake Forrest",
       "company": "Estate Sales By Ventes",
@@ -2171,36 +2333,105 @@
       ],
       "contactPhone": "(770) 235-7638",
       "contactUrl": "http://www.donnadavisestatesales.com",
-      "photoCount": 129,
+      "photoCount": 140,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5170347/1-1/1b8d0249-5c41-42f7-844a-61ec64f59267.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/72f8bc22-97a0-4fbe-b0f8-970e9214f333.jpg",
+        "https://picturescdn.estatesales.net/5170347/1-1/5e4fae2c-f27f-4eec-b292-490fcab73313.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/635a80c9-8ff1-4224-81d4-efe17c545cd2.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/dac7ce03-4845-4da4-8b35-7acfdccb0ef1.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/cd5a829d-08b9-43b9-b7e9-448d47f41305.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/9312d683-dd90-4f25-a093-2eb433475095.jpg",
+        "https://picturescdn.estatesales.net/5170347/1-1/584c6c0c-f49b-4009-8daa-f6ec20eec88e.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/70b3f279-f575-49a5-ad8e-eff81af5bb02.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/369de2a5-cb3e-4974-80fb-4e98b3518fd1.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/45ff8de8-f499-46cf-93a9-067ac32bf53c.jpg",
-        "https://picturescdn.estatesales.net/5170347/1-1/44997eec-57c2-4790-9286-72807a90164d.jpg",
-        "https://picturescdn.estatesales.net/5170347/1-1/cca0e9fb-11f2-4617-9e7b-318d6f13874a.jpg",
-        "https://picturescdn.estatesales.net/5170347/1-1/81a805d8-6e93-405a-b243-280a039b20a4.jpg"
+        "https://picturescdn.estatesales.net/5170347/1-1/44997eec-57c2-4790-9286-72807a90164d.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "129 photos",
+        "140 photos",
         "furniture and collectibles in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "collectibles",
-        "antiques",
-        "lamps"
-      ],
-      "contentsLine": "Furniture, collectibles, antiques and lamps.",
       "lat": 34.0013766,
       "lng": -84.6463064,
+      "approximate": true,
+      "photoKeywords": [
+        "secretary desk",
+        "mirrored sideboard",
+        "two-door cupboard",
+        "statuette",
+        "picture frames"
+      ],
+      "contentsLine": "A glass-front secretary desk holds framed photos, and a statuette stands on a sideboard with two oval mirrors.",
+      "photoRead": true
+    },
+    {
+      "id": "630e5ae4f9b809bd",
+      "title": "Magnificent Sale in Marietta with Comfy Cozy!!",
+      "company": "Comfy Cozy Estate Sales",
+      "streetAddress": null,
+      "city": "Marietta",
+      "state": "GA",
+      "zip": "30062",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Marietta/30062/5172192"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(404) 422-0654",
+      "contactUrl": "https://www.estatesales.net/companies/GA/Marietta/30062/160019",
+      "photoCount": 87,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172192/1-1/3e80b466-6656-41f5-bc2d-3a700d0c4009.jpg",
+        "https://picturescdn.estatesales.net/5172192/1-1/74939efb-3532-45ff-8c45-bafce49a6a89.jpg",
+        "https://picturescdn.estatesales.net/5172192/1-1/f222ab71-1645-4f74-aa94-36b328691be4.jpg",
+        "https://picturescdn.estatesales.net/5172192/1-1/2a77719f-43d4-4c6e-a09e-ff59d4200000.jpg",
+        "https://picturescdn.estatesales.net/5172192/1-1/3ba76a8f-ba22-4deb-84ad-8dcadbd06e05.jpg",
+        "https://picturescdn.estatesales.net/5172192/1-1/487e785e-ef2f-4e32-8dc2-db8ec67fdec4.jpg",
+        "https://picturescdn.estatesales.net/5172192/1-1/5d3760f4-dacf-4f04-89a1-c8efdb199bf7.jpg",
+        "https://picturescdn.estatesales.net/5172192/1-1/8de2c759-60a7-4ee5-9ee1-f0225af423ad.jpg",
+        "https://picturescdn.estatesales.net/5172192/1-1/ad9bfe5d-75b9-4c7d-899e-98afe41e2dca.jpg",
+        "https://picturescdn.estatesales.net/5172192/1-1/b6c0a344-aa0a-4400-bbb1-a2149e4fa7f9.jpg",
+        "https://picturescdn.estatesales.net/5172192/1-1/cbd0055c-dde6-4527-baa2-fbf6abd656cd.jpg",
+        "https://picturescdn.estatesales.net/5172192/1-1/fd0a1ed2-b1e4-477d-aad5-a24c9668a276.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "87 photos",
+        "tools, furniture and vinyl & records in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics"
+      ],
+      "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
+      "lat": 33.9976213,
+      "lng": -84.4695068,
       "approximate": true
     },
     {
@@ -2232,7 +2463,7 @@
       ],
       "categories": [],
       "contactPhone": "(404) 660-5399",
-      "photoCount": 127,
+      "photoCount": 125,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5153994/1-1/fe598a84-5d31-42c0-9c1e-fe6d0f199efe.jpg",
         "https://picturescdn.estatesales.net/5153994/1-1/78210385-11ec-449b-a8ed-82d4ee7db9e7.jpg",
@@ -2249,7 +2480,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "127 photos",
+        "125 photos",
         "furniture, vinyl & records and jewelry in the listing"
       ],
       "lat": 33.8787605,
@@ -2318,18 +2549,21 @@
         "141 photos",
         "tools, furniture and kitchen in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "kitchen",
-        "art",
-        "antiques",
-        "patio furniture"
-      ],
-      "contentsLine": "Tools, furniture, kitchen, art and antiques.",
       "lat": 33.8731136,
       "lng": -84.1186563,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "china cabinet",
+        "dinner plates",
+        "cups and saucers",
+        "serving bowls",
+        "drop-leaf table",
+        "tea cart",
+        "wall mirror",
+        "table lamp"
+      ],
+      "contentsLine": "A glass-front china cabinet holds matching plates, cups and serving bowls with an orange-and-brown leaf pattern.",
+      "photoRead": true
     },
     {
       "id": "abe1efb96c3f898e",

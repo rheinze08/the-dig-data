@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-24",
-  "collectedAt": "2026-11-24T21:00:21.508Z",
+  "asOf": "2026-11-25",
+  "collectedAt": "2026-11-25T14:22:56.727Z",
   "window": {
-    "start": "2026-11-24",
-    "end": "2026-12-07",
+    "start": "2026-11-25",
+    "end": "2026-12-08",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,7 +14,7 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 34/34 local candidate details.",
+      "detail": "Read the public sale sitemap. Checked 35/35 local candidate details.",
       "candidates": 14,
       "included": 11
     },
@@ -26,7 +26,7 @@
     },
     "Craigslist Austin": {
       "status": "reached",
-      "detail": "12 directory listings discovered; 2 in-window estate listings before radius filtering",
+      "detail": "9 directory listings discovered; 2 in-window estate listings before radius filtering",
       "candidates": 2,
       "included": 2
     },
@@ -143,7 +143,7 @@
       "categories": [],
       "contactPhone": "(833) 989-8999",
       "contactUrl": "https://myestatetoliquidate.com/",
-      "photoCount": 142,
+      "photoCount": 152,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5168865/1-1/4b2db2d0-79c6-4451-8661-0393d158ddd4.jpg",
         "https://picturescdn.estatesales.net/5168865/1-1/48ad7114-1154-4623-8ea5-db07093425ba.jpg",
@@ -160,7 +160,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "142 photos",
+        "152 photos",
         "collectibles and books in the listing",
         "runs 3 days"
       ],
@@ -209,7 +209,7 @@
       "categories": [],
       "contactPhone": "(512) 203-4414",
       "contactUrl": "Https://www.atxbeyondestatesales.com",
-      "photoCount": 80,
+      "photoCount": 114,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5165844/1-1/ca113fd7-06b8-4c7a-83f6-8feac0539a52.jpg",
         "https://picturescdn.estatesales.net/5165844/1-1/3fb9df8a-644e-43f1-aef9-8f9a0fbbb6b1.jpg",
@@ -226,7 +226,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "80 photos",
+        "114 photos",
         "tools, jewelry and clothing in the listing",
         "runs 3 days"
       ],
@@ -343,24 +343,24 @@
       "categories": [],
       "contactPhone": "(737) 368-9977",
       "contactUrl": "https://www.estatesales.net/companies/TX/Austin/78748/172652",
-      "photoCount": 85,
+      "photoCount": 87,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5168253/1-1/716559d4-f4e1-45b1-9f31-2c8c55786cd3.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/93eba967-412c-407a-a2c4-da573fd7f42a.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/ea150f65-9fa9-458f-b1ce-e60bd5c63d56.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/48eb0a05-8c7b-4af4-bf78-c89d69cc7815.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/9c6aa811-7992-4196-8fc3-819c5ca6627a.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/629d8a95-269c-45e1-8a19-a932a1a38219.jpg",
-        "https://picturescdn.estatesales.net/5168253/1-1/716559d4-f4e1-45b1-9f31-2c8c55786cd3.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/340ef80f-8b33-44d1-859c-51cb28506d55.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/762cb633-a19f-42b6-8a16-7465a3b44729.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/d224ccc1-fd59-4297-8797-35917ce9077c.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/262c34b2-74aa-4985-b8b4-b4584bd61dbc.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/76415271-f3e1-4b36-bdd0-7163e5959cfb.jpg",
-        "https://picturescdn.estatesales.net/5168253/1-1/d2f60702-38c0-48fd-ba2a-d2d89617861e.jpg",
-        "https://picturescdn.estatesales.net/5168253/1-1/d11e7303-d099-4087-8917-5c4029e11931.jpg"
+        "https://picturescdn.estatesales.net/5168253/1-1/d2f60702-38c0-48fd-ba2a-d2d89617861e.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "85 photos",
+        "87 photos",
         "jewelry, collectibles and clothing in the listing",
         "runs 3 days"
       ],
@@ -566,16 +566,19 @@
         "24 photos",
         "tools, collectibles and books in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "collectibles",
-        "books",
-        "electronics"
-      ],
-      "contentsLine": "Tools, collectibles, books and electronics.",
       "lat": 29.9892816,
       "lng": -97.877174,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "Homelite chainsaw",
+        "Motorcraft battery",
+        "short-sleeve wetsuit",
+        "diving fins",
+        "scuba regulator",
+        "buoyancy compensator"
+      ],
+      "contentsLine": "A Homelite chainsaw and Motorcraft battery are shown, along with a short wetsuit, blue fins and a scuba regulator.",
+      "photoRead": true
     },
     {
       "id": "50b912945174ae6e",
@@ -637,7 +640,7 @@
     },
     {
       "id": "e6ac053eb6beb2e7",
-      "title": "Vintage Estate off Balcones: U.T., AquaFest, Texas Politics, Musical Machines, Meissen & More",
+      "title": "Vintage Estate off Balcones: U.T., Aqua Fest, Texas Politics, Musical Machines, Meissen & More",
       "company": "Austin Estate Sales",
       "streetAddress": null,
       "city": "Austin",
@@ -710,7 +713,7 @@
     },
     {
       "id": "294679e620014b91",
-      "title": "Plants, Golf Legends & Eclectic Finds! | Lakeway TX | More pics coming!",
+      "title": "Plants, Golf Legends, Southwest Decor & Eclectic Finds! | Lakeway TX | More pics coming!",
       "company": "The Phoenix Phinds",
       "streetAddress": null,
       "city": "Lakeway",
@@ -738,10 +741,9 @@
       "categories": [],
       "contactPhone": "(512) 971-5484",
       "contactUrl": "https://www.thephoenixphinds.com/",
-      "photoCount": 52,
+      "photoCount": 72,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5168523/1-1/03666efe-6e5f-4cb9-a734-8d303d2e23bc.jpg",
-        "https://picturescdn.estatesales.net/5168523/1-1/de9f7ee7-4172-40ae-9db1-1e4d6b80855b.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/dd99d141-4a40-4f5a-a36b-2201c120f041.jpg",
         "https://picturescdn.estatesales.net/5168523/1-1/2f5d936f-fff8-4097-bc66-2e85ba560511.jpg",
         "https://picturescdn.estatesales.net/5168523/1-1/5d695f96-3582-4da8-bd80-05274a6f522f.jpg",
         "https://picturescdn.estatesales.net/5168523/1-1/82d8b048-0858-42a0-b2e3-d98927615bee.jpg",
@@ -749,13 +751,14 @@
         "https://picturescdn.estatesales.net/5168523/1-1/79729617-9f5d-4148-bca1-6ef3da11bdc4.jpg",
         "https://picturescdn.estatesales.net/5168523/1-1/edc487ad-fc72-4426-ab5f-005dc5dcadf0.jpg",
         "https://picturescdn.estatesales.net/5168523/1-1/989ac628-179e-4751-84ac-066a341580ec.jpg",
-        "https://picturescdn.estatesales.net/5168523/1-1/13cf0f8d-e005-438e-8cd3-0b709ee9b6ce.jpg",
-        "https://picturescdn.estatesales.net/5168523/1-1/f7ad8407-565c-477e-8267-51864124944c.jpg",
-        "https://picturescdn.estatesales.net/5168523/1-1/fe7a117c-4294-49ba-83cc-a7f29c1a1ddc.jpg"
+        "https://picturescdn.estatesales.net/5168523/1-1/fe7a117c-4294-49ba-83cc-a7f29c1a1ddc.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/5b21aa80-fa2c-4a08-aad2-7481cd0f3c9a.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/c6f0563f-5bc6-42eb-9545-300a45f815b8.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/653adb61-e58a-4a48-9986-2ca8795518da.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "52 photos",
+        "72 photos",
         "furniture, collectibles and kitchen in the listing"
       ],
       "lat": 30.3786162,

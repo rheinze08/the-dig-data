@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-24",
-  "collectedAt": "2026-11-24T21:04:42.679Z",
+  "asOf": "2026-11-25",
+  "collectedAt": "2026-11-25T14:27:30.906Z",
   "window": {
-    "start": "2026-11-24",
-    "end": "2026-12-07",
+    "start": "2026-11-25",
+    "end": "2026-12-08",
     "timeZone": "America/Denver"
   },
   "area": {
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 24/24 local candidate details.",
-      "candidates": 7,
-      "included": 7
+      "detail": "Read the public sale sitemap. Checked 26/26 local candidate details.",
+      "candidates": 8,
+      "included": 8
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 8 Denver directory cards over 1 pages. Checked 4/4 in-person local candidate details.",
-      "candidates": 4,
-      "included": 4
+      "detail": "Read 10 Denver directory cards over 1 pages. Checked 5/5 in-person local candidate details.",
+      "candidates": 5,
+      "included": 5
     },
     "Craigslist Denver": {
       "status": "reached",
-      "detail": "11 directory listings discovered; 4 in-window estate listings before radius filtering",
+      "detail": "8 directory listings discovered; 4 in-window estate listings before radius filtering",
       "candidates": 4,
       "included": 4
     },
@@ -38,10 +38,10 @@
     }
   },
   "counts": {
-    "candidates": 15,
-    "listings": 15,
-    "sales": 13,
-    "duplicates": 2,
+    "candidates": 17,
+    "listings": 17,
+    "sales": 14,
+    "duplicates": 3,
     "outsideRadius": 0,
     "unlocatedListings": 0
   },
@@ -96,22 +96,18 @@
         "24 photos",
         "tools, furniture and jewelry in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "figurines",
-        "mid-century"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
       "lat": 39.983721,
       "lng": -104.8110775,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "lidded boxes",
+        "Coors serving tray",
+        "TV/VCR combo",
+        "screwdriver bits",
+        "rolltop desk"
+      ],
+      "contentsLine": "Two lidded boxes have laced corners. Other photos show a red Coors tray, a TV/VCR combo and a rolltop desk.",
+      "photoRead": true
     },
     {
       "id": "c9b73de405aafe46",
@@ -322,20 +318,21 @@
         "30 photos",
         "tools, furniture and jewelry in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "electronics",
-        "toys & games"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, vehicles and kitchen.",
       "lat": 39.9136137,
       "lng": -105.0081452,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "Mercedes-Benz car",
+        "Sierra pickup truck",
+        "glass-top dining table",
+        "toy trucks",
+        "stuffed animals",
+        "high heels",
+        "dolls",
+        "rock specimens"
+      ],
+      "contentsLine": "A white Sierra pickup and a dark Mercedes-Benz sit outside. Indoors are toy trucks, stuffed animals and rock specimens.",
+      "photoRead": true
     },
     {
       "id": "76a26105c471b593",
@@ -495,14 +492,84 @@
         "only 1 photo",
         "few details in the listing"
       ],
-      "photoKeywords": [
-        "jewelry",
-        "silver"
-      ],
-      "contentsLine": "Jewelry and silver.",
       "lat": 39.7463655,
       "lng": -105.081267,
-      "approximate": false
+      "approximate": false,
+      "photoKeywords": [
+        "pottery vases",
+        "glazed bowls",
+        "handled cups",
+        "shallow dishes"
+      ],
+      "contentsLine": "Shelves hold narrow-necked vases, small handled cups, shallow dishes and bowls in blue, green and brown glazes.",
+      "photoRead": true
+    },
+    {
+      "id": "9c6ecef6a9af9c74",
+      "title": "Nostalgic November Discount Sale",
+      "company": "Caring Transitions Of North Aurora",
+      "streetAddress": null,
+      "city": "Aurora",
+      "state": "CO",
+      "zip": "80010",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/co/aurora/80010/nostalgic-november-toys-and-estate-2475355"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Aurora/80010/5171802"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(720) 642-1416",
+      "contactUrl": "https://CaringTransitionsOfNorthAuroraCO.com",
+      "photoCount": 100,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5171802/1-1/6bb8d695-6fb1-4bdb-b137-a79dc7ea38da.jpg",
+        "https://picturescdn.estatesales.net/5171802/1-1/fe252837-1a87-4720-9bf8-6207f70d2747.jpg",
+        "https://picturescdn.estatesales.net/5171802/1-1/0dad58c0-659e-4b26-bd4d-3ed64e23f919.jpg",
+        "https://picturescdn.estatesales.net/5171802/1-1/5a6db0ff-9d2b-4642-8d70-ea7b8ed91d7b.jpg",
+        "https://picturescdn.estatesales.net/5171802/1-1/b35f42b4-cfaf-48f6-a650-6f2697e825c3.jpg",
+        "https://picturescdn.estatesales.net/5171802/1-1/85042104-5b54-4ad1-ab98-8e27388a5a66.jpg",
+        "https://picturescdn.estatesales.net/5171802/1-1/055080ad-0215-4146-b293-fe22967e5f0d.jpg",
+        "https://picturescdn.estatesales.net/5171802/1-1/e7b1b526-0af3-49a3-8203-80e1c2078295.jpg",
+        "https://picturescdn.estatesales.net/5171802/1-1/b73a77f6-acac-4e83-8cef-f3625c3a6f6d.jpg",
+        "https://picturescdn.estatesales.net/5171802/1-1/c99267f7-dd7f-4a52-b78c-9dbd57aa3fbd.jpg",
+        "https://picturescdn.estatesales.net/5171802/1-1/6ba61477-b587-48c5-956e-07aece88a041.jpg",
+        "https://picturescdn.estatesales.net/5171802/1-1/fa40f356-3a69-4602-b367-dbf3fd0f3408.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "100 photos",
+        "tools, furniture and books in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "books",
+        "art",
+        "toys & games",
+        "christmas decor"
+      ],
+      "contentsLine": "Tools, furniture, books, art and toys & games.",
+      "lat": 39.7393612,
+      "lng": -104.8648676,
+      "approximate": true
     },
     {
       "id": "099a155d6f87dd45",
@@ -779,22 +846,21 @@
         "tools, furniture and vinyl & records in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "vinyl & records",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "art",
-        "electronics",
-        "toys & games"
-      ],
-      "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
       "lat": 39.6205238,
       "lng": -105.3831556,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "display hutch",
+        "alphabet plates",
+        "stemware",
+        "floral pitcher",
+        "tankard",
+        "butter churn",
+        "handled jug",
+        "framed street scene"
+      ],
+      "contentsLine": "A hutch displays alphabet plates, pitchers and rows of stemware. A butter churn stands beside a large handled jug.",
+      "photoRead": true
     },
     {
       "id": "e6cc14516545a007",
