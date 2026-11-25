@@ -40,12 +40,19 @@ A city is `live` or `proving`.
     "title": "…", "company": "…", "categories": ["collectibles"],
     "firstDate": "2026-11-18", "lastDate": "2026-11-21",
     "lat": 29.59, "lng": -95.13, "approximate": false,
-    "sources": [{ "name": "EstateSales.net", "url": "https://…" }]
+    "sources": [{ "name": "EstateSales.net", "url": "https://…" }],
+    "photoUrls": ["https://picturescdn.estatesales.net/…/….jpg"]
   }]
 }
 ```
 
 `id` matches the sale's `id` in its city feed. `firstDate` and `lastDate` span the sale's whole published schedule. `company` can be `null` and `categories` can be empty.
+
+### Photo addresses
+
+Each sale in `cities/<slug>/sales.json`, the root `sales.json` and `search.json` can carry `photoUrls`: the addresses of the sale's photos on the source sites, in the source's order, at most 12. It is a list of URL strings, nothing else. A sale with no photos has no `photoUrls` field. `photoCount` stays the source's own count, which can be much larger. A cross-posted sale pools its listings' photos without repeats, one listing's after another's, and stops at 12.
+
+The photos stay on the source sites. The app loads each one from its source when it is shown. No image is downloaded, copied or stored in this repository. The limit lives in one place: `PHOTO_URL_LIMIT` in [`collector/lib/publish.mjs`](collector/lib/publish.mjs).
 
 ### Categories
 

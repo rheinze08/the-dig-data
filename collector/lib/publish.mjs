@@ -2,6 +2,17 @@
 import {CATEGORIES} from './categories.mjs';
 import {feedUrl} from './config.mjs';
 
+// photoUrls: the sale's source photo addresses, in the source's order, at
+// most PHOTO_URL_LIMIT of them. Only the address strings are published; the
+// app loads each image from the source when it is viewed and no image is
+// ever copied into a repository. A sale without photos carries no field.
+export const PHOTO_URL_LIMIT = 12;
+export function publicPhotoUrls(urls) {
+  if (!Array.isArray(urls)) return [];
+  const kept = urls.filter(url => typeof url === 'string' && /^https?:\/\/[^/\s]+/i.test(url));
+  return [...new Set(kept)].slice(0, PHOTO_URL_LIMIT);
+}
+
 // cities.json: one entry per city. `feeds` maps a slug to its feed, or null
 // when the city has never collected. `enabled` is true only for live cities:
 // app v0.2.0 and the website list a city when it is enabled and has a feed.
@@ -54,6 +65,8 @@ export function buildSearch(config, feeds, generatedAt) {
       if (Array.isArray(sale.photoKeywords) && sale.photoKeywords.length) entry.photoKeywords = sale.photoKeywords;
       if (sale.contentsLine) entry.contentsLine = sale.contentsLine;
       if (sale.photoRead === true) entry.photoRead = true;
+      const photoUrls = publicPhotoUrls(sale.photoUrls);
+      if (photoUrls.length) entry.photoUrls = photoUrls;
       sales.push(entry);
     }
   }

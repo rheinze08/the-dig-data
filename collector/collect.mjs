@@ -7,6 +7,7 @@ import {collectCl, collectCom, collectGsalr} from './lib/com-cl.mjs';
 import {createLocator} from './lib/locate.mjs';
 import {groupSales, hasSessionInWindow, mergeGroup, milesBetween} from './lib/pool.mjs';
 import {categorize} from './lib/categories.mjs';
+import {publicPhotoUrls} from './lib/publish.mjs';
 import {saleSignals} from './lib/signals.mjs';
 import {enrichSalesWithVision, visionFromEnv} from './lib/vision.mjs';
 import {lostSources} from './lib/rules.mjs';
@@ -164,14 +165,15 @@ async function refresh() {
       contactPhone, contactUrl, photoCount, photoUrls} = sale;
     // Phase 9A fields. Contact and photo facts appear only when a source
     // publicly carried them; the rating, its reasons and the keywords are
-    // derived from those facts by lib/signals.mjs. Stored photo URLs stop
-    // at the vision scan cap — the count stays the source's true count.
+    // derived from those facts by lib/signals.mjs. Published photo URLs stop
+    // at PHOTO_URL_LIMIT (lib/publish.mjs); the count stays the source's true count.
     const published = {id, title, company, streetAddress, city: town, state: city.state.code, zip, addressHidden, sessions,
       sources: listings, categories: categorize(title)};
     if (contactPhone) published.contactPhone = contactPhone;
     if (contactUrl) published.contactUrl = contactUrl;
     if (photoCount !== null) published.photoCount = photoCount;
-    if (photoUrls.length) published.photoUrls = photoUrls.slice(0, 12);
+    const publishedPhotos = publicPhotoUrls(photoUrls);
+    if (publishedPhotos.length) published.photoUrls = publishedPhotos;
     const signals = saleSignals(sale);
     published.digRating = signals.digRating;
     published.ratingReasons = signals.ratingReasons;
