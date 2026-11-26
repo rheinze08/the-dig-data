@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-26",
-  "collectedAt": "2026-11-26T14:22:47.202Z",
+  "collectedAt": "2026-11-26T19:59:16.500Z",
   "window": {
     "start": "2026-11-26",
     "end": "2026-12-09",
@@ -14,7 +14,7 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 131/132 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
+      "detail": "Read the public sale sitemap. Checked 132/133 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
       "candidates": 62,
       "included": 43
     },
@@ -26,13 +26,13 @@
     },
     "Craigslist Dallas / Fort Worth": {
       "status": "reached",
-      "detail": "12 directory listings discovered; 2 in-window estate listings before radius filtering",
+      "detail": "13 directory listings discovered; 2 in-window estate listings before radius filtering",
       "candidates": 2,
       "included": 1
     },
     "GSALR.com": {
-      "status": "blocked",
-      "detail": "https://gsalr.com/garage-sales-grapevine-tx.html — HTTP 403 Forbidden",
+      "status": "partial",
+      "detail": "https://gsalr.com/garage-sales-grapevine-tx.html — directory readable, estate listing details unverified",
       "candidates": 0,
       "included": 0
     }
@@ -40,8 +40,8 @@
   "counts": {
     "candidates": 73,
     "listings": 51,
-    "sales": 45,
-    "duplicates": 6,
+    "sales": 46,
+    "duplicates": 5,
     "outsideRadius": 21,
     "unlocatedListings": 0
   },
@@ -243,11 +243,11 @@
       "id": "cf771fca93be4e7c",
       "title": "James Major presents Santa’s Workshop estate sale in Mansfield",
       "company": "James Major Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "5869 Myra Dr",
       "city": "Mansfield",
       "state": "TX",
       "zip": "76063",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -300,9 +300,9 @@
         "toys & games"
       ],
       "contentsLine": "Clothing and toys & games.",
-      "lat": 32.5660053,
-      "lng": -97.1262109,
-      "approximate": true
+      "lat": 32.6128521,
+      "lng": -97.2170639,
+      "approximate": false
     },
     {
       "id": "aeecb0444133422b",
@@ -372,10 +372,80 @@
       "approximate": true
     },
     {
+      "id": "97682ffd2fcdb836",
+      "title": "~Incredible Denton Estate Sale! Collectibles, Silver, Brass, Curio, Antiques, Fashion, Accents..",
+      "company": "DFW Estate Liquidators",
+      "streetAddress": "10500 Cascade Dr",
+      "city": "Denton",
+      "state": "TX",
+      "zip": "76207",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/denton/76207/incredible-denton-estate-sale-collectibles-2468441"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Denton/76207/5122920"
+        }
+      ],
+      "categories": [
+        "collectibles",
+        "clothing"
+      ],
+      "contactPhone": "(682) 239-1746",
+      "contactUrl": "http://www.dfwestateliquidators.com",
+      "photoCount": 145,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5122920/1-1/b5468181-7266-41e2-9da7-a19b43cfb578.jpg",
+        "https://picturescdn.estatesales.net/5122920/1-1/ccc49417-695c-4680-b27d-4cf7a86fe667.jpg",
+        "https://picturescdn.estatesales.net/5122920/1-1/be6f770f-3386-4981-8a38-010819cd2968.jpg",
+        "https://picturescdn.estatesales.net/5122920/1-1/b4417e83-34f2-41ed-a807-2da6b699b5c1.jpg",
+        "https://picturescdn.estatesales.net/5122920/1-1/3efa286b-244a-43e0-8cd9-4c37d91abbad.jpg",
+        "https://picturescdn.estatesales.net/5122920/1-1/1b939df2-6c05-42e1-accc-2caf895d69aa.jpg",
+        "https://picturescdn.estatesales.net/5122920/1-1/cd877c77-7ceb-4710-a384-bf0d626bd301.jpg",
+        "https://picturescdn.estatesales.net/5122920/1-1/d1c52caf-3657-40c4-a4f4-a1f1fc70b59e.jpg",
+        "https://picturescdn.estatesales.net/5122920/1-1/c3eca92d-e682-47d7-afd0-8a53eceb48b4.jpg",
+        "https://picturescdn.estatesales.net/5122920/1-1/3c0e70e8-5174-4d84-ba56-98e01c6fb2bb.jpg",
+        "https://picturescdn.estatesales.net/5122920/1-1/8e2cdf5d-34c7-49a0-8bcc-593c6dfe8503.jpg",
+        "https://picturescdn.estatesales.net/5122920/1-1/233bd7d1-bbb9-401e-958f-f808a071e3d6.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "145 photos",
+        "tools, furniture and collectibles in the listing"
+      ],
+      "lat": 33.1437328,
+      "lng": -97.236173,
+      "approximate": false,
+      "photoKeywords": [
+        "giraffe figurines",
+        "upholstered office chair",
+        "sculpted heads",
+        "glass-top side table",
+        "decorative spheres"
+      ],
+      "contentsLine": "Giraffe figurines line a ledge. Other photos show sculpted heads, decorative spheres and a glass-top side table.",
+      "photoRead": true
+    },
+    {
       "id": "464c5d9f72f14531",
-      "title": "~Massive *2 Phase* Garland, TX -Black Friday Weekend- Estate Sale! Collectibles, Memorabilia, Shop, Tools, Instruments, Bronze Sculptures, Christmas, Blenko Collection & Much More!",
-      "company": "DFW ESTATE LIQUIDATORS",
-      "streetAddress": "2316 English Cir",
+      "title": "~Massive *2 Phase* Garland, TX -Black Friday Weekend - Estate Sale! Collectibles, Shop, Fashion..",
+      "company": "DFW Estate Liquidators",
+      "streetAddress": "2316 English Circle",
       "city": "Garland",
       "state": "TX",
       "zip": "75041",
@@ -408,26 +478,25 @@
         }
       ],
       "categories": [
-        "tools",
         "collectibles",
-        "art"
+        "clothing"
       ],
       "contactPhone": "(682) 239-1746",
-      "contactUrl": "https://estatesales.org/estate-sale-companies/a-dfw-estate-liquidators-3768",
+      "contactUrl": "http://www.dfwestateliquidators.com",
       "photoCount": 287,
       "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2467700-rkcd4jhxnfffnbeb.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2467700-mfz2aqz5zdmfaulx.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2467700-7210ep5bikevp4oe.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2467700-mi2j1l04jkioytri.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2467700-suli6zfww2p3sb8o.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2467700-8w61yawhdc8xc3p3.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2467700-sqmdjfi8vrhnebd0.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2467700-kilp85lzqary8120.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2467700-vuex8nc8lo6v6n4b.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2467700-b4xmd36g5ndhrit6.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2467700-ztwlc3ccma58in63.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2467700-ny4cv9j4ky2gk61e.jpg"
+        "https://picturescdn.estatesales.net/5114622/1-1/dff91934-0784-4a7a-a1f4-ab8170aea98b.jpg",
+        "https://picturescdn.estatesales.net/5114622/1-1/ea878f44-1638-402d-ba65-c6ec9e3d7f17.jpg",
+        "https://picturescdn.estatesales.net/5114622/1-1/661e628e-7d21-41ac-94e8-038e340ff985.jpg",
+        "https://picturescdn.estatesales.net/5114622/1-1/a1149a1d-662d-4635-a4af-b12dc5c4680e.jpg",
+        "https://picturescdn.estatesales.net/5114622/1-1/51fae448-bbfd-49e0-bf02-6393cf1749ab.jpg",
+        "https://picturescdn.estatesales.net/5114622/1-1/42cfc9af-f1f4-4127-a6ac-dd9cdf38e51c.jpg",
+        "https://picturescdn.estatesales.net/5114622/1-1/23c8959c-ac95-4401-a641-4cf7321f8c74.jpg",
+        "https://picturescdn.estatesales.net/5114622/1-1/318adffe-0021-4619-ac9b-fed403d2074f.jpg",
+        "https://picturescdn.estatesales.net/5114622/1-1/6242e783-5392-4a73-a6cd-b481a25b4763.jpg",
+        "https://picturescdn.estatesales.net/5114622/1-1/1a3f70ea-4c33-4443-9a24-6efc3f1964f4.jpg",
+        "https://picturescdn.estatesales.net/5114622/1-1/21d9e95f-f655-42b3-96e9-0bf9feff75e1.jpg",
+        "https://picturescdn.estatesales.net/5114622/1-1/12cc9c52-5520-4cff-8853-ad27a03ba4ca.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
@@ -525,11 +594,11 @@
       "id": "b99d78f12d5f1c32",
       "title": "BLACK FRIDAY SALE COLLEYVILLE | VINTAGE TRADITIONAL ESTATE FILLED WITH TIMELESS TREASURES!",
       "company": "Lori's Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "6401 Lorraine Park",
       "city": "Colleyville",
       "state": "TX",
       "zip": "76034",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -595,19 +664,19 @@
         "figurines"
       ],
       "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles.",
-      "lat": 32.8871682,
-      "lng": -97.1409625,
-      "approximate": true
+      "lat": 32.901918,
+      "lng": -97.17935,
+      "approximate": false
     },
     {
       "id": "d3fedafa7b9d917d",
       "title": "Black Friday Signature Estate Sale",
       "company": "When Pigs Fly Estate, Consignment & Auctions",
-      "streetAddress": null,
+      "streetAddress": "2223 Monitor St",
       "city": "Dallas",
       "state": "TX",
       "zip": "75207",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -668,19 +737,19 @@
         "coins"
       ],
       "contentsLine": "Furniture, jewelry, collectibles, kitchen and clothing.",
-      "lat": 32.7891032,
-      "lng": -96.8216938,
-      "approximate": true
+      "lat": 32.79774,
+      "lng": -96.834269,
+      "approximate": false
     },
     {
       "id": "d698da6e06e968ec",
       "title": "Black Friday Weekend Sale!!!",
       "company": "Decades Estate Liquidators",
-      "streetAddress": null,
+      "streetAddress": "406 San Pedro Drive",
       "city": "Grand Prairie",
       "state": "TX",
       "zip": "75051",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -734,19 +803,19 @@
         "electronics"
       ],
       "contentsLine": "Vinyl & records, kitchen and electronics.",
-      "lat": 32.7240338,
-      "lng": -97.0088686,
-      "approximate": true
+      "lat": 32.7181988,
+      "lng": -97.0013434,
+      "approximate": false
     },
     {
       "id": "959f00f7e370f8b8",
       "title": "Denton Black Friday Estate Sale Stunning Vtg. Viking Swung Vases, Blenko Glass, Saladmaster &More",
       "company": "Kitty Wade Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "1315 Mozingo St",
       "city": "Denton",
       "state": "TX",
       "zip": "76209",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -803,9 +872,9 @@
         "electronics"
       ],
       "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
-      "lat": 33.2285581,
-      "lng": -97.1031977,
-      "approximate": true
+      "lat": 33.2255791,
+      "lng": -97.1104811,
+      "approximate": false
     },
     {
       "id": "65eb7bfe63927210",
@@ -887,6 +956,79 @@
       "photoRead": true
     },
     {
+      "id": "449678f3d3fa78ef",
+      "title": "Farmers Branch Estate Sale by Elaine",
+      "company": "Estate Sales By Elaine",
+      "streetAddress": "13342 Mount Castle Drive",
+      "city": "Farmers Branch",
+      "state": "TX",
+      "zip": "75234",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "09:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75234/5170788"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(972) 989-9184",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Coppell/75019/19061",
+      "photoCount": 92,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170788/1-1/59a17d81-048c-4cd6-a479-fa0a53fd2223.jpg",
+        "https://picturescdn.estatesales.net/5170788/1-1/18b4c39e-1e23-415c-b08b-9b4fe1f1f044.jpg",
+        "https://picturescdn.estatesales.net/5170788/1-1/664675ef-d350-4317-b259-bd99586f4b65.jpg",
+        "https://picturescdn.estatesales.net/5170788/1-1/134e35c3-083a-4177-95d7-4d39fb0684cc.jpg",
+        "https://picturescdn.estatesales.net/5170788/1-1/b1ffd6b5-621c-43bb-a9d3-0367b6c7bc6d.jpg",
+        "https://picturescdn.estatesales.net/5170788/1-1/b833bd98-90fa-4320-bf57-90d8b38140fd.jpg",
+        "https://picturescdn.estatesales.net/5170788/1-1/2cb4eb0c-cb88-4d87-9c43-de299864286e.jpg",
+        "https://picturescdn.estatesales.net/5170788/1-1/d9540504-0bb9-4c6c-9249-9d6f6fb5d774.jpg",
+        "https://picturescdn.estatesales.net/5170788/1-1/0b90dc82-d5c3-416c-9c8c-df71ccb04337.jpg",
+        "https://picturescdn.estatesales.net/5170788/1-1/a0ac52f3-60f1-45e6-b98c-6793b0c5f17b.jpg",
+        "https://picturescdn.estatesales.net/5170788/1-1/35c0a868-6f61-4c73-8d3d-2dce7cdd96cb.jpg",
+        "https://picturescdn.estatesales.net/5170788/1-1/842d0ae7-c351-4aca-98bf-d38969ad5cd8.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "92 photos",
+        "furniture, jewelry and vehicles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "toys & games",
+        "china"
+      ],
+      "contentsLine": "Furniture, jewelry, vehicles, kitchen and clothing.",
+      "lat": 32.9270131,
+      "lng": -96.8699701,
+      "approximate": false
+    },
+    {
       "id": "cf712c765ead96a9",
       "title": "Farmers Branch Estate Sale by Elaine",
       "company": "Estate Sales by Elaine",
@@ -916,16 +1058,12 @@
         {
           "name": "EstateSales.org",
           "url": "https://estatesales.org/estate-sales/tx/farmers-branch/75234/farmers-branch-estate-sale-by-2475201"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Dallas/75234/5170788"
         }
       ],
       "categories": [],
       "contactPhone": "(972) 989-9184",
       "contactUrl": "https://estatesales.org/estate-sale-companies/estate-sales-by-elaine-5035",
-      "photoCount": 92,
+      "photoCount": 21,
       "photoUrls": [
         "https://eso-cdn.tlcdn.workers.dev/s-2475201-wkzlw8qd2n7tu3jo.jpg",
         "https://eso-cdn.tlcdn.workers.dev/s-2475201-1tlmgpye9dprzy9k.jpg",
@@ -942,8 +1080,8 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "92 photos",
-        "furniture, jewelry and vehicles in the listing",
+        "21 photos",
+        "clothing, books and electronics in the listing",
         "runs 3 days"
       ],
       "lat": 32.9213267,
@@ -964,11 +1102,11 @@
       "id": "9c06f475e30bb4d8",
       "title": "Highland Park/Beverly Dr. Diggers Estate Sale",
       "company": null,
-      "streetAddress": null,
+      "streetAddress": "4436 Beverly Drive",
       "city": "Dallas",
       "state": "TX",
       "zip": "75205",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -1008,9 +1146,9 @@
         "23 photos",
         "tools, furniture and clothing in the listing"
       ],
-      "lat": 32.8366956,
-      "lng": -96.7888596,
-      "approximate": true,
+      "lat": 32.8322505,
+      "lng": -96.8112032,
+      "approximate": false,
       "photoKeywords": [
         "boxed dolls",
         "Santa decorations",
@@ -1023,85 +1161,14 @@
       "photoRead": true
     },
     {
-      "id": "97682ffd2fcdb836",
-      "title": "Incredible Denton Estate Sale! Collectibles, Silver, Brass, Curio, Antiques, Fashion, Accents, Fine Furniture, Mid Century, Nice Patio Furniture, Appliances, Leather & More!",
-      "company": "DFW ESTATE LIQUIDATORS",
-      "streetAddress": "10500 Cascade Dr",
-      "city": "Denton",
-      "state": "TX",
-      "zip": "76207",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "09:00",
-          "end": "16:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/denton/76207/incredible-denton-estate-sale-collectibles-2468441"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Denton/76207/5122920"
-        }
-      ],
-      "categories": [
-        "furniture",
-        "collectibles",
-        "clothing"
-      ],
-      "contactPhone": "(682) 239-1746",
-      "contactUrl": "https://estatesales.org/estate-sale-companies/a-dfw-estate-liquidators-3768",
-      "photoCount": 145,
-      "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-xnk5p1dim8wh9vs4.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-e9y9rhjkialykqkg.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-0zyuuaesuilkdj8n.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-95ohyyzmk2k1iit2.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-35h2hufhwclehsgq.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-jkbbw9epjy3z44t4.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-ep01qfqoqmwh1nma.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-zzqxsz3qk3iryfyp.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-fvou5jjxs9m2pxxq.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-0ee6pyk8sso9srjb.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-s3e29dxhg9lt3kiy.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-xfsc1fvnzqr9mr8s.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "145 photos",
-        "tools, furniture and collectibles in the listing"
-      ],
-      "lat": 33.1437328,
-      "lng": -97.236173,
-      "approximate": false,
-      "photoKeywords": [
-        "giraffe figurines",
-        "upholstered office chair",
-        "sculpted heads",
-        "glass-top side table",
-        "decorative spheres"
-      ],
-      "contentsLine": "Giraffe figurines line a ledge. Other photos show sculpted heads, decorative spheres and a glass-top side table.",
-      "photoRead": true
-    },
-    {
       "id": "591fcc4c4d6f2872",
       "title": "Overton Park Beauty Has Jewelry, Designer Furnishings, Vintage Clothing, and MUCH MORE",
       "company": "Head Of Estates",
-      "streetAddress": null,
+      "streetAddress": "4829 Overton Woods Dr.",
       "city": "Fort Worth",
       "state": "TX",
       "zip": "76109",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -1153,9 +1220,9 @@
         "furniture, jewelry and clothing in the listing",
         "runs 3 days"
       ],
-      "lat": 32.7025269,
-      "lng": -97.3809922,
-      "approximate": true,
+      "lat": 32.7009957,
+      "lng": -97.3977543,
+      "approximate": false,
       "photoKeywords": [
         "Beatles '65 album cover",
         "glass-front display cabinets",
@@ -1171,11 +1238,11 @@
       "id": "4a8b36b6b63c940c",
       "title": "Plano Remodeling Spectacular Black Friday Weekend",
       "company": "Treasures Once More, LLC",
-      "streetAddress": null,
+      "streetAddress": "3908 Cross Bend Road",
       "city": "Plano",
       "state": "TX",
       "zip": "75023",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -1237,9 +1304,9 @@
         "christmas decor"
       ],
       "contentsLine": "Furniture, kitchen, clothing, art and antiques.",
-      "lat": 33.0579749,
-      "lng": -96.7454322,
-      "approximate": true
+      "lat": 33.0491797,
+      "lng": -96.7685031,
+      "approximate": false
     },
     {
       "id": "274ec09330214d26",
@@ -1310,11 +1377,11 @@
       "id": "a2f0046e04618118",
       "title": "Annie's Estate Sales ~ Arlington",
       "company": "Annie's Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "4223 Oak Springs Drive",
       "city": "Arlington",
       "state": "TX",
       "zip": "76017",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -1375,19 +1442,19 @@
         "electronics"
       ],
       "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
-      "lat": 32.6630829,
-      "lng": -97.1614206,
-      "approximate": true
+      "lat": 32.680275,
+      "lng": -97.181046,
+      "approximate": false
     },
     {
       "id": "d4475059aff12f8a",
       "title": "Arlington Estate Sale",
       "company": "Cowtown Liquidation",
-      "streetAddress": null,
+      "streetAddress": "3019 Woodford Dr",
       "city": "Arlington",
       "state": "TX",
       "zip": "76013",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -1429,19 +1496,19 @@
         "126 photos"
       ],
       "photoKeywords": [],
-      "lat": 32.7223455,
-      "lng": -97.142663,
-      "approximate": true
+      "lat": 32.7267446,
+      "lng": -97.1591698,
+      "approximate": false
     },
     {
       "id": "a628edad8e6c4386",
       "title": "Black Friday Estate Sale in Fairmount Historic District - Ft Worth",
       "company": "Millchell Inc.",
-      "streetAddress": null,
+      "streetAddress": "2112 Lipscomb St Ft. Worth",
       "city": "Fort Worth",
       "state": "TX",
       "zip": "76110",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -1489,9 +1556,9 @@
         "furniture, collectibles and vehicles in the listing",
         "runs 3 days"
       ],
-      "lat": 32.710013,
-      "lng": -97.3385542,
-      "approximate": true,
+      "lat": 32.692984,
+      "lng": -97.359713,
+      "approximate": false,
       "photoKeywords": [
         "electric window candles",
         "Christmas string lights",
@@ -1508,11 +1575,11 @@
       "id": "e7d26568e2b5c40e",
       "title": "Black Friday Warehouse Sale : by Treme",
       "company": "Treme Realty LLC",
-      "streetAddress": null,
+      "streetAddress": "4601 Hawkins Cemetery Rd",
       "city": "Arlington",
       "state": "TX",
       "zip": "76017",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -1573,9 +1640,9 @@
         "toys & games"
       ],
       "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles.",
-      "lat": 32.6630829,
-      "lng": -97.1614206,
-      "approximate": true
+      "lat": 32.6725917,
+      "lng": -97.1960532,
+      "approximate": false
     },
     {
       "id": "ca0cf235d47feae5",
@@ -1682,6 +1749,8 @@
         "art",
         "electronics",
         "mid-century",
+        "rugs",
+        "lamps",
         "cameras"
       ],
       "contentsLine": "Furniture, vehicles, kitchen, clothing and art.",

@@ -16,6 +16,9 @@
   "nominatim:street:11830 duxbury:75218": {
     "retryAfter": 1795834871009
   },
+  "nominatim:street:14435 hwy 6:77517": {
+    "retryAfter": 1796327786092
+  },
   "nominatim:street:2505 shadybend dr:77581": {
     "retryAfter": 1795734173387
   },
@@ -31,11 +34,17 @@
   "nominatim:street:5530 cr 166:77511": {
     "retryAfter": 1795668838204
   },
+  "nominatim:street:6147 carew:77074": {
+    "retryAfter": 1796327787254
+  },
   "nominatim:street:620 britt bailey blvd:77515": {
     "retryAfter": 1795668843517
   },
   "nominatim:street:6635 sewanee ave:77005": {
     "retryAfter": 1795666737664
+  },
+  "nominatim:street:806 d anders ln:77565": {
+    "retryAfter": 1796327785190
   },
   "nominatim:street:904 vivian st:77565": {
     "retryAfter": 1795829177440
@@ -45,6 +54,11 @@
   },
   "nominatim:street:923 crosstimbers:77022": {
     "retryAfter": 1795668842205
+  },
+  "street:1002 kemberton dr:77062": {
+    "lat": 29.575215,
+    "lng": -95.1384762,
+    "basis": "OpenStreetMap Nominatim"
   },
   "street:1019 tiki dr:77554": {
     "lat": 29.2973777,
@@ -61,6 +75,11 @@
     "lng": -95.1962186,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:1213 oxford st:77008": {
+    "lat": 29.7931089,
+    "lng": -95.3921467,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:14219 ridgewood lake ct:77062": {
     "lat": 29.5907995,
     "lng": -95.135576,
@@ -70,6 +89,11 @@
     "lat": 29.797206,
     "lng": -95.3933285,
     "basis": "OpenStreetMap Nominatim"
+  },
+  "street:14435 hwy 6:77517": {
+    "lat": 29.3836449,
+    "lng": -95.12197590000001,
+    "basis": "Public listing map: EstateSales.net"
   },
   "street:1915 doliver cir:77489": {
     "lat": 29.5824494,
@@ -166,6 +190,11 @@
     "lng": -95.063699,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:6147 carew:77074": {
+    "lat": 29.687206,
+    "lng": -95.500636,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:620 britt bailey blvd:77515": {
     "lat": 29.156177,
     "lng": -95.50688,
@@ -176,9 +205,19 @@
     "lng": -95.430615,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:806 d anders ln:77565": {
+    "lat": 29.5294257,
+    "lng": -95.0277954,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:809 cold springs ct:75094": {
     "lat": 33.027318,
     "lng": -96.5967043,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:815 yale st:77007": {
+    "lat": 29.785494,
+    "lng": -95.3989737,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:8309 montridge dr:77055": {

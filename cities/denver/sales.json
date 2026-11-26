@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-26",
-  "collectedAt": "2026-11-26T14:28:51.383Z",
+  "collectedAt": "2026-11-26T20:05:22.308Z",
   "window": {
     "start": "2026-11-26",
     "end": "2026-12-09",
@@ -14,9 +14,9 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 29/29 local candidate details.",
-      "candidates": 9,
-      "included": 9
+      "detail": "Read the public sale sitemap. Checked 30/30 local candidate details.",
+      "candidates": 10,
+      "included": 10
     },
     "EstateSales.org": {
       "status": "reached",
@@ -31,16 +31,16 @@
       "included": 4
     },
     "GSALR.com": {
-      "status": "blocked",
-      "detail": "https://gsalr.com/garage-sales-denver-co.html — HTTP 403 Forbidden",
+      "status": "partial",
+      "detail": "https://gsalr.com/garage-sales-denver-co.html — directory readable, estate listing details unverified",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 19,
-    "listings": 19,
-    "sales": 15,
+    "candidates": 20,
+    "listings": 20,
+    "sales": 16,
     "duplicates": 4,
     "outsideRadius": 0,
     "unlocatedListings": 0
@@ -230,11 +230,11 @@
       "id": "92ac2fa3123ba738",
       "title": "Robinson Estate Sale",
       "company": null,
-      "streetAddress": null,
+      "streetAddress": "12795 Home Farm Dr",
       "city": "Westminster",
       "state": "CO",
       "zip": "80234",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -275,9 +275,9 @@
         "30 photos",
         "tools, furniture and jewelry in the listing"
       ],
-      "lat": 39.9136137,
-      "lng": -105.0081452,
-      "approximate": true,
+      "lat": 39.926771,
+      "lng": -105.002336,
+      "approximate": false,
       "photoKeywords": [
         "Mercedes-Benz car",
         "Sierra pickup truck",
@@ -295,11 +295,11 @@
       "id": "38c8b43af5d4e191",
       "title": "Workbench to Wardrobe Thanksgiving Estate Sale",
       "company": "Front Porch Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "362 S 14th Ave",
       "city": "Brighton",
       "state": "CO",
       "zip": "80601",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -347,9 +347,9 @@
         "197 photos",
         "tools, furniture and jewelry in the listing"
       ],
-      "lat": 39.9700959,
-      "lng": -104.8019397,
-      "approximate": true,
+      "lat": 39.9804928,
+      "lng": -104.8039086,
+      "approximate": false,
       "photoKeywords": [
         "Coors",
         "round serving tray",
@@ -357,6 +357,79 @@
       ],
       "contentsLine": "A round red serving tray has white Coors lettering and a lion emblem.",
       "photoRead": true
+    },
+    {
+      "id": "aaf826e5fb400b27",
+      "title": "SOUTHMOOR PARK - HUGE BLACK FRIDAY SALE",
+      "company": "Transition Services",
+      "streetAddress": "4054 S. Poplar Way",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80237",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "09:15",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:15",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "09:15",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Denver/80237/5172078"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(303) 520-4432",
+      "contactUrl": "http://www.powerestatesale.com",
+      "photoCount": 125,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172078/1-1/84d34c17-bb8f-405a-ac44-83de7ab2017b.jpg",
+        "https://picturescdn.estatesales.net/5172078/1-1/4ed18ddd-a2e8-4959-987c-0f9d1472dbbe.jpg",
+        "https://picturescdn.estatesales.net/5172078/1-1/887bb52e-616a-43da-a156-014489e29b62.jpg",
+        "https://picturescdn.estatesales.net/5172078/1-1/230c3247-53dd-4ff8-9178-3c88018d1c2a.jpg",
+        "https://picturescdn.estatesales.net/5172078/2-1/4aa92ab5-c30e-4c5e-a006-ea07a654a25d.jpg",
+        "https://picturescdn.estatesales.net/5172078/1-1/b28e5f85-ae78-43ac-b1df-841bb5a630fe.jpg",
+        "https://picturescdn.estatesales.net/5172078/1-1/fec12c8f-ae14-4b7f-8239-dc14767de6de.jpg",
+        "https://picturescdn.estatesales.net/5172078/1-1/6f49f090-2fcc-4c04-bc4a-ed965fd08ba6.jpg",
+        "https://picturescdn.estatesales.net/5172078/1-1/cde2d6f4-3cd3-44b0-8165-fc423991453c.jpg",
+        "https://picturescdn.estatesales.net/5172078/1-1/208d23cf-4f6e-4a1d-aa33-edcc78c0959e.jpg",
+        "https://picturescdn.estatesales.net/5172078/1-1/19b1e67f-867c-4516-8021-53d0db226ffa.jpg",
+        "https://picturescdn.estatesales.net/5172078/1-1/cea400c0-f63c-4b89-a59b-78143f06f5b2.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "125 photos",
+        "furniture, jewelry and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "china",
+        "crystal"
+      ],
+      "contentsLine": "Furniture, jewelry, collectibles, kitchen and clothing.",
+      "lat": 39.6429852,
+      "lng": -104.90464,
+      "approximate": false
     },
     {
       "id": "78dc9eaabd02d56a",

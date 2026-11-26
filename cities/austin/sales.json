@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-26",
-  "collectedAt": "2026-11-26T14:23:44.267Z",
+  "collectedAt": "2026-11-26T20:00:10.951Z",
   "window": {
     "start": "2026-11-26",
     "end": "2026-12-09",
@@ -14,8 +14,8 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 44/44 local candidate details.",
-      "candidates": 19,
+      "detail": "Read the public sale sitemap. Checked 45/45 local candidate details.",
+      "candidates": 20,
       "included": 14
     },
     "EstateSales.org": {
@@ -26,23 +26,23 @@
     },
     "Craigslist Austin": {
       "status": "reached",
-      "detail": "13 directory listings discovered; 3 in-window estate listings before radius filtering",
+      "detail": "14 directory listings discovered; 3 in-window estate listings before radius filtering",
       "candidates": 3,
       "included": 2
     },
     "GSALR.com": {
-      "status": "blocked",
-      "detail": "https://gsalr.com/garage-sales-austin-tx.html — HTTP 403 Forbidden",
+      "status": "partial",
+      "detail": "https://gsalr.com/garage-sales-austin-tx.html — directory readable, estate listing details unverified",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 26,
+    "candidates": 27,
     "listings": 18,
-    "sales": 17,
-    "duplicates": 1,
-    "outsideRadius": 6,
+    "sales": 16,
+    "duplicates": 2,
+    "outsideRadius": 7,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -52,11 +52,11 @@
       "id": "c63c4155990ed4f8",
       "title": "3 Home Purge",
       "company": null,
-      "streetAddress": null,
+      "streetAddress": "900 E. 53 1/2 Street",
       "city": "Austin",
       "state": "TX",
       "zip": "78751",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -105,19 +105,19 @@
         "clothing"
       ],
       "contentsLine": "Tools, furniture, kitchen and clothing.",
-      "lat": 30.3107158,
-      "lng": -97.7235918,
-      "approximate": true
+      "lat": 30.3138018,
+      "lng": -97.7148071,
+      "approximate": false
     },
     {
-      "id": "d0c6bdf31800b6d7",
+      "id": "ee7badee79a168cc",
       "title": "MASSIVE 6,000 SQ FT ESTATE MOVED TO HUTTO! 3 DAYS OF TREASURES!",
       "company": "Driftwood Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "3333 Co Rd 119",
       "city": "Hutto",
       "state": "TX",
       "zip": "78634",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -138,14 +138,15 @@
       "sources": [
         {
           "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/hutto-/78634/massive-6000-sq-ft-estate-2471618"
+          "url": "https://estatesales.org/estate-sales/tx/hutto/78634/massive-6000-sq-ft-estate-2471618"
         }
       ],
       "categories": [],
       "contactPhone": "(737) 347-3314",
       "contactUrl": "https://estatesales.org/estate-sale-companies/driftwood-estate-sales-26746",
-      "photoCount": 20,
+      "photoCount": 21,
       "photoUrls": [
+        "https://eso-cdn.tlcdn.workers.dev/s-2471618-3ruhnnjv4txj52iz.jpg",
         "https://eso-cdn.tlcdn.workers.dev/s-2471618-9dsm2c24xzuqbmd5.jpg",
         "https://eso-cdn.tlcdn.workers.dev/s-2471618-g9dtq7pzyual4pkh.jpg",
         "https://eso-cdn.tlcdn.workers.dev/s-2471618-a95sy612w7inrm0y.jpg",
@@ -156,28 +157,30 @@
         "https://eso-cdn.tlcdn.workers.dev/s-2471618-ghehaap1306mx1hz.jpg",
         "https://eso-cdn.tlcdn.workers.dev/s-2471618-tw2xqnytdujqhigl.jpg",
         "https://eso-cdn.tlcdn.workers.dev/s-2471618-73nf3anzth8bezai.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2471618-pbz7k9wr5usxyhfp.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2471618-almunikfv63buk9k.jpg"
+        "https://eso-cdn.tlcdn.workers.dev/s-2471618-pbz7k9wr5usxyhfp.jpg"
       ],
       "digRating": "Worth a Look",
       "ratingReasons": [
-        "20 photos",
+        "21 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [],
+      "photoKeywords": [
+        "silver"
+      ],
+      "contentsLine": "Silver.",
       "lat": 30.5445634,
       "lng": -97.5598875,
       "approximate": true
     },
     {
-      "id": "bf66c12a4e95c9a3",
+      "id": "95131865685a3f22",
       "title": "AVENGERS ASSEMBLE! HUGE MARVEL, DC & VINTAGE ENTERTAINMENT ESTATE SALE!",
       "company": "My Estate To Liquidate",
-      "streetAddress": null,
+      "streetAddress": "13813 Field Spar Dr",
       "city": "Manor",
       "state": "TX",
       "zip": "78653",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -196,6 +199,10 @@
         }
       ],
       "sources": [
+        {
+          "name": "Craigslist Austin",
+          "url": "https://www.craigslist.org/view/d/manor-huge-maevel-dc-movies-books/vMHFcdwFMKszk3wZMRNi8W"
+        },
         {
           "name": "EstateSales.net",
           "url": "https://www.estatesales.net/TX/Manor/78653/5168865"
@@ -225,25 +232,28 @@
         "collectibles and books in the listing",
         "runs 3 days"
       ],
+      "lat": 30.35601,
+      "lng": -97.542736,
+      "approximate": false,
       "photoKeywords": [
-        "collectibles",
+        "action figures",
+        "framed movie posters",
         "books",
-        "comics"
+        "poker table",
+        "folding chairs"
       ],
-      "contentsLine": "Collectibles, books and comics.",
-      "lat": 30.3501049,
-      "lng": -97.5323941,
-      "approximate": true
+      "contentsLine": "Action figures stand among shelves of books. Framed movie posters hang behind a green poker table and folding chairs.",
+      "photoRead": true
     },
     {
       "id": "f7dbe7c3f81b1239",
       "title": "Black Friday Prices Without Black Friday Crowds",
       "company": "ATX & Beyond Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "Sand Creek Rd",
       "city": "Cedar Park",
       "state": "TX",
       "zip": "78613",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -270,7 +280,7 @@
       "categories": [],
       "contactPhone": "(512) 203-4414",
       "contactUrl": "Https://www.atxbeyondestatesales.com",
-      "photoCount": 129,
+      "photoCount": 143,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5165844/1-1/ca113fd7-06b8-4c7a-83f6-8feac0539a52.jpg",
         "https://picturescdn.estatesales.net/5165844/1-1/3fb9df8a-644e-43f1-aef9-8f9a0fbbb6b1.jpg",
@@ -287,7 +297,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "129 photos",
+        "143 photos",
         "tools, jewelry and clothing in the listing",
         "runs 3 days"
       ],
@@ -297,77 +307,9 @@
         "clothing"
       ],
       "contentsLine": "Tools, jewelry and clothing.",
-      "lat": 30.5186952,
-      "lng": -97.8122476,
-      "approximate": true
-    },
-    {
-      "id": "95131865685a3f22",
-      "title": "HUGE MAEVEL/DC, Movies & Books Estate Sale",
-      "company": null,
-      "streetAddress": "13813 Field Spar Dr.",
-      "city": "Manor",
-      "state": "TX",
-      "zip": null,
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "10:00",
-          "end": null
-        },
-        {
-          "date": "2026-11-28",
-          "start": "10:00",
-          "end": null
-        },
-        {
-          "date": "2026-11-29",
-          "start": "10:00",
-          "end": null
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist Austin",
-          "url": "https://www.craigslist.org/view/d/manor-huge-maevel-dc-movies-books/vMHFcdwFMKszk3wZMRNi8W"
-        }
-      ],
-      "categories": [
-        "books"
-      ],
-      "photoCount": 24,
-      "photoUrls": [
-        "https://images.craigslist.org/01313_aK3Z5LYk98e_0dm0t2_600x450.jpg",
-        "https://images.craigslist.org/00R0R_8g3eTB9zhYj_0dm0t2_600x450.jpg",
-        "https://images.craigslist.org/00808_ldttw05pQRE_0dm0t2_600x450.jpg",
-        "https://images.craigslist.org/01010_2Hl28AKYbti_0dm0t2_600x450.jpg",
-        "https://images.craigslist.org/00o0o_c5x4Mrrrjyl_0dm0t2_600x450.jpg",
-        "https://images.craigslist.org/00Q0Q_81Hcj7YB0sj_0gl0t2_600x450.jpg",
-        "https://images.craigslist.org/00T0T_1zyN79oiyym_0gl0t2_600x450.jpg",
-        "https://images.craigslist.org/00q0q_1QkzwxG9Vem_0gl0t2_600x450.jpg",
-        "https://images.craigslist.org/00w0w_dLs2xjDccX6_0gl0t2_600x450.jpg",
-        "https://images.craigslist.org/00Q0Q_8nEAFaZeL7Q_0gl0t2_600x450.jpg",
-        "https://images.craigslist.org/00h0h_acQ1deilBef_0gl0t2_600x450.jpg",
-        "https://images.craigslist.org/00v0v_cFPgCLeGC10_0gl0t2_600x450.jpg"
-      ],
-      "digRating": "Worth a Look",
-      "ratingReasons": [
-        "24 photos",
-        "runs 3 days"
-      ],
-      "lat": 30.3420882,
-      "lng": -97.555905,
-      "approximate": true,
-      "photoKeywords": [
-        "action figures",
-        "framed movie posters",
-        "books",
-        "poker table",
-        "folding chairs"
-      ],
-      "contentsLine": "Action figures stand among shelves of books. Framed movie posters hang behind a green poker table and folding chairs.",
-      "photoRead": true
+      "lat": 30.519594,
+      "lng": -97.796052,
+      "approximate": false
     },
     {
       "id": "85bd91046a8b8c76",
@@ -445,11 +387,11 @@
       "id": "726778cc721f0735",
       "title": "These Boots are Made for Walking-Eclectic-80’s-90’s,,Antiques -Fabulous Clothing",
       "company": "Bartolini Estate Sales Texas",
-      "streetAddress": null,
+      "streetAddress": "6848 La Concha Pass",
       "city": "Austin",
       "state": "TX",
       "zip": "78749",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -512,9 +454,9 @@
         "mid-century"
       ],
       "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
-      "lat": 30.2141604,
-      "lng": -97.8590638,
-      "approximate": true
+      "lat": 30.226483,
+      "lng": -97.8773095,
+      "approximate": false
     },
     {
       "id": "6741133fee31dea5",

@@ -1,4 +1,35 @@
 {
+  "nominatim:street:2096 carters creek:37064": {
+    "retryAfter": 1796328374216
+  },
+  "nominatim:street:644 w iris dr:37204": {
+    "retryAfter": 1796328371097
+  },
+  "street:100 lakecrest cir:37075": {
+    "lat": 36.269259,
+    "lng": -86.631549,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:110 jefferson dr:38401": {
+    "lat": 35.6400204,
+    "lng": -87.028824,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1727 kingsbury dr:37215": {
+    "lat": 36.0475734,
+    "lng": -86.8408025,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2096 carters creek:37064": {
+    "lat": 35.883949,
+    "lng": -86.934142,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:644 w iris dr:37204": {
+    "lat": 36.114527,
+    "lng": -86.768837,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "zip:37025": {
     "lat": 35.9467612,
     "lng": -87.286512,

@@ -32,6 +32,9 @@
   "nominatim:street:130 palm croft dr near broadway palm croft:85282": {
     "retryAfter": 1795962958507
   },
+  "nominatim:street:13244 e marble dr:85375": {
+    "retryAfter": 1796328174989
+  },
   "nominatim:street:15545 e palisades blvd:85268": {
     "retryAfter": 1795962950448
   },
@@ -64,6 +67,26 @@
     "lng": -112.2915,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:10864 n 127th pl:85259": {
+    "lat": 33.5850895,
+    "lng": -111.8062681,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:11527 w mountain lion ct:85378": {
+    "lat": 33.649121,
+    "lng": -112.3082825,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:11844 n cherry hills dr e:85351": {
+    "lat": 33.592237,
+    "lng": -112.289071,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:13244 e marble dr:85375": {
+    "lat": 33.661945,
+    "lng": -112.341456,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:14413 w via tercero:85375": {
     "lat": 33.691199,
     "lng": -112.3718039,
@@ -74,10 +97,20 @@
     "lng": -111.8144454,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:15295 w amelia dr:85395": {
+    "lat": 33.4927575,
+    "lng": -112.3882366,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:15545 e palisades blvd:85268": {
     "lat": 33.608321,
     "lng": -111.744466,
     "basis": "Public listing map: EstateSales.net"
+  },
+  "street:15605 n cameo dr:85351": {
+    "lat": 33.624818,
+    "lng": -112.2623812,
+    "basis": "OpenStreetMap Nominatim"
   },
   "street:19859 n 86th ave:85382": {
     "lat": 33.665981,
@@ -154,6 +187,11 @@
     "lng": -112.2692005,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:85013": {
+    "lat": 33.5064348,
+    "lng": -112.08397,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:85021": {
     "lat": 33.5618763,
     "lng": -112.092873,
@@ -172,6 +210,11 @@
   "zip:85035": {
     "lat": 33.4725018,
     "lng": -112.1895263,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:85085": {
+    "lat": 33.7545497,
+    "lng": -112.1057011,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:85087": {

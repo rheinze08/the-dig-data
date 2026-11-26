@@ -45,6 +45,9 @@
   "nominatim:street:13402 montview dr:78732": {
     "retryAfter": 1795828717411
   },
+  "nominatim:street:13813 field spar dr:78653": {
+    "retryAfter": 1796328008927
+  },
   "nominatim:street:13813 field spar dr:manor": {
     "retryAfter": 1796050577036
   },
@@ -74,6 +77,9 @@
   },
   "nominatim:street:310 wildcat hollow dr near roland ln:kyle": {
     "retryAfter": 1796158819355
+  },
+  "nominatim:street:3333 co rd 119:78634": {
+    "retryAfter": 1796328010080
   },
   "nominatim:street:3403 toro cayon rd:78746": {
     "retryAfter": 1795828710578
@@ -136,6 +142,11 @@
   "street:13402 montview dr:78732": {
     "lat": 30.38114,
     "lng": -97.904018,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:13813 field spar dr:78653": {
+    "lat": 30.35601,
+    "lng": -97.542736,
     "basis": "Public listing map: EstateSales.net"
   },
   "street:14310 echo bluff:78737": {
@@ -258,6 +269,11 @@
     "lng": -97.4144112,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:6848 la concha pass:78749": {
+    "lat": 30.226483,
+    "lng": -97.8773095,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:711 texas dr:georgetown": {
     "lat": 30.7235993,
     "lng": -97.7154527,
@@ -276,6 +292,11 @@
   "street:900 e 53 1 2 st:78751": {
     "lat": 30.3138018,
     "lng": -97.7148071,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:sand creek rd:78613": {
+    "lat": 30.519594,
+    "lng": -97.796052,
     "basis": "Public listing map: EstateSales.net"
   },
   "zip:76574": {
@@ -301,6 +322,11 @@
   "zip:78620": {
     "lat": 30.2632645,
     "lng": -98.0625619,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78628": {
+    "lat": 30.6503176,
+    "lng": -97.7461703,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:78634": {

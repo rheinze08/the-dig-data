@@ -116,8 +116,8 @@
       }
     }
   },
-  "0b5aaa0aea070799": {
-    "firstSeen": "2026-11-23T15:01:01.473Z"
+  "0d059f7a68411d22": {
+    "firstSeen": "2026-11-26T20:06:15.352Z"
   },
   "0e3923317af8002b": {
     "firstSeen": "2026-11-24T14:27:40.881Z",
@@ -627,6 +627,9 @@
   "41baec236ef58785": {
     "firstSeen": "2026-11-26T14:29:40.495Z"
   },
+  "421d3c23be16038d": {
+    "firstSeen": "2026-11-26T20:06:15.352Z"
+  },
   "4245cae12f1d6ea5": {
     "firstSeen": "2026-11-24T21:05:26.139Z"
   },
@@ -635,6 +638,9 @@
   },
   "44781583afdd37a6": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
+  },
+  "449678f3d3fa78ef": {
+    "firstSeen": "2026-11-26T20:06:15.352Z"
   },
   "464c5d9f72f14531": {
     "firstSeen": "2026-11-24T14:27:40.881Z",
@@ -655,9 +661,6 @@
         "contentsLine": "Tools, furniture, collectibles, kitchen and clothing."
       }
     }
-  },
-  "46fe67df2ea66b0a": {
-    "firstSeen": "2026-11-23T15:01:01.473Z"
   },
   "489357ee83656c06": {
     "firstSeen": "2026-11-23T22:27:42.933Z",
@@ -1072,10 +1075,12 @@
         "photoKeywords": [
           "furniture",
           "kitchen",
+          "books",
           "art",
-          "mirrors"
+          "mirrors",
+          "christmas decor"
         ],
-        "contentsLine": "Furniture, kitchen, art and mirrors."
+        "contentsLine": "Furniture, kitchen, books, art and mirrors."
       }
     }
   },
@@ -1118,6 +1123,9 @@
         "contentsLine": "Furniture, jewelry, collectibles, art and figurines."
       }
     }
+  },
+  "79ea8c12d3fb6cab": {
+    "firstSeen": "2026-11-26T20:06:15.352Z"
   },
   "7b3e47ac502b0e48": {
     "firstSeen": "2026-11-25T14:28:12.158Z",
@@ -1226,9 +1234,11 @@
     "originals": {
       "austin": {
         "photoKeywords": [
-          "books"
+          "collectibles",
+          "books",
+          "comics"
         ],
-        "contentsLine": "Books."
+        "contentsLine": "Collectibles, books and comics."
       }
     }
   },
@@ -1386,6 +1396,9 @@
       }
     }
   },
+  "9f5f9f319298536d": {
+    "firstSeen": "2026-11-26T20:06:15.352Z"
+  },
   "a0cf9e9504b3a5ee": {
     "firstSeen": "2026-11-22T18:18:35.063Z",
     "originals": {
@@ -1462,6 +1475,9 @@
   },
   "a89e96b3ca5398f1": {
     "firstSeen": "2026-11-26T14:29:40.495Z"
+  },
+  "aaf826e5fb400b27": {
+    "firstSeen": "2026-11-26T20:06:15.352Z"
   },
   "abe1efb96c3f898e": {
     "firstSeen": "2026-11-22T18:18:35.063Z",
@@ -1571,6 +1587,9 @@
   "b99d78f12d5f1c32": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
+  "b9af900b647274b9": {
+    "firstSeen": "2026-11-26T20:06:15.352Z"
+  },
   "bb3486a7096df173": {
     "firstSeen": "2026-11-22T18:18:35.063Z",
     "originals": {
@@ -1612,9 +1631,6 @@
         "contentsLine": "Electronics."
       }
     }
-  },
-  "bf66c12a4e95c9a3": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "c0420bbe0c6f9d01": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -1764,25 +1780,16 @@
     "originals": {
       "dallas-fort-worth": {
         "photoKeywords": [
-          "furniture",
-          "jewelry",
-          "vehicles",
-          "kitchen",
           "clothing",
           "books",
-          "art",
           "electronics",
-          "toys & games",
-          "china"
+          "toys & games"
         ],
-        "contentsLine": "Furniture, jewelry, vehicles, kitchen and clothing."
+        "contentsLine": "Clothing, books, electronics and toys & games."
       }
     }
   },
   "cf771fca93be4e7c": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
-  },
-  "d0c6bdf31800b6d7": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "d2148aeee441b44f": {
@@ -1950,6 +1957,9 @@
   },
   "ee3eaedc0d2cbf88": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
+  },
+  "ee7badee79a168cc": {
+    "firstSeen": "2026-11-26T20:06:15.352Z"
   },
   "ef7ceb2de0d54b72": {
     "firstSeen": "2026-11-26T14:29:40.495Z"

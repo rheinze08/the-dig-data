@@ -43,6 +43,9 @@
   "nominatim:street:109 a janis st:76009": {
     "retryAfter": 1795828525865
   },
+  "nominatim:street:10925 massey rd:76258": {
+    "retryAfter": 1796327952153
+  },
   "nominatim:street:1137 conveyor ln unit 114:75237": {
     "retryAfter": 1795828565625
   },
@@ -51,6 +54,9 @@
   },
   "nominatim:street:11830 duxbury:75218": {
     "retryAfter": 1795828579883
+  },
+  "nominatim:street:1210 old mill rd:75069": {
+    "retryAfter": 1796327951057
   },
   "nominatim:street:12633 e fm 917:76009": {
     "retryAfter": 1795888484363
@@ -91,6 +97,9 @@
   "nominatim:street:2107 higgens dr:76117": {
     "retryAfter": 1795828555545
   },
+  "nominatim:street:2112 lipscomb st ft worth:76110": {
+    "retryAfter": 1796327954480
+  },
   "nominatim:street:2167 b southern pl near carmel:carrolton": {
     "retryAfter": 1795888486530
   },
@@ -106,8 +115,14 @@
   "nominatim:street:3217 green ridge near willowview:desoto": {
     "retryAfter": 1795828603001
   },
+  "nominatim:street:3405 w evelyne dr:75098": {
+    "retryAfter": 1796327947762
+  },
   "nominatim:street:3585 cr 338:75454": {
     "retryAfter": 1795828552255
+  },
+  "nominatim:street:4223 oak springs dr:76017": {
+    "retryAfter": 1796327944491
   },
   "nominatim:street:4403 harbinger dr near galloway:mesquite": {
     "retryAfter": 1796307762515
@@ -132,6 +147,9 @@
   },
   "nominatim:street:5600 egg farm rd unit 430:76244": {
     "retryAfter": 1795828517025
+  },
+  "nominatim:street:5869 myra dr:76063": {
+    "retryAfter": 1796327949964
   },
   "nominatim:street:5901 royalcrest dr:76017": {
     "retryAfter": 1795828581885
@@ -178,6 +196,11 @@
     "lng": -97.209142,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:10925 massey rd:76258": {
+    "lat": 33.367483,
+    "lng": -96.972352,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:1137 conveyor ln unit 114:75237": {
     "lat": 32.806064,
     "lng": -96.856081,
@@ -196,6 +219,11 @@
   "street:11830 duxbury:75218": {
     "lat": 32.855619,
     "lng": -96.698134,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:1210 old mill rd:75069": {
+    "lat": 33.162669,
+    "lng": -96.60475,
     "basis": "Public listing map: EstateSales.net"
   },
   "street:12114 shiremont dr:75230": {
@@ -226,6 +254,16 @@
   "street:1310 briarmeade dr:duncanville": {
     "lat": 32.6310642,
     "lng": -96.9391299,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1315 mozingo st:76209": {
+    "lat": 33.2255791,
+    "lng": -97.1104811,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:13342 mount castle dr:75234": {
+    "lat": 32.9270131,
+    "lng": -96.8699701,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:14620 waterview cir:addison": {
@@ -313,6 +351,11 @@
     "lng": -96.8849473,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:19 maxwell ln:75094": {
+    "lat": 33.032185,
+    "lng": -96.6080399,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:1908 baylor dr:75081": {
     "lat": 32.9317246,
     "lng": -96.6877199,
@@ -358,6 +401,11 @@
     "lng": -97.285769,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:2112 lipscomb st ft worth:76110": {
+    "lat": 32.692984,
+    "lng": -97.359713,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:212 timber lake dr:76092": {
     "lat": 32.9390208,
     "lng": -97.1633392,
@@ -381,6 +429,11 @@
   "street:2211 canterbury dr:76063": {
     "lat": 32.590178,
     "lng": -97.102601,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2223 monitor st:75207": {
+    "lat": 32.79774,
+    "lng": -96.834269,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:2316 english cir:75041": {
@@ -413,6 +466,11 @@
     "lng": -97.0631559,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:3019 woodford dr:76013": {
+    "lat": 32.7267446,
+    "lng": -97.1591698,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:3031 plaudit pl:75229": {
     "lat": 32.881257,
     "lng": -96.8736496,
@@ -431,6 +489,11 @@
   "street:3205 watley:75043": {
     "lat": 32.878625,
     "lng": -96.616802,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:3405 w evelyne dr:75098": {
+    "lat": 33.0379914,
+    "lng": -96.5921827,
     "basis": "Public listing map: EstateSales.net"
   },
   "street:3501 barber creek ct:76244": {
@@ -458,9 +521,19 @@
     "lng": -97.3729967,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:3908 cross bend rd:75023": {
+    "lat": 33.0491797,
+    "lng": -96.7685031,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:4002 commonwealth dr:75043": {
     "lat": 32.8684859,
     "lng": -96.6153066,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:406 san pedro dr:75051": {
+    "lat": 32.7181988,
+    "lng": -97.0013434,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:4109 cooper creek rd:76208": {
@@ -473,9 +546,24 @@
     "lng": -97.3820602,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:4223 oak springs dr:76017": {
+    "lat": 32.680275,
+    "lng": -97.181046,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:4413 el campo ave:76107": {
     "lat": 32.7363656,
     "lng": -97.3847287,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4436 beverly dr:75205": {
+    "lat": 32.8322505,
+    "lng": -96.8112032,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4601 hawkins cemetery rd:76017": {
+    "lat": 32.6725917,
+    "lng": -97.1960532,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:4616 brook meadow ln:75093": {
@@ -487,6 +575,16 @@
     "lat": 32.938712,
     "lng": -96.828842,
     "basis": "Public listing map: EstateSales.net"
+  },
+  "street:4821 bellflower way:76123": {
+    "lat": 32.6256668,
+    "lng": -97.3968186,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4829 overton woods dr:76109": {
+    "lat": 32.7009957,
+    "lng": -97.3977543,
+    "basis": "OpenStreetMap Nominatim"
   },
   "street:4843 fallon pl:75227": {
     "lat": 32.7842086,
@@ -558,6 +656,11 @@
     "lng": -97.2328882,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:5869 myra dr:76063": {
+    "lat": 32.6128521,
+    "lng": -97.2170639,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:5901 royalcrest dr:76017": {
     "lat": 32.650235,
     "lng": -97.131658,
@@ -576,6 +679,11 @@
   "street:601 rhonda rd:76248": {
     "lat": 32.942432,
     "lng": -97.2149905,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:6401 lorraine park:76034": {
+    "lat": 32.901918,
+    "lng": -97.17935,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:678 cr 1110:76234": {

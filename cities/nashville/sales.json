@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-26",
-  "collectedAt": "2026-11-26T14:29:40.484Z",
+  "collectedAt": "2026-11-26T20:06:15.344Z",
   "window": {
     "start": "2026-11-26",
     "end": "2026-12-09",
@@ -14,8 +14,8 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 39/40 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
-      "candidates": 24,
+      "detail": "Read the public sale sitemap. Checked 40/41 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
+      "candidates": 25,
       "included": 18
     },
     "EstateSales.org": {
@@ -31,18 +31,18 @@
       "included": 0
     },
     "GSALR.com": {
-      "status": "blocked",
-      "detail": "https://gsalr.com/garage-sales-nashville-tn.html — HTTP 403 Forbidden",
+      "status": "partial",
+      "detail": "https://gsalr.com/garage-sales-nashville-tn.html — directory readable, estate listing details unverified",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 29,
+    "candidates": 30,
     "listings": 23,
-    "sales": 19,
-    "duplicates": 4,
-    "outsideRadius": 6,
+    "sales": 18,
+    "duplicates": 5,
+    "outsideRadius": 7,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -52,11 +52,11 @@
       "id": "1b38ea8e75acdabd",
       "title": "Berry Hill Black Friday Sale - Phase 2",
       "company": "Estate Greats",
-      "streetAddress": null,
+      "streetAddress": "644 West Iris Dr",
       "city": "Nashville",
       "state": "TN",
       "zip": "37204",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -108,9 +108,9 @@
         "tools, furniture and vinyl & records in the listing",
         "runs 3 days"
       ],
-      "lat": 36.1151393,
-      "lng": -86.7771901,
-      "approximate": true,
+      "lat": 36.114527,
+      "lng": -86.768837,
+      "approximate": false,
       "photoKeywords": [
         "backgammon game",
         "ram sculpture",
@@ -127,11 +127,11 @@
       "id": "1f717a8402c14936",
       "title": "Black Friday Sale",
       "company": "Shorty’s Garage Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "100 Lakecrest Circle",
       "city": "Hendersonville",
       "state": "TN",
       "zip": "37075",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -179,9 +179,9 @@
         "furniture, vinyl & records and collectibles in the listing",
         "runs 3 days"
       ],
-      "lat": 36.3150086,
-      "lng": -86.6090316,
-      "approximate": true,
+      "lat": 36.269259,
+      "lng": -86.631549,
+      "approximate": false,
       "photoKeywords": [
         "leg lamp",
         "dining table",
@@ -196,11 +196,11 @@
       "id": "fa72b61fd680f41d",
       "title": "Packed Franklin Estate Sale - Carters Creek!!",
       "company": "New Life Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "2096 Carters Creek",
       "city": "Franklin",
       "state": "TN",
       "zip": "37064",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -247,9 +247,9 @@
         "694 photos",
         "runs 3 days"
       ],
-      "lat": 35.9062737,
-      "lng": -86.8682941,
-      "approximate": true,
+      "lat": 35.883949,
+      "lng": -86.934142,
+      "approximate": false,
       "photoKeywords": [
         "computer monitor",
         "desktop tower",
@@ -267,11 +267,11 @@
       "id": "182c1ecab61a6e28",
       "title": "Upscale Multi-Million Dollar Forrest Hills Estate Sale!",
       "company": "New Life Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "1727 Kingsbury Dr",
       "city": "Nashville",
       "state": "TN",
       "zip": "37215",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -312,9 +312,9 @@
       "ratingReasons": [
         "291 photos"
       ],
-      "lat": 36.0975857,
-      "lng": -86.8212725,
-      "approximate": true,
+      "lat": 36.0475734,
+      "lng": -86.8408025,
+      "approximate": false,
       "photoKeywords": [
         "stemware",
         "glass pitchers",
@@ -1101,55 +1101,6 @@
     },
     {
       "id": "75ff60faba785a04",
-      "title": "SUPER WEST MEADE ESTATE SALE!!",
-      "company": "ESTATE SALES BY SHEILA",
-      "streetAddress": null,
-      "city": "Nashville",
-      "state": "TN",
-      "zip": "37221",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-12-05",
-          "start": "08:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-12-06",
-          "start": "08:00",
-          "end": "17:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tn/nashville/37221/super-west-meade-estate-sale-2471422"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(615) 202-8401",
-      "contactUrl": "https://estatesales.org/estate-sale-companies/estate-sales-by-sheila-8929",
-      "photoCount": 1,
-      "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2471422-9heoktknx2irnahy.webp"
-      ],
-      "digRating": "Worth a Look",
-      "ratingReasons": [
-        "furniture, kitchen and art in the listing"
-      ],
-      "lat": 36.0663164,
-      "lng": -86.9456557,
-      "approximate": true,
-      "photoKeywords": [
-        "street scene art",
-        "bell tower artwork",
-        "gold-tone picture frames"
-      ],
-      "contentsLine": "A gold-tone frame surrounds a street scene with pink buildings and a bell tower.",
-      "photoRead": true
-    },
-    {
-      "id": "46fe67df2ea66b0a",
       "title": "SUPER WEST MEADE ESTATE SALE!!!",
       "company": "Estate Sales By Sheila",
       "streetAddress": null,
@@ -1171,6 +1122,10 @@
       ],
       "sources": [
         {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tn/nashville/37221/super-west-meade-estate-sale-2471422"
+        },
+        {
           "name": "EstateSales.net",
           "url": "https://www.estatesales.net/TN/Nashville/37205/5142771"
         }
@@ -1178,23 +1133,24 @@
       "categories": [],
       "contactPhone": "(615) 202-8401",
       "contactUrl": "https://estatesalesbysheila.com/",
-      "photoCount": 0,
+      "photoCount": 1,
+      "photoUrls": [
+        "https://eso-cdn.tlcdn.workers.dev/s-2471422-9heoktknx2irnahy.webp"
+      ],
       "digRating": "Worth a Look",
       "ratingReasons": [
         "furniture, kitchen and books in the listing"
       ],
-      "photoKeywords": [
-        "furniture",
-        "kitchen",
-        "books",
-        "art",
-        "mirrors",
-        "christmas decor"
-      ],
-      "contentsLine": "Furniture, kitchen, books, art and mirrors.",
       "lat": 36.1166075,
       "lng": -86.8559033,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "street scene art",
+        "bell tower artwork",
+        "gold-tone picture frames"
+      ],
+      "contentsLine": "A gold-tone frame surrounds a street scene with pink buildings and a bell tower.",
+      "photoRead": true
     },
     {
       "id": "8142ed7cca66908e",

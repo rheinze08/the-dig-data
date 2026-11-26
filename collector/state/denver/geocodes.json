@@ -14,8 +14,16 @@
     "lng": -104.985181,
     "basis": "OpenStreetMap Nominatim"
   },
+  "nominatim:street:12795 home farm dr:80234": {
+    "retryAfter": 1796328321181
+  },
   "nominatim:street:8040 e dartmouth:80231": {
     "retryAfter": 1796050805530
+  },
+  "street:12795 home farm dr:80234": {
+    "lat": 39.926771,
+    "lng": -105.002336,
+    "basis": "Public listing map: EstateSales.net"
   },
   "street:1565 wadsworth blvd:lakewood": {
     "lat": 39.7417411,
@@ -25,6 +33,16 @@
   "street:1862 wadsworth blvd:80214": {
     "lat": 39.7463655,
     "lng": -105.081267,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:362 s 14th ave:80601": {
+    "lat": 39.9804928,
+    "lng": -104.8039086,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4054 s poplar way:80237": {
+    "lat": 39.6429852,
+    "lng": -104.90464,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:6080 w 92nd ave:80031": {

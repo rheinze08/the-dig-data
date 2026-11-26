@@ -31,6 +31,9 @@
   "nominatim:street:13811 belgrave way near laramie hill:live oak": {
     "retryAfter": 1795828869213
   },
+  "nominatim:street:162 marlena:78213": {
+    "retryAfter": 1796328076807
+  },
   "nominatim:street:200 chattington:78213": {
     "retryAfter": 1795828835091
   },
@@ -114,6 +117,11 @@
     "lng": -98.340268,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:162 marlena:78213": {
+    "lat": 29.509157,
+    "lng": -98.538474,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:16506 martins ferry:78247": {
     "lat": 29.5882867,
     "lng": -98.3608918,
@@ -134,6 +142,11 @@
     "lng": -98.4264045,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:2157 manor dr:78155": {
+    "lat": 29.559326,
+    "lng": -98.0161721,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:2207 estate gate dr:78260": {
     "lat": 29.6947823,
     "lng": -98.47273609999999,
@@ -142,6 +155,11 @@
   "street:2311 copper ash:78232": {
     "lat": 29.6012297,
     "lng": -98.4559461,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2314 oak castle:78232": {
+    "lat": 29.5721912,
+    "lng": -98.4564283,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:2345 appellation:78132": {

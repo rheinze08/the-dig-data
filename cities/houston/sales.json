@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-26",
-  "collectedAt": "2026-11-26T14:20:15.382Z",
+  "collectedAt": "2026-11-26T19:56:29.501Z",
   "window": {
     "start": "2026-11-26",
     "end": "2026-12-09",
@@ -16,19 +16,19 @@
       "status": "reached",
       "detail": "Read the public sale sitemap. Checked 34/34 local candidate details.",
       "candidates": 21,
-      "included": 15
+      "included": 16
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 20 Houston directory cards over 1 pages. Checked 0/0 in-person local candidate details.",
+      "detail": "Read 22 Houston directory cards over 2 pages. Checked 0/0 in-person local candidate details.",
       "candidates": 0,
       "included": 0
     },
     "EstateSale.com": {
-      "status": "partial",
-      "detail": "23 directory listings discovered; 4 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/912310.html — Incapsula challenge in HTTP 200 response",
-      "candidates": 4,
-      "included": 1
+      "status": "blocked",
+      "detail": "https://www.estatesale.com/cities/view/1363/Estate-Sales-Friendswood-TX.html — Incapsula challenge in HTTP 200 response",
+      "candidates": 0,
+      "included": 0
     },
     "Craigslist Houston": {
       "status": "reached",
@@ -37,18 +37,18 @@
       "included": 0
     },
     "GSALR.com": {
-      "status": "blocked",
-      "detail": "https://gsalr.com/garage-sales-friendswood-tx.html — HTTP 403 Forbidden",
+      "status": "partial",
+      "detail": "https://gsalr.com/garage-sales-friendswood-tx.html — directory readable, estate listing details unverified",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 25,
+    "candidates": 21,
     "listings": 16,
     "sales": 16,
     "duplicates": 0,
-    "outsideRadius": 9,
+    "outsideRadius": 5,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -58,11 +58,11 @@
       "id": "1cccbc7f7587ad02",
       "title": "Estate Sale",
       "company": null,
-      "streetAddress": null,
+      "streetAddress": "815 Yale St",
       "city": "Houston",
       "state": "TX",
       "zip": "77007",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -100,19 +100,19 @@
         "toys & games"
       ],
       "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
-      "lat": 29.7707517,
-      "lng": -95.4024696,
-      "approximate": true
+      "lat": 29.785494,
+      "lng": -95.3989737,
+      "approximate": false
     },
     {
       "id": "510a1b9fb19e4d83",
       "title": "Estate Sale by Family Tree Estates",
       "company": "Family Tree Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "806 D Anders Ln.",
       "city": "Kemah",
       "state": "TX",
       "zip": "77565",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -173,19 +173,19 @@
         "christmas decor"
       ],
       "contentsLine": "Tools, furniture, collectibles, kitchen and books.",
-      "lat": 29.5411706,
-      "lng": -95.0295891,
-      "approximate": true
+      "lat": 29.5294257,
+      "lng": -95.0277954,
+      "approximate": false
     },
     {
       "id": "bb9090b41a98fa85",
       "title": "Estate Sale by Family Tree Estates",
       "company": "Family Tree Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "1002 Kemberton Dr.",
       "city": "Houston",
       "state": "TX",
       "zip": "77062",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -239,19 +239,19 @@
         "mirrors"
       ],
       "contentsLine": "Furniture, collectibles, kitchen, clothing and art.",
-      "lat": 29.5750991,
-      "lng": -95.1319716,
-      "approximate": true
+      "lat": 29.575215,
+      "lng": -95.1384762,
+      "approximate": false
     },
     {
       "id": "0125f0ba8c77affd",
       "title": "One House, Many Treasures!! A-multi estate sale",
       "company": "Soussan Estates",
-      "streetAddress": null,
+      "streetAddress": "6147 Carew",
       "city": "Houston",
       "state": "TX",
       "zip": "77074",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -312,19 +312,19 @@
         "antiques"
       ],
       "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
-      "lat": 29.6839743,
-      "lng": -95.5056867,
-      "approximate": true
+      "lat": 29.687206,
+      "lng": -95.500636,
+      "approximate": false
     },
     {
       "id": "60ec3b8089dbba26",
       "title": "THANKSGIVING PICKER ESTATE (Prices Given as we Go)",
       "company": "Family Tree Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "14435 Hwy.6",
       "city": "Santa Fe",
       "state": "TX",
       "zip": "77517",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -385,9 +385,85 @@
         "dolls"
       ],
       "contentsLine": "Furniture, collectibles, vehicles, kitchen and art.",
-      "lat": 29.3856773,
-      "lng": -95.1281039,
-      "approximate": true
+      "lat": 29.3836449,
+      "lng": -95.12197590000001,
+      "approximate": false
+    },
+    {
+      "id": "b9af900b647274b9",
+      "title": "The Heights Sale, Fantastic Furniture, Art, Glass, Jewelry, Sportcards, Comic Books & More",
+      "company": "Treasure Hunt Auction Co.",
+      "streetAddress": "1213 Oxford St",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77008",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77008/5170956"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "books"
+      ],
+      "contactPhone": "(713) 494-7221",
+      "contactUrl": "http://estatesales-auctions.com",
+      "photoCount": 176,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170956/1-1/388decd5-67d6-48ad-942b-24100b1afdb1.jpg",
+        "https://picturescdn.estatesales.net/5170956/1-1/cc6e5a2f-ca0a-4eba-9ad0-1245aa5fe0ec.jpg",
+        "https://picturescdn.estatesales.net/5170956/1-1/f0749cb9-9375-407a-88c5-0e2daa1f8d3c.jpg",
+        "https://picturescdn.estatesales.net/5170956/1-1/958bef3a-4c23-4705-8c5b-fa7c82807db8.jpg",
+        "https://picturescdn.estatesales.net/5170956/1-1/c2a3db8c-06f7-4d88-bf95-d35f891f2dee.jpg",
+        "https://picturescdn.estatesales.net/5170956/1-1/1e5688ca-4c90-4b77-92bb-7cf2cd085a37.jpg",
+        "https://picturescdn.estatesales.net/5170956/1-1/05066f01-66af-4dcd-ab6f-cca123340151.jpg",
+        "https://picturescdn.estatesales.net/5170956/1-1/07c0100e-465c-49b4-8a6f-8338fb864bed.jpg",
+        "https://picturescdn.estatesales.net/5170956/1-1/2fe72916-ac67-4228-9f13-32e2d2099013.jpg",
+        "https://picturescdn.estatesales.net/5170956/1-1/da28cb2b-9523-4c5f-b2a3-9a3e67515800.jpg",
+        "https://picturescdn.estatesales.net/5170956/1-1/86ad4c83-911d-4eee-850b-9bd756268d12.jpg",
+        "https://picturescdn.estatesales.net/5170956/1-1/f9ef5a89-47d6-4cf9-82c5-2205119e11eb.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "176 photos",
+        "furniture, jewelry and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "books",
+        "art",
+        "silver",
+        "watches",
+        "comics"
+      ],
+      "contentsLine": "Furniture, jewelry, collectibles, books and art.",
+      "lat": 29.7931089,
+      "lng": -95.3921467,
+      "approximate": false
     },
     {
       "id": "4de7ad57563e35d3",
@@ -455,46 +531,6 @@
       "lat": 29.7206266,
       "lng": -95.4207825,
       "approximate": true
-    },
-    {
-      "id": "0b5aaa0aea070799",
-      "title": "POST-THANKSGIVING ESTATE SALE Listing ID#: 912284",
-      "company": "Karacostas Estate Sale Services",
-      "streetAddress": "1019 Tiki Drive",
-      "city": "Tiki Island",
-      "state": "TX",
-      "zip": "77554",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-28",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-29",
-          "start": "10:00",
-          "end": "16:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSale.com",
-          "url": "https://www.estatesale.com/sales/view/912284.html"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "409-771-3544",
-      "contactUrl": "https://www.estatesale.com/companies/view/4812/Karacostas-Estate-Sale-Services.html",
-      "digRating": "Slim Pickings",
-      "ratingReasons": [
-        "no photo count from the source",
-        "few details in the listing"
-      ],
-      "photoKeywords": [],
-      "lat": 29.2973777,
-      "lng": -94.9118315,
-      "approximate": false
     },
     {
       "id": "2a7a411e458e6dad",

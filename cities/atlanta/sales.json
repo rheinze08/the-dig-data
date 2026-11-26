@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-26",
-  "collectedAt": "2026-11-26T14:28:11.228Z",
+  "collectedAt": "2026-11-26T20:04:44.347Z",
   "window": {
     "start": "2026-11-26",
     "end": "2026-12-09",
@@ -14,8 +14,8 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 93/93 local candidate details.",
-      "candidates": 51,
+      "detail": "Read the public sale sitemap. Checked 94/94 local candidate details.",
+      "candidates": 52,
       "included": 38
     },
     "EstateSales.org": {
@@ -31,18 +31,18 @@
       "included": 1
     },
     "GSALR.com": {
-      "status": "blocked",
-      "detail": "https://gsalr.com/garage-sales-atlanta-ga.html — HTTP 403 Forbidden",
+      "status": "partial",
+      "detail": "https://gsalr.com/garage-sales-atlanta-ga.html — directory readable, estate listing details unverified",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 60,
+    "candidates": 61,
     "listings": 46,
     "sales": 41,
     "duplicates": 5,
-    "outsideRadius": 14,
+    "outsideRadius": 15,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -550,7 +550,7 @@
       "categories": [],
       "contactPhone": "(404) 667-1614",
       "contactUrl": "https://www.estatesales.net/companies/GA/Canton/30115/21611",
-      "photoCount": 97,
+      "photoCount": 122,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5169804/1-1/017405fc-ae65-4d4b-877b-19cb0cd4a16e.jpg",
         "https://picturescdn.estatesales.net/5169804/1-1/63b46e98-e212-45e5-873f-e74c799003f1.jpg",
@@ -561,13 +561,13 @@
         "https://picturescdn.estatesales.net/5169804/1-1/229d4b08-59fb-4974-a718-3e403531b799.jpg",
         "https://picturescdn.estatesales.net/5169804/1-1/c8919264-d584-47e0-95eb-8636fea7a0ae.jpg",
         "https://picturescdn.estatesales.net/5169804/1-1/e02a354b-6daa-4966-bfe0-f8568f6edd6e.jpg",
-        "https://picturescdn.estatesales.net/5169804/1-1/98a8def9-90e6-4c6c-a65e-7b3efd9072f1.jpg",
-        "https://picturescdn.estatesales.net/5169804/1-1/70537ec7-1a89-4451-89fe-2631bb4d063a.jpg",
-        "https://picturescdn.estatesales.net/5169804/1-1/a75de27e-4df5-48b0-9eab-3f80216fe60f.jpg"
+        "https://picturescdn.estatesales.net/5169804/1-1/bcaacd4d-de65-4439-be1f-76c276473942.jpg",
+        "https://picturescdn.estatesales.net/5169804/1-1/258a472b-ea61-4746-b2ec-265f77a037c4.jpg",
+        "https://picturescdn.estatesales.net/5169804/1-1/05b7dce0-f665-40a7-ab66-19ba0667ebeb.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "97 photos",
+        "122 photos",
         "tools, jewelry and collectibles in the listing",
         "runs 3 days"
       ],
@@ -1512,15 +1512,25 @@
       "categories": [],
       "contactPhone": "(404) 974-7090",
       "contactUrl": "http://beeskneesestatesales.com/",
-      "photoCount": 1,
+      "photoCount": 248,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5173260/1-1/144621a7-bd26-4b11-bf9f-ec9ed4cb708c.jpg"
+        "https://picturescdn.estatesales.net/5173260/1-1/4368d709-9a08-4264-88d1-9abb7c9a14e6.jpg",
+        "https://picturescdn.estatesales.net/5173260/1-1/3682e86c-3053-4a03-82e0-ab112b703a2b.jpg",
+        "https://picturescdn.estatesales.net/5173260/1-1/98818c0d-b300-4982-a6aa-1ee95c293b23.jpg",
+        "https://picturescdn.estatesales.net/5173260/1-1/85ad6c2c-06bb-49e9-8563-fdefc52e4dd8.jpg",
+        "https://picturescdn.estatesales.net/5173260/1-1/d513c9ee-3718-4d5d-9475-54b9b1f5db91.jpg",
+        "https://picturescdn.estatesales.net/5173260/1-1/719cd41b-471e-4dbe-a847-183ffffaa341.jpg",
+        "https://picturescdn.estatesales.net/5173260/1-1/0d25fc81-e27c-4c2d-bd62-a51698b97f79.jpg",
+        "https://picturescdn.estatesales.net/5173260/1-1/1c624565-9601-46ce-9594-af3351f459c4.jpg",
+        "https://picturescdn.estatesales.net/5173260/1-1/7190a1d1-359c-4b53-9cc5-44eab51c12b5.jpg",
+        "https://picturescdn.estatesales.net/5173260/1-1/7fc50a99-5fca-4a3e-839b-7c8cb8664d5f.jpg",
+        "https://picturescdn.estatesales.net/5173260/1-1/3c4e60ed-2ea6-4560-8840-6c796e355a16.jpg",
+        "https://picturescdn.estatesales.net/5173260/1-1/c9292f08-c7f7-4a5a-9871-29aaa34ae925.jpg"
       ],
-      "digRating": "Slim Pickings",
+      "digRating": "Deep Dig",
       "ratingReasons": [
-        "runs 3 days",
-        "only 1 photo",
-        "few details in the listing"
+        "248 photos",
+        "runs 3 days"
       ],
       "photoKeywords": [],
       "lat": 33.8787605,

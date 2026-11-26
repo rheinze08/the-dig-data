@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-26",
-  "collectedAt": "2026-11-26T14:24:48.633Z",
+  "collectedAt": "2026-11-26T20:01:18.948Z",
   "window": {
     "start": "2026-11-26",
     "end": "2026-12-09",
@@ -14,9 +14,9 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 56/56 local candidate details.",
-      "candidates": 25,
-      "included": 19
+      "detail": "Read the public sale sitemap. Checked 58/58 local candidate details.",
+      "candidates": 27,
+      "included": 21
     },
     "EstateSales.org": {
       "status": "reached",
@@ -26,21 +26,21 @@
     },
     "Craigslist San Antonio": {
       "status": "reached",
-      "detail": "13 directory listings discovered; 1 in-window estate listings before radius filtering",
+      "detail": "15 directory listings discovered; 1 in-window estate listings before radius filtering",
       "candidates": 1,
       "included": 1
     },
     "GSALR.com": {
-      "status": "blocked",
-      "detail": "https://gsalr.com/garage-sales-san-antonio-tx.html — HTTP 403 Forbidden",
+      "status": "partial",
+      "detail": "https://gsalr.com/garage-sales-san-antonio-tx.html — directory readable, estate listing details unverified",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 28,
-    "listings": 20,
-    "sales": 20,
+    "candidates": 30,
+    "listings": 22,
+    "sales": 22,
     "duplicates": 0,
     "outsideRadius": 6,
     "unlocatedListings": 0
@@ -173,11 +173,11 @@
       "id": "a3e380a9b0a15a3d",
       "title": "#634: Sale of the Season!",
       "company": "A Better Estate Sale Co.",
-      "streetAddress": null,
+      "streetAddress": "2314 Oak Castle",
       "city": "San Antonio",
       "state": "TX",
       "zip": "78232",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -238,19 +238,19 @@
         "figurines"
       ],
       "contentsLine": "Tools, furniture, vinyl & records, collectibles and kitchen.",
-      "lat": 29.590754,
-      "lng": -98.4737638,
-      "approximate": true
+      "lat": 29.5721912,
+      "lng": -98.4564283,
+      "approximate": false
     },
     {
       "id": "4bc5fc63cacb8916",
       "title": "Dellview Estate Sale — A House Full of Finds",
       "company": null,
-      "streetAddress": null,
+      "streetAddress": "162 Marlena",
       "city": "San Antonio",
       "state": "TX",
       "zip": "78213",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -309,8 +309,84 @@
         "electronics"
       ],
       "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles.",
-      "lat": 29.5143913,
-      "lng": -98.5200298,
+      "lat": 29.509157,
+      "lng": -98.538474,
+      "approximate": false
+    },
+    {
+      "id": "79ea8c12d3fb6cab",
+      "title": "Groovy 1970s Estate Sale: Retro Furniture, Decor & Collectibles",
+      "company": "San Antonio Estate Sales LLC",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78239",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78239/5173539"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "collectibles"
+      ],
+      "contactPhone": "(210) 664-5050",
+      "contactUrl": "https://saesllc.com",
+      "photoCount": 306,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173539/1-1/8648fb25-fe33-47e5-81f1-86c9afa60801.jpg",
+        "https://picturescdn.estatesales.net/5173539/2-1/698e33c3-d578-49f2-94d6-40d2107587b1.jpg",
+        "https://picturescdn.estatesales.net/5173539/2-1/cce9f2c5-2133-480d-ba83-4687cbdbbf2c.jpg",
+        "https://picturescdn.estatesales.net/5173539/1-1/222e3e2e-0f06-4534-bd6d-0aac7423215e.jpg",
+        "https://picturescdn.estatesales.net/5173539/2-1/b53c81cc-9c36-4a5c-95bf-37f38758f294.jpg",
+        "https://picturescdn.estatesales.net/5173539/1-1/31ada19c-630c-4872-b44e-372f48016f70.jpg",
+        "https://picturescdn.estatesales.net/5173539/4-1/4c7c7593-201c-4b07-9d94-3032706bbb00.jpg",
+        "https://picturescdn.estatesales.net/5173539/1-1/26a6d23c-bd07-4516-85c5-50ee011f0bea.jpg",
+        "https://picturescdn.estatesales.net/5173539/1-1/83316f82-88cc-4f7a-a892-bb78313572ca.jpg",
+        "https://picturescdn.estatesales.net/5173539/1-1/8fc47002-34e8-41ec-9c27-231951eb31f3.jpg",
+        "https://picturescdn.estatesales.net/5173539/1-1/9d460f02-4894-4cd4-9cc6-b7280f667af3.jpg",
+        "https://picturescdn.estatesales.net/5173539/1-1/f08adc7e-9d0c-48ae-8912-31a73d219233.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "306 photos",
+        "tools, furniture and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "art",
+        "electronics",
+        "figurines",
+        "crystal"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, vehicles and kitchen.",
+      "lat": 29.5177775,
+      "lng": -98.3748987,
       "approximate": true
     },
     {
@@ -420,9 +496,24 @@
         "toys & games"
       ],
       "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78259/158639",
-      "photoCount": 0,
+      "photoCount": 232,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173416/1-1/da996de0-2a01-48a2-a3ad-6fccfca68752.jpg",
+        "https://picturescdn.estatesales.net/5173416/1-1/edf82350-6a6a-426e-8671-b1786a8d6eef.jpg",
+        "https://picturescdn.estatesales.net/5173416/1-1/15c5ff3c-8d6b-4f18-9ed1-d89968ff2cfd.jpg",
+        "https://picturescdn.estatesales.net/5173416/1-1/f972e9f0-2cc5-417e-8f55-61bb876a730b.jpg",
+        "https://picturescdn.estatesales.net/5173416/1-1/c271fe09-9c82-4b4a-b2c8-4ad95b33d4ac.jpg",
+        "https://picturescdn.estatesales.net/5173416/1-1/abc94d80-9f69-4b3d-8263-a05cbd7c915c.jpg",
+        "https://picturescdn.estatesales.net/5173416/1-1/41371e9b-196a-48dd-9777-427d67d65dae.jpg",
+        "https://picturescdn.estatesales.net/5173416/1-1/9cd64c50-b887-46da-a455-891c96e0f1e3.jpg",
+        "https://picturescdn.estatesales.net/5173416/1-1/ba39f9e6-5b92-497f-adca-54c758261031.jpg",
+        "https://picturescdn.estatesales.net/5173416/1-1/0ecc33b8-bb8e-4db4-a81c-681c6b129b65.jpg",
+        "https://picturescdn.estatesales.net/5173416/1-1/622f4d7a-b4cf-4f93-ae22-f134894b8183.jpg",
+        "https://picturescdn.estatesales.net/5173416/1-1/4868e92d-de8e-472f-a3e8-03b8a41562db.jpg"
+      ],
       "digRating": "Deep Dig",
       "ratingReasons": [
+        "232 photos",
         "tools, furniture and jewelry in the listing",
         "runs 4 days"
       ],
@@ -662,6 +753,59 @@
       ],
       "contentsLine": "Two floral sofas flank a coffee table. A framed mirror and a clock stand on the mantel above patterned pots.",
       "photoRead": true
+    },
+    {
+      "id": "0d059f7a68411d22",
+      "title": "Just in time for XMAS",
+      "company": "Estate Solutions",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78212",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:30",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:30",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:30",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78212/5173548"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "2106300035",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Cibolo/78108/37535",
+      "photoCount": 0,
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "vinyl & records, jewelry and clothing in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "vinyl & records",
+        "jewelry",
+        "clothing",
+        "books",
+        "electronics"
+      ],
+      "contentsLine": "Vinyl & records, jewelry, clothing, books and electronics.",
+      "lat": 29.461887,
+      "lng": -98.4941623,
+      "approximate": true
     },
     {
       "id": "2c0914ce4fcdc73f",
