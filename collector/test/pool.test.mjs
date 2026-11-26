@@ -211,6 +211,37 @@ test('across different ZIPs a title that only resembles the other stays a separa
   assert.equal(groups.length, 2);
 });
 
+test('a cross-post with both streets held merges across ZIPs on the same phone and days (Sheila, Nashville, 2026-11-26)', () => {
+  const sessions = days('2026-12-05', '2026-12-06');
+  const groups = groupSales([
+    org('sheila-1', {title: 'SUPER WEST MEADE ESTATE SALE!!', company: 'ESTATE SALES BY SHEILA', city: 'Nashville',
+      zip: '37221', contactPhone: '(615) 202-8401', sessions}),
+    net('sheila-2', {title: 'SUPER WEST MEADE ESTATE SALE!!!', company: 'Estate Sales By Sheila', city: 'Nashville',
+      zip: '37205', contactPhone: '615-202-8401', sessions}),
+  ]);
+  assert.equal(groups.length, 1);
+});
+
+test('both streets held across ZIPs stay separate without the same phone or the same days', () => {
+  const sessions = days('2026-12-05', '2026-12-06');
+  const base = {title: 'Super West Meade Estate Sale', company: 'Estate Sales By Sheila', city: 'Nashville'};
+  const noPhone = groupSales([
+    org('wm-1', {...base, zip: '37221', sessions}),
+    net('wm-2', {...base, zip: '37205', sessions}),
+  ]);
+  assert.equal(noPhone.length, 2);
+  const otherPhone = groupSales([
+    org('wm-3', {...base, zip: '37221', contactPhone: '615 202 8401', sessions}),
+    net('wm-4', {...base, zip: '37205', contactPhone: '615 555 0100', sessions}),
+  ]);
+  assert.equal(otherPhone.length, 2);
+  const otherDays = groupSales([
+    org('wm-5', {...base, zip: '37221', contactPhone: '615 202 8401', sessions}),
+    net('wm-6', {...base, zip: '37205', contactPhone: '615 202 8401', sessions: days('2026-12-05', '2026-12-07')}),
+  ]);
+  assert.equal(otherDays.length, 2);
+});
+
 test('two listings on one source stay two sales (Blue Moon, Austin, 2026-11-25)', () => {
   const sessions = days('2026-12-05', '2026-12-06');
   const groups = groupSales([
