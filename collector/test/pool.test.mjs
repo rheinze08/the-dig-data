@@ -148,3 +148,92 @@ test('a sale with no contact or photo signals merges without inventing them', ()
   assert.equal(sale.photoCount, null);
   assert.deepEqual(sale.photoUrls, []);
 });
+
+// The Dig MCP test of 2026-11-26 found these cross-posts published twice.
+// Each pair is one sale on EstateSales.net and EstateSales.org with the
+// company or the title written a little differently.
+const net = (url, over) => listing({source: {name: 'EstateSales.net', url: 'https://www.estatesales.net/' + url}, ...over});
+const org = (url, over) => listing({source: {name: 'EstateSales.org', url: 'https://estatesales.org/' + url}, ...over});
+const days = (...dates) => dates.map(date => ({date, start: '09:00', end: '15:00'}));
+
+test('real cross-posts whose company names differ merge (feeds 2026-11-25)', () => {
+  const pairs = [
+    ['Berry Hill Black Friday Sale - Phase 2', 'Estate Greats Estate Sales', 'Estate Greats', 'Nashville', '37204'],
+    ['Plano Remodeling Spectacular Black Friday Weekend', 'Treasures Once More, LLC',
+      'Treasures Once More Estate Sales', 'Plano', '75023'],
+    ['FULL HOUSE - PICKER’S DREAM ESTATE SALE! Vintage and Collectibles', 'Rapid Estate Sales / Auctions',
+      'Rapid Estate Sales / Auction', 'Conyers', '30094'],
+    ['Snellville Estate Sale | Antique Oak, Victorian Bedroom, Grandfather Clock & So Much More!',
+      'Top Shelf Estate Sales', 'Top Shelf & Co Realty & Estate Sales', 'Snellville', '30039'],
+  ];
+  for (const [title, orgCompany, netCompany, city, zip] of pairs) {
+    const sessions = days('2026-11-27', '2026-11-28', '2026-11-29');
+    const groups = groupSales([
+      org('a-' + zip, {title: '🏡 ' + title, company: orgCompany, city, zip, sessions}),
+      net('b-' + zip, {title, company: netCompany, city, zip, sessions}),
+    ]);
+    assert.equal(groups.length, 1, title);
+    assert.equal(mergeGroup(groups[0]).sources.length, 2, title);
+  }
+});
+
+test('the Denver Workbench to Wardrobe cross-post merges across holiday names and a split word', () => {
+  const sessions = days('2026-11-27', '2026-11-28');
+  const groups = groupSales([
+    net('denver-1', {title: 'Workbench to Wardrobe Thanksgiving Estate Sale', company: 'Front Porch Estate Sales',
+      city: 'Brighton', zip: '80601', sessions}),
+    org('denver-2', {title: 'From Work Bench To Wardrobe Black Friday Estate Sale', company: 'Front Porch Estate Sales',
+      city: 'Brighton', zip: '80601', sessions}),
+  ]);
+  assert.equal(groups.length, 1);
+});
+
+test('the Marietta cross-post merges when only the held listing shows a neighbouring ZIP', () => {
+  const sessions = days('2026-11-28', '2026-11-29');
+  const groups = groupSales([
+    net('marietta-1', {title: 'TIME CAPSULE IN MARIETTA!', company: 'B & B Estate Sales & Appraisals',
+      city: 'Marietta', zip: '30064', sessions}),
+    org('marietta-2', {title: 'TIME CAPSULE IN MARIETTA!!', company: 'B&B Estate Sales and Appraisals',
+      streetAddress: '690 Etowah Dr NE', city: 'Marietta', zip: '30060', sessions}),
+  ]);
+  assert.equal(groups.length, 1);
+  assert.equal(mergeGroup(groups[0]).streetAddress, '690 Etowah Dr NE');
+});
+
+test('across different ZIPs a title that only resembles the other stays a separate sale', () => {
+  const sessions = days('2026-11-28', '2026-11-29');
+  const groups = groupSales([
+    net('zip-1', {title: 'Time Capsule in Marietta - Tools', company: 'B & B Estate Sales', city: 'Marietta',
+      zip: '30064', sessions}),
+    org('zip-2', {title: 'Time Capsule in Marietta', company: 'B&B Estate Sales', streetAddress: '690 Etowah Dr NE',
+      city: 'Marietta', zip: '30060', sessions}),
+  ]);
+  assert.equal(groups.length, 2);
+});
+
+test('two listings on one source stay two sales (Blue Moon, Austin, 2026-11-25)', () => {
+  const sessions = days('2026-12-05', '2026-12-06');
+  const groups = groupSales([
+    net('austin-1', {title: 'Blue Moon Estate Sale in Spicewood at Balcones Village with MCM, fashion, art, furniture, and more!',
+      company: 'Blue Moon Estate Sales', city: 'Austin', zip: '78750', sessions}),
+    net('austin-2', {title: 'Blue Moon Estate Sale in Spicewood Estates', company: 'Blue Moon Estate Sales',
+      city: 'Austin', zip: '78750', sessions}),
+  ]);
+  assert.equal(groups.length, 2);
+});
+
+test('a short company key must match exactly, never as a prefix', () => {
+  const groups = groupSales([
+    net('bb-1', {title: 'Vintage Toys and Comics', company: 'B & B Estate Sales'}),
+    org('bb-2', {title: 'Vintage Toys and Comics', company: 'BB Collectibles'}),
+  ]);
+  assert.equal(groups.length, 2);
+});
+
+test('different businesses that share only filler words stay separate', () => {
+  const groups = groupSales([
+    net('co-1', {title: 'Vintage Toys and Comics', company: 'Estate Sales Co'}),
+    org('co-2', {title: 'Vintage Toys and Comics', company: 'Estate Sales LLC'}),
+  ]);
+  assert.equal(groups.length, 2);
+});

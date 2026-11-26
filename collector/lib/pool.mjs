@@ -27,8 +27,27 @@ export function streetKey(address) {
   return words(address?.replace(/#/g, ' unit ')).split(/\s+/).map(word => streetWords[word] ?? word).join(' ');
 }
 
+// Company names drift between sources: "Estate Greats" on one and "Estate
+// Greats Estate Sales" on the other, "Rapid Estate Sales / Auctions" against
+// "/ Auction", "Top Shelf Estate Sales" against "Top Shelf & Co Realty &
+// Estate Sales". The key keeps only the words that name the business.
+const companyFiller = new Set(['llc', 'inc', 'incorporated', 'co', 'company', 'corp', 'ltd', 'the', 'and',
+  'estate', 'estates', 'sale', 'sales', 'auction', 'auctions', 'appraisal', 'appraisals', 'realty',
+  'liquidation', 'liquidations', 'services', 'service', 'group']);
+
 function companyKey(company) {
-  return words(company).replace(/\b(?:llc|inc|incorporated)\b/g, '').replaceAll(' ', '');
+  return words(company).split(/\s+/).filter(word => word && !companyFiller.has(word)).join('');
+}
+
+// Same business: the keys agree, or one is the other with words added after
+// it ("topshelf" / "topshelfrealty"). A key of under four letters must agree
+// exactly, so "bb" never swallows "bbcollectibles".
+function sameCompany(left, right) {
+  const a = companyKey(left), b = companyKey(right);
+  if (!a || !b) return false;
+  if (a === b) return true;
+  const [short, long] = a.length <= b.length ? [a, b] : [b, a];
+  return short.length >= 4 && long.startsWith(short);
 }
 
 // One source can write a street name as two words where another writes one
@@ -57,19 +76,51 @@ function datesOverlap(left, right) {
   return aStart <= bEnd && bStart <= aEnd;
 }
 
-// Sale-title filler: words that say nothing about which sale this is.
+// Sale-title filler: words that say nothing about which sale this is. The
+// holiday a sale falls on is filler too: one source can call a sale its
+// "Thanksgiving Estate Sale" and the other its "Black Friday Estate Sale".
 const titleFiller = new Set(['estate', 'sale', 'sales', 'the', 'a', 'an', 'and', 'of', 'in', 'at', 'to', 'for',
-  'with', 'day', 'days', 'huge', 'big', 'massive', 'great', 'amazing', 'beautiful', 'wonderful', 'off',
+  'from', 'with', 'day', 'days', 'huge', 'big', 'massive', 'great', 'amazing', 'beautiful', 'wonderful', 'off',
   'everything', 'must', 'go', 'goes', 'this', 'weekend', 'only', 'more', 'plus', 'lots', 'lot', 'many',
-  'multi', 'family', 'moving', 'downsizing', 'liquidation', 'tag']);
+  'multi', 'family', 'moving', 'downsizing', 'liquidation', 'tag', 'thanksgiving', 'christmas', 'holiday',
+  'holidays']);
+const holidayPhrases = /\b(?:black friday|cyber monday|small business saturday|labor day|memorial day)\b/g;
+
+function titleWords(title) {
+  return words(title).replace(holidayPhrases, ' ').split(/\s+/).filter(word => word && !titleFiller.has(word));
+}
+
+// One title can write a word as two ("Work Bench") where the other writes it
+// as one ("Workbench"). Join two neighbouring words when the other title has
+// the joined word.
+function joinSplitWords(list, other) {
+  const out = [];
+  for (let i = 0; i < list.length; i++) {
+    if (i + 1 < list.length && other.has(list[i] + list[i + 1])) {
+      out.push(list[i] + list[i + 1]);
+      i++;
+    } else out.push(list[i]);
+  }
+  return new Set(out);
+}
+
+// Whether two titles name the same sale in the same meaningful words, once
+// filler, punctuation and split words are set aside. Needs at least two such
+// words, so "Estate Sale" against "Estate Sale" is never strong.
+function titlesSame(leftTitle, rightTitle) {
+  const leftList = titleWords(leftTitle), rightList = titleWords(rightTitle);
+  const left = joinSplitWords(leftList, new Set(rightList));
+  const right = joinSplitWords(rightList, left);
+  return left.size >= 2 && left.size === right.size && [...left].every(word => right.has(word));
+}
 
 // Whether two titles plausibly name the same sale: their meaningful words
 // mostly agree once filler and punctuation are dropped. Two titles that are
 // all filler ("Estate Sale") count as similar only when they are identical.
 export function titleSimilarity(leftTitle, rightTitle) {
-  const wordsOf = title => new Set(words(title).split(/\s+/).filter(word => word && !titleFiller.has(word)));
-  const left = wordsOf(leftTitle);
-  const right = wordsOf(rightTitle);
+  const leftList = titleWords(leftTitle), rightList = titleWords(rightTitle);
+  const left = joinSplitWords(leftList, new Set(rightList));
+  const right = joinSplitWords(rightList, left);
   if (!left.size || !right.size) return words(leftTitle) === words(rightTitle) && !!words(leftTitle);
   const shared = [...left].filter(word => right.has(word)).length;
   const jaccard = shared / (left.size + right.size - shared);
@@ -96,20 +147,32 @@ function sameStreetSale(left, right) {
 // addresses are two sales, even for one company on one weekend.
 function companyMatch(left, right) {
   if (left.streetAddress && right.streetAddress) return false;
-  const company = companyKey(left.company);
-  if (!company || company !== companyKey(right.company) || !datesOverlap(left, right)) return false;
-  if (differentZips(left, right)) return false;
+  if (!sameCompany(left.company, right.company) || !datesOverlap(left, right)) return false;
   const sameZip = left.zip && left.zip === right.zip;
   const sameCity = left.city && words(left.city) === words(right.city);
+  if (differentZips(left, right)) return sameCity && heldZipCrossPost(left, right);
   // Metro city and suburb names can differ for the same ZIP and one sale.
   if (!sameZip && !sameCity) return false;
   return titleSimilarity(left.title, right.title);
 }
 
+// A source that still holds the street can show a neighbouring ZIP, so the
+// held listing's ZIP may differ from the released one's ("TIME CAPSULE IN
+// MARIETTA!" sat in 30064 on EstateSales.net and at a 30060 street on
+// EstateSales.org, Atlanta feed 2026-11-25). Merge across the ZIPs only when
+// exactly one side has released its street and the titles are the same in
+// every meaningful word; the caller has already required the same company,
+// the same city and overlapping dates.
+function heldZipCrossPost(left, right) {
+  return !left.streetAddress !== !right.streetAddress && titlesSame(left.title, right.title);
+}
+
 function possibleCrossPost(leftGroup, rightGroup) {
-  if (leftGroup.some(left => rightGroup.some(right =>
-    left.source.name === right.source.name || differentZips(left, right)))) return false;
-  return leftGroup.some(left => rightGroup.some(right => companyMatch(left, right)));
+  if (leftGroup.some(left => rightGroup.some(right => left.source.name === right.source.name))) return false;
+  const zipClash = leftGroup.some(left => rightGroup.some(right => differentZips(left, right)));
+  if (!zipClash) return leftGroup.some(left => rightGroup.some(right => companyMatch(left, right)));
+  // Across different ZIPs every pair must pass, which only the held-ZIP rule allows.
+  return leftGroup.every(left => rightGroup.every(right => companyMatch(left, right)));
 }
 
 export function groupSales(records) {
