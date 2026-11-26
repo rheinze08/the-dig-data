@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T20:22:44.603Z",
+  "asOf": "2026-11-26",
+  "collectedAt": "2026-11-26T14:23:44.267Z",
   "window": {
-    "start": "2026-11-25",
-    "end": "2026-12-08",
+    "start": "2026-11-26",
+    "end": "2026-12-09",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,20 +14,20 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 37/37 local candidate details.",
-      "candidates": 14,
-      "included": 11
+      "detail": "Read the public sale sitemap. Checked 44/44 local candidate details.",
+      "candidates": 19,
+      "included": 14
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 11 Austin directory cards over 1 pages. Checked 3/3 in-person local candidate details.",
-      "candidates": 3,
+      "detail": "Read 12 Austin directory cards over 1 pages. Checked 4/4 in-person local candidate details.",
+      "candidates": 4,
       "included": 2
     },
     "Craigslist Austin": {
       "status": "reached",
-      "detail": "11 directory listings discovered; 2 in-window estate listings before radius filtering",
-      "candidates": 2,
+      "detail": "13 directory listings discovered; 3 in-window estate listings before radius filtering",
+      "candidates": 3,
       "included": 2
     },
     "GSALR.com": {
@@ -38,16 +38,77 @@
     }
   },
   "counts": {
-    "candidates": 19,
-    "listings": 15,
-    "sales": 14,
+    "candidates": 26,
+    "listings": 18,
+    "sales": 17,
     "duplicates": 1,
-    "outsideRadius": 4,
+    "outsideRadius": 6,
     "unlocatedListings": 0
   },
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
+    {
+      "id": "c63c4155990ed4f8",
+      "title": "3 Home Purge",
+      "company": null,
+      "streetAddress": null,
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78751",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "08:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "08:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "08:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78751/5172957"
+        }
+      ],
+      "categories": [],
+      "photoCount": 8,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172957/1-1/994c8844-20d5-4688-8f92-d9174b43d176.jpg",
+        "https://picturescdn.estatesales.net/5172957/1-1/9cf39a24-4088-4f19-957c-a3308f255314.jpg",
+        "https://picturescdn.estatesales.net/5172957/1-1/aa1e40e1-1b11-4aeb-be82-68012c88608b.jpg",
+        "https://picturescdn.estatesales.net/5172957/1-1/cd3aca7c-afe5-4bad-bd71-d6e3cb9017ad.jpg",
+        "https://picturescdn.estatesales.net/5172957/1-1/ac6438a5-1a25-4fe9-8ad4-a8f655b7ce37.jpg",
+        "https://picturescdn.estatesales.net/5172957/1-1/32382cf6-65bf-4a7d-9157-ff5ffcf82f3c.jpg",
+        "https://picturescdn.estatesales.net/5172957/1-1/b5114a57-139e-4142-97b8-39f84eb2feaa.jpg",
+        "https://picturescdn.estatesales.net/5172957/1-1/f2583576-c03d-4ba7-8944-77c2e7f8cc44.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "8 photos",
+        "tools, furniture and kitchen in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "kitchen",
+        "clothing"
+      ],
+      "contentsLine": "Tools, furniture, kitchen and clothing.",
+      "lat": 30.3107158,
+      "lng": -97.7235918,
+      "approximate": true
+    },
     {
       "id": "d0c6bdf31800b6d7",
       "title": "MASSIVE 6,000 SQ FT ESTATE MOVED TO HUTTO! 3 DAYS OF TREASURES!",
@@ -209,7 +270,7 @@
       "categories": [],
       "contactPhone": "(512) 203-4414",
       "contactUrl": "Https://www.atxbeyondestatesales.com",
-      "photoCount": 114,
+      "photoCount": 129,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5165844/1-1/ca113fd7-06b8-4c7a-83f6-8feac0539a52.jpg",
         "https://picturescdn.estatesales.net/5165844/1-1/3fb9df8a-644e-43f1-aef9-8f9a0fbbb6b1.jpg",
@@ -226,7 +287,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "114 photos",
+        "129 photos",
         "tools, jewelry and clothing in the listing",
         "runs 3 days"
       ],
@@ -343,10 +404,10 @@
       "categories": [],
       "contactPhone": "(737) 368-9977",
       "contactUrl": "https://www.estatesales.net/companies/TX/Austin/78748/172652",
-      "photoCount": 87,
+      "photoCount": 94,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5168253/1-1/716559d4-f4e1-45b1-9f31-2c8c55786cd3.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/93eba967-412c-407a-a2c4-da573fd7f42a.jpg",
+        "https://picturescdn.estatesales.net/5168253/1-1/716559d4-f4e1-45b1-9f31-2c8c55786cd3.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/ea150f65-9fa9-458f-b1ce-e60bd5c63d56.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/48eb0a05-8c7b-4af4-bf78-c89d69cc7815.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/9c6aa811-7992-4196-8fc3-819c5ca6627a.jpg",
@@ -360,11 +421,12 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "87 photos",
-        "jewelry, collectibles and clothing in the listing",
+        "94 photos",
+        "furniture, jewelry and collectibles in the listing",
         "runs 3 days"
       ],
       "photoKeywords": [
+        "furniture",
         "jewelry",
         "collectibles",
         "clothing",
@@ -374,7 +436,7 @@
         "silver",
         "coins"
       ],
-      "contentsLine": "Jewelry, collectibles, clothing, art and antiques.",
+      "contentsLine": "Furniture, jewelry, collectibles, clothing and art.",
       "lat": 30.1636136,
       "lng": -97.8277134,
       "approximate": true
@@ -712,6 +774,130 @@
       "approximate": true
     },
     {
+      "id": "ad56f6879c307adc",
+      "title": "Follow the Relic Road in Round Rock",
+      "company": "Relic Road Estate Sales",
+      "streetAddress": null,
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78717",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78717/5173257"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(512) 660-2269",
+      "contactUrl": "http://www.relicroadtx.com",
+      "photoCount": 291,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173257/1-1/9a36fc5a-96ef-472a-b6b7-0278fcfd9d56.jpg",
+        "https://picturescdn.estatesales.net/5173257/1-1/6bb5ca7c-aa0b-44b9-8ff2-5c9cec512ad6.jpg",
+        "https://picturescdn.estatesales.net/5173257/1-1/5ef6df89-3fe1-43c8-b942-876d53f013e2.jpg",
+        "https://picturescdn.estatesales.net/5173257/1-1/c015808f-a574-4bc8-9c80-2a447e83bb67.jpg",
+        "https://picturescdn.estatesales.net/5173257/1-1/76fcd673-0b52-4d19-b2c1-cfb5f00b58ad.jpg",
+        "https://picturescdn.estatesales.net/5173257/1-1/d3c5e7fb-4ca1-4ce7-95a5-1a9acfb42503.jpg",
+        "https://picturescdn.estatesales.net/5173257/1-1/f8e46bc9-d874-4ac3-a91b-13b22612a6b5.jpg",
+        "https://picturescdn.estatesales.net/5173257/1-1/5d965c93-0bfa-486a-ac1c-74385339b8b6.jpg",
+        "https://picturescdn.estatesales.net/5173257/1-1/c80030d9-abcb-459b-b5a1-1b453683194e.jpg",
+        "https://picturescdn.estatesales.net/5173257/1-1/409f3af7-66b8-4d83-88a0-534c15d9c6af.jpg",
+        "https://picturescdn.estatesales.net/5173257/1-1/78418e16-5dfc-46b3-894f-2223e01a4ad3.jpg",
+        "https://picturescdn.estatesales.net/5173257/1-1/f4cc04f0-419e-43a8-8794-ac00c66385da.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "291 photos"
+      ],
+      "photoKeywords": [],
+      "lat": 30.4886779,
+      "lng": -97.7734512,
+      "approximate": true
+    },
+    {
+      "id": "d2148aeee441b44f",
+      "title": "Tarrytown/Highland Park West",
+      "company": "Laura Kuykendall Estate Sales & Staging",
+      "streetAddress": null,
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78731",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78731/5170680"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(713) 385-5048",
+      "contactUrl": "https://www.laurakuykendalldesigns.com",
+      "photoCount": 94,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170680/1-1/d0a4fe3b-f6d1-4e47-b7a6-afdd72ba8c5a.jpg",
+        "https://picturescdn.estatesales.net/5170680/1-1/6d1f3d9f-b62f-49cb-9931-a362851e773a.jpg",
+        "https://picturescdn.estatesales.net/5170680/1-1/108b2ed4-0ca7-4a18-8032-32773496b5e5.jpg",
+        "https://picturescdn.estatesales.net/5170680/1-1/41c0b2a5-87c8-49e1-97f2-ff572a7299de.jpg",
+        "https://picturescdn.estatesales.net/5170680/1-1/787bfa7b-c5f6-432d-99b5-207e0250609a.jpg",
+        "https://picturescdn.estatesales.net/5170680/1-1/50c3ac33-978a-4ee1-92cf-ed4feb15f13e.jpg",
+        "https://picturescdn.estatesales.net/5170680/1-1/17a9d829-da3c-460f-bd5e-0b34c76ce051.jpg",
+        "https://picturescdn.estatesales.net/5170680/1-1/5f82ba13-c8df-48be-a641-968d05f24a17.jpg",
+        "https://picturescdn.estatesales.net/5170680/1-1/4bf35d73-3bc0-4497-9d67-c798ba0e98d9.jpg",
+        "https://picturescdn.estatesales.net/5170680/1-1/34fb8ca1-c657-466f-b638-941359b05013.jpg",
+        "https://picturescdn.estatesales.net/5170680/1-1/e4b4c89d-ee44-4415-959c-924a957dd6c5.jpg",
+        "https://picturescdn.estatesales.net/5170680/1-1/11d8b5e0-edfa-4cf2-b5d4-6eb081dea695.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "94 photos",
+        "furniture, kitchen and clothing in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "kitchen",
+        "clothing",
+        "art",
+        "antiques",
+        "lamps",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, kitchen, clothing, art and antiques.",
+      "lat": 30.3467547,
+      "lng": -97.7658512,
+      "approximate": true
+    },
+    {
       "id": "294679e620014b91",
       "title": "Plants, Golf Legends, Southwest Decor & Eclectic Finds! | Lakeway TX | More pics coming!",
       "company": "The Phoenix Phinds",
@@ -741,24 +927,24 @@
       "categories": [],
       "contactPhone": "(512) 971-5484",
       "contactUrl": "https://www.thephoenixphinds.com/",
-      "photoCount": 72,
+      "photoCount": 108,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5168523/1-1/dd99d141-4a40-4f5a-a36b-2201c120f041.jpg",
-        "https://picturescdn.estatesales.net/5168523/1-1/2f5d936f-fff8-4097-bc66-2e85ba560511.jpg",
-        "https://picturescdn.estatesales.net/5168523/1-1/5d695f96-3582-4da8-bd80-05274a6f522f.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/a1b700a4-667a-486e-8576-6dc03d6c5b40.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/4f4d3d4a-93ac-4cd7-a6ce-46098aed779f.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/79729617-9f5d-4148-bca1-6ef3da11bdc4.jpg",
         "https://picturescdn.estatesales.net/5168523/1-1/82d8b048-0858-42a0-b2e3-d98927615bee.jpg",
         "https://picturescdn.estatesales.net/5168523/1-1/a6368b2b-4614-4281-8b10-8fcf5fd95d74.jpg",
-        "https://picturescdn.estatesales.net/5168523/1-1/79729617-9f5d-4148-bca1-6ef3da11bdc4.jpg",
-        "https://picturescdn.estatesales.net/5168523/1-1/edc487ad-fc72-4426-ab5f-005dc5dcadf0.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/f7027535-0f0b-4deb-9f83-a63a88000738.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/56a4b036-bdb0-4aa8-b757-3e2814a091ec.jpg",
         "https://picturescdn.estatesales.net/5168523/1-1/989ac628-179e-4751-84ac-066a341580ec.jpg",
-        "https://picturescdn.estatesales.net/5168523/1-1/fe7a117c-4294-49ba-83cc-a7f29c1a1ddc.jpg",
-        "https://picturescdn.estatesales.net/5168523/1-1/5b21aa80-fa2c-4a08-aad2-7481cd0f3c9a.jpg",
-        "https://picturescdn.estatesales.net/5168523/1-1/c6f0563f-5bc6-42eb-9545-300a45f815b8.jpg",
-        "https://picturescdn.estatesales.net/5168523/1-1/653adb61-e58a-4a48-9986-2ca8795518da.jpg"
+        "https://picturescdn.estatesales.net/5168523/1-1/5435e1df-0474-4ecf-979f-6d9ecf5d9ba6.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/68ca2216-dde1-47a7-aa24-f3e877138c66.jpg",
+        "https://picturescdn.estatesales.net/5168523/1-1/6cc62129-0ed6-416e-9646-750a6d9c602f.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "72 photos",
+        "108 photos",
         "furniture, collectibles and kitchen in the listing"
       ],
       "lat": 30.3786162,

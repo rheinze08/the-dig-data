@@ -7,6 +7,14 @@
     "lng": -84.2396434,
     "basis": "OpenStreetMap Nominatim"
   },
+  "city:marietta": {
+    "lat": 33.952845,
+    "lng": -84.5496054,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "nominatim:street:1040 olde canter ct:marietta": {
+    "retryAfter": 1796308089836
+  },
   "nominatim:street:110 parc du chateau near n powers ferry:atl": {
     "retryAfter": 1795963156487
   },
@@ -15,6 +23,9 @@
   },
   "nominatim:street:12362 coldstream ct:30228": {
     "retryAfter": 1795963154533
+  },
+  "nominatim:street:1393 crooked tree ct:30047": {
+    "retryAfter": 1796308083548
   },
   "nominatim:street:1432 pineway dr:30329": {
     "retryAfter": 1795963105951
@@ -30,6 +41,9 @@
   },
   "nominatim:street:1810 greystone ct:30068": {
     "retryAfter": 1795963134766
+  },
+  "nominatim:street:183 johnson dupree ct:30102": {
+    "retryAfter": 1796308086714
   },
   "nominatim:street:2 lake shore plaza:30002": {
     "retryAfter": 1795963109393
@@ -118,14 +132,23 @@
   "nominatim:street:600 middlebrooke dr:30115": {
     "retryAfter": 1795963125722
   },
+  "nominatim:street:609 gold valley pass:30114": {
+    "retryAfter": 1796308089101
+  },
   "nominatim:street:711 trabert ave sw:30318": {
     "retryAfter": 1795963103705
+  },
+  "nominatim:street:7297 lee rd unit b:30122": {
+    "retryAfter": 1796308081229
   },
   "nominatim:street:74 saddle field cir:30121": {
     "retryAfter": 1795963131489
   },
   "nominatim:street:838 guinevere way sw:30047": {
     "retryAfter": 1795963137817
+  },
+  "nominatim:street:994 soaring way ne:30062": {
+    "retryAfter": 1796308083101
   },
   "street:102 woodfield ct:30269": {
     "lat": 33.4134328,
@@ -145,6 +168,21 @@
   "street:1200 to lani farm rd:30083": {
     "lat": 33.759799,
     "lng": -84.207532,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:122 brook trail:30265": {
+    "lat": 33.4581971,
+    "lng": -84.6647621,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:12460 pindell cir:30004": {
+    "lat": 34.0869477,
+    "lng": -84.3270952,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:1393 crooked tree ct:30047": {
+    "lat": 33.865074,
+    "lng": -84.07141,
     "basis": "Public listing map: EstateSales.net"
   },
   "street:1432 pineway dr:30329": {
@@ -175,6 +213,11 @@
   "street:1810 greystone ct:30068": {
     "lat": 33.9923301,
     "lng": -84.40013739999999,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:183 johnson dupree ct:30102": {
+    "lat": 34.088112,
+    "lng": -84.629387,
     "basis": "Public listing map: EstateSales.net"
   },
   "street:2 lake shore plaza:30002": {
@@ -317,9 +360,19 @@
     "lng": -84.43986559999999,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:609 gold valley pass:30114": {
+    "lat": 34.183171,
+    "lng": -84.560538,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:622 grassmeade way:30078": {
     "lat": 33.8958126,
     "lng": -84.0201002,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:6290 ga 54:30277": {
+    "lat": 33.3348462,
+    "lng": -84.6470944,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:6810 sunny brook ln ne:30328": {
@@ -342,6 +395,11 @@
     "lng": -84.411195,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:7297 lee rd unit b:30122": {
+    "lat": 33.776714,
+    "lng": -84.653648,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:74 saddle field cir:30121": {
     "lat": 34.255911,
     "lng": -84.83748,
@@ -361,6 +419,11 @@
     "lat": 33.7465867,
     "lng": -84.7478588,
     "basis": "OpenStreetMap Nominatim"
+  },
+  "street:994 soaring way ne:30062": {
+    "lat": 33.973393,
+    "lng": -84.510003,
+    "basis": "Public listing map: EstateSales.net"
   },
   "zip:30004": {
     "lat": 34.1115048,

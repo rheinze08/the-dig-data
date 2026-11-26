@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T20:28:09.394Z",
+  "asOf": "2026-11-26",
+  "collectedAt": "2026-11-26T14:29:40.484Z",
   "window": {
-    "start": "2026-11-25",
-    "end": "2026-12-08",
+    "start": "2026-11-26",
+    "end": "2026-12-09",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,13 +14,13 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 36/37 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
-      "candidates": 22,
-      "included": 17
+      "detail": "Read the public sale sitemap. Checked 39/40 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
+      "candidates": 24,
+      "included": 18
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 9 Nashville directory cards over 1 pages. Checked 9/9 in-person local candidate details.",
+      "detail": "Read 10 Nashville directory cards over 1 pages. Checked 10/10 in-person local candidate details.",
       "candidates": 5,
       "included": 5
     },
@@ -38,11 +38,11 @@
     }
   },
   "counts": {
-    "candidates": 27,
-    "listings": 22,
+    "candidates": 29,
+    "listings": 23,
     "sales": 19,
-    "duplicates": 3,
-    "outsideRadius": 5,
+    "duplicates": 4,
+    "outsideRadius": 6,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -50,60 +50,6 @@
   "sales": [
     {
       "id": "1b38ea8e75acdabd",
-      "title": "Berry Hill Black Friday Sale - Phase 2",
-      "company": "Estate Greats Estate Sales",
-      "streetAddress": null,
-      "city": "Nashville",
-      "state": "TN",
-      "zip": "37204",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "09:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "09:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-29",
-          "start": "10:00",
-          "end": "14:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tn/nashville/37204/berry-hill-black-friday-sale-2475373"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(615) 899-4222",
-      "contactUrl": "https://estatesales.org/estate-sale-companies/estate-greats-23125",
-      "photoCount": 1,
-      "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2475373-jh457p8bs0t1l831.webp"
-      ],
-      "digRating": "Slim Pickings",
-      "ratingReasons": [
-        "runs 3 days",
-        "only 1 photo",
-        "few details in the listing"
-      ],
-      "photoKeywords": [
-        "clothing",
-        "antiques"
-      ],
-      "contentsLine": "Clothing and antiques.",
-      "lat": 36.1151393,
-      "lng": -86.7771901,
-      "approximate": true
-    },
-    {
-      "id": "35e1c8a5a69629ad",
       "title": "Berry Hill Black Friday Sale - Phase 2",
       "company": "Estate Greats",
       "streetAddress": null,
@@ -124,11 +70,15 @@
         },
         {
           "date": "2026-11-29",
-          "start": "10:00",
-          "end": "14:00"
+          "start": "09:00",
+          "end": "15:00"
         }
       ],
       "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tn/nashville/37204/berry-hill-black-friday-sale-2475373"
+        },
         {
           "name": "EstateSales.net",
           "url": "https://www.estatesales.net/TN/Nashville/37204/5159613"
@@ -158,22 +108,20 @@
         "tools, furniture and vinyl & records in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "vinyl & records",
-        "jewelry",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art"
-      ],
-      "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
       "lat": 36.1151393,
       "lng": -86.7771901,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "backgammon game",
+        "ram sculpture",
+        "four-pane window sash",
+        "wooden ladder",
+        "glass bottle",
+        "table lamp",
+        "drawer cabinet"
+      ],
+      "contentsLine": "A turquoise window sash leans against a green-topped drawer cabinet beside a ram sculpture and boxed backgammon game.",
+      "photoRead": true
     },
     {
       "id": "1f717a8402c14936",
@@ -210,7 +158,7 @@
       "categories": [],
       "contactPhone": "(615) 543-1100",
       "contactUrl": "https://www.facebook.com/profile.php?id=61552038952422&mibextid=LQQJ4d",
-      "photoCount": 236,
+      "photoCount": 238,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5170677/1-1/6a5e296e-7b54-40d4-9e25-fee31224faa4.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/5aa54059-af5d-4928-843c-07f7b9beb2cd.jpg",
@@ -227,7 +175,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "236 photos",
+        "238 photos",
         "furniture, vinyl & records and collectibles in the listing",
         "runs 3 days"
       ],
@@ -345,7 +293,7 @@
       "categories": [],
       "contactPhone": "(615) 739-4496",
       "contactUrl": "https://newlifeestatesales.com/",
-      "photoCount": 302,
+      "photoCount": 291,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5171124/1-1/4df6d7da-14e6-4797-9019-f3f89d485a38.jpg",
         "https://picturescdn.estatesales.net/5171124/1-1/8805a54a-bcd3-4229-95ec-fc634b8821af.jpg",
@@ -362,7 +310,7 @@
       ],
       "digRating": "Worth a Look",
       "ratingReasons": [
-        "302 photos"
+        "291 photos"
       ],
       "lat": 36.0975857,
       "lng": -86.8212725,
@@ -521,6 +469,71 @@
       "photoRead": true
     },
     {
+      "id": "972ba1eb9bfd77a9",
+      "title": "Packed Collectibles Estate Sale",
+      "company": "Estate Greats",
+      "streetAddress": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37214",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Nashville/37214/5168589"
+        }
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "contactPhone": "(615) 899-4222",
+      "contactUrl": "https://estategreats.net",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5168589/1-1/57454652-64c7-4faa-a495-5bbe5081583e.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "furniture, collectibles and kitchen in the listing",
+        "runs 4 days"
+      ],
+      "lat": 36.130938,
+      "lng": -86.6754191,
+      "approximate": true,
+      "photoKeywords": [
+        "dolls",
+        "gnome figurines",
+        "owl figurines",
+        "dog figurines",
+        "chest of drawers",
+        "wall mirror"
+      ],
+      "contentsLine": "Dolls sit on a chest of drawers beside a table covered with gnomes, dogs and owls under a framed mirror.",
+      "photoRead": true
+    },
+    {
       "id": "97564ef0046733ff",
       "title": "Vintage Guitars & Amps, Christmas, Milk Glass, Ceramics & More",
       "company": null,
@@ -588,6 +601,72 @@
       ],
       "contentsLine": "Electric and acoustic guitars lie in open cases. Effects pedals, guitar necks and tuning keys cover a table.",
       "photoRead": true
+    },
+    {
+      "id": "9e52f1dac3def090",
+      "title": "Books Galore in Nashville!",
+      "company": "Another's Treasure Estate Sales LLC",
+      "streetAddress": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37205",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "13:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Nashville/37205/5173326"
+        }
+      ],
+      "categories": [
+        "books"
+      ],
+      "contactPhone": "(615) 505-1543",
+      "contactUrl": "https://www.estatesales.net/companies/TN/Lebanon/37090/172721",
+      "photoCount": 141,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173326/1-1/ea885d5a-a1a3-4af5-8c5c-c802ea01c254.jpg",
+        "https://picturescdn.estatesales.net/5173326/1-1/31c4033c-d52e-4ee6-b81f-fd09e33b3221.jpg",
+        "https://picturescdn.estatesales.net/5173326/1-1/311b8ac0-bde1-4cbf-8520-755832e72352.jpg",
+        "https://picturescdn.estatesales.net/5173326/1-1/0922b768-499f-4a08-9568-0c3e1b237d07.jpg",
+        "https://picturescdn.estatesales.net/5173326/1-1/0e5d1a37-1510-438d-ab6c-66a55ffa48a2.jpg",
+        "https://picturescdn.estatesales.net/5173326/1-1/374d5e2a-4ac9-4a9b-a70f-465db0b75021.jpg",
+        "https://picturescdn.estatesales.net/5173326/1-1/e50b0a51-5ee2-4b78-8175-ad56fbf0cc74.jpg",
+        "https://picturescdn.estatesales.net/5173326/1-1/ad47be7a-bb8f-4a2f-b134-97ca9d2366d3.jpg",
+        "https://picturescdn.estatesales.net/5173326/1-1/701fff76-98e7-4327-bd7b-839f3593daf2.jpg",
+        "https://picturescdn.estatesales.net/5173326/1-1/bb1f1dd2-0f5e-4c13-8d04-fd011ea2acfe.jpg",
+        "https://picturescdn.estatesales.net/5173326/1-1/f62043bf-c7df-4864-a232-02e62f6a9c92.jpg",
+        "https://picturescdn.estatesales.net/5173326/1-1/88a4801d-ab4c-4a25-8212-9ce35f3a8e87.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "141 photos",
+        "furniture, jewelry and vehicles in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "books",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, jewelry, vehicles, kitchen and clothing.",
+      "lat": 36.1166075,
+      "lng": -86.8559033,
+      "approximate": true
     },
     {
       "id": "dfe6652fc33661c1",
@@ -836,66 +915,6 @@
         "chair cushions"
       ],
       "contentsLine": "A Madonna and Child portrait has an ornate gold-colored frame. A black patio armchair has cream cushions.",
-      "photoRead": true
-    },
-    {
-      "id": "972ba1eb9bfd77a9",
-      "title": "Packed Collectibles Estate Sale",
-      "company": "Estate Greats",
-      "streetAddress": null,
-      "city": "Nashville",
-      "state": "TN",
-      "zip": "37214",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-12-04",
-          "start": "09:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-12-05",
-          "start": "09:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-12-06",
-          "start": "10:00",
-          "end": "14:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TN/Nashville/37214/5168589"
-        }
-      ],
-      "categories": [
-        "collectibles"
-      ],
-      "contactPhone": "(615) 899-4222",
-      "contactUrl": "https://estategreats.net",
-      "photoCount": 1,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5168589/1-1/57454652-64c7-4faa-a495-5bbe5081583e.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "furniture, collectibles and kitchen in the listing",
-        "runs 3 days"
-      ],
-      "lat": 36.130938,
-      "lng": -86.6754191,
-      "approximate": true,
-      "photoKeywords": [
-        "dolls",
-        "gnome figurines",
-        "owl figurines",
-        "dog figurines",
-        "chest of drawers",
-        "wall mirror"
-      ],
-      "contentsLine": "Dolls sit on a chest of drawers beside a table covered with gnomes, dogs and owls under a framed mirror.",
       "photoRead": true
     },
     {

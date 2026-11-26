@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T20:23:43.290Z",
+  "asOf": "2026-11-26",
+  "collectedAt": "2026-11-26T14:24:48.633Z",
   "window": {
-    "start": "2026-11-25",
-    "end": "2026-12-08",
+    "start": "2026-11-26",
+    "end": "2026-12-09",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 52/52 local candidate details.",
-      "candidates": 20,
-      "included": 15
+      "detail": "Read the public sale sitemap. Checked 56/56 local candidate details.",
+      "candidates": 25,
+      "included": 19
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 7 San Antonio directory cards over 1 pages. Checked 3/3 in-person local candidate details.",
+      "detail": "Read 8 San Antonio directory cards over 1 pages. Checked 3/3 in-person local candidate details.",
       "candidates": 2,
       "included": 0
     },
     "Craigslist San Antonio": {
       "status": "reached",
-      "detail": "12 directory listings discovered; 1 in-window estate listings before radius filtering",
+      "detail": "13 directory listings discovered; 1 in-window estate listings before radius filtering",
       "candidates": 1,
       "included": 1
     },
@@ -38,11 +38,11 @@
     }
   },
   "counts": {
-    "candidates": 23,
-    "listings": 16,
-    "sales": 16,
+    "candidates": 28,
+    "listings": 20,
+    "sales": 20,
     "duplicates": 0,
-    "outsideRadius": 7,
+    "outsideRadius": 6,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -58,11 +58,6 @@
       "zip": "78201",
       "addressHidden": false,
       "sessions": [
-        {
-          "date": "2026-11-24",
-          "start": "12:00",
-          "end": "17:00"
-        },
         {
           "date": "2026-11-25",
           "start": "10:30",
@@ -106,7 +101,7 @@
       "digRating": "Deep Dig",
       "ratingReasons": [
         "69 photos",
-        "runs 4 days"
+        "runs 3 days"
       ],
       "photoKeywords": [],
       "lat": 29.443835,
@@ -161,13 +156,18 @@
         "7 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture"
-      ],
-      "contentsLine": "Furniture.",
       "lat": 29.515508,
       "lng": -98.3802925,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "rolltop desk",
+        "round pedestal table",
+        "dining chairs",
+        "storage chest",
+        "shelving cabinet"
+      ],
+      "contentsLine": "A round pedestal table has carved-back chairs. Other photos show a rolltop desk and an open storage chest.",
+      "photoRead": true
     },
     {
       "id": "a3e380a9b0a15a3d",
@@ -222,9 +222,22 @@
       "digRating": "Deep Dig",
       "ratingReasons": [
         "502 photos",
+        "tools, furniture and vinyl & records in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "figurines"
+      ],
+      "contentsLine": "Tools, furniture, vinyl & records, collectibles and kitchen.",
       "lat": 29.590754,
       "lng": -98.4737638,
       "approximate": true
@@ -364,6 +377,150 @@
       "photoRead": true
     },
     {
+      "id": "afe6de94e2e17a99",
+      "title": "Huge Warehouse Sale James Avery Legos Antiques Collectibles Funko Tactical Tools",
+      "company": "Alamo City Mercantale",
+      "streetAddress": "3903 Eisenhauer",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78218",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78218/5173416"
+        }
+      ],
+      "categories": [
+        "tools",
+        "jewelry",
+        "collectibles",
+        "toys & games"
+      ],
+      "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78259/158639",
+      "photoCount": 0,
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "tools, furniture and jewelry in the listing",
+        "runs 4 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "electronics",
+        "toys & games",
+        "antiques"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
+      "lat": 29.497409,
+      "lng": -98.419527,
+      "approximate": false
+    },
+    {
+      "id": "fc04deed497f104c",
+      "title": "Pianos - Furniture - Bose Speakers - Military - Hummels",
+      "company": "About Face Estate Sales Service LLC",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78248",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78248/5173149"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "collectibles",
+        "electronics"
+      ],
+      "contactPhone": "(210) 765-2205",
+      "contactUrl": "https://www.aboutfaceestatesales.com",
+      "photoCount": 241,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173149/1-1/d9cb9ebd-4b4b-45b1-899a-3e59e3015997.jpg",
+        "https://picturescdn.estatesales.net/5173149/1-1/e4c9a84e-3c73-4c3a-b8c0-7b24907b3500.jpg",
+        "https://picturescdn.estatesales.net/5173149/1-1/c1f74dd0-81e5-4a46-9873-c9bf407c8c95.jpg",
+        "https://picturescdn.estatesales.net/5173149/1-1/6d15f7b6-5b2d-441f-9b06-34d058314dff.jpg",
+        "https://picturescdn.estatesales.net/5173149/1-1/124abc77-5e30-4735-ab0c-9828ee876d75.jpg",
+        "https://picturescdn.estatesales.net/5173149/1-1/6314d7e6-15f9-49ae-ba87-70d450bf6a44.jpg",
+        "https://picturescdn.estatesales.net/5173149/1-1/8329a190-55d1-4781-9f5d-a0568f2eb66a.jpg",
+        "https://picturescdn.estatesales.net/5173149/1-1/41efc60b-0985-48d5-a587-ce1b7629683a.jpg",
+        "https://picturescdn.estatesales.net/5173149/1-1/afceba79-ef95-482c-815d-adee2946af56.jpg",
+        "https://picturescdn.estatesales.net/5173149/1-1/381f3095-8b0b-445d-a0d3-10f4c7181e8a.jpg",
+        "https://picturescdn.estatesales.net/5173149/1-1/45d81908-dd3b-4eab-9dbc-84f0ab9b8468.jpg",
+        "https://picturescdn.estatesales.net/5173149/1-1/dc997afd-c0e7-44a0-a075-aad55b4ad970.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "241 photos",
+        "tools, furniture and vinyl & records in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "electronics",
+        "toys & games",
+        "figurines",
+        "antiques"
+      ],
+      "contentsLine": "Tools, furniture, vinyl & records, collectibles and kitchen.",
+      "lat": 29.588897,
+      "lng": -98.523012,
+      "approximate": true
+    },
+    {
       "id": "a79f908b58fbfa02",
       "title": "Secret stash in Monte Vista",
       "company": "Top Hat Estate Sales",
@@ -419,19 +576,20 @@
         "furniture, jewelry and kitchen in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics"
-      ],
-      "contentsLine": "Furniture, jewelry, kitchen, clothing and books.",
       "lat": 29.461887,
       "lng": -98.4941623,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "Nativity figures",
+        "beaded necklaces",
+        "colored glass bottles",
+        "goblets",
+        "pitchers",
+        "lidded jars",
+        "candlesticks"
+      ],
+      "contentsLine": "Nativity figures stand beside a table of beaded necklaces, colored glass bottles, goblets, pitchers and lidded jars.",
+      "photoRead": true
     },
     {
       "id": "c90837e76026ca3b",
@@ -612,7 +770,7 @@
       ],
       "contactPhone": "(210) 844-2130",
       "contactUrl": "https://www.junehayes.com/",
-      "photoCount": 136,
+      "photoCount": 180,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5163522/1-1/adbbfd84-13a6-4453-8222-ec05d8f85062.jpg",
         "https://picturescdn.estatesales.net/5163522/1-1/876c9132-8517-49c1-9959-4460c629f893.jpg",
@@ -629,7 +787,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "136 photos",
+        "180 photos",
         "jewelry, collectibles and clothing in the listing",
         "runs 3 days"
       ],
@@ -831,12 +989,79 @@
         "349 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "electronics"
-      ],
-      "contentsLine": "Electronics.",
       "lat": 29.717573,
       "lng": -98.4637654,
+      "approximate": true,
+      "photoKeywords": [
+        "floral armchair",
+        "hat stand",
+        "baseball caps",
+        "framed streetscape",
+        "covered glass dish",
+        "decorative egg",
+        "crucifix"
+      ],
+      "contentsLine": "A floral armchair stands beside a hat stand. Other items include a framed streetscape, a covered dish and a painted egg.",
+      "photoRead": true
+    },
+    {
+      "id": "52b98c7943cc1951",
+      "title": "MONARCH - La Cantera Sale",
+      "company": "Monarch Estate Sales",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78256",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78256/5173299"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(830) 743-0168",
+      "contactUrl": "http://www.monarchestatesales.com",
+      "photoCount": 69,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173299/1-1/6df6efd9-9866-4350-834e-9f6f5e38cc2f.jpg",
+        "https://picturescdn.estatesales.net/5173299/1-1/6fd1fe14-4330-4caa-8157-c92a6224a3a7.jpg",
+        "https://picturescdn.estatesales.net/5173299/1-1/e1d65615-0c07-4700-8733-e37a9c732a7c.jpg",
+        "https://picturescdn.estatesales.net/5173299/1-1/ead4512c-15eb-41d4-94bb-fdb07815b96a.jpg",
+        "https://picturescdn.estatesales.net/5173299/1-1/33df514c-d54a-47e7-842d-ef4eb00951b2.jpg",
+        "https://picturescdn.estatesales.net/5173299/1-1/353d9052-d8dd-43e1-96eb-52b11b8994d9.jpg",
+        "https://picturescdn.estatesales.net/5173299/1-1/3386d590-cef6-47b2-a7af-ebb6b468f285.jpg",
+        "https://picturescdn.estatesales.net/5173299/1-1/3f9a6846-e8f2-44ed-bee3-f0d5eadd47a0.jpg",
+        "https://picturescdn.estatesales.net/5173299/1-1/835cc5ca-c224-4aa5-89d4-8a95156e128c.jpg",
+        "https://picturescdn.estatesales.net/5173299/1-1/fd0d4a77-ab51-4eac-8cf1-f2c9f7122846.jpg",
+        "https://picturescdn.estatesales.net/5173299/1-1/9986c532-ab98-42eb-9303-00479f1dd875.jpg",
+        "https://picturescdn.estatesales.net/5173299/1-1/305818ce-aeb9-4c71-a2f2-a69d6800c9d1.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "69 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [],
+      "lat": 29.6116987,
+      "lng": -98.6190257,
       "approximate": true
     },
     {
@@ -1071,15 +1296,60 @@
         "91 photos",
         "furniture, kitchen and books in the listing"
       ],
-      "photoKeywords": [
-        "furniture",
-        "kitchen",
-        "books",
-        "art"
-      ],
-      "contentsLine": "Furniture, kitchen, books and art.",
       "lat": 29.6405952,
       "lng": -98.3205808,
+      "approximate": true,
+      "photoKeywords": [
+        "oval dining table",
+        "spindle-back chairs",
+        "dining armchairs",
+        "Lincoln cents",
+        "coin holders"
+      ],
+      "contentsLine": "Photos show six spindle-back chairs with an oval dining table and Lincoln cents in individual square holders.",
+      "photoRead": true
+    },
+    {
+      "id": "27bccc4dadee3405",
+      "title": "A Holiday Extravaganza of Exciting Jewelry & Handbag Sale, Gold, Sterling, Pearls, Native American",
+      "company": "Professional Estate Sales LLC",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78213",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-09",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78213/5168286"
+        }
+      ],
+      "categories": [
+        "jewelry",
+        "clothing"
+      ],
+      "contactPhone": "(210) 826-7653",
+      "contactUrl": "http://www.professionalestatesales.com",
+      "photoCount": 0,
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "jewelry and clothing in the listing",
+        "no photos in the listing"
+      ],
+      "photoKeywords": [
+        "jewelry",
+        "clothing"
+      ],
+      "contentsLine": "Jewelry and clothing.",
+      "lat": 29.5143913,
+      "lng": -98.5200298,
       "approximate": true
     }
   ]

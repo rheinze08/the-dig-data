@@ -27,6 +27,11 @@
     "lng": -97.3327459,
     "basis": "OpenStreetMap Nominatim"
   },
+  "city:mesquite": {
+    "lat": 32.7666103,
+    "lng": -96.599472,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "city:richardson": {
     "lat": 32.9481789,
     "lng": -96.7297206,
@@ -103,6 +108,9 @@
   },
   "nominatim:street:3585 cr 338:75454": {
     "retryAfter": 1795828552255
+  },
+  "nominatim:street:4403 harbinger dr near galloway:mesquite": {
+    "retryAfter": 1796307762515
   },
   "nominatim:street:4800 spring valley rd:75244": {
     "retryAfter": 1795828546855
@@ -638,6 +646,11 @@
   "zip:75002": {
     "lat": 33.0982949,
     "lng": -96.6128454,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75010": {
+    "lat": 33.0281513,
+    "lng": -96.8990824,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:75022": {

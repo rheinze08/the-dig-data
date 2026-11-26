@@ -12,6 +12,11 @@
     "lng": -97.3152701,
     "basis": "OpenStreetMap Nominatim"
   },
+  "city:georgetown": {
+    "lat": 30.6370152,
+    "lng": -97.6775634,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "city:kyle": {
     "lat": 29.9892816,
     "lng": -97.877174,
@@ -84,6 +89,9 @@
   },
   "nominatim:street:393 fm 969 near hwy 71:bastrop": {
     "retryAfter": 1795962774699
+  },
+  "nominatim:street:407 e janis dr near nw:georgetown": {
+    "retryAfter": 1796307819158
   },
   "nominatim:street:4308 yellow rose austin:austin": {
     "retryAfter": 1795828745050
@@ -305,6 +313,16 @@
     "lng": -97.5323941,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:78666": {
+    "lat": 29.8708931,
+    "lng": -97.9521635,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78676": {
+    "lat": 30.017249,
+    "lng": -98.1178081,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:78681": {
     "lat": 30.5504457,
     "lng": -97.7400302,
@@ -313,6 +331,11 @@
   "zip:78703": {
     "lat": 30.2883182,
     "lng": -97.7650135,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78717": {
+    "lat": 30.4886779,
+    "lng": -97.7734512,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:78731": {
@@ -338,6 +361,11 @@
   "zip:78750": {
     "lat": 30.425422,
     "lng": -97.7991759,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78751": {
+    "lat": 30.3107158,
+    "lng": -97.7235918,
     "basis": "OpenStreetMap Nominatim"
   }
 }

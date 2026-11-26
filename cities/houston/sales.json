@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T20:19:36.874Z",
+  "asOf": "2026-11-26",
+  "collectedAt": "2026-11-26T14:20:15.382Z",
   "window": {
-    "start": "2026-11-25",
-    "end": "2026-12-08",
+    "start": "2026-11-26",
+    "end": "2026-12-09",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,25 +14,25 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 36/36 local candidate details.",
-      "candidates": 19,
-      "included": 13
+      "detail": "Read the public sale sitemap. Checked 34/34 local candidate details.",
+      "candidates": 21,
+      "included": 15
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 21 Houston directory cards over 2 pages. Checked 0/0 in-person local candidate details.",
+      "detail": "Read 20 Houston directory cards over 1 pages. Checked 0/0 in-person local candidate details.",
       "candidates": 0,
       "included": 0
     },
     "EstateSale.com": {
       "status": "partial",
-      "detail": "25 directory listings discovered; 4 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/909255.html — Incapsula challenge in HTTP 200 response",
+      "detail": "23 directory listings discovered; 4 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/912310.html — Incapsula challenge in HTTP 200 response",
       "candidates": 4,
       "included": 1
     },
     "Craigslist Houston": {
       "status": "reached",
-      "detail": "9 directory listings discovered; 0 in-window estate listings before radius filtering",
+      "detail": "8 directory listings discovered; 0 in-window estate listings before radius filtering",
       "candidates": 0,
       "included": 0
     },
@@ -44,9 +44,9 @@
     }
   },
   "counts": {
-    "candidates": 23,
-    "listings": 14,
-    "sales": 14,
+    "candidates": 25,
+    "listings": 16,
+    "sales": 16,
     "duplicates": 0,
     "outsideRadius": 9,
     "unlocatedListings": 0
@@ -278,7 +278,7 @@
       "categories": [],
       "contactPhone": "(832) 250-5444",
       "contactUrl": "https://www.estatesales.net/companies/TX/Houston/77074/173072",
-      "photoCount": 32,
+      "photoCount": 57,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5166993/1-1/4cfa6921-217b-45b9-aee3-815b9215a2da.jpg",
         "https://picturescdn.estatesales.net/5166993/1-1/825ec2b5-ad00-43aa-8f52-cb9a7a9534cf.jpg",
@@ -295,7 +295,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "32 photos",
+        "57 photos",
         "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
@@ -387,6 +387,73 @@
       "contentsLine": "Furniture, collectibles, vehicles, kitchen and art.",
       "lat": 29.3856773,
       "lng": -95.1281039,
+      "approximate": true
+    },
+    {
+      "id": "4de7ad57563e35d3",
+      "title": "West University Thanksgiving Weekend 2 days PHOTOS IN LINK",
+      "company": "By Ronnalynn",
+      "streetAddress": null,
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77005",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "11:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "11:00",
+          "end": "14:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Houston/77005/5172813"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(832) 474-1508",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Houston/77005/141533",
+      "photoCount": 51,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172813/1-1/b6c199fb-becf-4782-92cc-af90442968a0.jpg",
+        "https://picturescdn.estatesales.net/5172813/1-1/b64586f3-6b19-40ac-9579-cff20d05ff69.jpg",
+        "https://picturescdn.estatesales.net/5172813/1-1/118e0a61-ac93-4577-9591-25fabd7c190d.jpg",
+        "https://picturescdn.estatesales.net/5172813/1-1/4e25d3ed-39a5-45ee-ad87-8a9999baf58a.jpg",
+        "https://picturescdn.estatesales.net/5172813/1-1/2982450f-14aa-41a5-9dbc-9d0fc7f7251d.jpg",
+        "https://picturescdn.estatesales.net/5172813/1-1/cc65cea3-f4ad-4e94-b9be-89e3410e8e55.jpg",
+        "https://picturescdn.estatesales.net/5172813/1-1/8db43124-1f05-4d9e-ae9f-1a55835a8f5a.jpg",
+        "https://picturescdn.estatesales.net/5172813/1-1/f950fb27-6627-4ef7-a590-291e4839ae7b.jpg",
+        "https://picturescdn.estatesales.net/5172813/1-1/59f03618-3bcd-4e0a-92a4-ac47d781fdc0.jpg",
+        "https://picturescdn.estatesales.net/5172813/1-1/bc1a8b97-a18a-413f-a8a2-41b514954cd7.jpg",
+        "https://picturescdn.estatesales.net/5172813/1-1/b74fe511-f6c2-4f10-a1d7-ad52ff880f3d.jpg",
+        "https://picturescdn.estatesales.net/5172813/1-1/3829848d-7ec5-4f08-a69b-fd9b63c48367.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "51 photos",
+        "tools, furniture and jewelry in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "art",
+        "electronics",
+        "china",
+        "crystal"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
+      "lat": 29.7206266,
+      "lng": -95.4207825,
       "approximate": true
     },
     {
@@ -549,24 +616,24 @@
       "categories": [],
       "contactPhone": "(281) 250-1238",
       "contactUrl": "https://www.estatesales.net/companies/TX/Friendswood/77546/22205",
-      "photoCount": 138,
+      "photoCount": 166,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5160081/1-1/f9ad73a9-e6ca-46c4-9272-a88db1766711.jpg",
+        "https://picturescdn.estatesales.net/5160081/1-1/5bb5fab1-6a47-40d5-a982-a8ab277b6208.jpg",
+        "https://picturescdn.estatesales.net/5160081/1-1/5079f4e3-7940-4295-83b4-8fdf4a3818fc.jpg",
         "https://picturescdn.estatesales.net/5160081/1-1/ebc002e6-0280-42e5-9b73-da1cccabf5f6.jpg",
         "https://picturescdn.estatesales.net/5160081/1-1/b70d6465-8181-43fe-8437-fed15344296a.jpg",
         "https://picturescdn.estatesales.net/5160081/1-1/08f11c50-e896-49df-877b-32bf25aaa3ea.jpg",
         "https://picturescdn.estatesales.net/5160081/1-1/88be9de5-36b4-4b76-bb9e-919226336f28.jpg",
         "https://picturescdn.estatesales.net/5160081/1-1/18681fab-e40d-4501-997d-57a3ac9fb316.jpg",
-        "https://picturescdn.estatesales.net/5160081/1-1/7cd67d83-3e0f-4bd3-bf96-aa42a33bc76f.jpg",
         "https://picturescdn.estatesales.net/5160081/1-1/a7cafbfb-10b1-4761-86fe-fc83a36cd430.jpg",
         "https://picturescdn.estatesales.net/5160081/1-1/80aa66d1-5f7a-4ee6-85d9-3cfba7a0587b.jpg",
-        "https://picturescdn.estatesales.net/5160081/1-1/5bb5fab1-6a47-40d5-a982-a8ab277b6208.jpg",
-        "https://picturescdn.estatesales.net/5160081/1-1/f9ad73a9-e6ca-46c4-9272-a88db1766711.jpg",
-        "https://picturescdn.estatesales.net/5160081/1-1/5079f4e3-7940-4295-83b4-8fdf4a3818fc.jpg",
-        "https://picturescdn.estatesales.net/5160081/1-1/08a8549c-86e2-4cc7-9bd7-8db092cae21f.jpg"
+        "https://picturescdn.estatesales.net/5160081/1-1/08a8549c-86e2-4cc7-9bd7-8db092cae21f.jpg",
+        "https://picturescdn.estatesales.net/5160081/1-1/38cd9cab-7b5d-4a1e-80bd-f2f209336edf.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "138 photos",
+        "166 photos",
         "tools, furniture and jewelry in the listing",
         "runs 4 days"
       ],
@@ -953,6 +1020,84 @@
       "photoKeywords": [],
       "lat": 29.6515388,
       "lng": -95.5206437,
+      "approximate": true
+    },
+    {
+      "id": "ef7ceb2de0d54b72",
+      "title": "Sweetly Collected & Steeped in Americana",
+      "company": "Virtue Estate Sales",
+      "streetAddress": null,
+      "city": "Baytown",
+      "state": "TX",
+      "zip": "77520",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-09",
+          "start": "09:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-12-10",
+          "start": "09:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "09:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Baytown/77520/5152005"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(832) 567-2189",
+      "contactUrl": "http://www.virtueestatesales.com",
+      "photoCount": 477,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5152005/1-1/dce14acf-beb4-4624-ac39-0e300143a888.jpg",
+        "https://picturescdn.estatesales.net/5152005/1-1/ee7bc9f9-820b-4492-85ae-6300af3a7c55.jpg",
+        "https://picturescdn.estatesales.net/5152005/1-1/51743176-68d1-410d-b4e9-48c897a5e7dd.jpg",
+        "https://picturescdn.estatesales.net/5152005/1-1/4cab4fe8-76c2-403a-81dc-3a2e7bbf9a46.jpg",
+        "https://picturescdn.estatesales.net/5152005/1-1/3fafd264-6ed6-4792-b616-3fedc6d7f7e1.jpg",
+        "https://picturescdn.estatesales.net/5152005/1-1/81391ce6-e733-4449-8478-3413f2c7b536.jpg",
+        "https://picturescdn.estatesales.net/5152005/1-1/2ecd1178-62e6-4e7e-8b96-6216e11b9a72.jpg",
+        "https://picturescdn.estatesales.net/5152005/1-1/78bb6cb7-aa6b-4313-8bd6-7fe1c7681b03.jpg",
+        "https://picturescdn.estatesales.net/5152005/1-1/2d294224-410b-4e18-9130-27c78fe68eb4.jpg",
+        "https://picturescdn.estatesales.net/5152005/1-1/3208a5ac-5fd0-4cd3-b9d5-25ab5869e2b7.jpg",
+        "https://picturescdn.estatesales.net/5152005/1-1/6ed678a3-703f-41c6-bcf3-079e3dea98bd.jpg",
+        "https://picturescdn.estatesales.net/5152005/1-1/ed3c8b01-c064-40ed-ba0a-30a0d1d13f6a.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "477 photos",
+        "tools, furniture and jewelry in the listing",
+        "runs 4 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "clothing",
+        "books",
+        "electronics",
+        "china",
+        "crystal",
+        "christmas decor"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and clothing.",
+      "lat": 29.7516946,
+      "lng": -94.9516854,
       "approximate": true
     }
   ]

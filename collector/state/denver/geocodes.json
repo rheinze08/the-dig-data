@@ -27,6 +27,11 @@
     "lng": -105.081267,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:6080 w 92nd ave:80031": {
+    "lat": 39.8632241,
+    "lng": -105.0644682,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:8040 e dartmouth:80231": {
     "lat": 39.660001,
     "lng": -104.896073,
@@ -45,6 +50,11 @@
   "zip:80109": {
     "lat": 39.3953228,
     "lng": -104.8990983,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:80112": {
+    "lat": 39.5791842,
+    "lng": -104.888804,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:80214": {

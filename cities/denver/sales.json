@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T20:27:27.053Z",
+  "asOf": "2026-11-26",
+  "collectedAt": "2026-11-26T14:28:51.383Z",
   "window": {
-    "start": "2026-11-25",
-    "end": "2026-12-08",
+    "start": "2026-11-26",
+    "end": "2026-12-09",
     "timeZone": "America/Denver"
   },
   "area": {
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 26/26 local candidate details.",
-      "candidates": 8,
-      "included": 8
+      "detail": "Read the public sale sitemap. Checked 29/29 local candidate details.",
+      "candidates": 9,
+      "included": 9
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 10 Denver directory cards over 1 pages. Checked 5/5 in-person local candidate details.",
-      "candidates": 5,
-      "included": 5
+      "detail": "Read 14 Denver directory cards over 1 pages. Checked 6/6 in-person local candidate details.",
+      "candidates": 6,
+      "included": 6
     },
     "Craigslist Denver": {
       "status": "reached",
-      "detail": "9 directory listings discovered; 4 in-window estate listings before radius filtering",
+      "detail": "11 directory listings discovered; 4 in-window estate listings before radius filtering",
       "candidates": 4,
       "included": 4
     },
@@ -38,10 +38,10 @@
     }
   },
   "counts": {
-    "candidates": 17,
-    "listings": 17,
-    "sales": 14,
-    "duplicates": 3,
+    "candidates": 19,
+    "listings": 19,
+    "sales": 15,
+    "duplicates": 4,
     "outsideRadius": 0,
     "unlocatedListings": 0
   },
@@ -164,49 +164,6 @@
       ],
       "contentsLine": "A black motorcycle has two rear wheels. Other photos show a patchwork jacket, model planes and stitched cowboy boots.",
       "photoRead": true
-    },
-    {
-      "id": "38c8b43af5d4e191",
-      "title": "From Work Bench To Wardrobe Black Friday Estate Sale",
-      "company": "Front Porch Estate Sales",
-      "streetAddress": null,
-      "city": "Brighton",
-      "state": "CO",
-      "zip": "80601",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "09:00",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "09:00",
-          "end": "14:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/co/brighton/80601/from-work-bench-to-wardrobe-2475219"
-        }
-      ],
-      "categories": [],
-      "contactUrl": "https://estatesales.org/estate-sale-companies/front-porch-estate-sales-11085",
-      "photoCount": 1,
-      "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2475219-qf38q8oq0enky669.webp"
-      ],
-      "digRating": "Slim Pickings",
-      "ratingReasons": [
-        "only 1 photo",
-        "few details in the listing"
-      ],
-      "photoKeywords": [],
-      "lat": 39.9700959,
-      "lng": -104.8019397,
-      "approximate": true
     },
     {
       "id": "97c9696a9704a971",
@@ -335,7 +292,7 @@
       "photoRead": true
     },
     {
-      "id": "76a26105c471b593",
+      "id": "38c8b43af5d4e191",
       "title": "Workbench to Wardrobe Thanksgiving Estate Sale",
       "company": "Front Porch Estate Sales",
       "streetAddress": null,
@@ -356,6 +313,10 @@
         }
       ],
       "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/co/brighton/80601/from-work-bench-to-wardrobe-2475219"
+        },
         {
           "name": "EstateSales.net",
           "url": "https://www.estatesales.net/CO/Brighton/80601/5163693"
@@ -390,13 +351,11 @@
       "lng": -104.8019397,
       "approximate": true,
       "photoKeywords": [
-        "floor mirror",
-        "jewelry armoire",
-        "pillar candle holder",
-        "console cabinet",
-        "upholstered armchair"
+        "Coors",
+        "round serving tray",
+        "beer advertising"
       ],
-      "contentsLine": "A branch-shaped holder carries three pillar candles atop a low cabinet. Other pieces include a standing mirror.",
+      "contentsLine": "A round red serving tray has white Coors lettering and a lion emblem.",
       "photoRead": true
     },
     {
@@ -505,6 +464,63 @@
       "photoRead": true
     },
     {
+      "id": "c4a96f34ec02f0eb",
+      "title": "Connie's Antiques & Treasures-In Store Shopping of Vintage, Antiques and Collectibles",
+      "company": "Connie's Antiques & Treasures",
+      "streetAddress": "6080 W 92nd Ave",
+      "city": "Westminster",
+      "state": "CO",
+      "zip": "80031",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "11:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "11:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "11:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/co/westminster/80031/connies-antiques-treasuresin-store-shopping-2475493"
+        }
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "contactPhone": "(303) 514-2183",
+      "contactUrl": "https://estatesales.org/estate-sale-companies/connies-antiques-treasures-11465",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://eso-cdn.tlcdn.workers.dev/s-2475493-q7f2bijoce9piffo.webp"
+      ],
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "runs 3 days",
+        "only 1 photo",
+        "few details in the listing"
+      ],
+      "photoKeywords": [
+        "collectibles",
+        "antiques",
+        "christmas decor"
+      ],
+      "contentsLine": "Collectibles, antiques and christmas decor.",
+      "lat": 39.8632241,
+      "lng": -105.0644682,
+      "approximate": false
+    },
+    {
       "id": "9c6ecef6a9af9c74",
       "title": "Nostalgic November Discount Sale",
       "company": "Caring Transitions Of North Aurora",
@@ -558,18 +574,20 @@
         "100 photos",
         "tools, furniture and books in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "books",
-        "art",
-        "toys & games",
-        "christmas decor"
-      ],
-      "contentsLine": "Tools, furniture, books, art and toys & games.",
       "lat": 39.7393612,
       "lng": -104.8648676,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "Heroscape game sets",
+        "miniature terrain",
+        "Lord of the Rings figurines",
+        "four-drawer chests",
+        "jeans",
+        "puffer jackets",
+        "snowman wall hanging"
+      ],
+      "contentsLine": "Boxed Heroscape sets and miniature terrain share a table. Other photos show four-drawer chests, jeans and jackets.",
+      "photoRead": true
     },
     {
       "id": "099a155d6f87dd45",
@@ -861,6 +879,82 @@
       ],
       "contentsLine": "A hutch displays alphabet plates, pitchers and rows of stemware. A butter churn stands beside a large handled jug.",
       "photoRead": true
+    },
+    {
+      "id": "a89e96b3ca5398f1",
+      "title": "Estate Sale | Quality Furniture, Cherry Dining Set, Executive Desk, Kitchen Items, Outdoor Patio,etc",
+      "company": "Centennial Estate Sales",
+      "streetAddress": null,
+      "city": "Centennial",
+      "state": "CO",
+      "zip": "80112",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Englewood/80112/5173212"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "kitchen"
+      ],
+      "contactPhone": "(720) 507-7587",
+      "contactUrl": "https://centennialestatesales.com",
+      "photoCount": 105,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173212/1-1/09f8fe17-74e9-4ad4-8f57-c130536d806c.jpg",
+        "https://picturescdn.estatesales.net/5173212/1-1/4ccf5e75-302e-4edf-8455-70d1562b3a69.jpg",
+        "https://picturescdn.estatesales.net/5173212/1-1/bd899059-116f-4b27-a99e-2685399261e1.jpg",
+        "https://picturescdn.estatesales.net/5173212/1-1/f6f14da2-d3f4-48f0-a706-1a1139ab3028.jpg",
+        "https://picturescdn.estatesales.net/5173212/1-1/5726e8ca-4b62-4a6c-aee0-40b852ac031a.jpg",
+        "https://picturescdn.estatesales.net/5173212/1-1/3346b760-0867-46d6-a515-0874750cc4d1.jpg",
+        "https://picturescdn.estatesales.net/5173212/1-1/4e116216-5f8c-4de2-8a52-88fa48ae1f20.jpg",
+        "https://picturescdn.estatesales.net/5173212/1-1/f1321e96-1ab2-4020-949e-a964f2fd9ead.jpg",
+        "https://picturescdn.estatesales.net/5173212/1-1/649168a7-7baf-4037-8bbb-964d9d67f329.jpg",
+        "https://picturescdn.estatesales.net/5173212/1-1/ab8a9b33-247b-412d-b9dd-31c02284b2f7.jpg",
+        "https://picturescdn.estatesales.net/5173212/1-1/59d6734f-aaad-4015-aced-f2cef3a89969.jpg",
+        "https://picturescdn.estatesales.net/5173212/1-1/d14fb0ee-ed9d-4259-b595-bc28285f2653.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "105 photos",
+        "tools, furniture and kitchen in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "kitchen",
+        "art",
+        "electronics",
+        "lamps",
+        "mirrors",
+        "silver",
+        "christmas decor",
+        "patio furniture"
+      ],
+      "contentsLine": "Tools, furniture, kitchen, art and electronics.",
+      "lat": 39.5791842,
+      "lng": -104.888804,
+      "approximate": true
     },
     {
       "id": "e6cc14516545a007",

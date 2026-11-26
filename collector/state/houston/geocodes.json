@@ -206,6 +206,11 @@
     "lng": -95.387266,
     "basis": "Public listing map: EstateSales.net"
   },
+  "zip:75041": {
+    "lat": 32.8804464,
+    "lng": -96.6494921,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:75087": {
     "lat": 32.9436463,
     "lng": -96.4391713,

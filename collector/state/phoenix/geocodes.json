@@ -234,6 +234,11 @@
     "lng": -111.7349621,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:85302": {
+    "lat": 33.5683962,
+    "lng": -112.176042,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:85306": {
     "lat": 33.6238943,
     "lng": -112.1768643,

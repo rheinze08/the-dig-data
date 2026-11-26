@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-25",
-  "collectedAt": "2026-11-25T20:22:02.212Z",
+  "asOf": "2026-11-26",
+  "collectedAt": "2026-11-26T14:22:47.202Z",
   "window": {
-    "start": "2026-11-25",
-    "end": "2026-12-08",
+    "start": "2026-11-26",
+    "end": "2026-12-09",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,20 +14,20 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 129/130 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
-      "candidates": 58,
-      "included": 41
+      "detail": "Read the public sale sitemap. Checked 131/132 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
+      "candidates": 62,
+      "included": 43
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 31 Dallas–Fort Worth directory cards over 2 pages. Checked 13/13 in-person local candidate details.",
-      "candidates": 10,
-      "included": 8
+      "detail": "Read 30 Dallas–Fort Worth directory cards over 2 pages. Checked 12/12 in-person local candidate details.",
+      "candidates": 9,
+      "included": 7
     },
     "Craigslist Dallas / Fort Worth": {
       "status": "reached",
-      "detail": "11 directory listings discovered; 1 in-window estate listings before radius filtering",
-      "candidates": 1,
+      "detail": "12 directory listings discovered; 2 in-window estate listings before radius filtering",
+      "candidates": 2,
       "included": 1
     },
     "GSALR.com": {
@@ -38,163 +38,16 @@
     }
   },
   "counts": {
-    "candidates": 69,
-    "listings": 50,
-    "sales": 44,
+    "candidates": 73,
+    "listings": 51,
+    "sales": 45,
     "duplicates": 6,
-    "outsideRadius": 18,
+    "outsideRadius": 21,
     "unlocatedListings": 0
   },
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
-    {
-      "id": "a69a62e3be71bdec",
-      "title": "Estate Sale-Everything must go",
-      "company": null,
-      "streetAddress": null,
-      "city": "Arlington",
-      "state": "TX",
-      "zip": null,
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-23",
-          "start": "07:00",
-          "end": null
-        },
-        {
-          "date": "2026-11-24",
-          "start": "07:00",
-          "end": null
-        },
-        {
-          "date": "2026-11-25",
-          "start": "07:00",
-          "end": null
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist Dallas / Fort Worth",
-          "url": "https://www.craigslist.org/view/d/arlington-estate-sale-everything-must-go/txqQwt1AJXHJu4Ep5yw8iV"
-        }
-      ],
-      "categories": [],
-      "photoCount": 22,
-      "photoUrls": [
-        "https://images.craigslist.org/01212_7JwQRZ2P6HG_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00101_ld3XeVN3LnW_0A80CI_600x450.jpg",
-        "https://images.craigslist.org/00x0x_dnEvn2tuh9s_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00l0l_8dJUVLMSwdP_0BE0CI_600x450.jpg",
-        "https://images.craigslist.org/00J0J_6TBk2WILB7N_0CI0t2_600x450.jpg",
-        "https://images.craigslist.org/00A0A_cLf32YYUZ0Z_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00L0L_5SiQdMsKJZL_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00C0C_9mTQ2pQjjrO_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/01515_fFfVxrpZvZq_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00000_7ViPJX2mMwL_0CI0pe_600x450.jpg",
-        "https://images.craigslist.org/00C0C_gh6Xlfzw66b_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/01414_koBugjSKpa4_0CI0t2_600x450.jpg"
-      ],
-      "digRating": "Worth a Look",
-      "ratingReasons": [
-        "22 photos",
-        "runs 3 days"
-      ],
-      "lat": 32.7355816,
-      "lng": -97.1071186,
-      "approximate": true,
-      "photoKeywords": [
-        "shelf headboard",
-        "nightstand",
-        "gray comforter",
-        "throw pillows",
-        "Squier electric guitar"
-      ],
-      "contentsLine": "A bed has a white shelf headboard and gray comforter. A one-drawer nightstand and black Squier guitar are also shown.",
-      "photoRead": true
-    },
-    {
-      "id": "89a05893a83558b3",
-      "title": "Bold & Beautiful Estate Sale + 7 sales at 70% off",
-      "company": "Crush Estate Sales",
-      "streetAddress": "1301 Custer #706 (Directly behind the Tee Time Bar)",
-      "city": "Plano",
-      "state": "TX",
-      "zip": "75075",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-23",
-          "start": "09:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-24",
-          "start": "09:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-25",
-          "start": "09:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-27",
-          "start": "09:00",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "09:00",
-          "end": "17:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/plano/75075/plano-french-provincial-hollywood-regency-2475119"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Plano/75075/5172522"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(214) 501-3386",
-      "contactUrl": "https://www.planoestatesales.com/",
-      "photoCount": 300,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5172522/1-1/e6b10bbd-3d69-42c2-8408-1be21a79beaf.jpg",
-        "https://picturescdn.estatesales.net/5172522/1-1/4bcc259d-8d93-4eff-990d-7714a3db7037.jpg",
-        "https://picturescdn.estatesales.net/5172522/1-1/a1741d20-f3c5-40cb-9b83-8b89a280a727.jpg",
-        "https://picturescdn.estatesales.net/5172522/1-1/3ec8d95e-59d7-447f-b3f6-f931e555d62a.jpg",
-        "https://picturescdn.estatesales.net/5172522/1-1/5f5b696b-bfc3-4188-8981-4f2173369a8c.jpg",
-        "https://picturescdn.estatesales.net/5172522/1-1/c2854863-f43e-47d6-bfe5-e60a275d3fb8.jpg",
-        "https://picturescdn.estatesales.net/5172522/1-1/96636625-eeee-4742-b7ad-2ebf4366de08.jpg",
-        "https://picturescdn.estatesales.net/5172522/1-1/655c7630-a02b-4d5c-bd98-d429e8421dba.jpg",
-        "https://picturescdn.estatesales.net/5172522/1-1/470eb947-ca32-4396-92ee-bba776786782.jpg",
-        "https://picturescdn.estatesales.net/5172522/1-1/9b2e3f32-482e-49a1-a5bd-33c18e1dfbab.jpg",
-        "https://picturescdn.estatesales.net/5172522/1-1/622bccdc-7c29-431a-be16-30eccd013b47.jpg",
-        "https://picturescdn.estatesales.net/5172522/1-1/c17ab7d0-7b11-4ac0-83af-a37b84b7b178.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "300 photos",
-        "runs 5 days"
-      ],
-      "lat": 33.018423,
-      "lng": -96.735494,
-      "approximate": false,
-      "photoKeywords": [
-        "tufted sofa",
-        "scroll arms",
-        "nailhead trim",
-        "claw feet"
-      ],
-      "contentsLine": "A cream two-cushion sofa has a button-tufted back, scrolling arms, nailhead trim and gold-toned claw feet.",
-      "photoRead": true
-    },
     {
       "id": "6d176e2c350eeb23",
       "title": "$1 EACH MASSIVE CLOTHING & SHOE SALE!! MENS, WOMENS & CHILDREN SIZES NEWBORN - 6XL!",
@@ -261,6 +114,132 @@
       "approximate": false
     },
     {
+      "id": "1fc087182c7d9be6",
+      "title": "Bold & Beautiful Estate Sale + 7 sales at 70% off",
+      "company": "Crush Estate Sales",
+      "streetAddress": "1301 Custer #706 (Directly behind the Tee Time Bar)",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75075",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-25",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-27",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75075/5172522"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(214) 501-3386",
+      "contactUrl": "https://www.planoestatesales.com/",
+      "photoCount": 300,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172522/1-1/e6b10bbd-3d69-42c2-8408-1be21a79beaf.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/4bcc259d-8d93-4eff-990d-7714a3db7037.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/a1741d20-f3c5-40cb-9b83-8b89a280a727.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/3ec8d95e-59d7-447f-b3f6-f931e555d62a.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/5f5b696b-bfc3-4188-8981-4f2173369a8c.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/c2854863-f43e-47d6-bfe5-e60a275d3fb8.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/96636625-eeee-4742-b7ad-2ebf4366de08.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/655c7630-a02b-4d5c-bd98-d429e8421dba.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/470eb947-ca32-4396-92ee-bba776786782.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/9b2e3f32-482e-49a1-a5bd-33c18e1dfbab.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/622bccdc-7c29-431a-be16-30eccd013b47.jpg",
+        "https://picturescdn.estatesales.net/5172522/1-1/c17ab7d0-7b11-4ac0-83af-a37b84b7b178.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "300 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [],
+      "lat": 33.018423,
+      "lng": -96.735494,
+      "approximate": false
+    },
+    {
+      "id": "a69a62e3be71bdec",
+      "title": "Estate Sale-Everything must go",
+      "company": null,
+      "streetAddress": null,
+      "city": "Arlington",
+      "state": "TX",
+      "zip": null,
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "07:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-28",
+          "start": "07:00",
+          "end": null
+        },
+        {
+          "date": "2026-11-29",
+          "start": "07:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Dallas / Fort Worth",
+          "url": "https://www.craigslist.org/view/d/arlington-estate-sale-everything-must-go/txqQwt1AJXHJu4Ep5yw8iV"
+        }
+      ],
+      "categories": [],
+      "photoCount": 20,
+      "photoUrls": [
+        "https://images.craigslist.org/00z0z_7a5pzgbHa2R_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00y0y_fFJIUZsewSa_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00L0L_5SiQdMsKJZL_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00l0l_8dJUVLMSwdP_0BE0CI_600x450.jpg",
+        "https://images.craigslist.org/00J0J_6TBk2WILB7N_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00C0C_9mTQ2pQjjrO_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00M0M_8jmfUeQweT8_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/01515_fFfVxrpZvZq_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00000_7ViPJX2mMwL_0CI0pe_600x450.jpg",
+        "https://images.craigslist.org/00C0C_gh6Xlfzw66b_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/01414_koBugjSKpa4_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00P0P_hxjrWuJll1Y_0t20CI_600x450.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "20 photos",
+        "runs 3 days"
+      ],
+      "lat": 32.7355816,
+      "lng": -97.1071186,
+      "approximate": true,
+      "photoKeywords": [
+        "shelf headboard",
+        "nightstand",
+        "gray comforter",
+        "throw pillows",
+        "Squier electric guitar"
+      ],
+      "contentsLine": "A bed has a white shelf headboard and gray comforter. A one-drawer nightstand and black Squier guitar are also shown.",
+      "photoRead": true
+    },
+    {
       "id": "cf771fca93be4e7c",
       "title": "James Major presents Santa’s Workshop estate sale in Mansfield",
       "company": "James Major Estate Sales",
@@ -295,7 +274,7 @@
       "categories": [],
       "contactPhone": "(817) 880-4234",
       "contactUrl": "https://jamesmajorestatesales.com/",
-      "photoCount": 140,
+      "photoCount": 275,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5164554/1-1/48d1d4b2-1fbe-4a5f-879e-86ed8b31f38d.jpg",
         "https://picturescdn.estatesales.net/5164554/1-1/e49a72cd-ca86-4493-934e-e3559bc1215e.jpg",
@@ -312,7 +291,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "140 photos",
+        "275 photos",
         "clothing and toys & games in the listing",
         "runs 3 days"
       ],
@@ -435,7 +414,7 @@
       ],
       "contactPhone": "(682) 239-1746",
       "contactUrl": "https://estatesales.org/estate-sale-companies/a-dfw-estate-liquidators-3768",
-      "photoCount": 278,
+      "photoCount": 287,
       "photoUrls": [
         "https://eso-cdn.tlcdn.workers.dev/s-2467700-rkcd4jhxnfffnbeb.jpg",
         "https://eso-cdn.tlcdn.workers.dev/s-2467700-mfz2aqz5zdmfaulx.jpg",
@@ -452,7 +431,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "278 photos",
+        "287 photos",
         "tools, furniture and collectibles in the listing",
         "runs 3 days"
       ],
@@ -728,7 +707,7 @@
       "categories": [],
       "contactPhone": "(817) 291-1677",
       "contactUrl": "https://decadesestateliquidators.com/",
-      "photoCount": 95,
+      "photoCount": 93,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5168622/1-1/6db4fc94-aba6-4166-bb1b-3459dfc40d97.jpg",
         "https://picturescdn.estatesales.net/5168622/1-1/ec044bb4-a457-402b-867e-c827b8fbb66e.jpg",
@@ -745,10 +724,16 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "95 photos",
+        "93 photos",
+        "vinyl & records, kitchen and electronics in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [],
+      "photoKeywords": [
+        "vinyl & records",
+        "kitchen",
+        "electronics"
+      ],
+      "contentsLine": "Vinyl & records, kitchen and electronics.",
       "lat": 32.7240338,
       "lng": -97.0088686,
       "approximate": true
@@ -940,7 +925,7 @@
       "categories": [],
       "contactPhone": "(972) 989-9184",
       "contactUrl": "https://estatesales.org/estate-sale-companies/estate-sales-by-elaine-5035",
-      "photoCount": 93,
+      "photoCount": 92,
       "photoUrls": [
         "https://eso-cdn.tlcdn.workers.dev/s-2475201-wkzlw8qd2n7tu3jo.jpg",
         "https://eso-cdn.tlcdn.workers.dev/s-2475201-1tlmgpye9dprzy9k.jpg",
@@ -957,7 +942,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "93 photos",
+        "92 photos",
         "furniture, jewelry and vehicles in the listing",
         "runs 3 days"
       ],
@@ -1023,18 +1008,19 @@
         "23 photos",
         "tools, furniture and clothing in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "clothing",
-        "toys & games",
-        "antiques",
-        "dolls"
-      ],
-      "contentsLine": "Tools, furniture, clothing, toys & games and antiques.",
       "lat": 32.8366956,
       "lng": -96.7888596,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "boxed dolls",
+        "Santa decorations",
+        "pendulum wall clock",
+        "upholstered armchair",
+        "framed artwork",
+        "tiger-print ottoman"
+      ],
+      "contentsLine": "Boxed dolls sit near a doll in a ruffled dress. Another room holds Santa decorations, an armchair and a pendulum clock.",
+      "photoRead": true
     },
     {
       "id": "97682ffd2fcdb836",
@@ -1074,42 +1060,38 @@
       ],
       "contactPhone": "(682) 239-1746",
       "contactUrl": "https://estatesales.org/estate-sale-companies/a-dfw-estate-liquidators-3768",
-      "photoCount": 121,
+      "photoCount": 145,
       "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-qsniuma04njk1s24.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-46ho36o41202mv1w.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-lzxej9i495qgvzvb.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-zcvqj4jmwgji6jm1.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-fac86nxsjx48xtz8.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-qjhv7hlzqgv3hgwq.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-h5hwy40ycg8ts7yx.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-lkj3gaozpwo8bju4.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-nu979nz2zdvsq78g.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-no7jsb1x03clh27g.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-0d0ytist2aquuvya.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2468441-sn59ux7lu0y6r5aw.jpg"
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-xnk5p1dim8wh9vs4.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-e9y9rhjkialykqkg.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-0zyuuaesuilkdj8n.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-95ohyyzmk2k1iit2.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-35h2hufhwclehsgq.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-jkbbw9epjy3z44t4.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-ep01qfqoqmwh1nma.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-zzqxsz3qk3iryfyp.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-fvou5jjxs9m2pxxq.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-0ee6pyk8sso9srjb.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-s3e29dxhg9lt3kiy.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2468441-xfsc1fvnzqr9mr8s.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "121 photos",
+        "145 photos",
         "tools, furniture and collectibles in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "crystal",
-        "antiques"
-      ],
-      "contentsLine": "Tools, furniture, collectibles, kitchen and clothing.",
       "lat": 33.1437328,
       "lng": -97.236173,
-      "approximate": false
+      "approximate": false,
+      "photoKeywords": [
+        "giraffe figurines",
+        "upholstered office chair",
+        "sculpted heads",
+        "glass-top side table",
+        "decorative spheres"
+      ],
+      "contentsLine": "Giraffe figurines line a ledge. Other photos show sculpted heads, decorative spheres and a glass-top side table.",
+      "photoRead": true
     },
     {
       "id": "591fcc4c4d6f2872",
@@ -1150,7 +1132,7 @@
       ],
       "contactPhone": "(817) 781-1604",
       "contactUrl": "https://www.headofestatesales.com/",
-      "photoCount": 74,
+      "photoCount": 77,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5172096/1-1/025aece5-c2ac-4a84-9eb5-b03a8cf053a1.jpg",
         "https://picturescdn.estatesales.net/5172096/1-1/ae621ab3-7c69-4a3b-a978-7e4b766bad16.jpg",
@@ -1167,22 +1149,26 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "74 photos",
+        "77 photos",
         "furniture, jewelry and clothing in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "clothing"
-      ],
-      "contentsLine": "Furniture, jewelry and clothing.",
       "lat": 32.7025269,
       "lng": -97.3809922,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "Beatles '65 album cover",
+        "glass-front display cabinets",
+        "pink stemware",
+        "blue and white floor vase",
+        "pumpkin decorations",
+        "cased flatware"
+      ],
+      "contentsLine": "Photos show a Beatles '65 album cover, rows of pink stemware, cased flatware and a tall blue and white vase.",
+      "photoRead": true
     },
     {
-      "id": "09eaa9f45509e3de",
+      "id": "4a8b36b6b63c940c",
       "title": "Plano Remodeling Spectacular Black Friday Weekend",
       "company": "Treasures Once More, LLC",
       "streetAddress": null,
@@ -1209,6 +1195,10 @@
       ],
       "sources": [
         {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/plano/75023/plano-remodeling-spectacular-black-friday-2474108"
+        },
+        {
           "name": "EstateSales.net",
           "url": "https://www.estatesales.net/TX/Plano/75023/5162430"
         }
@@ -1216,7 +1206,7 @@
       "categories": [],
       "contactPhone": "(626) 926-6354",
       "contactUrl": "http://www.treasuresoncemore.com",
-      "photoCount": 108,
+      "photoCount": 119,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5162430/1-1/92b87efd-02a6-43ce-9a14-eecc54fb75c4.jpg",
         "https://picturescdn.estatesales.net/5162430/1-1/8440155f-98a2-4c0b-9351-8176e23419e9.jpg",
@@ -1233,7 +1223,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "108 photos",
+        "119 photos",
         "furniture, kitchen and clothing in the listing",
         "runs 3 days"
       ],
@@ -1247,66 +1237,6 @@
         "christmas decor"
       ],
       "contentsLine": "Furniture, kitchen, clothing, art and antiques.",
-      "lat": 33.0579749,
-      "lng": -96.7454322,
-      "approximate": true
-    },
-    {
-      "id": "4a8b36b6b63c940c",
-      "title": "Plano Remodeling Spectacular Black Friday Weekend",
-      "company": "Treasures Once More Estate Sales",
-      "streetAddress": null,
-      "city": "Plano",
-      "state": "TX",
-      "zip": "75023",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "09:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-29",
-          "start": "10:00",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/tx/plano/75023/plano-remodeling-spectacular-black-friday-2474108"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(626) 926-6354",
-      "contactUrl": "https://estatesales.org/estate-sale-companies/treasures-once-more-estate-sales-25374",
-      "photoCount": 20,
-      "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2474108-uy9bu2hecyqjsnz9.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474108-sekm0jw73ra97vkk.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474108-y5bnh1g0dt6edbbx.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474108-rv3t41g3f6tcb7k6.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474108-50fry9f0atmng0eh.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474108-4u02tktb37rehzbr.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474108-p2gjfurw3pm3nomd.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474108-9i416gq7gthnpn3v.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474108-r3q1tz3z98gf6uqa.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474108-8gpansivwbrt32su.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474108-w37ahyrh3suaof1h.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474108-z5l2qcgsb1v6x19y.jpg"
-      ],
-      "digRating": "Worth a Look",
-      "ratingReasons": [
-        "20 photos",
-        "runs 3 days"
-      ],
-      "photoKeywords": [],
       "lat": 33.0579749,
       "lng": -96.7454322,
       "approximate": true
@@ -1339,7 +1269,7 @@
         }
       ],
       "categories": [],
-      "photoCount": 119,
+      "photoCount": 155,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5153937/1-1/4b2c6912-cc9b-4baf-b1b9-77a09b586a91.jpg",
         "https://picturescdn.estatesales.net/5153937/1-1/446fb0cf-0ca1-456f-9780-ee768af380e5.jpg",
@@ -1356,7 +1286,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "119 photos",
+        "155 photos",
         "furniture, collectibles and kitchen in the listing"
       ],
       "photoKeywords": [
@@ -1479,14 +1409,24 @@
       "categories": [],
       "contactPhone": "(682) 297-9565",
       "contactUrl": "https://www.cowtownliquidation.com/",
-      "photoCount": 1,
+      "photoCount": 126,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5163087/1-1/c748b089-e880-4349-8bd3-da5ef25e4b4e.jpg"
+        "https://picturescdn.estatesales.net/5163087/1-1/6fc41b14-069b-4cb9-b9a5-8240ebb079ad.jpg",
+        "https://picturescdn.estatesales.net/5163087/1-1/785f4922-3de0-46d0-8f9a-6d914259546f.jpg",
+        "https://picturescdn.estatesales.net/5163087/1-1/a4068f2e-64b2-48b1-a2a2-9f26d36cbb9d.jpg",
+        "https://picturescdn.estatesales.net/5163087/1-1/d29645cf-0436-4db6-bfc1-69b4ea37f6d8.jpg",
+        "https://picturescdn.estatesales.net/5163087/1-1/2a0891af-984e-4dd9-bfd0-49709bb157b6.jpg",
+        "https://picturescdn.estatesales.net/5163087/1-1/60fb650a-61b3-4b87-bd7d-6c6af69cd344.jpg",
+        "https://picturescdn.estatesales.net/5163087/1-1/718fdf1a-61fe-4049-9f60-a4bbacccf054.jpg",
+        "https://picturescdn.estatesales.net/5163087/1-1/fab61a1d-47f2-4695-ab6d-e802d2ba3d58.jpg",
+        "https://picturescdn.estatesales.net/5163087/1-1/6d93877b-e575-4252-a058-d0cb596d2695.jpg",
+        "https://picturescdn.estatesales.net/5163087/1-1/93af4cfd-e0e9-4c90-a182-37da1a41fc02.jpg",
+        "https://picturescdn.estatesales.net/5163087/1-1/c6363044-ec95-4bb7-8c57-9eac262a9527.jpg",
+        "https://picturescdn.estatesales.net/5163087/1-1/51272c39-98e8-4f74-a870-0e656ab1d8fe.jpg"
       ],
-      "digRating": "Slim Pickings",
+      "digRating": "Worth a Look",
       "ratingReasons": [
-        "only 1 photo",
-        "few details in the listing"
+        "126 photos"
       ],
       "photoKeywords": [],
       "lat": 32.7223455,
@@ -1617,18 +1557,22 @@
       "digRating": "Deep Dig",
       "ratingReasons": [
         "149 photos",
-        "furniture, kitchen and art in the listing",
+        "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
       "photoKeywords": [
+        "tools",
         "furniture",
+        "jewelry",
+        "collectibles",
+        "vehicles",
         "kitchen",
+        "clothing",
         "art",
         "electronics",
-        "toys & games",
-        "mirrors"
+        "toys & games"
       ],
-      "contentsLine": "Furniture, kitchen, art, electronics and toys & games.",
+      "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles.",
       "lat": 32.6630829,
       "lng": -97.1614206,
       "approximate": true
@@ -1709,24 +1653,24 @@
       "categories": [],
       "contactPhone": "(214) 664-0506",
       "contactUrl": "http://www.anotherstreasure.org",
-      "photoCount": 389,
+      "photoCount": 470,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5167116/1-1/18a698d6-9055-4dfc-8281-caca5d0ae0f8.jpg",
         "https://picturescdn.estatesales.net/5167116/1-1/a8df19c9-84a1-479e-8a13-dbcae8ff6a14.jpg",
+        "https://picturescdn.estatesales.net/5167116/1-1/a40a677c-9d75-4cda-8cfd-f6a0ffea8d95.jpg",
+        "https://picturescdn.estatesales.net/5167116/1-1/fbdcd514-0398-44d3-8761-37405e05006b.jpg",
         "https://picturescdn.estatesales.net/5167116/1-1/2968b340-d156-49f9-9f8b-9f176cf9b508.jpg",
         "https://picturescdn.estatesales.net/5167116/1-1/38554fe7-38b8-475b-ae24-58da21e7455b.jpg",
         "https://picturescdn.estatesales.net/5167116/1-1/7d4846a1-0fd1-4015-99e6-04e84b55451d.jpg",
         "https://picturescdn.estatesales.net/5167116/1-1/f2e50bd7-fa04-4620-ad9e-44ccace0736b.jpg",
         "https://picturescdn.estatesales.net/5167116/1-1/236681aa-aa47-4894-a51b-d9a87c8299e8.jpg",
+        "https://picturescdn.estatesales.net/5167116/1-1/0b3393a8-fed5-41ef-9786-ed1d2e8d9707.jpg",
         "https://picturescdn.estatesales.net/5167116/1-1/a08bec8e-f18d-4d9e-a57a-74e314e74711.jpg",
-        "https://picturescdn.estatesales.net/5167116/1-1/05ddd386-88d4-4cd0-8adc-d2034086c0d1.jpg",
-        "https://picturescdn.estatesales.net/5167116/1-1/393e4e1b-a9b2-43c7-9dd2-fc062b742423.jpg",
-        "https://picturescdn.estatesales.net/5167116/1-1/de9779ac-da98-4c97-9588-18f0e0e3ee81.jpg",
-        "https://picturescdn.estatesales.net/5167116/1-1/182159a4-bdb6-45be-87e9-9c10052c2759.jpg"
+        "https://picturescdn.estatesales.net/5167116/1-1/05ddd386-88d4-4cd0-8adc-d2034086c0d1.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "389 photos",
+        "470 photos",
         "furniture, vehicles and kitchen in the listing",
         "runs 3 days"
       ],
@@ -1743,6 +1687,70 @@
       "contentsLine": "Furniture, vehicles, kitchen, clothing and art.",
       "lat": 33.0395247,
       "lng": -96.8103301,
+      "approximate": true
+    },
+    {
+      "id": "d57229f3d023b8e8",
+      "title": "Persian Rugs, Asian Decor, Mid-Century 40-50% Off",
+      "company": "Dixie Chatham",
+      "streetAddress": null,
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76112",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "08:30",
+          "end": "14:30"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "08:30",
+          "end": "14:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76112/5172729"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(512) 988-2933",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Smithville/78957/135488",
+      "photoCount": 156,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172729/1-1/b3454efa-af6d-496f-9993-3515d461d9b3.jpg",
+        "https://picturescdn.estatesales.net/5172729/1-1/5b961f06-2a73-4345-bd4d-59705a885576.jpg",
+        "https://picturescdn.estatesales.net/5172729/1-1/42ae0404-9609-4f94-9052-2e95f9218de7.jpg",
+        "https://picturescdn.estatesales.net/5172729/1-1/e3227177-e36f-42b3-a547-b63af13dc4d7.jpg",
+        "https://picturescdn.estatesales.net/5172729/1-1/5231e47a-33e4-4e31-bb20-01a6ea731d58.jpg",
+        "https://picturescdn.estatesales.net/5172729/1-1/aaa1922b-ad39-4d23-8fe0-04f9d66ff80c.jpg",
+        "https://picturescdn.estatesales.net/5172729/1-1/fd16a380-0f16-4352-9361-12b4a64b98c0.jpg",
+        "https://picturescdn.estatesales.net/5172729/1-1/31fa62ac-58a9-4978-b601-d91086421fb1.jpg",
+        "https://picturescdn.estatesales.net/5172729/1-1/9094c510-8e3a-41d0-9b43-eca26d723f7f.jpg",
+        "https://picturescdn.estatesales.net/5172729/1-1/3d146aea-d3fe-4840-8fb1-e8976320c3c6.jpg",
+        "https://picturescdn.estatesales.net/5172729/1-1/4453e73e-3bbd-40ef-b88b-d8eb2e3d0c5e.jpg",
+        "https://picturescdn.estatesales.net/5172729/1-1/650d8090-4bad-4fc8-9b93-1b53a4c773e4.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "156 photos",
+        "furniture, kitchen and clothing in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "mid-century",
+        "rugs"
+      ],
+      "contentsLine": "Furniture, kitchen, clothing, books and art.",
+      "lat": 32.7583875,
+      "lng": -97.2270583,
       "approximate": true
     },
     {
@@ -1879,22 +1887,20 @@
         "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and vehicles.",
       "lat": 33.0902532,
       "lng": -96.7464336,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "decorative spoons",
+        "spoon racks",
+        "wine glass markers",
+        "beaded bracelets",
+        "figurines",
+        "television",
+        "TV cabinet"
+      ],
+      "contentsLine": "Spoons fill wall racks. A tray holds bracelets and wine glass markers, and figurines line the TV cabinet.",
+      "photoRead": true
     },
     {
       "id": "5ac8cc8baacaf4ef",
@@ -1935,7 +1941,7 @@
       "categories": [],
       "contactPhone": "(469) 471-4187",
       "contactUrl": "https://www.retrobettiesestatesales.com",
-      "photoCount": 337,
+      "photoCount": 392,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5168928/1-1/f691aad2-cd47-4f83-a627-975d3fa02db7.jpg",
         "https://picturescdn.estatesales.net/5168928/1-1/ae23cad9-b8ee-4a7e-a651-de687f9ff162.jpg",
@@ -1952,7 +1958,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "337 photos",
+        "392 photos",
         "tools, furniture and collectibles in the listing",
         "runs 3 days"
       ],
@@ -2105,18 +2111,18 @@
         "furniture, jewelry and collectibles in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "christmas decor"
-      ],
-      "contentsLine": "Furniture, jewelry, collectibles, kitchen and clothing.",
       "lat": 33.1404442,
       "lng": -97.1695557,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "toy dairy wagon",
+        "iridescent lidded jar",
+        "oval dining table",
+        "cane-back chairs",
+        "china cabinet"
+      ],
+      "contentsLine": "A toy horse pulls a dairy wagon. Other photos show a lidded jar, an oval table, cane-back chairs and a china cabinet.",
+      "photoRead": true
     },
     {
       "id": "6bb7d2547f3d5e5b",
@@ -2173,22 +2179,20 @@
         "furniture, vinyl & records and collectibles in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "vinyl & records",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "toys & games",
-        "china",
-        "crystal"
-      ],
-      "contentsLine": "Furniture, vinyl & records, collectibles, kitchen and clothing.",
       "lat": 32.7460752,
       "lng": -97.1413755,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "The Book of Knowledge",
+        "bookcase",
+        "bar stools",
+        "pedestal table",
+        "table lamps",
+        "framed pictures",
+        "planter"
+      ],
+      "contentsLine": "Two shelves hold The Book of Knowledge volumes. Bar stools, a pedestal table and framed pictures fill the room.",
+      "photoRead": true
     },
     {
       "id": "112e1359aaffa0b8",
@@ -2465,13 +2469,20 @@
         "106 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "christmas decor"
-      ],
-      "contentsLine": "Christmas decor.",
       "lat": 32.8125108,
       "lng": -96.6861707,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "butterfly mugs",
+        "woven baskets",
+        "toolbox",
+        "pliers",
+        "table fan",
+        "fall garland",
+        "framed fruit still life"
+      ],
+      "contentsLine": "Blue butterfly mugs line a shelf, and yellow-handled pliers rest in a red toolbox.",
+      "photoRead": true
     },
     {
       "id": "08af83067aed0314",
@@ -2617,6 +2628,76 @@
       "photoKeywords": [],
       "lat": 32.8799326,
       "lng": -96.6494099,
+      "approximate": true
+    },
+    {
+      "id": "169d63e7dc07fa18",
+      "title": "Castle Couture & Curiosities!",
+      "company": "Bright Side Flips",
+      "streetAddress": null,
+      "city": "Carrollton",
+      "state": "TX",
+      "zip": "75010",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "09:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Carrollton/75010/5173086"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(817) 909-9194",
+      "contactUrl": "http://brightsideflips.com/",
+      "photoCount": 16,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173086/1-1/df8bac8b-59cb-4474-b142-b17835ebc5cd.jpg",
+        "https://picturescdn.estatesales.net/5173086/1-1/3fa03b39-1464-42a0-8f35-a074a550be79.jpg",
+        "https://picturescdn.estatesales.net/5173086/1-1/562e5a71-f113-44f0-93a1-6303e92fd6b7.jpg",
+        "https://picturescdn.estatesales.net/5173086/1-1/f88b9478-3ceb-4272-9c77-d7660e3b9262.jpg",
+        "https://picturescdn.estatesales.net/5173086/1-1/842693e0-53b7-4178-97b3-76ec4dae8759.jpg",
+        "https://picturescdn.estatesales.net/5173086/1-1/a5fca7ef-5f47-47c8-85cf-5bfc41769482.jpg",
+        "https://picturescdn.estatesales.net/5173086/1-1/1f42e886-db7b-402a-ac70-4385a9e0bce5.jpg",
+        "https://picturescdn.estatesales.net/5173086/1-1/1cee8010-ad68-4f32-accb-5fcf39997841.jpg",
+        "https://picturescdn.estatesales.net/5173086/1-1/31c5ad54-30c1-464c-911e-3cbbad1fdc95.jpg",
+        "https://picturescdn.estatesales.net/5173086/1-1/a1b81111-25a7-4c6c-ba90-f49eb2a5d446.jpg",
+        "https://picturescdn.estatesales.net/5173086/1-1/66fb3c63-811d-41d9-93d9-f200d25a1b94.jpg",
+        "https://picturescdn.estatesales.net/5173086/1-1/7b4cd7d7-9dee-44e9-aebd-e1f7105d3c01.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "16 photos",
+        "furniture, jewelry and clothing in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "clothing",
+        "art",
+        "rugs",
+        "mirrors",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, jewelry, clothing, art and rugs.",
+      "lat": 33.0281513,
+      "lng": -96.8990824,
       "approximate": true
     },
     {
@@ -2985,6 +3066,7 @@
       "digRating": "Deep Dig",
       "ratingReasons": [
         "60 photos",
+        "furniture, books and art in the listing",
         "runs 3 days"
       ],
       "lat": 32.6548136,
