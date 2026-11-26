@@ -163,8 +163,32 @@ function companyMatch(left, right) {
 // exactly one side has released its street and the titles are the same in
 // every meaningful word; the caller has already required the same company,
 // the same city and overlapping dates.
+//
+// Both sources can hold the street and still place the sale in different
+// ZIPs of one neighbourhood ("SUPER WEST MEADE ESTATE SALE!!" by Estate Sales
+// By Sheila sat in 37221 on EstateSales.org and 37205 on EstateSales.net,
+// Nashville feed 2026-11-26). With no street on either side, merge only when
+// the titles are the same, the listings give the same contact phone and they
+// list exactly the same sale days.
 function heldZipCrossPost(left, right) {
-  return !left.streetAddress !== !right.streetAddress && titlesSame(left.title, right.title);
+  if (!titlesSame(left.title, right.title)) return false;
+  if (!left.streetAddress !== !right.streetAddress) return true;
+  return !left.streetAddress && !right.streetAddress && samePhone(left, right) && sameDays(left, right);
+}
+
+function phoneDigits(record) {
+  const digits = String(record.contactPhone || '').replace(/\D/g, '');
+  return digits.length === 11 && digits.startsWith('1') ? digits.slice(1) : digits;
+}
+
+function samePhone(left, right) {
+  const a = phoneDigits(left);
+  return a.length === 10 && a === phoneDigits(right);
+}
+
+function sameDays(left, right) {
+  const days = record => [...new Set(record.sessions.map(session => session.date))].sort().join(',');
+  return days(left) === days(right);
 }
 
 function possibleCrossPost(leftGroup, rightGroup) {
