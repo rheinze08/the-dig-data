@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-26",
-  "collectedAt": "2026-11-26T19:59:16.500Z",
+  "asOf": "2026-11-27",
+  "collectedAt": "2026-11-27T14:21:42.991Z",
   "window": {
-    "start": "2026-11-26",
-    "end": "2026-12-09",
+    "start": "2026-11-27",
+    "end": "2026-12-10",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,35 +14,35 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 132/133 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
-      "candidates": 62,
-      "included": 43
+      "detail": "Read the public sale sitemap. Checked 136/137 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
+      "candidates": 77,
+      "included": 49
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 30 Dallas–Fort Worth directory cards over 2 pages. Checked 12/12 in-person local candidate details.",
-      "candidates": 9,
-      "included": 7
+      "detail": "Read 28 Dallas–Fort Worth directory cards over 2 pages. Checked 12/12 in-person local candidate details.",
+      "candidates": 11,
+      "included": 9
     },
     "Craigslist Dallas / Fort Worth": {
       "status": "reached",
-      "detail": "13 directory listings discovered; 2 in-window estate listings before radius filtering",
+      "detail": "17 directory listings discovered; 2 in-window estate listings before radius filtering",
       "candidates": 2,
       "included": 1
     },
     "GSALR.com": {
-      "status": "partial",
-      "detail": "https://gsalr.com/garage-sales-grapevine-tx.html — directory readable, estate listing details unverified",
+      "status": "blocked",
+      "detail": "https://gsalr.com/garage-sales-grapevine-tx.html — HTTP 403 Forbidden",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 73,
-    "listings": 51,
-    "sales": 46,
-    "duplicates": 5,
-    "outsideRadius": 21,
+    "candidates": 90,
+    "listings": 59,
+    "sales": 52,
+    "duplicates": 7,
+    "outsideRadius": 30,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -168,10 +168,18 @@
         "300 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [],
       "lat": 33.018423,
       "lng": -96.735494,
-      "approximate": false
+      "approximate": false,
+      "photoKeywords": [
+        "tufted loveseat",
+        "high-back armchair",
+        "curved sofa",
+        "fringed throw pillows",
+        "gold-tone side table"
+      ],
+      "contentsLine": "A loveseat and high-back armchair have tufted backs. Fringed pillows line a curved sofa.",
+      "photoRead": true
     },
     {
       "id": "a69a62e3be71bdec",
@@ -308,11 +316,11 @@
       "id": "aeecb0444133422b",
       "title": "Preston Hollow: DEMOLITION SALE: Unbeatable Deals by Dayspring",
       "company": "Dayspring Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "6238 Azalea Lane",
       "city": "Dallas",
       "state": "TX",
       "zip": "75230",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -367,9 +375,9 @@
         "figurines"
       ],
       "contentsLine": "Tools, furniture, collectibles, kitchen and clothing.",
-      "lat": 32.8972495,
-      "lng": -96.7955588,
-      "approximate": true
+      "lat": 32.8966549,
+      "lng": -96.7983175,
+      "approximate": false
     },
     {
       "id": "97682ffd2fcdb836",
@@ -521,11 +529,11 @@
       "id": "f903d523e89bc65b",
       "title": "ABOUT THE HOUSE in Highland Park",
       "company": "About The House",
-      "streetAddress": null,
+      "streetAddress": "3418 Dartmouth Ave",
       "city": "Dallas",
       "state": "TX",
       "zip": "75205",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -586,9 +594,9 @@
         "figurines"
       ],
       "contentsLine": "Furniture, vinyl & records, jewelry, collectibles and kitchen.",
-      "lat": 32.8366956,
-      "lng": -96.7888596,
-      "approximate": true
+      "lat": 32.8304819,
+      "lng": -96.7889145,
+      "approximate": false
     },
     {
       "id": "b99d78f12d5f1c32",
@@ -1011,22 +1019,20 @@
         "furniture, jewelry and vehicles in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "toys & games",
-        "china"
-      ],
-      "contentsLine": "Furniture, jewelry, vehicles, kitchen and clothing.",
       "lat": 32.9270131,
       "lng": -96.8699701,
-      "approximate": false
+      "approximate": false,
+      "photoKeywords": [
+        "foosball table",
+        "striped mugs",
+        "throw blankets",
+        "board games",
+        "shirts",
+        "bookcase",
+        "water bottles"
+      ],
+      "contentsLine": "A foosball table stands over framed art. Shelves hold folded blankets, and a rack holds shirts beside a bookcase.",
+      "photoRead": true
     },
     {
       "id": "cf712c765ead96a9",
@@ -1336,7 +1342,7 @@
         }
       ],
       "categories": [],
-      "photoCount": 155,
+      "photoCount": 176,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5153937/1-1/4b2c6912-cc9b-4baf-b1b9-77a09b586a91.jpg",
         "https://picturescdn.estatesales.net/5153937/1-1/446fb0cf-0ca1-456f-9780-ee768af380e5.jpg",
@@ -1353,7 +1359,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "155 photos",
+        "176 photos",
         "furniture, collectibles and kitchen in the listing"
       ],
       "photoKeywords": [
@@ -1374,13 +1380,13 @@
       "approximate": true
     },
     {
-      "id": "a2f0046e04618118",
+      "id": "cc0297b3fb99155e",
       "title": "Annie's Estate Sales ~ Arlington",
       "company": "Annie's Estate Sales",
       "streetAddress": "4223 Oak Springs Drive",
       "city": "Arlington",
       "state": "TX",
-      "zip": "76017",
+      "zip": "76016",
       "addressHidden": false,
       "sessions": [
         {
@@ -1402,7 +1408,7 @@
       "sources": [
         {
           "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/Arlington/76017/5120742"
+          "url": "https://www.estatesales.net/TX/Arlington/76016/5120742"
         }
       ],
       "categories": [],
@@ -1442,8 +1448,8 @@
         "electronics"
       ],
       "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
-      "lat": 32.680275,
-      "lng": -97.181046,
+      "lat": 32.6815803,
+      "lng": -97.1810007,
       "approximate": false
     },
     {
@@ -1720,7 +1726,7 @@
       "categories": [],
       "contactPhone": "(214) 664-0506",
       "contactUrl": "http://www.anotherstreasure.org",
-      "photoCount": 470,
+      "photoCount": 474,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5167116/1-1/18a698d6-9055-4dfc-8281-caca5d0ae0f8.jpg",
         "https://picturescdn.estatesales.net/5167116/1-1/a8df19c9-84a1-479e-8a13-dbcae8ff6a14.jpg",
@@ -1737,7 +1743,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "470 photos",
+        "474 photos",
         "furniture, vehicles and kitchen in the listing",
         "runs 3 days"
       ],
@@ -1808,19 +1814,17 @@
         "156 photos",
         "furniture, kitchen and clothing in the listing"
       ],
-      "photoKeywords": [
-        "furniture",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "mid-century",
-        "rugs"
-      ],
-      "contentsLine": "Furniture, kitchen, clothing, books and art.",
       "lat": 32.7583875,
       "lng": -97.2270583,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "navy runner rugs",
+        "cream floral runners",
+        "pink-bordered area rug",
+        "blue medallion rug"
+      ],
+      "contentsLine": "Fringed hallway runners have navy or cream grounds. Larger floral rugs show pink borders and a blue central medallion.",
+      "photoRead": true
     },
     {
       "id": "44781583afdd37a6",
@@ -2107,22 +2111,20 @@
         "tools, furniture and vinyl & records in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "vinyl & records",
-        "jewelry",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art"
-      ],
-      "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
       "lat": 33.0239585,
       "lng": -97.0975048,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "Santa figurines",
+        "plush snowmen",
+        "Christmas pillows",
+        "Christmas mugs",
+        "garden statue",
+        "serving bowls",
+        "chest of drawers"
+      ],
+      "contentsLine": "Plush snowmen and Christmas pillows line a bench. Santa figurines fill a table, and red Christmas mugs sit on shelves.",
+      "photoRead": true
     },
     {
       "id": "73bb8cbc7214f60c",
@@ -2755,19 +2757,19 @@
         "furniture, jewelry and clothing in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "clothing",
-        "art",
-        "rugs",
-        "mirrors",
-        "christmas decor"
-      ],
-      "contentsLine": "Furniture, jewelry, clothing, art and rugs.",
       "lat": 33.0281513,
       "lng": -96.8990824,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "woven chaise lounge",
+        "horned wall mask",
+        "framed landscape",
+        "hide-shaped rug",
+        "embroidered coat",
+        "round mirror"
+      ],
+      "contentsLine": "A woven chaise has a black-and-white checked cushion. A black coat has floral embroidery on its front and sleeves.",
+      "photoRead": true
     },
     {
       "id": "b380971dee9e0e20",
@@ -3050,24 +3052,24 @@
       "categories": [],
       "contactPhone": "(432) 661-1943",
       "contactUrl": "https://www.riverswind.com",
-      "photoCount": 117,
+      "photoCount": 122,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5165079/1-1/d090cabc-35a5-46d3-9e29-c5c16160b436.jpg",
-        "https://picturescdn.estatesales.net/5165079/1-1/bfa816ef-7802-418a-ab65-b2765af15fc7.jpg",
-        "https://picturescdn.estatesales.net/5165079/1-1/5dbdc0d4-3b3e-40b9-ae01-8e7eac93a9b6.jpg",
-        "https://picturescdn.estatesales.net/5165079/1-1/de284caf-740a-4715-9b42-6cdc46d6b17a.jpg",
-        "https://picturescdn.estatesales.net/5165079/1-1/ed21c6e4-79e2-4837-8803-02204a2b5b80.jpg",
-        "https://picturescdn.estatesales.net/5165079/1-1/39ec4e6e-615d-4ed5-88ed-54a689309b70.jpg",
-        "https://picturescdn.estatesales.net/5165079/1-1/e9502a55-f350-4e50-aba9-6edcb00806df.jpg",
-        "https://picturescdn.estatesales.net/5165079/1-1/79f2fe76-b9ee-4dad-b6c3-d39a52029018.jpg",
-        "https://picturescdn.estatesales.net/5165079/1-1/87ad117b-36f4-4241-9dc3-5e176c1ff3a7.jpg",
-        "https://picturescdn.estatesales.net/5165079/1-1/12ce1c0a-d131-4c04-8585-fe916abef1dd.jpg",
-        "https://picturescdn.estatesales.net/5165079/1-1/7e9db277-a9bc-43ca-96ac-7d56ddbc4219.jpg",
-        "https://picturescdn.estatesales.net/5165079/1-1/cf580562-729e-4d9e-b56d-b78fc60a5c1e.jpg"
+        "https://picturescdn.estatesales.net/5165079/1-1/69c84498-c611-49fe-8970-d67962d6420c.jpg",
+        "https://picturescdn.estatesales.net/5165079/1-1/58022617-8085-412a-b844-094e5a46923b.jpg",
+        "https://picturescdn.estatesales.net/5165079/1-1/4f7a5ba7-33dc-4a9f-8088-734f54d20d16.jpg",
+        "https://picturescdn.estatesales.net/5165079/1-1/7951793c-49ae-41d7-9d75-b9dc78ada361.jpg",
+        "https://picturescdn.estatesales.net/5165079/1-1/92771804-4165-4903-bc27-8842e936ead5.jpg",
+        "https://picturescdn.estatesales.net/5165079/1-1/036ed89a-394e-48cc-95d8-be4034f1ac88.jpg",
+        "https://picturescdn.estatesales.net/5165079/1-1/d559722e-9992-4cd9-8933-c8a2d57e64e4.jpg",
+        "https://picturescdn.estatesales.net/5165079/1-1/cddbf8ca-bd9d-4e2f-8aab-9510a5bdcf13.jpg",
+        "https://picturescdn.estatesales.net/5165079/1-1/16fe2f7b-b8ea-4a2d-b38d-d8437cd79012.jpg",
+        "https://picturescdn.estatesales.net/5165079/1-1/8ee4ee4b-d6ec-4fad-8ef9-edb98ca166df.jpg",
+        "https://picturescdn.estatesales.net/5165079/1-1/7ad0ae2d-9a0c-42e2-bc32-89fb3365741d.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "117 photos",
+        "122 photos",
         "runs 3 days"
       ],
       "lat": 32.82718,
@@ -3150,6 +3152,434 @@
       ],
       "contentsLine": "Stereo components, two animal-back bar stools, a brown sofa and a framed portrait are pictured.",
       "photoRead": true
+    },
+    {
+      "id": "c2030cfb62206ddd",
+      "title": "RITZY POP-UP 3 ESTATES BOUTIQUE SHOPPING EXTRAVAGANZA!",
+      "company": "Cottage Classics Estate Sales",
+      "streetAddress": null,
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76107",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-09",
+          "start": "16:00",
+          "end": "20:00"
+        },
+        {
+          "date": "2026-12-10",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76107/5173875"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(817) 729-6849",
+      "contactUrl": "http://www.cottageclassicsestatesales.com",
+      "photoCount": 403,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173875/1-1/82ed4960-a863-434c-bd31-37a98716e6e6.jpg",
+        "https://picturescdn.estatesales.net/5173875/1-1/b917574e-a289-4a78-8c8a-914f3271ee3c.jpg",
+        "https://picturescdn.estatesales.net/5173875/1-1/d5b390d9-84b2-4ade-a916-ea21f562eb1f.jpg",
+        "https://picturescdn.estatesales.net/5173875/1-1/d34a5e02-c404-4506-9012-c861a1cac5d4.jpg",
+        "https://picturescdn.estatesales.net/5173875/1-1/b9b22b61-36aa-448a-8786-0b526d73890b.jpg",
+        "https://picturescdn.estatesales.net/5173875/1-1/958c55d7-e863-4a8c-80ab-e4bd14306bfe.jpg",
+        "https://picturescdn.estatesales.net/5173875/1-1/1ecc5217-ce86-4cbf-8730-6c10cfe0be36.jpg",
+        "https://picturescdn.estatesales.net/5173875/1-1/9c3c96de-7b91-4e61-8b6e-98295696775c.jpg",
+        "https://picturescdn.estatesales.net/5173875/1-1/22b4196c-92f4-40d4-96be-44a765c468da.jpg",
+        "https://picturescdn.estatesales.net/5173875/1-1/524c80d7-4d18-4836-8baa-21d6c89d0342.jpg",
+        "https://picturescdn.estatesales.net/5173875/1-1/1b458a6e-0196-4eaf-a3fe-bf8da5fdd8aa.jpg",
+        "https://picturescdn.estatesales.net/5173875/1-1/678e9ca8-3ca9-4718-8d2b-56ee7c5adba1.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "403 photos",
+        "runs 4 days"
+      ],
+      "photoKeywords": [],
+      "lat": 32.7393726,
+      "lng": -97.3792404,
+      "approximate": true
+    },
+    {
+      "id": "706a2878586c22ae",
+      "title": "University Park: Unbeatable Deals by Dayspring",
+      "company": "Dayspring Estate Sales",
+      "streetAddress": null,
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75205",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "start": "08:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "08:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "08:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75205/5168148"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(469) 744-8786",
+      "contactUrl": "https://dayspringestatesales.com/",
+      "photoCount": 494,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5168148/1-1/1a65a938-d753-4576-a8f3-1136aceafb4d.jpg",
+        "https://picturescdn.estatesales.net/5168148/1-1/bd2f23be-57dc-451f-905e-2d87cf03fb0c.jpg",
+        "https://picturescdn.estatesales.net/5168148/1-1/b8c2f065-dbfd-4d31-acf0-22bcf39a04fc.jpg",
+        "https://picturescdn.estatesales.net/5168148/1-1/856bcd4b-18d3-497a-954e-d34d063170c4.jpg",
+        "https://picturescdn.estatesales.net/5168148/1-1/ff5387fc-b1fb-4d5d-b7b1-6ecec232129e.jpg",
+        "https://picturescdn.estatesales.net/5168148/1-1/9f1000c4-138c-4f6d-9401-88aa0218f56c.jpg",
+        "https://picturescdn.estatesales.net/5168148/1-1/bade4327-499a-4135-9967-844476578a26.jpg",
+        "https://picturescdn.estatesales.net/5168148/1-1/9549f9a2-105e-4f67-8e65-6a94ca1e601f.jpg",
+        "https://picturescdn.estatesales.net/5168148/1-1/d00d3c69-4b97-44d3-b826-76604849ddfa.jpg",
+        "https://picturescdn.estatesales.net/5168148/1-1/0f904eb6-fe83-4054-9f4c-7c55ae8b6306.jpg",
+        "https://picturescdn.estatesales.net/5168148/1-1/e4da7cce-08b3-41ea-a5b1-181a4a800670.jpg",
+        "https://picturescdn.estatesales.net/5168148/1-1/ec6b9a0f-5baf-44f2-86df-2a212efa9443.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "494 photos",
+        "tools, furniture and jewelry in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "figurines"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
+      "lat": 32.8366956,
+      "lng": -96.7888596,
+      "approximate": true
+    },
+    {
+      "id": "400c8a33ccf7e4b7",
+      "title": "A FAMILY AFFAIR MODERN FURNITURE & CHILD'S PLAY ESTATE SALE BY ALAMO AZTEK ESTATE SALES DFW",
+      "company": "Alamo Aztek Estate Sales",
+      "streetAddress": null,
+      "city": "Carrollton",
+      "state": "TX",
+      "zip": "75007",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/carrollton/75007/a-family-affair-modern-furniture-2473794"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Carrollton/75007/5160351"
+        }
+      ],
+      "categories": [
+        "furniture"
+      ],
+      "contactPhone": "(254) 459-8658",
+      "contactUrl": "http://www.alamoestatesales.com",
+      "photoCount": 131,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5160351/1-1/eca16f1e-84a0-4196-baa6-b46f3d0d535d.jpg",
+        "https://picturescdn.estatesales.net/5160351/1-1/3b89906d-6886-405d-adee-5d2e9b9d7b5f.jpg",
+        "https://picturescdn.estatesales.net/5160351/1-1/6365fced-4bcf-4e75-aa37-e582bbf8bdc5.jpg",
+        "https://picturescdn.estatesales.net/5160351/1-1/cc08688b-a40e-4540-9987-df7207cb2f5b.jpg",
+        "https://picturescdn.estatesales.net/5160351/1-1/52b0218e-1b12-4370-8b7a-d17448d453fd.jpg",
+        "https://picturescdn.estatesales.net/5160351/1-1/b38f8f32-ccc2-4597-b1cc-2999754a972d.jpg",
+        "https://picturescdn.estatesales.net/5160351/1-1/8b4eb3b1-3083-488b-80f4-24c60610e714.jpg",
+        "https://picturescdn.estatesales.net/5160351/1-1/d4b541f6-a14e-4caa-9534-b321c2cf2084.jpg",
+        "https://picturescdn.estatesales.net/5160351/1-1/154286c5-3ccd-4b6b-9c59-75df97b24faa.jpg",
+        "https://picturescdn.estatesales.net/5160351/1-1/4773a2b8-1080-47c6-a586-0a0545535b49.jpg",
+        "https://picturescdn.estatesales.net/5160351/1-1/895b8b73-e724-4e65-8dbe-10839fe75d4a.jpg",
+        "https://picturescdn.estatesales.net/5160351/1-1/f96ffda5-9660-48af-89fd-780c2e4232bd.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "131 photos",
+        "tools, furniture and kitchen in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "kitchen",
+        "clothing",
+        "books",
+        "electronics",
+        "toys & games",
+        "patio furniture"
+      ],
+      "contentsLine": "Tools, furniture, kitchen, clothing and books.",
+      "lat": 33.0064187,
+      "lng": -96.8981365,
+      "approximate": true
+    },
+    {
+      "id": "4904b6738741eec1",
+      "title": "Greene with Envy!",
+      "company": "Red Carpet Estate Services",
+      "streetAddress": null,
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76109",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-13",
+          "start": "13:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Fort-Worth/76109/5173026"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(817) 253-7753",
+      "contactUrl": "https://redcarpetestate.com/",
+      "photoCount": 14,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173026/1-1/80ba02d9-748e-4e26-abab-9ae102cf2228.jpg",
+        "https://picturescdn.estatesales.net/5173026/1-1/c643f1d5-f43e-4ba0-aaa5-cfc7c9ba2fd2.jpg",
+        "https://picturescdn.estatesales.net/5173026/1-1/7b79a317-8e3b-4111-b7af-69cc1a936584.jpg",
+        "https://picturescdn.estatesales.net/5173026/1-1/5f7f307a-9bf2-41ab-aacf-f8a2c2db6307.jpg",
+        "https://picturescdn.estatesales.net/5173026/1-1/63c9793e-9a2c-411b-84bf-8727d8d339cf.jpg",
+        "https://picturescdn.estatesales.net/5173026/1-1/e54a9a68-2ec6-4755-aa7d-2ac064e50dbe.jpg",
+        "https://picturescdn.estatesales.net/5173026/1-1/118584f3-fee6-4c4c-96f9-1fab6e7fcf78.jpg",
+        "https://picturescdn.estatesales.net/5173026/1-1/32ca4aed-5aef-4a09-a1fa-a980649cab26.jpg",
+        "https://picturescdn.estatesales.net/5173026/1-1/2c46efc9-ecd2-400d-aec5-5cd8846de98e.jpg",
+        "https://picturescdn.estatesales.net/5173026/1-1/dec75aad-b8f1-4e68-b3ed-3eb6c68dfba7.jpg",
+        "https://picturescdn.estatesales.net/5173026/1-1/17d40775-259a-4134-8ab2-50941d1e7e0c.jpg",
+        "https://picturescdn.estatesales.net/5173026/1-1/0f0055a4-4a99-4687-9624-7fc7c5affeb0.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "14 photos",
+        "runs 4 days"
+      ],
+      "photoKeywords": [],
+      "lat": 32.7025269,
+      "lng": -97.3809922,
+      "approximate": true
+    },
+    {
+      "id": "c285175bb5a80252",
+      "title": "UPSCALE ELEGANCE AMERICAN COLONIAL FURNITURE & APPLIANCE ESTATE SALE BY ALAMO AZTEK ESTATE SALES DFW",
+      "company": "Alamo Aztek Estate Sales",
+      "streetAddress": null,
+      "city": "Irving",
+      "state": "TX",
+      "zip": "75039",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/irving/75039/upscale-elegance-american-colonial-georgian-2473748"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Irving/75039/5159379"
+        }
+      ],
+      "categories": [
+        "furniture"
+      ],
+      "contactPhone": "(254) 459-8658",
+      "contactUrl": "http://www.alamoestatesales.com",
+      "photoCount": 148,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5159379/1-1/208464d6-b409-40e6-b3bc-770030750d9c.jpg",
+        "https://picturescdn.estatesales.net/5159379/1-1/459436ba-8894-40d4-807a-1ced44fd3f2c.jpg",
+        "https://picturescdn.estatesales.net/5159379/1-1/17335531-791f-4b0f-9c33-fd5553641f60.jpg",
+        "https://picturescdn.estatesales.net/5159379/1-1/d0e159b4-cc98-4af9-8843-dd984cf9b4c1.jpg",
+        "https://picturescdn.estatesales.net/5159379/1-1/8374df05-c2e7-4d9b-b272-8a73b78721ff.jpg",
+        "https://picturescdn.estatesales.net/5159379/1-1/9cf5210e-7825-4ee6-93dd-90320d76bae9.jpg",
+        "https://picturescdn.estatesales.net/5159379/1-1/fd339403-1146-4ca4-ba7a-205a6a285f23.jpg",
+        "https://picturescdn.estatesales.net/5159379/1-1/9339515b-9134-419c-bfc9-575d739e5819.jpg",
+        "https://picturescdn.estatesales.net/5159379/1-1/e2521184-deaa-42b0-89de-8136e6834b55.jpg",
+        "https://picturescdn.estatesales.net/5159379/1-1/0292391b-4879-43c2-b8cc-2cdeb265d4c3.jpg",
+        "https://picturescdn.estatesales.net/5159379/1-1/7cc3ba76-9f18-42d2-8e81-4a0336d0b167.jpg",
+        "https://picturescdn.estatesales.net/5159379/1-1/cd73283f-a30c-4421-b92b-21ceaddfde9e.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "148 photos",
+        "tools, furniture and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "toys & games",
+        "rugs"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, kitchen and clothing.",
+      "lat": 32.8911964,
+      "lng": -96.849772,
+      "approximate": true
+    },
+    {
+      "id": "9a367b1405a00120",
+      "title": "Helping Hands in Plano",
+      "company": "Helping Hands By Ms.kay",
+      "streetAddress": null,
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75023",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Plano/75023/5167953"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(214) 208-7057",
+      "contactUrl": "https://www.facebook.com/HelpingHandsByMs.Kay",
+      "photoCount": 171,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5167953/1-1/5b26be5c-713e-40de-9cfc-54f05fcb885c.jpg",
+        "https://picturescdn.estatesales.net/5167953/1-1/cb2c59fb-134f-4767-bc1b-cb9c6a415007.jpg",
+        "https://picturescdn.estatesales.net/5167953/1-1/cbe11000-c2aa-4e8e-a6b8-e90f7870f01c.jpg",
+        "https://picturescdn.estatesales.net/5167953/1-1/27a44907-8928-4c53-a62a-cb8e5b40a98d.jpg",
+        "https://picturescdn.estatesales.net/5167953/1-1/746a289c-49a6-441f-a74a-9c80724936f2.jpg",
+        "https://picturescdn.estatesales.net/5167953/1-1/8c000a54-67f9-4110-8013-a12623166afe.jpg",
+        "https://picturescdn.estatesales.net/5167953/1-1/30f9ad3a-2e6d-4e20-8f87-c788a7b2c2f4.jpg",
+        "https://picturescdn.estatesales.net/5167953/1-1/6dea5441-2a0c-4374-b21a-7cdea562c18d.jpg",
+        "https://picturescdn.estatesales.net/5167953/1-1/2f6d67c1-0afc-4ee9-8016-fb8bc24d2ff0.jpg",
+        "https://picturescdn.estatesales.net/5167953/1-1/1d19782c-d9e8-4080-b4b7-ea04f73547ef.jpg",
+        "https://picturescdn.estatesales.net/5167953/1-1/56c3ca7e-cb10-41d9-bd47-7dd8e4aa3d21.jpg",
+        "https://picturescdn.estatesales.net/5167953/1-1/a534c88f-164b-47a3-ba80-43854a1a7e12.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "171 photos",
+        "furniture, collectibles and vehicles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "vehicles",
+        "art",
+        "toys & games",
+        "figurines"
+      ],
+      "contentsLine": "Furniture, collectibles, vehicles, art and toys & games.",
+      "lat": 33.0579749,
+      "lng": -96.7454322,
+      "approximate": true
     }
   ]
 }

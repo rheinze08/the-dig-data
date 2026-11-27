@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-26",
-  "collectedAt": "2026-11-26T20:01:18.948Z",
+  "asOf": "2026-11-27",
+  "collectedAt": "2026-11-27T14:23:50.947Z",
   "window": {
-    "start": "2026-11-26",
-    "end": "2026-12-09",
+    "start": "2026-11-27",
+    "end": "2026-12-10",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,9 +14,9 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 58/58 local candidate details.",
-      "candidates": 27,
-      "included": 21
+      "detail": "Read the public sale sitemap. Checked 60/60 local candidate details.",
+      "candidates": 33,
+      "included": 24
     },
     "EstateSales.org": {
       "status": "reached",
@@ -26,23 +26,23 @@
     },
     "Craigslist San Antonio": {
       "status": "reached",
-      "detail": "15 directory listings discovered; 1 in-window estate listings before radius filtering",
+      "detail": "19 directory listings discovered; 1 in-window estate listings before radius filtering",
       "candidates": 1,
       "included": 1
     },
     "GSALR.com": {
-      "status": "partial",
-      "detail": "https://gsalr.com/garage-sales-san-antonio-tx.html — directory readable, estate listing details unverified",
+      "status": "blocked",
+      "detail": "https://gsalr.com/garage-sales-san-antonio-tx.html — HTTP 403 Forbidden",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 30,
-    "listings": 22,
-    "sales": 22,
+    "candidates": 36,
+    "listings": 25,
+    "sales": 25,
     "duplicates": 0,
-    "outsideRadius": 6,
+    "outsideRadius": 9,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -317,11 +317,11 @@
       "id": "79ea8c12d3fb6cab",
       "title": "Groovy 1970s Estate Sale: Retro Furniture, Decor & Collectibles",
       "company": "San Antonio Estate Sales LLC",
-      "streetAddress": null,
+      "streetAddress": "8810 Tuxford Dr",
       "city": "San Antonio",
       "state": "TX",
       "zip": "78239",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -372,21 +372,78 @@
         "tools, furniture and collectibles in the listing",
         "runs 3 days"
       ],
+      "lat": 29.5201126,
+      "lng": -98.35288829999999,
+      "approximate": false,
       "photoKeywords": [
-        "tools",
-        "furniture",
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "art",
-        "electronics",
-        "figurines",
-        "crystal"
+        "tufted sofa",
+        "loveseat",
+        "round armchair",
+        "glass coffee table",
+        "Santa cutout",
+        "boxed flatware",
+        "dining chairs",
+        "floor vase"
       ],
-      "contentsLine": "Tools, furniture, collectibles, vehicles and kitchen.",
-      "lat": 29.5177775,
-      "lng": -98.3748987,
+      "contentsLine": "A brown tufted sofa, loveseat and round armchair have matching pillows. An open flatware case rests on the dining table.",
+      "photoRead": true
+    },
+    {
+      "id": "98792a384cda71b3",
+      "title": "70% off Lladros / Clothing / Furniture & More",
+      "company": "Satx Select Liquidators LLC",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78232",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78232/5173791"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "clothing"
+      ],
+      "contactPhone": "(210) 783-7900",
+      "contactUrl": "Https://satxselectliquidators.com",
+      "photoCount": 30,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173791/1-1/f0ad30d8-9c3c-4679-8a92-08a005697f51.jpg",
+        "https://picturescdn.estatesales.net/5173791/1-1/71d086a1-d8a9-4d57-90e2-49ce85e58a01.jpg",
+        "https://picturescdn.estatesales.net/5173791/1-1/ce2a9630-0475-4cda-a44a-a5ee9913e4a8.jpg",
+        "https://picturescdn.estatesales.net/5173791/1-1/168421a7-dd37-4c2c-aeb6-e47b40ecbcf2.jpg",
+        "https://picturescdn.estatesales.net/5173791/1-1/ddbb4506-5ccf-4c6f-8898-b37112dcb5a3.jpg",
+        "https://picturescdn.estatesales.net/5173791/1-1/eb8094f6-c0b9-4db1-8bcc-49d93da9415e.jpg",
+        "https://picturescdn.estatesales.net/5173791/1-1/2497816a-b806-490d-b44a-8ef94cd974cb.jpg",
+        "https://picturescdn.estatesales.net/5173791/1-1/5d05af46-f5c3-4b00-8b1d-d516dfdf5f01.jpg",
+        "https://picturescdn.estatesales.net/5173791/1-1/c8cf1193-0eab-46fb-a908-a466de8cf4f2.jpg",
+        "https://picturescdn.estatesales.net/5173791/1-1/59396dbc-f242-4e57-8f8a-e5b4f5fd325f.jpg",
+        "https://picturescdn.estatesales.net/5173791/1-1/91c94cc9-36bb-425b-a72f-88e237170e4b.jpg",
+        "https://picturescdn.estatesales.net/5173791/1-1/bf4dfc58-ae3c-4a08-838d-82a2cfc9e4db.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "30 photos",
+        "furniture, jewelry and clothing in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "clothing"
+      ],
+      "contentsLine": "Furniture, jewelry and clothing.",
+      "lat": 29.590754,
+      "lng": -98.4737638,
       "approximate": true
     },
     {
@@ -496,7 +553,7 @@
         "toys & games"
       ],
       "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78259/158639",
-      "photoCount": 232,
+      "photoCount": 242,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5173416/1-1/da996de0-2a01-48a2-a3ad-6fccfca68752.jpg",
         "https://picturescdn.estatesales.net/5173416/1-1/edf82350-6a6a-426e-8671-b1786a8d6eef.jpg",
@@ -513,26 +570,24 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "232 photos",
+        "242 photos",
         "tools, furniture and jewelry in the listing",
         "runs 4 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "electronics",
-        "toys & games",
-        "antiques"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
       "lat": 29.497409,
       "lng": -98.419527,
-      "approximate": false
+      "approximate": false,
+      "photoKeywords": [
+        "KitchenAid stand mixers",
+        "R2-D2 bag",
+        "SpongeBob backpack",
+        "camouflage waist bag",
+        "handbags",
+        "Pikachu plush",
+        "kegerator"
+      ],
+      "contentsLine": "Pink, red and black stand mixers fill a case beneath character bags, handbags and a Pikachu plush.",
+      "photoRead": true
     },
     {
       "id": "fc04deed497f104c",
@@ -573,8 +628,9 @@
       ],
       "contactPhone": "(210) 765-2205",
       "contactUrl": "https://www.aboutfaceestatesales.com",
-      "photoCount": 241,
+      "photoCount": 242,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5173149/2-1/627d926a-f5d0-456d-b5b7-d70c9578f706.jpg",
         "https://picturescdn.estatesales.net/5173149/1-1/d9cb9ebd-4b4b-45b1-899a-3e59e3015997.jpg",
         "https://picturescdn.estatesales.net/5173149/1-1/e4c9a84e-3c73-4c3a-b8c0-7b24907b3500.jpg",
         "https://picturescdn.estatesales.net/5173149/1-1/c1f74dd0-81e5-4a46-9873-c9bf407c8c95.jpg",
@@ -585,31 +641,25 @@
         "https://picturescdn.estatesales.net/5173149/1-1/41efc60b-0985-48d5-a587-ce1b7629683a.jpg",
         "https://picturescdn.estatesales.net/5173149/1-1/afceba79-ef95-482c-815d-adee2946af56.jpg",
         "https://picturescdn.estatesales.net/5173149/1-1/381f3095-8b0b-445d-a0d3-10f4c7181e8a.jpg",
-        "https://picturescdn.estatesales.net/5173149/1-1/45d81908-dd3b-4eab-9dbc-84f0ab9b8468.jpg",
-        "https://picturescdn.estatesales.net/5173149/1-1/dc997afd-c0e7-44a0-a075-aad55b4ad970.jpg"
+        "https://picturescdn.estatesales.net/5173149/1-1/45d81908-dd3b-4eab-9dbc-84f0ab9b8468.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "241 photos",
+        "242 photos",
         "tools, furniture and vinyl & records in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "vinyl & records",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "electronics",
-        "toys & games",
-        "figurines",
-        "antiques"
-      ],
-      "contentsLine": "Tools, furniture, vinyl & records, collectibles and kitchen.",
       "lat": 29.588897,
       "lng": -98.523012,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "Blizzard upright piano",
+        "wall mirror",
+        "framed windmill landscape",
+        "framed lantern portrait"
+      ],
+      "contentsLine": "A mirror reflects a Blizzard upright piano with a Texas star panel. Framed art shows a windmill and a lantern bearer.",
+      "photoRead": true
     },
     {
       "id": "a79f908b58fbfa02",
@@ -914,7 +964,7 @@
       ],
       "contactPhone": "(210) 844-2130",
       "contactUrl": "https://www.junehayes.com/",
-      "photoCount": 180,
+      "photoCount": 179,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5163522/1-1/adbbfd84-13a6-4453-8222-ec05d8f85062.jpg",
         "https://picturescdn.estatesales.net/5163522/1-1/876c9132-8517-49c1-9959-4460c629f893.jpg",
@@ -931,7 +981,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "180 photos",
+        "179 photos",
         "jewelry, collectibles and clothing in the listing",
         "runs 3 days"
       ],
@@ -981,7 +1031,7 @@
       "categories": [],
       "contactPhone": "(210) 559-7706",
       "contactUrl": "http://crystalsestatesales.com",
-      "photoCount": 29,
+      "photoCount": 57,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5155791/1-1/fc1c22bd-b37f-4879-a6b8-0df4e6529c04.jpg",
         "https://picturescdn.estatesales.net/5155791/1-1/0d3e382d-253e-4f58-af01-a767fb3cd0d6.jpg",
@@ -996,9 +1046,9 @@
         "https://picturescdn.estatesales.net/5155791/1-1/39eb4671-3efb-4edd-b3c9-916bdb79e3c2.jpg",
         "https://picturescdn.estatesales.net/5155791/1-1/5fdd794a-655e-49d3-9da3-5bc87c62c707.jpg"
       ],
-      "digRating": "Worth a Look",
+      "digRating": "Deep Dig",
       "ratingReasons": [
-        "29 photos",
+        "57 photos",
         "runs 3 days"
       ],
       "photoKeywords": [],
@@ -1203,10 +1253,20 @@
         "69 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [],
       "lat": 29.6116987,
       "lng": -98.6190257,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "blue and white jars",
+        "candlesticks",
+        "striped wingback chair",
+        "brown coat",
+        "framed landscape",
+        "throw pillows",
+        "bird pedestal table"
+      ],
+      "contentsLine": "Blue and white jars and candlesticks line the mantel. A bird perches on the branch-shaped base of a small table.",
+      "photoRead": true
     },
     {
       "id": "b1b05208182ed34e",
@@ -1494,6 +1554,154 @@
       "contentsLine": "Jewelry and clothing.",
       "lat": 29.5143913,
       "lng": -98.5200298,
+      "approximate": true
+    },
+    {
+      "id": "7acdc932c95aa58b",
+      "title": "COLLECTIBLE TREASURES ESTATE SALE",
+      "company": "Complete Estate Sale Services",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78239",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78239/5169681"
+        }
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "contactPhone": "(210) 379-1004",
+      "contactUrl": "http://www.completeestatesaleservices.com",
+      "photoCount": 172,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5169681/1-1/93dfdb04-4f6f-44c9-9f97-f3251de73a19.jpg",
+        "https://picturescdn.estatesales.net/5169681/1-1/0f6fa7da-c88a-4e4d-8bc1-d0874e0f5f2d.jpg",
+        "https://picturescdn.estatesales.net/5169681/1-1/316e4149-41ab-4d7c-ab17-d8c5477d4fd4.jpg",
+        "https://picturescdn.estatesales.net/5169681/1-1/ed48ed35-156c-4303-bc59-290f4f577a5d.jpg",
+        "https://picturescdn.estatesales.net/5169681/1-1/23270439-f731-4f69-b6e9-708e09b0e984.jpg",
+        "https://picturescdn.estatesales.net/5169681/1-1/9100a2a2-d527-4992-bc59-80bffd04cb12.jpg",
+        "https://picturescdn.estatesales.net/5169681/1-1/2c174cb0-ad1c-4f22-8e06-0727a8f813e6.jpg",
+        "https://picturescdn.estatesales.net/5169681/1-1/2cae4cc6-5dee-4026-8d3a-c3b59adb3479.jpg",
+        "https://picturescdn.estatesales.net/5169681/1-1/c7b6c68f-8c0b-4636-9bd1-0cf4a97688bc.jpg",
+        "https://picturescdn.estatesales.net/5169681/1-1/9227a1ee-f7a5-4885-9f26-86c9f064ae48.jpg",
+        "https://picturescdn.estatesales.net/5169681/1-1/183c1548-0994-4927-b14e-731665e7ddb1.jpg",
+        "https://picturescdn.estatesales.net/5169681/1-1/6f198392-b591-4772-8c08-3c5ca03f7e2b.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "172 photos",
+        "tools, furniture and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "toys & games",
+        "figurines"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, kitchen and clothing.",
+      "lat": 29.5177775,
+      "lng": -98.3748987,
+      "approximate": true
+    },
+    {
+      "id": "d2ff6e0b4de88831",
+      "title": "PACKED HOUSE ON THE NORTH SIDE",
+      "company": "Complete Estate Sale Services",
+      "streetAddress": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78216",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78216/5172381"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(210) 379-1004",
+      "contactUrl": "http://www.completeestatesaleservices.com",
+      "photoCount": 157,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172381/1-1/87d0988b-86d7-4f89-a030-0cc79f74313a.jpg",
+        "https://picturescdn.estatesales.net/5172381/1-1/b6985772-19a3-4302-a06a-7fbb34fe5035.jpg",
+        "https://picturescdn.estatesales.net/5172381/1-1/dc7d025d-4901-404e-b529-4cf6fd5263de.jpg",
+        "https://picturescdn.estatesales.net/5172381/1-1/f6e2ec96-fb6c-4dba-b370-151ae8c9509a.jpg",
+        "https://picturescdn.estatesales.net/5172381/1-1/5719627b-6e1e-4aba-905c-e1ee26580677.jpg",
+        "https://picturescdn.estatesales.net/5172381/1-1/065e0614-bccf-49a4-adb5-7c1268f51688.jpg",
+        "https://picturescdn.estatesales.net/5172381/1-1/6c20722c-e73e-4be1-a757-8d87c5eb798f.jpg",
+        "https://picturescdn.estatesales.net/5172381/1-1/cdc45525-21b2-47db-ab4c-c4c9abe72827.jpg",
+        "https://picturescdn.estatesales.net/5172381/1-1/f7fa7d55-2dba-428a-8805-77f9f5c5179a.jpg",
+        "https://picturescdn.estatesales.net/5172381/1-1/b35187f2-05d6-40bd-9b40-8a058bd3ceb7.jpg",
+        "https://picturescdn.estatesales.net/5172381/1-1/c45f6613-3daa-4409-ba94-7171949f0ac3.jpg",
+        "https://picturescdn.estatesales.net/5172381/1-1/8d2120f8-cb37-4e27-a334-c3d5fdcec3a3.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "157 photos",
+        "tools, furniture and kitchen in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "kitchen",
+        "clothing",
+        "books",
+        "electronics",
+        "antiques",
+        "lamps",
+        "cameras",
+        "christmas decor"
+      ],
+      "contentsLine": "Tools, furniture, kitchen, clothing and books.",
+      "lat": 29.5396288,
+      "lng": -98.4966516,
       "approximate": true
     }
   ]

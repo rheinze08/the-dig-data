@@ -496,6 +496,11 @@
     "lng": -96.5921827,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:3418 dartmouth ave:75205": {
+    "lat": 32.8304819,
+    "lng": -96.7889145,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:3501 barber creek ct:76244": {
     "lat": 32.942968,
     "lng": -97.2846,
@@ -544,6 +549,11 @@
   "street:4159 ladera ct:76133": {
     "lat": 32.6472987,
     "lng": -97.3820602,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:4223 oak springs dr:76016": {
+    "lat": 32.6815803,
+    "lng": -97.1810007,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:4223 oak springs dr:76017": {
@@ -681,6 +691,11 @@
     "lng": -97.2149905,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:6238 azalea ln:75230": {
+    "lat": 32.8966549,
+    "lng": -96.7983175,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:6401 lorraine park:76034": {
     "lat": 32.901918,
     "lng": -97.17935,
@@ -756,6 +771,11 @@
     "lng": -96.6128454,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:75007": {
+    "lat": 33.0064187,
+    "lng": -96.8981365,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:75010": {
     "lat": 33.0281513,
     "lng": -96.8990824,
@@ -776,9 +796,19 @@
     "lng": -96.7464336,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:75039": {
+    "lat": 32.8911964,
+    "lng": -96.849772,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:75041": {
     "lat": 32.8799326,
     "lng": -96.6494099,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75043": {
+    "lat": 32.8503479,
+    "lng": -96.6049894,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:75051": {
@@ -801,9 +831,19 @@
     "lng": -96.6727286,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:75072": {
+    "lat": 33.1684433,
+    "lng": -96.7250399,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:75075": {
     "lat": 33.0162157,
     "lng": -96.7363333,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75078": {
+    "lat": 33.2388078,
+    "lng": -96.8060052,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:75080": {
@@ -984,6 +1024,11 @@
   "zip:76132": {
     "lat": 32.6687902,
     "lng": -97.4188113,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76133": {
+    "lat": 32.6510898,
+    "lng": -97.3766717,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:76137": {

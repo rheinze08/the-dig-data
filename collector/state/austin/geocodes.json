@@ -294,6 +294,11 @@
     "lng": -97.7148071,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:9436 hunter ln:78748": {
+    "lat": 30.1667421,
+    "lng": -97.8007959,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:sand creek rd:78613": {
     "lat": 30.519594,
     "lng": -97.796052,
@@ -302,6 +307,11 @@
   "zip:76574": {
     "lat": 30.5707545,
     "lng": -97.4206504,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78132": {
+    "lat": 29.7520079,
+    "lng": -98.1660006,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:78611": {
@@ -337,6 +347,11 @@
   "zip:78653": {
     "lat": 30.3501049,
     "lng": -97.5323941,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78664": {
+    "lat": 30.4868565,
+    "lng": -97.6497712,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:78666": {
@@ -392,6 +407,11 @@
   "zip:78751": {
     "lat": 30.3107158,
     "lng": -97.7235918,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78758": {
+    "lat": 30.3813323,
+    "lng": -97.7080251,
     "basis": "OpenStreetMap Nominatim"
   }
 }

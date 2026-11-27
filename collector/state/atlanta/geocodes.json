@@ -12,6 +12,9 @@
     "lng": -84.5496054,
     "basis": "OpenStreetMap Nominatim"
   },
+  "nominatim:street:1040 olde canter ct:30064": {
+    "retryAfter": 1796394434535
+  },
   "nominatim:street:1040 olde canter ct:marietta": {
     "retryAfter": 1796308089836
   },
@@ -44,6 +47,9 @@
   },
   "nominatim:street:183 johnson dupree ct:30102": {
     "retryAfter": 1796308086714
+  },
+  "nominatim:street:196 lakeshore ct:30067": {
+    "retryAfter": 1796394438894
   },
   "nominatim:street:2 lake shore plaza:30002": {
     "retryAfter": 1795963109393
@@ -98,6 +104,9 @@
   },
   "nominatim:street:4080 annecy dr sw:30331": {
     "retryAfter": 1795963112539
+  },
+  "nominatim:street:4163 thornwall dr:30062": {
+    "retryAfter": 1796394435295
   },
   "nominatim:street:4166 crowder dr:30152": {
     "retryAfter": 1795963122412
@@ -155,6 +164,11 @@
     "lng": -84.5909203,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:1040 olde canter ct:30064": {
+    "lat": 33.952083,
+    "lng": -84.588355,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:1086 rosedale rd ne:30306": {
     "lat": 33.784305,
     "lng": -84.348243,
@@ -195,6 +209,11 @@
     "lng": -84.357966,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:165 monmouth dr:30214": {
+    "lat": 33.4523496,
+    "lng": -84.4774683,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:173 rowland springs rd se:30121": {
     "lat": 34.2111855,
     "lng": -84.738879,
@@ -218,6 +237,11 @@
   "street:183 johnson dupree ct:30102": {
     "lat": 34.088112,
     "lng": -84.629387,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:196 lakeshore ct:30067": {
+    "lat": 33.955369,
+    "lng": -84.430908,
     "basis": "Public listing map: EstateSales.net"
   },
   "street:2 lake shore plaza:30002": {
@@ -275,6 +299,11 @@
     "lng": -84.489664,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:3716 vineyards lake cir:30144": {
+    "lat": 34.0505764,
+    "lng": -84.6166562,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:3793 ivey ln:30047": {
     "lat": 33.884842,
     "lng": -84.09228,
@@ -308,6 +337,11 @@
   "street:4080 annecy dr sw:30331": {
     "lat": 33.703618,
     "lng": -84.529063,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:4163 thornwall dr:30062": {
+    "lat": 34.050571,
+    "lng": -84.450589,
     "basis": "Public listing map: EstateSales.net"
   },
   "street:4166 crowder dr:30152": {
@@ -575,9 +609,19 @@
     "lng": -84.6692701,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:30290": {
+    "lat": 33.4703049,
+    "lng": -84.5899128,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:30324": {
     "lat": 33.8147146,
     "lng": -84.3584602,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30327": {
+    "lat": 33.8644888,
+    "lng": -84.4185391,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:30328": {
@@ -588,6 +632,11 @@
   "zip:30338": {
     "lat": 33.9441071,
     "lng": -84.321633,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30341": {
+    "lat": 33.8914923,
+    "lng": -84.2909754,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:30342": {

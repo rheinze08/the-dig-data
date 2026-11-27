@@ -17,6 +17,9 @@
   "nominatim:street:12795 home farm dr:80234": {
     "retryAfter": 1796328321181
   },
+  "nominatim:street:6167 s dover st:80123": {
+    "retryAfter": 1796394478327
+  },
   "nominatim:street:8040 e dartmouth:80231": {
     "retryAfter": 1796050805530
   },
@@ -73,6 +76,11 @@
   "zip:80112": {
     "lat": 39.5791842,
     "lng": -104.888804,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:80123": {
+    "lat": 39.6153639,
+    "lng": -105.0776216,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:80214": {

@@ -47,11 +47,17 @@
   "nominatim:street:5221 w montebello ave unit b 4:85301": {
     "retryAfter": 1795962943023
   },
+  "nominatim:street:5311 n 8th pl near 7th st and missouri:phoenix": {
+    "retryAfter": 1796394324266
+  },
   "nominatim:street:6264 e duncan st:85205": {
     "retryAfter": 1795962953847
   },
   "nominatim:street:734 e bellerive pl gate code unit 6449:85249": {
     "retryAfter": 1795962949595
+  },
+  "nominatim:street:7432 e roosevelt st scottsdale az:85257": {
+    "retryAfter": 1796394319917
   },
   "nominatim:street:7834 w monterey way near 75th ave thomas rd maryvale w phoenix:phoenix": {
     "retryAfter": 1795976206854
@@ -87,6 +93,16 @@
     "lng": -112.341456,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:13244 w marble dr:85375": {
+    "lat": 33.661936,
+    "lng": -112.3414844,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:14240 n 103rd ave:85351": {
+    "lat": 33.614379,
+    "lng": -112.2764756,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:14413 w via tercero:85375": {
     "lat": 33.691199,
     "lng": -112.3718039,
@@ -120,6 +136,11 @@
   "street:2320 e delgado st:85022": {
     "lat": 33.5992066,
     "lng": -112.0321047,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:23863 n church rd:85255": {
+    "lat": 33.7020983,
+    "lng": -111.8648091,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:239 n 63rd st:mesa": {
@@ -160,6 +181,11 @@
   "street:734 e bellerive pl gate code unit 6449:85249": {
     "lat": 33.2159764,
     "lng": -111.829317,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:7432 e roosevelt st scottsdale az:85257": {
+    "lat": 33.458698,
+    "lng": -111.919722,
     "basis": "Public listing map: EstateSales.net"
   },
   "street:7834 w monterey way:phoenix": {
@@ -275,6 +301,11 @@
   "zip:85295": {
     "lat": 33.3079424,
     "lng": -111.7349621,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:85298": {
+    "lat": 33.2386677,
+    "lng": -111.7233716,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:85302": {

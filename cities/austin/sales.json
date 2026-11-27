@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-26",
-  "collectedAt": "2026-11-26T20:00:10.951Z",
+  "asOf": "2026-11-27",
+  "collectedAt": "2026-11-27T14:22:39.284Z",
   "window": {
-    "start": "2026-11-26",
-    "end": "2026-12-09",
+    "start": "2026-11-27",
+    "end": "2026-12-10",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,9 +14,9 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 45/45 local candidate details.",
-      "candidates": 20,
-      "included": 14
+      "detail": "Read the public sale sitemap. Checked 46/46 local candidate details.",
+      "candidates": 23,
+      "included": 16
     },
     "EstateSales.org": {
       "status": "reached",
@@ -26,23 +26,23 @@
     },
     "Craigslist Austin": {
       "status": "reached",
-      "detail": "14 directory listings discovered; 3 in-window estate listings before radius filtering",
+      "detail": "18 directory listings discovered; 3 in-window estate listings before radius filtering",
       "candidates": 3,
       "included": 2
     },
     "GSALR.com": {
-      "status": "partial",
-      "detail": "https://gsalr.com/garage-sales-austin-tx.html — directory readable, estate listing details unverified",
+      "status": "blocked",
+      "detail": "https://gsalr.com/garage-sales-austin-tx.html — HTTP 403 Forbidden",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 27,
-    "listings": 18,
-    "sales": 16,
+    "candidates": 30,
+    "listings": 20,
+    "sales": 18,
     "duplicates": 2,
-    "outsideRadius": 7,
+    "outsideRadius": 8,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -98,16 +98,20 @@
         "tools, furniture and kitchen in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "kitchen",
-        "clothing"
-      ],
-      "contentsLine": "Tools, furniture, kitchen and clothing.",
       "lat": 30.3138018,
       "lng": -97.7148071,
-      "approximate": false
+      "approximate": false,
+      "photoKeywords": [
+        "cowboy boots",
+        "loafers",
+        "floral armchairs",
+        "table lamp",
+        "painted cabinet",
+        "flat-screen TV",
+        "figurines"
+      ],
+      "contentsLine": "Cowboy boots and loafers cover a table. Two floral armchairs flank a round table with stemware.",
+      "photoRead": true
     },
     {
       "id": "ee7badee79a168cc",
@@ -164,13 +168,20 @@
         "21 photos",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "silver"
-      ],
-      "contentsLine": "Silver.",
       "lat": 30.5445634,
       "lng": -97.5598875,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "dining table",
+        "cane-back dining chairs",
+        "futon",
+        "armchairs",
+        "dresser with mirror",
+        "console table",
+        "candle holders"
+      ],
+      "contentsLine": "Cane-back chairs surround a dining table. A black futon has red pillows, and a dresser has an arched mirror.",
+      "photoRead": true
     },
     {
       "id": "95131865685a3f22",
@@ -315,11 +326,11 @@
       "id": "85bd91046a8b8c76",
       "title": "New Photos added Daily! Vintage Glamour Estate Sale",
       "company": "Timeless Estate Sale",
-      "streetAddress": null,
+      "streetAddress": "9436 hunter ln",
       "city": "Austin",
       "state": "TX",
       "zip": "78748",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -346,8 +357,9 @@
       "categories": [],
       "contactPhone": "(737) 368-9977",
       "contactUrl": "https://www.estatesales.net/companies/TX/Austin/78748/172652",
-      "photoCount": 94,
+      "photoCount": 113,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5168253/1-1/71a38828-4954-4426-9388-ec7085635398.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/93eba967-412c-407a-a2c4-da573fd7f42a.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/716559d4-f4e1-45b1-9f31-2c8c55786cd3.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/ea150f65-9fa9-458f-b1ce-e60bd5c63d56.jpg",
@@ -358,12 +370,11 @@
         "https://picturescdn.estatesales.net/5168253/1-1/762cb633-a19f-42b6-8a16-7465a3b44729.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/d224ccc1-fd59-4297-8797-35917ce9077c.jpg",
         "https://picturescdn.estatesales.net/5168253/1-1/262c34b2-74aa-4985-b8b4-b4584bd61dbc.jpg",
-        "https://picturescdn.estatesales.net/5168253/1-1/76415271-f3e1-4b36-bdd0-7163e5959cfb.jpg",
-        "https://picturescdn.estatesales.net/5168253/1-1/d2f60702-38c0-48fd-ba2a-d2d89617861e.jpg"
+        "https://picturescdn.estatesales.net/5168253/1-1/76415271-f3e1-4b36-bdd0-7163e5959cfb.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "94 photos",
+        "113 photos",
         "furniture, jewelry and collectibles in the listing",
         "runs 3 days"
       ],
@@ -373,15 +384,16 @@
         "collectibles",
         "clothing",
         "art",
+        "toys & games",
         "antiques",
         "lamps",
         "silver",
         "coins"
       ],
       "contentsLine": "Furniture, jewelry, collectibles, clothing and art.",
-      "lat": 30.1636136,
-      "lng": -97.8277134,
-      "approximate": true
+      "lat": 30.1667421,
+      "lng": -97.8007959,
+      "approximate": false
     },
     {
       "id": "726778cc721f0735",
@@ -677,24 +689,24 @@
       "categories": [],
       "contactPhone": "(512) 474-2485",
       "contactUrl": "http://www.austinestatesales.net/",
-      "photoCount": 254,
+      "photoCount": 257,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5151762/1-1/3818fdae-e3a8-40f1-b9d5-eece1cf7cbf5.jpg",
+        "https://picturescdn.estatesales.net/5151762/1-1/fb38f4e5-ec05-4fea-8534-8cf35aad4f24.jpg",
         "https://picturescdn.estatesales.net/5151762/1-1/cc28cf0a-5435-4dd2-83cc-943d07312dec.jpg",
         "https://picturescdn.estatesales.net/5151762/1-1/051ae772-df9b-48c0-b1ee-53c78ce1369a.jpg",
         "https://picturescdn.estatesales.net/5151762/1-1/4299b2f8-bf06-4b7c-be6e-ae351c87fa6b.jpg",
-        "https://picturescdn.estatesales.net/5151762/1-1/fb38f4e5-ec05-4fea-8534-8cf35aad4f24.jpg",
         "https://picturescdn.estatesales.net/5151762/1-1/c9e1df4a-e9b4-4fd0-9239-784e3e6adc66.jpg",
         "https://picturescdn.estatesales.net/5151762/1-1/bedfd105-f9e0-4f06-85b8-a4f871dbf458.jpg",
         "https://picturescdn.estatesales.net/5151762/1-1/dac8f5a9-e4a3-4875-ab7e-71fece98c977.jpg",
-        "https://picturescdn.estatesales.net/5151762/1-1/467358e9-8a6c-4609-8c4f-acba7c2cba20.jpg",
-        "https://picturescdn.estatesales.net/5151762/1-1/bd4cdc47-b1f8-4713-a8b7-3c99b0e4fd8b.jpg",
-        "https://picturescdn.estatesales.net/5151762/1-1/22bd6132-2175-45e0-9beb-8c0d6d5d8990.jpg",
-        "https://picturescdn.estatesales.net/5151762/1-1/a3f04d06-b8b0-4d55-851f-9705faceea11.jpg"
+        "https://picturescdn.estatesales.net/5151762/1-1/988a8d08-6580-4b75-b1ff-d0f83708893e.jpg",
+        "https://picturescdn.estatesales.net/5151762/1-1/92832c74-53c4-450b-9ca5-1e3a58df1f84.jpg",
+        "https://picturescdn.estatesales.net/5151762/1-1/6265b872-bd56-4dbd-a71b-a444c11a2ef7.jpg",
+        "https://picturescdn.estatesales.net/5151762/1-1/87637fae-942d-4c16-93f6-2571a7154d07.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "254 photos",
+        "257 photos",
         "tools, furniture and vinyl & records in the listing",
         "runs 3 days"
       ],
@@ -764,10 +776,19 @@
       "ratingReasons": [
         "291 photos"
       ],
-      "photoKeywords": [],
       "lat": 30.4886779,
       "lng": -97.7734512,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "birthday figurines",
+        "Santa ornaments",
+        "bear ornaments",
+        "Merry Christmas sign",
+        "tabletop Christmas tree",
+        "Christmas mug"
+      ],
+      "contentsLine": "Pastel birthday figurines carry gold numbers. A basket holds Santa and bear ornaments beside a clear tabletop tree.",
+      "photoRead": true
     },
     {
       "id": "d2148aeee441b44f",
@@ -825,19 +846,18 @@
         "furniture, kitchen and clothing in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "kitchen",
-        "clothing",
-        "art",
-        "antiques",
-        "lamps",
-        "christmas decor"
-      ],
-      "contentsLine": "Furniture, kitchen, clothing, art and antiques.",
       "lat": 30.3467547,
       "lng": -97.7658512,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "floral armoire",
+        "writing desk",
+        "mirrored display cabinet",
+        "garden stools",
+        "round pedestal table"
+      ],
+      "contentsLine": "A floral armoire opens to shelves and drawers. A writing desk has curved legs, and a blue garden stool has cutout sides.",
+      "photoRead": true
     },
     {
       "id": "294679e620014b91",
@@ -869,7 +889,7 @@
       "categories": [],
       "contactPhone": "(512) 971-5484",
       "contactUrl": "https://www.thephoenixphinds.com/",
-      "photoCount": 108,
+      "photoCount": 140,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5168523/1-1/dd99d141-4a40-4f5a-a36b-2201c120f041.jpg",
         "https://picturescdn.estatesales.net/5168523/1-1/a1b700a4-667a-486e-8576-6dc03d6c5b40.jpg",
@@ -886,7 +906,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "108 photos",
+        "140 photos",
         "furniture, collectibles and kitchen in the listing"
       ],
       "lat": 30.3786162,
@@ -1088,6 +1108,148 @@
       ],
       "contentsLine": "An album holds black-and-white snapshots. A parrot figurine sits on a purple crystal geode.",
       "photoRead": true
+    },
+    {
+      "id": "065bdbecd973aa9e",
+      "title": "\"THE TREASURE SEEKER\"",
+      "company": "Unity Estate Services",
+      "streetAddress": null,
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78758",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "08:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-13",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Austin/78758/5172288"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(512) 786-1926",
+      "contactUrl": "http://www.unityestateservices.com",
+      "photoCount": 25,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172288/1-1/f19af3cc-188b-44f9-8d34-8311b1f7d40b.jpg",
+        "https://picturescdn.estatesales.net/5172288/1-1/1345798e-ddea-4c4e-bb62-fcdd1050331f.jpg",
+        "https://picturescdn.estatesales.net/5172288/1-1/60f081f2-f358-4e57-966d-719660cfcdc8.jpg",
+        "https://picturescdn.estatesales.net/5172288/1-1/94f9fdd2-d754-4c43-bf90-9c31767bfb21.jpg",
+        "https://picturescdn.estatesales.net/5172288/1-1/8820ebcf-44e6-4d0e-b223-5bb867951397.jpg",
+        "https://picturescdn.estatesales.net/5172288/1-1/8123a54b-9639-43e5-b63f-7853f918b243.jpg",
+        "https://picturescdn.estatesales.net/5172288/1-1/8fcc5664-21a8-4984-9d9f-ff127d94b403.jpg",
+        "https://picturescdn.estatesales.net/5172288/1-1/fb10d23a-1c4e-44f3-8878-bfbc361ed5bb.jpg",
+        "https://picturescdn.estatesales.net/5172288/1-1/c9daa3ee-1087-408f-b173-9cc891ff6274.jpg",
+        "https://picturescdn.estatesales.net/5172288/1-1/b1c528a3-d3bf-49df-9ad6-e18d6aa8cf00.jpg",
+        "https://picturescdn.estatesales.net/5172288/1-1/25daf48d-f995-4254-ba58-3e3a89652683.jpg",
+        "https://picturescdn.estatesales.net/5172288/1-1/dc19226d-9b0b-4379-89bf-0a2f9064b8db.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "25 photos",
+        "tools, furniture and art in the listing",
+        "runs 4 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "art",
+        "china",
+        "mid-century"
+      ],
+      "contentsLine": "Tools, furniture, art, china and mid-century.",
+      "lat": 30.3813323,
+      "lng": -97.7080251,
+      "approximate": true
+    },
+    {
+      "id": "0a1281ddd7a793b3",
+      "title": "Hidden Gems of Round Rock",
+      "company": "Sunrise Estate Sales",
+      "streetAddress": null,
+      "city": "Round Rock",
+      "state": "TX",
+      "zip": "78664",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Round-Rock/78664/5167236"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(979) 716-9500",
+      "contactUrl": "https://www.estatesales.net/companies/TX/Lexington/78947/167003",
+      "photoCount": 51,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5167236/1-1/c608fb58-606c-41a2-80af-71002f1ed382.jpg",
+        "https://picturescdn.estatesales.net/5167236/1-1/9b142f93-05fd-4d79-952c-88a47cb0db21.jpg",
+        "https://picturescdn.estatesales.net/5167236/1-1/b3854aa7-7fcd-47a5-995d-a00fb761f8c8.jpg",
+        "https://picturescdn.estatesales.net/5167236/1-1/01320b5b-f07c-4a9e-be71-f3c312a2b3f0.jpg",
+        "https://picturescdn.estatesales.net/5167236/1-1/21ec89eb-2a05-4083-8d1f-95b26c747010.jpg",
+        "https://picturescdn.estatesales.net/5167236/1-1/9e1d47cb-2799-4876-82b0-04ae98f97bdf.jpg",
+        "https://picturescdn.estatesales.net/5167236/1-1/02e4bdd7-2385-4c4c-83ba-d4da1a413c54.jpg",
+        "https://picturescdn.estatesales.net/5167236/1-1/6541a33d-b1c6-4a49-b32b-00dec85ecaf1.jpg",
+        "https://picturescdn.estatesales.net/5167236/1-1/714b0cde-0533-45f4-a142-698a08ed3116.jpg",
+        "https://picturescdn.estatesales.net/5167236/1-1/9cf86bb3-3352-46d3-9ff1-6032cae3f93e.jpg",
+        "https://picturescdn.estatesales.net/5167236/1-1/4b7a2fb0-a02f-49d6-b3a1-1f33495817c6.jpg",
+        "https://picturescdn.estatesales.net/5167236/1-1/51aae473-451c-47f7-a5d2-a6ebad5e9502.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "51 photos",
+        "tools, furniture and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "electronics",
+        "toys & games",
+        "crystal"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, electronics and toys & games.",
+      "lat": 30.4868565,
+      "lng": -97.6497712,
+      "approximate": true
     }
   ]
 }

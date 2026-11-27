@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-26",
-  "collectedAt": "2026-11-26T19:56:29.501Z",
+  "asOf": "2026-11-27",
+  "collectedAt": "2026-11-27T14:19:00.902Z",
   "window": {
-    "start": "2026-11-26",
-    "end": "2026-12-09",
+    "start": "2026-11-27",
+    "end": "2026-12-10",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,41 +14,41 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 34/34 local candidate details.",
-      "candidates": 21,
-      "included": 16
+      "detail": "Read the public sale sitemap. Checked 37/37 local candidate details.",
+      "candidates": 23,
+      "included": 18
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 22 Houston directory cards over 2 pages. Checked 0/0 in-person local candidate details.",
+      "detail": "Read 21 Houston directory cards over 2 pages. Checked 0/0 in-person local candidate details.",
       "candidates": 0,
       "included": 0
     },
     "EstateSale.com": {
-      "status": "blocked",
-      "detail": "https://www.estatesale.com/cities/view/1363/Estate-Sales-Friendswood-TX.html — Incapsula challenge in HTTP 200 response",
-      "candidates": 0,
-      "included": 0
+      "status": "partial",
+      "detail": "26 directory listings discovered; 8 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/912843.html — Incapsula challenge in HTTP 200 response",
+      "candidates": 8,
+      "included": 1
     },
     "Craigslist Houston": {
       "status": "reached",
-      "detail": "8 directory listings discovered; 0 in-window estate listings before radius filtering",
+      "detail": "10 directory listings discovered; 0 in-window estate listings before radius filtering",
       "candidates": 0,
       "included": 0
     },
     "GSALR.com": {
-      "status": "partial",
-      "detail": "https://gsalr.com/garage-sales-friendswood-tx.html — directory readable, estate listing details unverified",
+      "status": "blocked",
+      "detail": "https://gsalr.com/garage-sales-friendswood-tx.html — HTTP 403 Forbidden",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 21,
-    "listings": 16,
-    "sales": 16,
+    "candidates": 31,
+    "listings": 19,
+    "sales": 19,
     "duplicates": 0,
-    "outsideRadius": 5,
+    "outsideRadius": 12,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -82,9 +82,24 @@
         }
       ],
       "categories": [],
-      "photoCount": 0,
-      "digRating": "Worth a Look",
+      "photoCount": 36,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170362/1-1/dfd3ed0c-a83d-4ef4-9eef-2f72b7f5a178.jpg",
+        "https://picturescdn.estatesales.net/5170362/1-1/88eaae8b-8c41-42ef-a67f-cd567a02e1aa.jpg",
+        "https://picturescdn.estatesales.net/5170362/1-1/5ee18145-0efa-4240-890f-377d46da7b75.jpg",
+        "https://picturescdn.estatesales.net/5170362/1-1/e1c6366f-11a1-408e-904c-babd4bffaec1.jpg",
+        "https://picturescdn.estatesales.net/5170362/1-1/29c40834-5789-4cc6-afb5-eca87bc1a695.jpg",
+        "https://picturescdn.estatesales.net/5170362/1-1/6122d90a-5f17-40db-9c85-6bef97ab14db.jpg",
+        "https://picturescdn.estatesales.net/5170362/1-1/26ee6e24-1976-4fc7-b6c7-a6f3779485f1.jpg",
+        "https://picturescdn.estatesales.net/5170362/1-1/00120e92-ee91-4fcd-98c5-3668afd2b0dd.jpg",
+        "https://picturescdn.estatesales.net/5170362/1-1/cea7737c-22fd-4063-bf02-fbc1f99e4847.jpg",
+        "https://picturescdn.estatesales.net/5170362/1-1/c372e09c-c0e0-461a-b07a-c16c3164f7b4.jpg",
+        "https://picturescdn.estatesales.net/5170362/1-1/794565c9-6fa5-4415-95cb-f4033d66530f.jpg",
+        "https://picturescdn.estatesales.net/5170362/1-1/b9e0dd88-cc48-4e71-9e00-09b6da22af16.jpg"
+      ],
+      "digRating": "Deep Dig",
       "ratingReasons": [
+        "36 photos",
         "tools, furniture and vinyl & records in the listing"
       ],
       "photoKeywords": [
@@ -266,7 +281,7 @@
         {
           "date": "2026-11-29",
           "start": "11:00",
-          "end": "17:00"
+          "end": "16:00"
         }
       ],
       "sources": [
@@ -278,7 +293,7 @@
       "categories": [],
       "contactPhone": "(832) 250-5444",
       "contactUrl": "https://www.estatesales.net/companies/TX/Houston/77074/173072",
-      "photoCount": 57,
+      "photoCount": 67,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5166993/1-1/4cfa6921-217b-45b9-aee3-815b9215a2da.jpg",
         "https://picturescdn.estatesales.net/5166993/1-1/825ec2b5-ad00-43aa-8f52-cb9a7a9534cf.jpg",
@@ -287,15 +302,15 @@
         "https://picturescdn.estatesales.net/5166993/1-1/439f586c-4284-44a2-8405-3157f3ed9770.jpg",
         "https://picturescdn.estatesales.net/5166993/1-1/1fd1626b-10ed-409e-90b3-9edeeb8377a6.jpg",
         "https://picturescdn.estatesales.net/5166993/1-1/969d53d1-39cb-469d-b8b2-0465727090fd.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/430e4e74-f14b-4b69-af88-699c2a3f37f1.jpg",
         "https://picturescdn.estatesales.net/5166993/1-1/a047ff14-d6b1-4eec-a60c-2565980e0b31.jpg",
         "https://picturescdn.estatesales.net/5166993/1-1/89251a45-7b20-4ff0-a14d-d1aecff729ba.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/e71a748f-4597-4617-b4a4-93b6532da421.jpg",
-        "https://picturescdn.estatesales.net/5166993/1-1/ae9131fe-c697-4a42-8116-92921b41818e.jpg"
+        "https://picturescdn.estatesales.net/5166993/1-1/ae9131fe-c697-4a42-8116-92921b41818e.jpg",
+        "https://picturescdn.estatesales.net/5166993/1-1/14a9a819-0787-4325-ba25-b1810d3aa135.jpg",
+        "https://picturescdn.estatesales.net/5166993/1-1/b064a6ab-d3f0-4b92-a128-ac0c34400f5c.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "57 photos",
+        "67 photos",
         "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
@@ -393,7 +408,7 @@
       "id": "b9af900b647274b9",
       "title": "The Heights Sale, Fantastic Furniture, Art, Glass, Jewelry, Sportcards, Comic Books & More",
       "company": "Treasure Hunt Auction Co.",
-      "streetAddress": "1213 Oxford St",
+      "streetAddress": "1425 Columbia St",
       "city": "Houston",
       "state": "TX",
       "zip": "77008",
@@ -450,24 +465,25 @@
         "furniture, jewelry and collectibles in the listing",
         "runs 3 days"
       ],
+      "lat": 29.797206,
+      "lng": -95.3933285,
+      "approximate": false,
       "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "books",
-        "art",
-        "silver",
-        "watches",
-        "comics"
+        "Magnavox radio console",
+        "record player",
+        "Star Wars figures",
+        "Justice League action figures",
+        "figural clock",
+        "floor lamps",
+        "cordless drill",
+        "DeWalt battery charger"
       ],
-      "contentsLine": "Furniture, jewelry, collectibles, books and art.",
-      "lat": 29.7931089,
-      "lng": -95.3921467,
-      "approximate": false
+      "contentsLine": "A Magnavox radio console has a record player under its lid. Boxed figures include Star Wars and the Justice League.",
+      "photoRead": true
     },
     {
       "id": "4de7ad57563e35d3",
-      "title": "West University Thanksgiving Weekend 2 days PHOTOS IN LINK",
+      "title": "West University 2 days PHOTOS IN LINK MEDIA electronics Full Closets Art kitchen",
       "company": "By Ronnalynn",
       "streetAddress": null,
       "city": "Houston",
@@ -492,10 +508,14 @@
           "url": "https://www.estatesales.net/TX/Houston/77005/5172813"
         }
       ],
-      "categories": [],
+      "categories": [
+        "kitchen",
+        "art",
+        "electronics"
+      ],
       "contactPhone": "(832) 474-1508",
       "contactUrl": "https://www.estatesales.net/companies/TX/Houston/77005/141533",
-      "photoCount": 51,
+      "photoCount": 72,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5172813/1-1/b6c199fb-becf-4782-92cc-af90442968a0.jpg",
         "https://picturescdn.estatesales.net/5172813/1-1/b64586f3-6b19-40ac-9579-cff20d05ff69.jpg",
@@ -512,25 +532,63 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "51 photos",
+        "72 photos",
         "tools, furniture and jewelry in the listing"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "art",
-        "electronics",
-        "china",
-        "crystal"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
       "lat": 29.7206266,
       "lng": -95.4207825,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "elephant wall hanging",
+        "handbags",
+        "dress shoes",
+        "shoe trees",
+        "beaded necklaces",
+        "earrings",
+        "framed art"
+      ],
+      "contentsLine": "Shelves hold handbags above rows of dress shoes. A display case holds beaded necklaces and earrings.",
+      "photoRead": true
+    },
+    {
+      "id": "0b5aaa0aea070799",
+      "title": "POST-THANKSGIVING ESTATE SALE Listing ID#: 912284",
+      "company": "Karacostas Estate Sale Services",
+      "streetAddress": "1019 Tiki Drive",
+      "city": "Tiki Island",
+      "state": "TX",
+      "zip": "77554",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSale.com",
+          "url": "https://www.estatesale.com/sales/view/912284.html"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "409-771-3544",
+      "contactUrl": "https://www.estatesale.com/companies/view/4812/Karacostas-Estate-Sale-Services.html",
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "no photo count from the source",
+        "few details in the listing"
+      ],
+      "photoKeywords": [],
+      "lat": 29.2973777,
+      "lng": -94.9118315,
+      "approximate": false
     },
     {
       "id": "2a7a411e458e6dad",
@@ -853,7 +911,7 @@
       "categories": [],
       "contactPhone": "8322676961",
       "contactUrl": "https://www.estatesales.net/companies/TX/Kemah/77565/135479",
-      "photoCount": 14,
+      "photoCount": 87,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5156784/1-1/db4990f3-a200-4d78-8f02-05499904860f.jpg",
         "https://picturescdn.estatesales.net/5156784/1-1/a7f9650d-0b54-4ac6-b695-5a6e9d7a939a.jpg",
@@ -868,9 +926,9 @@
         "https://picturescdn.estatesales.net/5156784/1-1/2c292165-121d-4fd1-8284-9caea184c551.jpg",
         "https://picturescdn.estatesales.net/5156784/1-1/d7100f11-ec3f-44f9-ab17-bb762e386584.jpg"
       ],
-      "digRating": "Worth a Look",
+      "digRating": "Deep Dig",
       "ratingReasons": [
-        "14 photos",
+        "87 photos",
         "runs 3 days"
       ],
       "lat": 29.7899305,
@@ -1015,6 +1073,131 @@
       "approximate": true
     },
     {
+      "id": "e4fcbad8d1fed385",
+      "title": "FAMILY ESTATE DOWNSIZING SALE",
+      "company": null,
+      "streetAddress": null,
+      "city": "League City",
+      "state": "TX",
+      "zip": "77573",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "09:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/League-City/77573/5172744"
+        }
+      ],
+      "categories": [],
+      "photoCount": 43,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172744/1-1/58e20bf5-dcd9-458e-b91d-b1c875518bd3.jpg",
+        "https://picturescdn.estatesales.net/5172744/1-1/9426d157-4263-431c-93ed-d88e45befa1e.jpg",
+        "https://picturescdn.estatesales.net/5172744/1-1/b6da3cbf-0838-419c-b2fa-4dff2adb53a3.jpg",
+        "https://picturescdn.estatesales.net/5172744/1-1/9b33269d-c96a-4448-9431-81d9cf67330d.jpg",
+        "https://picturescdn.estatesales.net/5172744/1-1/e85ec00a-3726-4107-9729-121fa679fd3d.jpg",
+        "https://picturescdn.estatesales.net/5172744/1-1/017c07db-82d2-4032-8c78-b24465dd5aee.jpg",
+        "https://picturescdn.estatesales.net/5172744/1-1/e27bd229-2579-4efe-aec3-daa64c40220f.jpg",
+        "https://picturescdn.estatesales.net/5172744/1-1/835e5de5-846a-4465-aac9-35fd8e6fb651.jpg",
+        "https://picturescdn.estatesales.net/5172744/1-1/e3a7f1d0-e7af-4ac7-b0f0-cc2836630758.jpg",
+        "https://picturescdn.estatesales.net/5172744/1-1/66164305-e6e6-43f0-96c6-a07a7f117d06.jpg",
+        "https://picturescdn.estatesales.net/5172744/1-1/2b0374eb-b135-4121-955b-581fa8cf439f.jpg",
+        "https://picturescdn.estatesales.net/5172744/1-1/240c7b09-e691-4e31-b607-45bd17a2c124.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "43 photos",
+        "tools, furniture and jewelry in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "toys & games",
+        "china"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen.",
+      "lat": 29.4988871,
+      "lng": -95.0991214,
+      "approximate": true
+    },
+    {
+      "id": "93c50956a3c079d0",
+      "title": "Quilter's Paradise - Estate Sale Items with Garage Sale Prices!",
+      "company": null,
+      "streetAddress": null,
+      "city": "Pearland",
+      "state": "TX",
+      "zip": "77581",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Pearland/77581/5173698"
+        }
+      ],
+      "categories": [],
+      "photoCount": 50,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173698/1-1/a5b13649-2f7a-4864-aa7c-f140f3507372.jpg",
+        "https://picturescdn.estatesales.net/5173698/1-1/22dfb25e-0855-4829-8706-d83f9d19d5fd.jpg",
+        "https://picturescdn.estatesales.net/5173698/1-1/d9fb3ccc-6b41-407c-82f8-bf42107c5c7a.jpg",
+        "https://picturescdn.estatesales.net/5173698/1-1/efab9245-dc85-43ce-a1e6-c2764b2e0a7d.jpg",
+        "https://picturescdn.estatesales.net/5173698/1-1/42e04887-89bd-482a-a269-685b068bd8e5.jpg",
+        "https://picturescdn.estatesales.net/5173698/1-1/94e9ab31-37f9-4081-b09c-18beeb2240b3.jpg",
+        "https://picturescdn.estatesales.net/5173698/1-1/2a0f54c6-fa6b-4fe1-a855-136cd6d5793b.jpg",
+        "https://picturescdn.estatesales.net/5173698/1-1/6709836f-16c8-4e2f-a800-e1a74983daab.jpg",
+        "https://picturescdn.estatesales.net/5173698/1-1/ef6edd0b-60b4-40e4-955e-2c1e30a96035.jpg",
+        "https://picturescdn.estatesales.net/5173698/1-1/ff491117-2ce0-4caa-8ada-07dac34b6672.jpg",
+        "https://picturescdn.estatesales.net/5173698/1-1/ac19a169-8b3b-4e57-be42-2f0c56122e36.jpg",
+        "https://picturescdn.estatesales.net/5173698/1-1/64894f7a-e28b-4323-8acf-fbec308f0c23.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "50 photos",
+        "tools, furniture and vehicles in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "electronics",
+        "toys & games",
+        "antiques"
+      ],
+      "contentsLine": "Tools, furniture, vehicles, kitchen and clothing.",
+      "lat": 29.5605101,
+      "lng": -95.2650553,
+      "approximate": true
+    },
+    {
       "id": "78b9cce9a04e3b60",
       "title": "Houston Estate Sale!",
       "company": "Elite Estate Sales Inc",
@@ -1119,22 +1302,21 @@
         "tools, furniture and jewelry in the listing",
         "runs 4 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "clothing",
-        "books",
-        "electronics",
-        "china",
-        "crystal",
-        "christmas decor"
-      ],
-      "contentsLine": "Tools, furniture, jewelry, collectibles and clothing.",
       "lat": 29.7516946,
       "lng": -94.9516854,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "patchwork quilts",
+        "punch bowl",
+        "punch cups",
+        "serving trays",
+        "glass vases",
+        "framed needlework",
+        "teacups",
+        "slat-back dining chairs"
+      ],
+      "contentsLine": "Cups ring a footed punch bowl on its tray. Framed needlework stands between stacks of patchwork quilts.",
+      "photoRead": true
     }
   ]
 }

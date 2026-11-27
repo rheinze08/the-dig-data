@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-26",
-  "collectedAt": "2026-11-26T20:06:15.344Z",
+  "asOf": "2026-11-27",
+  "collectedAt": "2026-11-27T14:28:47.882Z",
   "window": {
-    "start": "2026-11-26",
-    "end": "2026-12-09",
+    "start": "2026-11-27",
+    "end": "2026-12-10",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -15,14 +15,14 @@
     "EstateSales.net": {
       "status": "partial",
       "detail": "Read the public sale sitemap. Checked 40/41 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
-      "candidates": 25,
-      "included": 18
+      "candidates": 29,
+      "included": 22
     },
     "EstateSales.org": {
       "status": "reached",
       "detail": "Read 10 Nashville directory cards over 1 pages. Checked 10/10 in-person local candidate details.",
-      "candidates": 5,
-      "included": 5
+      "candidates": 7,
+      "included": 7
     },
     "Craigslist Nashville": {
       "status": "reached",
@@ -31,17 +31,17 @@
       "included": 0
     },
     "GSALR.com": {
-      "status": "partial",
-      "detail": "https://gsalr.com/garage-sales-nashville-tn.html — directory readable, estate listing details unverified",
+      "status": "blocked",
+      "detail": "https://gsalr.com/garage-sales-nashville-tn.html — HTTP 403 Forbidden",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 30,
-    "listings": 23,
-    "sales": 18,
-    "duplicates": 5,
+    "candidates": 36,
+    "listings": 29,
+    "sales": 22,
+    "duplicates": 7,
     "outsideRadius": 7,
     "unlocatedListings": 0
   },
@@ -196,7 +196,7 @@
       "id": "fa72b61fd680f41d",
       "title": "Packed Franklin Estate Sale - Carters Creek!!",
       "company": "New Life Estate Sales",
-      "streetAddress": "2096 Carters Creek",
+      "streetAddress": "2096 Carters Creek pike",
       "city": "Franklin",
       "state": "TN",
       "zip": "37064",
@@ -247,8 +247,8 @@
         "694 photos",
         "runs 3 days"
       ],
-      "lat": 35.883949,
-      "lng": -86.934142,
+      "lat": 35.883769,
+      "lng": -86.935193,
       "approximate": false,
       "photoKeywords": [
         "computer monitor",
@@ -400,7 +400,7 @@
     },
     {
       "id": "6ef7ed8800bbd90b",
-      "title": "Old Hickory Lake House Estate Sale!",
+      "title": "“Lakefront Living” Old Hickory Estate Sale!",
       "company": "Marigold Estate Sales - TN",
       "streetAddress": null,
       "city": "Old Hickory",
@@ -433,7 +433,7 @@
       "categories": [],
       "contactPhone": "6152199371",
       "contactUrl": "http://www.marigoldestatesalestn.net",
-      "photoCount": 560,
+      "photoCount": 722,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5156940/1-1/8f99aa74-659b-42d9-8a7e-62a30e0eaefe.jpg",
         "https://picturescdn.estatesales.net/5156940/1-1/bc35419e-e446-46f8-b74b-ed4f60ce3fde.jpg",
@@ -450,7 +450,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "560 photos",
+        "722 photos",
         "runs 3 days"
       ],
       "lat": 36.2275854,
@@ -654,19 +654,17 @@
         "141 photos",
         "furniture, jewelry and vehicles in the listing"
       ],
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "vehicles",
-        "kitchen",
-        "clothing",
-        "books",
-        "christmas decor"
-      ],
-      "contentsLine": "Furniture, jewelry, vehicles, kitchen and clothing.",
       "lat": 36.1166075,
       "lng": -86.8559033,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "four-door sedan",
+        "sunroof",
+        "tan interior",
+        "rear bench seat"
+      ],
+      "contentsLine": "The four-door sedan has tan seats and a sunroof. Its odometer displays 095132.",
+      "photoRead": true
     },
     {
       "id": "dfe6652fc33661c1",
@@ -1205,6 +1203,275 @@
       ],
       "contentsLine": "A brown armchair with nailhead trim and tapered legs sits on a light rug beside a console table.",
       "photoRead": true
+    },
+    {
+      "id": "1751e12df3ad6353",
+      "title": "BEAUTIFUL BRENTWOOD ESTATE SALE!!",
+      "company": "Estate Sales By Sheila",
+      "streetAddress": null,
+      "city": "Brentwood",
+      "state": "TN",
+      "zip": "37027",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "start": "08:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "08:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tn/brentwood/37027/beautiful-brentwood-estate-sale-2471424"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Brentwood/37027/5142801"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(615) 202-8401",
+      "contactUrl": "https://estatesalesbysheila.com/",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://eso-cdn.tlcdn.workers.dev/s-2471424-lmb188skgq8a1tum.webp"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "tools, furniture and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "kitchen",
+        "clothing",
+        "books",
+        "china",
+        "crystal",
+        "patio furniture"
+      ],
+      "contentsLine": "Tools, furniture, kitchen, clothing and books.",
+      "lat": 35.997952,
+      "lng": -86.7739498,
+      "approximate": true
+    },
+    {
+      "id": "09fe23c64a29243c",
+      "title": "Brentwood Moving Sale - TOOLS GALORE",
+      "company": "Busy Bee Moving Sales",
+      "streetAddress": null,
+      "city": "Brentwood",
+      "state": "TN",
+      "zip": "37027",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "start": "08:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "08:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "08:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Brentwood/37027/5057013"
+        }
+      ],
+      "categories": [
+        "tools"
+      ],
+      "contactPhone": "9404653535",
+      "contactUrl": "http://www.busybeemovingsales.com",
+      "photoCount": 99,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5057013/1-1/7ab1de72-84e2-43bb-8e08-a3831fc3479c.jpg",
+        "https://picturescdn.estatesales.net/5057013/1-1/07de49bc-66f5-4106-b10c-229fc70e9b27.jpg",
+        "https://picturescdn.estatesales.net/5057013/1-1/6aea26d2-76df-4e44-89a3-ee6528635a33.jpg",
+        "https://picturescdn.estatesales.net/5057013/1-1/34a2e987-6524-4c7a-9ab2-039921dade3f.jpg",
+        "https://picturescdn.estatesales.net/5057013/1-1/01fb3487-9920-44af-902a-59436974227e.jpg",
+        "https://picturescdn.estatesales.net/5057013/1-1/c81682fe-0b85-4f1d-a347-6350bdaa90b1.jpg",
+        "https://picturescdn.estatesales.net/5057013/1-1/cbf4a82f-857c-42ae-bcbe-4e4f5b292460.jpg",
+        "https://picturescdn.estatesales.net/5057013/1-1/fb02b06b-96e5-4676-ad3d-e5943e51d508.jpg",
+        "https://picturescdn.estatesales.net/5057013/1-1/0bc1c9c3-4ad3-4021-b3b0-367ff1311e47.jpg",
+        "https://picturescdn.estatesales.net/5057013/1-1/522b598e-4e81-47a8-b430-08d3c9ea5e3a.jpg",
+        "https://picturescdn.estatesales.net/5057013/1-1/3ecbc63e-835e-4cdd-b731-8e2bc961bcf4.jpg",
+        "https://picturescdn.estatesales.net/5057013/1-1/85116628-368b-4c3f-ac36-5e8008830871.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "99 photos",
+        "tools and furniture in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture"
+      ],
+      "contentsLine": "Tools and furniture.",
+      "lat": 35.997952,
+      "lng": -86.7739498,
+      "approximate": true
+    },
+    {
+      "id": "fee5aa425a7aa049",
+      "title": "Grasons of Nashville - West Meade Estate Sale - Treasures before Teardown",
+      "company": "Grasons Of Nashville, TN",
+      "streetAddress": "801 Belton Drive",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37205",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tn/nashville/37205/grasons-of-nashville-west-meade-2472533"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Nashville/37205/5151171"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(615) 967-8773",
+      "contactUrl": "https://www.grasons.com/nashville/",
+      "photoCount": 439,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5151171/1-1/c36c133a-cbd2-46d3-a74e-ab2202a269b3.jpg",
+        "https://picturescdn.estatesales.net/5151171/1-1/de992b97-f2eb-4c39-a7f7-dbec441425d3.jpg",
+        "https://picturescdn.estatesales.net/5151171/1-1/cddc4002-678a-43f3-921c-6bd7636236f9.jpg",
+        "https://picturescdn.estatesales.net/5151171/1-1/35e697d5-d0f1-4a68-904c-6d6eb6e9c84b.jpg",
+        "https://picturescdn.estatesales.net/5151171/1-1/69e0137b-86c5-4ed4-ad9a-802caebb5e05.jpg",
+        "https://picturescdn.estatesales.net/5151171/1-1/d710d01b-bd33-468f-b8b7-309b3f3a9d89.jpg",
+        "https://picturescdn.estatesales.net/5151171/1-1/ec6d781b-8a97-43b8-b4f8-ca200c705b52.jpg",
+        "https://picturescdn.estatesales.net/5151171/1-1/18af042f-13bb-4421-878f-0294d029c65a.jpg",
+        "https://picturescdn.estatesales.net/5151171/1-1/222cdc99-7d7f-4f89-9733-534bb98572bd.jpg",
+        "https://picturescdn.estatesales.net/5151171/1-1/a95c9b44-c495-4137-8e08-2e4a72034003.jpg",
+        "https://picturescdn.estatesales.net/5151171/1-1/45100a1f-79d9-4590-9a89-90aba0af250f.jpg",
+        "https://picturescdn.estatesales.net/5151171/1-1/ab238d00-e2b7-4ba4-a42d-135f3df43f61.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "439 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "mid-century"
+      ],
+      "contentsLine": "Furniture and mid-century.",
+      "lat": 36.1235538,
+      "lng": -86.8912236,
+      "approximate": false
+    },
+    {
+      "id": "5433ef1047adebde",
+      "title": "A GENTLEMAN'S WISH LIST",
+      "company": "Looky Loo Estate Sales",
+      "streetAddress": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37215",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "start": "14:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-12-11",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-13",
+          "start": "11:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Nashville/37215/5172942"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(208) 860-2280",
+      "contactUrl": "https://www.estatesales.net/companies/TN/Kingston-Springs/37082/176861",
+      "photoCount": 30,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172942/1-1/68d10d6c-68e1-40c9-b265-aecea85f9633.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/58745e6d-8076-4854-9139-c0dfcb8cd6e3.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/1ce0f622-e4cf-44f7-a6ca-5acf0c0229a8.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/9bcc46b1-7779-4370-bdda-8439aed494b4.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/727dc417-4702-404b-bd30-57938d17016e.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/b4d9a795-ffe8-4bee-bb58-fc0e04e3a6de.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/52ec8741-b345-4cd7-8aa0-bbb2f6aab9d8.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/9f248c36-e301-4e03-9549-5ab1b400e57f.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/eed9e85e-ccfc-4ec2-a551-cca4b9c324c5.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/182fa3f2-0871-47ee-98eb-28980c4e8de6.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/4ea85984-e3d9-4e43-852d-8a7c53b238d1.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/2592635f-b88d-4fdf-a949-e6d6e7f485dc.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "30 photos",
+        "tools, furniture and kitchen in the listing",
+        "runs 4 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "toys & games",
+        "antiques",
+        "mid-century"
+      ],
+      "contentsLine": "Tools, furniture, kitchen, clothing and books.",
+      "lat": 36.0975857,
+      "lng": -86.8212725,
+      "approximate": true
     }
   ]
 }

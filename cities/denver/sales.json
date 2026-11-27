@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-26",
-  "collectedAt": "2026-11-26T20:05:22.308Z",
+  "asOf": "2026-11-27",
+  "collectedAt": "2026-11-27T14:27:59.504Z",
   "window": {
-    "start": "2026-11-26",
-    "end": "2026-12-09",
+    "start": "2026-11-27",
+    "end": "2026-12-10",
     "timeZone": "America/Denver"
   },
   "area": {
@@ -14,33 +14,33 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 30/30 local candidate details.",
+      "detail": "Read the public sale sitemap. Checked 31/31 local candidate details.",
       "candidates": 10,
       "included": 10
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 14 Denver directory cards over 1 pages. Checked 6/6 in-person local candidate details.",
-      "candidates": 6,
-      "included": 6
+      "detail": "Read 16 Denver directory cards over 1 pages. Checked 7/7 in-person local candidate details.",
+      "candidates": 7,
+      "included": 7
     },
     "Craigslist Denver": {
       "status": "reached",
-      "detail": "11 directory listings discovered; 4 in-window estate listings before radius filtering",
+      "detail": "16 directory listings discovered; 4 in-window estate listings before radius filtering",
       "candidates": 4,
       "included": 4
     },
     "GSALR.com": {
-      "status": "partial",
-      "detail": "https://gsalr.com/garage-sales-denver-co.html — directory readable, estate listing details unverified",
+      "status": "blocked",
+      "detail": "https://gsalr.com/garage-sales-denver-co.html — HTTP 403 Forbidden",
       "candidates": 0,
       "included": 0
     }
   },
   "counts": {
-    "candidates": 20,
-    "listings": 20,
-    "sales": 16,
+    "candidates": 21,
+    "listings": 21,
+    "sales": 17,
     "duplicates": 4,
     "outsideRadius": 0,
     "unlocatedListings": 0
@@ -414,22 +414,21 @@
         "furniture, jewelry and collectibles in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "furniture",
-        "jewelry",
-        "collectibles",
-        "kitchen",
-        "clothing",
-        "books",
-        "art",
-        "electronics",
-        "china",
-        "crystal"
-      ],
-      "contentsLine": "Furniture, jewelry, collectibles, kitchen and clothing.",
       "lat": 39.6429852,
       "lng": -104.90464,
-      "approximate": false
+      "approximate": false,
+      "photoKeywords": [
+        "beaded necklaces",
+        "bangle bracelets",
+        "earrings",
+        "wristwatches",
+        "burgundy sofa",
+        "armchair",
+        "ottoman",
+        "glass coffee table"
+      ],
+      "contentsLine": "Beaded necklaces hang above trays of bangles. A burgundy sofa and matching armchair face a glass coffee table.",
+      "photoRead": true
     },
     {
       "id": "78dc9eaabd02d56a",
@@ -583,15 +582,17 @@
         "only 1 photo",
         "few details in the listing"
       ],
-      "photoKeywords": [
-        "collectibles",
-        "antiques",
-        "christmas decor"
-      ],
-      "contentsLine": "Collectibles, antiques and christmas decor.",
       "lat": 39.8632241,
       "lng": -105.0644682,
-      "approximate": false
+      "approximate": false,
+      "photoKeywords": [
+        "Mickey Mouse Christmas figure",
+        "Minnie Mouse Christmas figure",
+        "Christmas lamppost",
+        "pedestal side tables"
+      ],
+      "contentsLine": "Mickey and Minnie wear red Santa outfits on either side of a red lamppost with a Merry Christmas sign.",
+      "photoRead": true
     },
     {
       "id": "9c6ecef6a9af9c74",
@@ -661,6 +662,42 @@
       ],
       "contentsLine": "Boxed Heroscape sets and miniature terrain share a table. Other photos show four-drawer chests, jeans and jackets.",
       "photoRead": true
+    },
+    {
+      "id": "83dfa1107bb6d4f9",
+      "title": "Christmas Estate Last Day Saturday Fill a Bag we add it up then Great Discount",
+      "company": null,
+      "streetAddress": "6167 S Dover St",
+      "city": "Littleton",
+      "state": "CO",
+      "zip": "80123",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "02:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/co/littleton/80123/christmas-estate-last-day-saturday-2475626"
+        }
+      ],
+      "categories": [],
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "no photo count from the source",
+        "few details in the listing"
+      ],
+      "photoKeywords": [
+        "christmas decor"
+      ],
+      "contentsLine": "Christmas decor.",
+      "lat": 39.6153639,
+      "lng": -105.0776216,
+      "approximate": true
     },
     {
       "id": "099a155d6f87dd45",
@@ -1012,22 +1049,19 @@
         "tools, furniture and kitchen in the listing",
         "runs 3 days"
       ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "kitchen",
-        "art",
-        "electronics",
-        "lamps",
-        "mirrors",
-        "silver",
-        "christmas decor",
-        "patio furniture"
-      ],
-      "contentsLine": "Tools, furniture, kitchen, art and electronics.",
       "lat": 39.5791842,
       "lng": -104.888804,
-      "approximate": true
+      "approximate": true,
+      "photoKeywords": [
+        "tufted sofa",
+        "matching armchairs",
+        "round coffee table",
+        "display cabinet",
+        "striped throw pillows",
+        "floor lamp"
+      ],
+      "contentsLine": "A pale green tufted sofa and two matching armchairs surround a round coffee table with a floral border.",
+      "photoRead": true
     },
     {
       "id": "e6cc14516545a007",

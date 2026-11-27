@@ -82,6 +82,9 @@
   "nominatim:street:6025 mike nesmith st:78238": {
     "retryAfter": 1795828839547
   },
+  "nominatim:street:8810 tuxford dr:78239": {
+    "retryAfter": 1796394227733
+  },
   "street:10022 fall harvest:78254": {
     "lat": 29.535326,
     "lng": -98.675887,
@@ -267,6 +270,11 @@
     "lng": -98.3164482,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:8810 tuxford dr:78239": {
+    "lat": 29.5201126,
+    "lng": -98.35288829999999,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:9231 ridge path:78250": {
     "lat": 29.4992418,
     "lng": -98.6703713,
@@ -292,6 +300,11 @@
     "lng": -98.6398306,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:78063": {
+    "lat": 29.6634216,
+    "lng": -98.9179013,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:78070": {
     "lat": 29.8425675,
     "lng": -98.417395,
@@ -305,6 +318,11 @@
   "zip:78130": {
     "lat": 29.6960657,
     "lng": -98.1111893,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78132": {
+    "lat": 29.7520079,
+    "lng": -98.1660006,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:78155": {
@@ -330,6 +348,11 @@
   "zip:78213": {
     "lat": 29.5143913,
     "lng": -98.5200298,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78216": {
+    "lat": 29.5396288,
+    "lng": -98.4966516,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:78217": {

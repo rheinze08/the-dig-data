@@ -43,6 +43,9 @@
   "nominatim:street:6635 sewanee ave:77005": {
     "retryAfter": 1795666737664
   },
+  "nominatim:street:7222 bubbling brooks ln:77095": {
+    "retryAfter": 1796393937644
+  },
   "nominatim:street:806 d anders ln:77565": {
     "retryAfter": 1796327785190
   },
@@ -108,6 +111,11 @@
   "street:212 timber lake dr:76092": {
     "lat": 32.939229,
     "lng": -97.16323,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2316 english cir:75041": {
+    "lat": 32.8857903,
+    "lng": -96.6625737,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:2505 shadybend dr:77581": {
@@ -245,6 +253,16 @@
     "lng": -95.387266,
     "basis": "Public listing map: EstateSales.net"
   },
+  "zip:75007": {
+    "lat": 33.0064187,
+    "lng": -96.8981365,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75039": {
+    "lat": 32.8911964,
+    "lng": -96.849772,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:75041": {
     "lat": 32.8804464,
     "lng": -96.6494921,
@@ -353,6 +371,11 @@
   "zip:77089": {
     "lat": 29.5933137,
     "lng": -95.2233526,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77095": {
+    "lat": 29.8971202,
+    "lng": -95.654303,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:77396": {
