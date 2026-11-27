@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-27",
-  "collectedAt": "2026-11-27T14:19:00.902Z",
+  "collectedAt": "2026-11-27T19:45:34.353Z",
   "window": {
     "start": "2026-11-27",
     "end": "2026-12-10",
@@ -14,25 +14,25 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 37/37 local candidate details.",
+      "detail": "Read the public sale sitemap. Checked 38/38 local candidate details.",
       "candidates": 23,
       "included": 18
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 21 Houston directory cards over 2 pages. Checked 0/0 in-person local candidate details.",
+      "detail": "Read 26 Houston directory cards over 2 pages. Checked 0/0 in-person local candidate details.",
       "candidates": 0,
       "included": 0
     },
     "EstateSale.com": {
       "status": "partial",
-      "detail": "26 directory listings discovered; 8 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/912843.html — Incapsula challenge in HTTP 200 response",
-      "candidates": 8,
+      "detail": "28 directory listings discovered; 5 in-window estate listings before radius filtering; https://www.estatesale.com/sales/view/913139.html — Incapsula challenge in HTTP 200 response",
+      "candidates": 5,
       "included": 1
     },
     "Craigslist Houston": {
       "status": "reached",
-      "detail": "10 directory listings discovered; 0 in-window estate listings before radius filtering",
+      "detail": "0 directory listings discovered; 0 in-window estate listings before radius filtering",
       "candidates": 0,
       "included": 0
     },
@@ -44,11 +44,11 @@
     }
   },
   "counts": {
-    "candidates": 31,
+    "candidates": 28,
     "listings": 19,
     "sales": 19,
     "duplicates": 0,
-    "outsideRadius": 12,
+    "outsideRadius": 9,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -1028,12 +1028,12 @@
         {
           "date": "2026-12-04",
           "start": "11:00",
-          "end": "15:00"
+          "end": "16:00"
         },
         {
           "date": "2026-12-05",
           "start": "10:00",
-          "end": "15:00"
+          "end": "16:00"
         },
         {
           "date": "2026-12-06",

@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-27",
-  "collectedAt": "2026-11-27T14:27:59.504Z",
+  "collectedAt": "2026-11-27T19:54:26.928Z",
   "window": {
     "start": "2026-11-27",
     "end": "2026-12-10",
@@ -14,7 +14,7 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 31/31 local candidate details.",
+      "detail": "Read the public sale sitemap. Checked 33/33 local candidate details.",
       "candidates": 10,
       "included": 10
     },
@@ -26,7 +26,7 @@
     },
     "Craigslist Denver": {
       "status": "reached",
-      "detail": "16 directory listings discovered; 4 in-window estate listings before radius filtering",
+      "detail": "15 directory listings discovered; 4 in-window estate listings before radius filtering",
       "candidates": 4,
       "included": 4
     },
@@ -40,75 +40,14 @@
   "counts": {
     "candidates": 21,
     "listings": 21,
-    "sales": 17,
-    "duplicates": 4,
+    "sales": 16,
+    "duplicates": 5,
     "outsideRadius": 0,
     "unlocatedListings": 0
   },
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
-    {
-      "id": "cd77d480b5400b91",
-      "title": "Black Friday Estate Sale Fun",
-      "company": null,
-      "streetAddress": null,
-      "city": "Brighton",
-      "state": "CO",
-      "zip": null,
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "09:00",
-          "end": null
-        },
-        {
-          "date": "2026-11-28",
-          "start": "09:00",
-          "end": null
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist Denver",
-          "url": "https://www.craigslist.org/view/d/brighton-black-friday-estate-sale-fun/qv7kSh9zmMkTrah6c2xbpf"
-        }
-      ],
-      "categories": [],
-      "photoCount": 24,
-      "photoUrls": [
-        "https://images.craigslist.org/00f0f_2TTHteJZI8j_0hq0d4_600x450.jpg",
-        "https://images.craigslist.org/00W0W_lAYhYpVyzvs_0hq0d4_600x450.jpg",
-        "https://images.craigslist.org/00h0h_5N4rgbLJER9_0d40hq_600x450.jpg",
-        "https://images.craigslist.org/00i0i_4RjdleibsTt_0d40hq_600x450.jpg",
-        "https://images.craigslist.org/00o0o_bLjlBUqHQ5_0d40hq_600x450.jpg",
-        "https://images.craigslist.org/00o0o_7v7at51DfSj_0d40hq_600x450.jpg",
-        "https://images.craigslist.org/00a0a_5GwYR4PrGIG_0hq0d4_600x450.jpg",
-        "https://images.craigslist.org/00A0A_iHGXj6VBhvn_0hq0d4_600x450.jpg",
-        "https://images.craigslist.org/00y0y_bVqHyEZqwRk_0d40hq_600x450.jpg",
-        "https://images.craigslist.org/00e0e_duYecyXZcXy_0d40hq_600x450.jpg",
-        "https://images.craigslist.org/00U0U_fMhg5d52ytg_0hq0d4_600x450.jpg",
-        "https://images.craigslist.org/01313_gIFtgDRwjAB_0d40hq_600x450.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "24 photos",
-        "tools, furniture and jewelry in the listing"
-      ],
-      "lat": 39.983721,
-      "lng": -104.8110775,
-      "approximate": true,
-      "photoKeywords": [
-        "lidded boxes",
-        "Coors serving tray",
-        "TV/VCR combo",
-        "screwdriver bits",
-        "rolltop desk"
-      ],
-      "contentsLine": "Two lidded boxes have laced corners. Other photos show a red Coors tray, a TV/VCR combo and a rolltop desk.",
-      "photoRead": true
-    },
     {
       "id": "c9b73de405aafe46",
       "title": "Estate Sale In Thornton",
@@ -316,6 +255,10 @@
         {
           "name": "EstateSales.org",
           "url": "https://estatesales.org/estate-sales/co/brighton/80601/from-work-bench-to-wardrobe-2475219"
+        },
+        {
+          "name": "Craigslist Denver",
+          "url": "https://www.craigslist.org/view/d/brighton-black-friday-estate-sale-fun/qv7kSh9zmMkTrah6c2xbpf"
         },
         {
           "name": "EstateSales.net",

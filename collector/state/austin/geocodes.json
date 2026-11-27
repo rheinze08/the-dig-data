@@ -111,6 +111,9 @@
   "nominatim:street:560 jaylee:78133": {
     "retryAfter": 1795828730621
   },
+  "nominatim:street:7401 fm 112:76574": {
+    "retryAfter": 1796413754600
+  },
   "nominatim:street:900 e 53 1 2 st:78751": {
     "retryAfter": 1795828710071
   },
@@ -158,6 +161,11 @@
     "lat": 30.287342,
     "lng": -98.033072,
     "basis": "Public listing map: EstateSales.net"
+  },
+  "street:1803 sand creek rd:78613": {
+    "lat": 30.519426,
+    "lng": -97.7974184,
+    "basis": "OpenStreetMap Nominatim"
   },
   "street:206 sinuso dr:78628": {
     "lat": 30.6858827,
@@ -278,6 +286,11 @@
     "lat": 30.7235993,
     "lng": -97.7154527,
     "basis": "OpenStreetMap Nominatim"
+  },
+  "street:7401 fm 112:76574": {
+    "lat": 30.556586,
+    "lng": -97.302599,
+    "basis": "Public listing map: EstateSales.net"
   },
   "street:7412 doswell ln:78739": {
     "lat": 30.193191,

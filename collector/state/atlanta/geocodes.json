@@ -33,6 +33,9 @@
   "nominatim:street:1432 pineway dr:30329": {
     "retryAfter": 1795963105951
   },
+  "nominatim:street:1575 deer cliff ct:30043": {
+    "retryAfter": 1796414027581
+  },
   "nominatim:street:173 rowland springs rd se:30121": {
     "retryAfter": 1795963139198
   },
@@ -41,6 +44,9 @@
   },
   "nominatim:street:1761c mccoba dr:30080": {
     "retryAfter": 1795963119300
+  },
+  "nominatim:street:1790 cheshire bridge rd ne:30324": {
+    "retryAfter": 1796414029117
   },
   "nominatim:street:1810 greystone ct:30068": {
     "retryAfter": 1795963134766
@@ -129,6 +135,9 @@
   "nominatim:street:5038 pointer rdg:30542": {
     "retryAfter": 1795963124813
   },
+  "nominatim:street:5249 amhurst dr:30092": {
+    "retryAfter": 1796414024256
+  },
   "nominatim:street:5395 vinings lake view sw:30126": {
     "retryAfter": 1795963116007
   },
@@ -138,11 +147,17 @@
   "nominatim:street:57 rivergate ct:30068": {
     "retryAfter": 1796077606979
   },
+  "nominatim:street:592 hidden hills ct:30066": {
+    "retryAfter": 1796414025462
+  },
   "nominatim:street:600 middlebrooke dr:30115": {
     "retryAfter": 1795963125722
   },
   "nominatim:street:609 gold valley pass:30114": {
     "retryAfter": 1796308089101
+  },
+  "nominatim:street:690 etowah dr:30064": {
+    "retryAfter": 1796414023586
   },
   "nominatim:street:711 trabert ave sw:30318": {
     "retryAfter": 1795963103705
@@ -204,6 +219,11 @@
     "lng": -84.331004,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:1575 deer cliff ct:30043": {
+    "lat": 34.003433,
+    "lng": -84.001669,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:161 river ridge ln:30075": {
     "lat": 34.005607,
     "lng": -84.357966,
@@ -233,6 +253,11 @@
     "lat": 33.9923301,
     "lng": -84.40013739999999,
     "basis": "Public listing map: EstateSales.net"
+  },
+  "street:1825 broadwell oaks dr:30004": {
+    "lat": 34.0791845,
+    "lng": -84.3094246,
+    "basis": "OpenStreetMap Nominatim"
   },
   "street:183 johnson dupree ct:30102": {
     "lat": 34.088112,
@@ -384,9 +409,19 @@
     "lng": -83.866267,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:5249 amhurst dr:30092": {
+    "lat": 33.987713,
+    "lng": -84.227234,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:5395 vinings lake view sw:30126": {
     "lat": 33.8174115,
     "lng": -84.5510887,
+    "basis": "Public listing map: EstateSales.net"
+  },
+  "street:592 hidden hills ct:30066": {
+    "lat": 34.012376,
+    "lng": -84.53399,
     "basis": "Public listing map: EstateSales.net"
   },
   "street:600 middlebrooke dr:30115": {
@@ -418,6 +453,11 @@
     "lat": 33.9683579,
     "lng": -84.5458203,
     "basis": "OpenStreetMap Nominatim"
+  },
+  "street:690 etowah dr:30064": {
+    "lat": 33.9683663,
+    "lng": -84.5458104,
+    "basis": "Public listing map: EstateSales.net"
   },
   "street:711 trabert ave nw:30318": {
     "lat": 33.7954852,

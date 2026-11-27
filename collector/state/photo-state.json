@@ -22,6 +22,9 @@
       }
     }
   },
+  "03403af350b1af68": {
+    "firstSeen": "2026-11-27T19:55:14.812Z"
+  },
   "0382b9e09b8a6751": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
@@ -296,6 +299,9 @@
       }
     }
   },
+  "1a7a36c0aec58429": {
+    "firstSeen": "2026-11-27T19:55:14.812Z"
+  },
   "1b38ea8e75acdabd": {
     "firstSeen": "2026-11-25T14:28:12.158Z",
     "originals": {
@@ -315,6 +321,9 @@
         "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles."
       }
     }
+  },
+  "1c978166b8d0ad5a": {
+    "firstSeen": "2026-11-27T19:55:14.812Z"
   },
   "1cccbc7f7587ad02": {
     "firstSeen": "2026-11-25T14:28:12.158Z"
@@ -451,6 +460,9 @@
       }
     }
   },
+  "29346df47288e76a": {
+    "firstSeen": "2026-11-27T19:55:14.812Z"
+  },
   "294679e620014b91": {
     "firstSeen": "2026-11-22T18:18:35.063Z",
     "originals": {
@@ -478,17 +490,6 @@
     "originals": {
       "atlanta": {
         "photoKeywords": []
-      }
-    }
-  },
-  "2ae505037f0dd2fd": {
-    "firstSeen": "2026-11-25T14:28:12.158Z",
-    "originals": {
-      "san-antonio": {
-        "photoKeywords": [
-          "furniture"
-        ],
-        "contentsLine": "Furniture."
       }
     }
   },
@@ -621,20 +622,6 @@
       }
     }
   },
-  "39d7fa69e6b31759": {
-    "firstSeen": "2026-11-24T21:05:26.139Z",
-    "originals": {
-      "austin": {
-        "photoKeywords": [
-          "tools",
-          "collectibles",
-          "books",
-          "electronics"
-        ],
-        "contentsLine": "Tools, collectibles, books and electronics."
-      }
-    }
-  },
   "3d5ae09f535a544c": {
     "firstSeen": "2026-11-22T18:18:35.063Z",
     "originals": {
@@ -703,9 +690,6 @@
   },
   "4245cae12f1d6ea5": {
     "firstSeen": "2026-11-24T21:05:26.139Z"
-  },
-  "443d7f2c4a509dff": {
-    "firstSeen": "2026-11-22T18:18:35.063Z"
   },
   "44781583afdd37a6": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
@@ -1385,19 +1369,6 @@
   "93c50956a3c079d0": {
     "firstSeen": "2026-11-27T14:28:47.892Z"
   },
-  "95131865685a3f22": {
-    "firstSeen": "2026-11-23T15:01:01.473Z",
-    "originals": {
-      "austin": {
-        "photoKeywords": [
-          "collectibles",
-          "books",
-          "comics"
-        ],
-        "contentsLine": "Collectibles, books and comics."
-      }
-    }
-  },
   "958ad8deb99f9819": {
     "firstSeen": "2026-11-23T15:01:01.473Z"
   },
@@ -1646,14 +1617,6 @@
           "crystal"
         ],
         "contentsLine": "Furniture, collectibles, vehicles, kitchen and clothing."
-      }
-    }
-  },
-  "a69a62e3be71bdec": {
-    "firstSeen": "2026-11-24T14:27:40.881Z",
-    "originals": {
-      "dallas-fort-worth": {
-        "photoKeywords": []
       }
     }
   },
@@ -1913,6 +1876,9 @@
   "be56dcbc29c8b09d": {
     "firstSeen": "2026-11-27T14:28:47.892Z"
   },
+  "bf66c12a4e95c9a3": {
+    "firstSeen": "2026-11-27T19:55:14.812Z"
+  },
   "c0420bbe0c6f9d01": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
@@ -2044,26 +2010,6 @@
       }
     }
   },
-  "cd77d480b5400b91": {
-    "firstSeen": "2026-11-24T14:27:40.881Z",
-    "originals": {
-      "denver": {
-        "photoKeywords": [
-          "tools",
-          "furniture",
-          "jewelry",
-          "collectibles",
-          "kitchen",
-          "clothing",
-          "books",
-          "art",
-          "figurines",
-          "mid-century"
-        ],
-        "contentsLine": "Tools, furniture, jewelry, collectibles and kitchen."
-      }
-    }
-  },
   "ce276e29f90285ec": {
     "firstSeen": "2026-11-23T22:27:42.933Z",
     "originals": {
@@ -2083,6 +2029,9 @@
         "contentsLine": "Tools, furniture, collectibles, vehicles and kitchen."
       }
     }
+  },
+  "ce68a043595e2ed5": {
+    "firstSeen": "2026-11-27T19:55:14.812Z"
   },
   "cf6d2212ceb133b3": {
     "firstSeen": "2026-11-23T15:01:01.473Z",
@@ -2304,6 +2253,9 @@
   "e7d26568e2b5c40e": {
     "firstSeen": "2026-11-22T18:18:35.063Z"
   },
+  "e8d9bb312fc5194c": {
+    "firstSeen": "2026-11-27T19:55:14.812Z"
+  },
   "e9508527a39c0b0b": {
     "firstSeen": "2026-11-24T14:27:40.881Z",
     "originals": {
@@ -2311,10 +2263,14 @@
         "photoKeywords": [
           "furniture",
           "collectibles",
+          "art",
+          "crystal",
           "antiques",
-          "lamps"
+          "rugs",
+          "lamps",
+          "mirrors"
         ],
-        "contentsLine": "Furniture, collectibles, antiques and lamps."
+        "contentsLine": "Furniture, collectibles, art, crystal and antiques."
       }
     }
   },
@@ -2440,6 +2396,9 @@
         "photoKeywords": []
       }
     }
+  },
+  "fa812e53b4216b77": {
+    "firstSeen": "2026-11-27T19:55:14.812Z"
   },
   "fc04deed497f104c": {
     "firstSeen": "2026-11-26T14:29:40.495Z",

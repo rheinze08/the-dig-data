@@ -68,6 +68,11 @@
   "nominatim:street:9702 wrangler dr:85373": {
     "retryAfter": 1795962947347
   },
+  "street:10212 e talameer ave:85212": {
+    "lat": 33.322956,
+    "lng": -111.61357,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:10722 w welk dr:85373": {
     "lat": 33.6440435,
     "lng": -112.2915,
@@ -153,6 +158,11 @@
     "lng": -112.113541,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:32007 n 23rd ave:85085": {
+    "lat": 33.7752601,
+    "lng": -112.1076626,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:4043 e pony ln:85295": {
     "lat": 33.3091235,
     "lng": -111.7029637,
@@ -167,6 +177,11 @@
     "lat": 33.51987,
     "lng": -112.171524,
     "basis": "Public listing map: EstateSales.net"
+  },
+  "street:523 w highland ave:85013": {
+    "lat": 33.5056309,
+    "lng": -112.0812837,
+    "basis": "OpenStreetMap Nominatim"
   },
   "street:5735 n 61st dr:glendale": {
     "lat": 33.521163,

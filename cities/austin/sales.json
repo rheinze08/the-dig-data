@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-27",
-  "collectedAt": "2026-11-27T14:22:39.284Z",
+  "collectedAt": "2026-11-27T19:49:14.611Z",
   "window": {
     "start": "2026-11-27",
     "end": "2026-12-10",
@@ -26,9 +26,9 @@
     },
     "Craigslist Austin": {
       "status": "reached",
-      "detail": "18 directory listings discovered; 3 in-window estate listings before radius filtering",
-      "candidates": 3,
-      "included": 2
+      "detail": "0 directory listings discovered; 0 in-window estate listings before radius filtering",
+      "candidates": 0,
+      "included": 0
     },
     "GSALR.com": {
       "status": "blocked",
@@ -38,11 +38,11 @@
     }
   },
   "counts": {
-    "candidates": 30,
-    "listings": 20,
-    "sales": 18,
-    "duplicates": 2,
-    "outsideRadius": 8,
+    "candidates": 27,
+    "listings": 18,
+    "sales": 17,
+    "duplicates": 1,
+    "outsideRadius": 7,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -184,7 +184,7 @@
       "photoRead": true
     },
     {
-      "id": "95131865685a3f22",
+      "id": "bf66c12a4e95c9a3",
       "title": "AVENGERS ASSEMBLE! HUGE MARVEL, DC & VINTAGE ENTERTAINMENT ESTATE SALE!",
       "company": "My Estate To Liquidate",
       "streetAddress": "13813 Field Spar Dr",
@@ -210,10 +210,6 @@
         }
       ],
       "sources": [
-        {
-          "name": "Craigslist Austin",
-          "url": "https://www.craigslist.org/view/d/manor-huge-maevel-dc-movies-books/vMHFcdwFMKszk3wZMRNi8W"
-        },
         {
           "name": "EstateSales.net",
           "url": "https://www.estatesales.net/TX/Manor/78653/5168865"
@@ -243,24 +239,21 @@
         "collectibles and books in the listing",
         "runs 3 days"
       ],
+      "photoKeywords": [
+        "collectibles",
+        "books",
+        "comics"
+      ],
+      "contentsLine": "Collectibles, books and comics.",
       "lat": 30.35601,
       "lng": -97.542736,
-      "approximate": false,
-      "photoKeywords": [
-        "action figures",
-        "framed movie posters",
-        "books",
-        "poker table",
-        "folding chairs"
-      ],
-      "contentsLine": "Action figures stand among shelves of books. Framed movie posters hang behind a green poker table and folding chairs.",
-      "photoRead": true
+      "approximate": false
     },
     {
       "id": "f7dbe7c3f81b1239",
       "title": "Black Friday Prices Without Black Friday Crowds",
       "company": "ATX & Beyond Estate Sales",
-      "streetAddress": "Sand Creek Rd",
+      "streetAddress": "1803 Sand Creek Rd",
       "city": "Cedar Park",
       "state": "TX",
       "zip": "78613",
@@ -318,8 +311,8 @@
         "clothing"
       ],
       "contentsLine": "Tools, jewelry and clothing.",
-      "lat": 30.519594,
-      "lng": -97.796052,
+      "lat": 30.519426,
+      "lng": -97.7974184,
       "approximate": false
     },
     {
@@ -536,65 +529,6 @@
       "lat": 30.562779,
       "lng": -97.841673,
       "approximate": false
-    },
-    {
-      "id": "39d7fa69e6b31759",
-      "title": "►► ESTATE SALE - Scuba, Trolling Motors, Tools, Mowers & More! ◄◄",
-      "company": null,
-      "streetAddress": "310 Wildcat Hollow Dr near Roland Ln",
-      "city": "Kyle",
-      "state": "TX",
-      "zip": null,
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-28",
-          "start": "07:00",
-          "end": null
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist Austin",
-          "url": "https://www.craigslist.org/view/d/kyle-estate-sale-scuba-trolling-motors/njBdJr7q8hhNW1ij5K1EKQ"
-        }
-      ],
-      "categories": [
-        "tools"
-      ],
-      "photoCount": 24,
-      "photoUrls": [
-        "https://images.craigslist.org/00k0k_cCMzx27oGYC_07K0ak_600x450.jpg",
-        "https://images.craigslist.org/00v0v_kxLus56EAfE_07K0ak_600x450.jpg",
-        "https://images.craigslist.org/00r0r_4gS9kMr7xet_07K0ak_600x450.jpg",
-        "https://images.craigslist.org/00f0f_d4jOp3zlsEg_0pO0pO_600x450.jpg",
-        "https://images.craigslist.org/00909_1lrTeIxugVH_07K0ak_600x450.jpg",
-        "https://images.craigslist.org/00G0G_jSniO4bYHsr_0dL0ju_600x450.jpg",
-        "https://images.craigslist.org/00U0U_lc53AD5vR0_07K0ak_600x450.jpg",
-        "https://images.craigslist.org/00202_gUvpDr9yYa_0CI0t2_600x450.jpg",
-        "https://images.craigslist.org/00u0u_ib6M1HKi4Vq_09m09m_600x450.jpg",
-        "https://images.craigslist.org/00R0R_creFrb4QGj0_07E084_600x450.jpg",
-        "https://images.craigslist.org/00101_gwUBxAeuyQg_0ak07K_600x450.jpg",
-        "https://images.craigslist.org/00101_adfivTEU3IL_0pO0nD_600x450.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "24 photos",
-        "tools, collectibles and books in the listing"
-      ],
-      "lat": 29.9892816,
-      "lng": -97.877174,
-      "approximate": true,
-      "photoKeywords": [
-        "Homelite chainsaw",
-        "Motorcraft battery",
-        "short-sleeve wetsuit",
-        "diving fins",
-        "scuba regulator",
-        "buoyancy compensator"
-      ],
-      "contentsLine": "A Homelite chainsaw and Motorcraft battery are shown, along with a short wetsuit, blue fins and a scuba regulator.",
-      "photoRead": true
     },
     {
       "id": "50b912945174ae6e",

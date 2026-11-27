@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T14:28:47.892Z",
+  "generatedAt": "2026-11-27T19:55:14.812Z",
   "categories": [
     "tools",
     "furniture",
@@ -22,31 +22,31 @@
       "state": "TX",
       "status": "live",
       "sales": 19,
-      "collectedAt": "2026-11-27T14:19:00.902Z"
+      "collectedAt": "2026-11-27T19:45:34.353Z"
     },
     {
       "slug": "dallas-fort-worth",
       "name": "Dallas–Fort Worth",
       "state": "TX",
       "status": "live",
-      "sales": 52,
-      "collectedAt": "2026-11-27T14:21:42.991Z"
+      "sales": 53,
+      "collectedAt": "2026-11-27T19:48:19.879Z"
     },
     {
       "slug": "austin",
       "name": "Austin",
       "state": "TX",
       "status": "live",
-      "sales": 18,
-      "collectedAt": "2026-11-27T14:22:39.284Z"
+      "sales": 17,
+      "collectedAt": "2026-11-27T19:49:14.611Z"
     },
     {
       "slug": "san-antonio",
       "name": "San Antonio",
       "state": "TX",
       "status": "live",
-      "sales": 25,
-      "collectedAt": "2026-11-27T14:23:50.947Z"
+      "sales": 24,
+      "collectedAt": "2026-11-27T19:50:22.337Z"
     },
     {
       "slug": "phoenix",
@@ -54,31 +54,31 @@
       "state": "AZ",
       "status": "live",
       "sales": 41,
-      "collectedAt": "2026-11-27T14:25:25.298Z"
+      "collectedAt": "2026-11-27T19:51:53.382Z"
     },
     {
       "slug": "atlanta",
       "name": "Atlanta",
       "state": "GA",
       "status": "live",
-      "sales": 46,
-      "collectedAt": "2026-11-27T14:27:22.058Z"
+      "sales": 49,
+      "collectedAt": "2026-11-27T19:53:49.135Z"
     },
     {
       "slug": "denver",
       "name": "Denver",
       "state": "CO",
       "status": "proving",
-      "sales": 17,
-      "collectedAt": "2026-11-27T14:27:59.504Z"
+      "sales": 16,
+      "collectedAt": "2026-11-27T19:54:26.928Z"
     },
     {
       "slug": "nashville",
       "name": "Nashville",
       "state": "TN",
       "status": "proving",
-      "sales": 22,
-      "collectedAt": "2026-11-27T14:28:47.882Z"
+      "sales": 23,
+      "collectedAt": "2026-11-27T19:55:14.803Z"
     }
   ],
   "sales": [
@@ -1020,51 +1020,6 @@
         "https://picturescdn.estatesales.net/5172522/1-1/9b2e3f32-482e-49a1-a5bd-33c18e1dfbab.jpg",
         "https://picturescdn.estatesales.net/5172522/1-1/622bccdc-7c29-431a-be16-30eccd013b47.jpg",
         "https://picturescdn.estatesales.net/5172522/1-1/c17ab7d0-7b11-4ac0-83af-a37b84b7b178.jpg"
-      ]
-    },
-    {
-      "id": "a69a62e3be71bdec",
-      "citySlug": "dallas-fort-worth",
-      "cityName": "Dallas–Fort Worth",
-      "status": "live",
-      "title": "Estate Sale-Everything must go",
-      "company": null,
-      "categories": [],
-      "firstDate": "2026-11-27",
-      "lastDate": "2026-11-29",
-      "lat": 32.7355816,
-      "lng": -97.1071186,
-      "approximate": true,
-      "sources": [
-        {
-          "name": "Craigslist Dallas / Fort Worth",
-          "url": "https://www.craigslist.org/view/d/arlington-estate-sale-everything-must-go/txqQwt1AJXHJu4Ep5yw8iV"
-        }
-      ],
-      "digRating": "Worth a Look",
-      "photoCount": 20,
-      "photoKeywords": [
-        "shelf headboard",
-        "nightstand",
-        "gray comforter",
-        "throw pillows",
-        "Squier electric guitar"
-      ],
-      "contentsLine": "A bed has a white shelf headboard and gray comforter. A one-drawer nightstand and black Squier guitar are also shown.",
-      "photoRead": true,
-      "photoUrls": [
-        "https://images.craigslist.org/00z0z_7a5pzgbHa2R_0CI0t2_600x450.jpg",
-        "https://images.craigslist.org/00y0y_fFJIUZsewSa_0CI0t2_600x450.jpg",
-        "https://images.craigslist.org/00L0L_5SiQdMsKJZL_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00l0l_8dJUVLMSwdP_0BE0CI_600x450.jpg",
-        "https://images.craigslist.org/00J0J_6TBk2WILB7N_0CI0t2_600x450.jpg",
-        "https://images.craigslist.org/00C0C_9mTQ2pQjjrO_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00M0M_8jmfUeQweT8_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/01515_fFfVxrpZvZq_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00000_7ViPJX2mMwL_0CI0pe_600x450.jpg",
-        "https://images.craigslist.org/00C0C_gh6Xlfzw66b_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/01414_koBugjSKpa4_0CI0t2_600x450.jpg",
-        "https://images.craigslist.org/00P0P_hxjrWuJll1Y_0t20CI_600x450.jpg"
       ]
     },
     {
@@ -2055,9 +2010,9 @@
       "categories": [],
       "firstDate": "2026-11-27",
       "lastDate": "2026-11-29",
-      "lat": 33.0395247,
-      "lng": -96.8103301,
-      "approximate": true,
+      "lat": 33.0369966,
+      "lng": -96.8492592,
+      "approximate": false,
       "sources": [
         {
           "name": "EstateSales.net",
@@ -2104,9 +2059,9 @@
       "categories": [],
       "firstDate": "2026-11-28",
       "lastDate": "2026-11-29",
-      "lat": 32.7583875,
-      "lng": -97.2270583,
-      "approximate": true,
+      "lat": 32.7771695,
+      "lng": -97.232241,
+      "approximate": false,
       "sources": [
         {
           "name": "EstateSales.net",
@@ -2137,6 +2092,33 @@
         "https://picturescdn.estatesales.net/5172729/1-1/4453e73e-3bbd-40ef-b88b-d8eb2e3d0c5e.jpg",
         "https://picturescdn.estatesales.net/5172729/1-1/650d8090-4bad-4fc8-9b93-1b53a4c773e4.jpg"
       ]
+    },
+    {
+      "id": "1c978166b8d0ad5a",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "live",
+      "title": "Estate Sale - Everything Discounted! Attn resellers!",
+      "company": null,
+      "categories": [],
+      "firstDate": "2026-11-28",
+      "lastDate": "2026-11-28",
+      "lat": 32.950664,
+      "lng": -96.900084,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/carrollton/75006/estate-sale-everything-discounted-attn-2475713"
+        }
+      ],
+      "digRating": "Worth a Look",
+      "photoKeywords": [
+        "furniture",
+        "kitchen",
+        "books"
+      ],
+      "contentsLine": "Furniture, kitchen and books."
     },
     {
       "id": "44781583afdd37a6",
@@ -2667,28 +2649,43 @@
       ]
     },
     {
-      "id": "443d7f2c4a509dff",
+      "id": "e8d9bb312fc5194c",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
       "status": "live",
       "title": "~Massive *2 Phase* Garland, TX -Black Friday Weekend- Estate Sale! More info coming soon!",
-      "company": "DFW Estate Liquidators",
+      "company": "DFW ESTATE LIQUIDATORS",
       "categories": [],
       "firstDate": "2026-12-04",
       "lastDate": "2026-12-06",
-      "lat": 32.8799326,
-      "lng": -96.6494099,
-      "approximate": true,
+      "lat": 32.8857903,
+      "lng": -96.6625737,
+      "approximate": false,
       "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/garland/75041/massive-2-phase-garland-tx-2467701"
+        },
         {
           "name": "EstateSales.net",
           "url": "https://www.estatesales.net/TX/Garland/75041/5114634"
         }
       ],
-      "digRating": "Slim Pickings",
-      "photoCount": 1,
+      "digRating": "Deep Dig",
+      "photoCount": 126,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5114634/1-1/ab9cdcd3-d379-4f90-a437-0fe57990abab.jpg"
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-kpwc6k8i37c31cq9.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-13w77cls11vv4anp.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-ijz3v0rokljuy7ys.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-60u6qfrtz8ixk3sy.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-cdjoibthyrf0cgtz.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-x5x105qp4zaxqmun.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-c47vtt0skmk4uuhi.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-joxmdthqt6jg2ozf.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-xsp5pg2jtmja6lqe.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-2aryh1iz23tgmc7d.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-xe652eyta9jt51ky.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-fmcqnv01xbkc0keu.jpg"
       ]
     },
     {
@@ -2980,6 +2977,54 @@
       ]
     },
     {
+      "id": "fa812e53b4216b77",
+      "citySlug": "dallas-fort-worth",
+      "cityName": "Dallas–Fort Worth",
+      "status": "live",
+      "title": "LANN Estate Sale - Bent Tree North (PART TWO)",
+      "company": "Lann Estate Sales",
+      "categories": [],
+      "firstDate": "2026-12-05",
+      "lastDate": "2026-12-06",
+      "lat": 33.001202,
+      "lng": -96.8473692,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75287/5174178"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 87,
+      "photoKeywords": [
+        "furniture",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "toys & games",
+        "crystal",
+        "lamps",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, kitchen, clothing, books and art.",
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5174178/1-1/6efe4b10-d3cf-49aa-8148-197c18fc888c.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/1f998410-2d04-4551-af70-96237d1b32b9.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/01216588-4cae-4711-9542-22c45cada488.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/5e9ae9b6-7ec4-49fc-b17c-78c464553949.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/a2b28244-d0bc-4ff7-a6e6-9ba149de0783.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/74214aa2-c30d-499a-8ac1-e5d38e16312d.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/9cac2c18-a662-4f3a-9f1c-d91d48853769.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/43535602-3ed4-45f4-8bef-5c1a4cb17bc2.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/9847ff6c-c4a3-4614-bf94-28ccceacd097.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/47b4bc97-b172-4c09-be3e-ae425d73dc8a.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/dadc491d-543f-46c8-b7f3-38c80a6d5480.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/22d1cf86-a0b4-4fa3-bbe6-0577fbb07bfd.jpg"
+      ]
+    },
+    {
       "id": "c2030cfb62206ddd",
       "citySlug": "dallas-fort-worth",
       "cityName": "Dallas–Fort Worth",
@@ -3000,6 +3045,19 @@
       ],
       "digRating": "Deep Dig",
       "photoCount": 403,
+      "photoKeywords": [
+        "furniture",
+        "kitchen",
+        "clothing",
+        "art",
+        "antiques",
+        "rugs",
+        "lamps",
+        "mirrors",
+        "pianos",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, kitchen, clothing, art and antiques.",
       "photoUrls": [
         "https://picturescdn.estatesales.net/5173875/1-1/82ed4960-a863-434c-bd31-37a98716e6e6.jpg",
         "https://picturescdn.estatesales.net/5173875/1-1/b917574e-a289-4a78-8c8a-914f3271ee3c.jpg",
@@ -3344,7 +3402,7 @@
       ]
     },
     {
-      "id": "95131865685a3f22",
+      "id": "bf66c12a4e95c9a3",
       "citySlug": "austin",
       "cityName": "Austin",
       "status": "live",
@@ -3358,10 +3416,6 @@
       "approximate": false,
       "sources": [
         {
-          "name": "Craigslist Austin",
-          "url": "https://www.craigslist.org/view/d/manor-huge-maevel-dc-movies-books/vMHFcdwFMKszk3wZMRNi8W"
-        },
-        {
           "name": "EstateSales.net",
           "url": "https://www.estatesales.net/TX/Manor/78653/5168865"
         }
@@ -3369,14 +3423,11 @@
       "digRating": "Deep Dig",
       "photoCount": 157,
       "photoKeywords": [
-        "action figures",
-        "framed movie posters",
+        "collectibles",
         "books",
-        "poker table",
-        "folding chairs"
+        "comics"
       ],
-      "contentsLine": "Action figures stand among shelves of books. Framed movie posters hang behind a green poker table and folding chairs.",
-      "photoRead": true,
+      "contentsLine": "Collectibles, books and comics.",
       "photoUrls": [
         "https://picturescdn.estatesales.net/5168865/1-1/4b2db2d0-79c6-4451-8661-0393d158ddd4.jpg",
         "https://picturescdn.estatesales.net/5168865/1-1/48ad7114-1154-4623-8ea5-db07093425ba.jpg",
@@ -3402,8 +3453,8 @@
       "categories": [],
       "firstDate": "2026-11-27",
       "lastDate": "2026-11-29",
-      "lat": 30.519594,
-      "lng": -97.796052,
+      "lat": 30.519426,
+      "lng": -97.7974184,
       "approximate": false,
       "sources": [
         {
@@ -3581,54 +3632,6 @@
         "https://picturescdn.estatesales.net/5162514/1-1/0c965791-aef2-4698-aef0-194d9cea3427.jpg",
         "https://picturescdn.estatesales.net/5162514/1-1/9112dceb-937f-4d94-97c5-e790dbef0f43.jpg",
         "https://picturescdn.estatesales.net/5162514/1-1/2856b212-9037-4c37-96ad-c37bf1b15024.jpg"
-      ]
-    },
-    {
-      "id": "39d7fa69e6b31759",
-      "citySlug": "austin",
-      "cityName": "Austin",
-      "status": "live",
-      "title": "►► ESTATE SALE - Scuba, Trolling Motors, Tools, Mowers & More! ◄◄",
-      "company": null,
-      "categories": [
-        "tools"
-      ],
-      "firstDate": "2026-11-28",
-      "lastDate": "2026-11-28",
-      "lat": 29.9892816,
-      "lng": -97.877174,
-      "approximate": true,
-      "sources": [
-        {
-          "name": "Craigslist Austin",
-          "url": "https://www.craigslist.org/view/d/kyle-estate-sale-scuba-trolling-motors/njBdJr7q8hhNW1ij5K1EKQ"
-        }
-      ],
-      "digRating": "Deep Dig",
-      "photoCount": 24,
-      "photoKeywords": [
-        "Homelite chainsaw",
-        "Motorcraft battery",
-        "short-sleeve wetsuit",
-        "diving fins",
-        "scuba regulator",
-        "buoyancy compensator"
-      ],
-      "contentsLine": "A Homelite chainsaw and Motorcraft battery are shown, along with a short wetsuit, blue fins and a scuba regulator.",
-      "photoRead": true,
-      "photoUrls": [
-        "https://images.craigslist.org/00k0k_cCMzx27oGYC_07K0ak_600x450.jpg",
-        "https://images.craigslist.org/00v0v_kxLus56EAfE_07K0ak_600x450.jpg",
-        "https://images.craigslist.org/00r0r_4gS9kMr7xet_07K0ak_600x450.jpg",
-        "https://images.craigslist.org/00f0f_d4jOp3zlsEg_0pO0pO_600x450.jpg",
-        "https://images.craigslist.org/00909_1lrTeIxugVH_07K0ak_600x450.jpg",
-        "https://images.craigslist.org/00G0G_jSniO4bYHsr_0dL0ju_600x450.jpg",
-        "https://images.craigslist.org/00U0U_lc53AD5vR0_07K0ak_600x450.jpg",
-        "https://images.craigslist.org/00202_gUvpDr9yYa_0CI0t2_600x450.jpg",
-        "https://images.craigslist.org/00u0u_ib6M1HKi4Vq_09m09m_600x450.jpg",
-        "https://images.craigslist.org/00R0R_creFrb4QGj0_07E084_600x450.jpg",
-        "https://images.craigslist.org/00101_gwUBxAeuyQg_0ak07K_600x450.jpg",
-        "https://images.craigslist.org/00101_adfivTEU3IL_0pO0nD_600x450.jpg"
       ]
     },
     {
@@ -4077,82 +4080,6 @@
       ]
     },
     {
-      "id": "c0420bbe0c6f9d01",
-      "citySlug": "san-antonio",
-      "cityName": "San Antonio",
-      "status": "live",
-      "title": "sale! 50% OFF",
-      "company": "1dandelion LLC",
-      "categories": [],
-      "firstDate": "2026-11-25",
-      "lastDate": "2026-11-27",
-      "lat": 29.443835,
-      "lng": -98.508732,
-      "approximate": false,
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78201/5158845"
-        }
-      ],
-      "digRating": "Deep Dig",
-      "photoCount": 69,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5158845/1-1/053528a9-09fe-45b5-ad84-91ae725ca305.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/3cc66bc4-746a-417b-98f4-525ee09e60eb.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/71324f68-16c5-46b3-b472-bebbcb8105f6.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/6df4f042-8830-4130-8cf5-18db387aba9b.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/c9bc16d8-6015-4794-aaa4-967c8e80c63d.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/02709502-514f-4129-bd05-8bc0fc43049a.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/6eac38dd-05df-4741-bbba-a7968ca8de91.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/888857dc-9b94-40cd-b1d8-9e83d1f1b68d.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/d8d0baf8-2b55-499f-83b6-dca5603439b8.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/772dd093-890d-4dad-b192-bdac58df493e.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/5dc34b3d-b1dc-448c-b21c-2dae86c1b899.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/21902c75-090a-41ad-a79c-9c57e875828c.jpg"
-      ]
-    },
-    {
-      "id": "2ae505037f0dd2fd",
-      "citySlug": "san-antonio",
-      "cityName": "San Antonio",
-      "status": "live",
-      "title": "5830 Grandwood dr estate sale",
-      "company": null,
-      "categories": [],
-      "firstDate": "2026-11-27",
-      "lastDate": "2026-11-29",
-      "lat": 29.515508,
-      "lng": -98.3802925,
-      "approximate": true,
-      "sources": [
-        {
-          "name": "Craigslist San Antonio",
-          "url": "https://www.craigslist.org/view/d/san-antonio-5830-grandwood-dr-estate/7XAzTnsgj1P3s5pgoJH1L6"
-        }
-      ],
-      "digRating": "Worth a Look",
-      "photoCount": 7,
-      "photoKeywords": [
-        "rolltop desk",
-        "round pedestal table",
-        "dining chairs",
-        "storage chest",
-        "shelving cabinet"
-      ],
-      "contentsLine": "A round pedestal table has carved-back chairs. Other photos show a rolltop desk and an open storage chest.",
-      "photoRead": true,
-      "photoUrls": [
-        "https://images.craigslist.org/00F0F_3eRUou5u9jk_0lM0t2_600x450.jpg",
-        "https://images.craigslist.org/00D0D_ikln0lOtgPk_0hC0t2_600x450.jpg",
-        "https://images.craigslist.org/00N0N_g6Y7rah6STj_0lM0t2_600x450.jpg",
-        "https://images.craigslist.org/00o0o_doro0ENJPF9_0lO0t2_600x450.jpg",
-        "https://images.craigslist.org/00101_lVUsu5VFQD8_0lE0t2_600x450.jpg",
-        "https://images.craigslist.org/00v0v_eTpjc2opBU9_0lN0t2_600x450.jpg",
-        "https://images.craigslist.org/00P0P_hnipP6bg87v_0lM0t2_600x450.jpg"
-      ]
-    },
-    {
       "id": "a3e380a9b0a15a3d",
       "citySlug": "san-antonio",
       "cityName": "San Antonio",
@@ -4299,6 +4226,42 @@
         "https://picturescdn.estatesales.net/5173539/1-1/8fc47002-34e8-41ec-9c27-231951eb31f3.jpg",
         "https://picturescdn.estatesales.net/5173539/1-1/9d460f02-4894-4cd4-9cc6-b7280f667af3.jpg",
         "https://picturescdn.estatesales.net/5173539/1-1/f08adc7e-9d0c-48ae-8912-31a73d219233.jpg"
+      ]
+    },
+    {
+      "id": "c0420bbe0c6f9d01",
+      "citySlug": "san-antonio",
+      "cityName": "San Antonio",
+      "status": "live",
+      "title": "sale! 50% OFF",
+      "company": "1dandelion LLC",
+      "categories": [],
+      "firstDate": "2026-11-27",
+      "lastDate": "2026-11-30",
+      "lat": 29.443835,
+      "lng": -98.508732,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78201/5158845"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 74,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5158845/1-1/053528a9-09fe-45b5-ad84-91ae725ca305.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/3cc66bc4-746a-417b-98f4-525ee09e60eb.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/71324f68-16c5-46b3-b472-bebbcb8105f6.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/6df4f042-8830-4130-8cf5-18db387aba9b.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/c9bc16d8-6015-4794-aaa4-967c8e80c63d.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/02709502-514f-4129-bd05-8bc0fc43049a.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/6eac38dd-05df-4741-bbba-a7968ca8de91.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/888857dc-9b94-40cd-b1d8-9e83d1f1b68d.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/d8d0baf8-2b55-499f-83b6-dca5603439b8.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/772dd093-890d-4dad-b192-bdac58df493e.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/5dc34b3d-b1dc-448c-b21c-2dae86c1b899.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/21902c75-090a-41ad-a79c-9c57e875828c.jpg"
       ]
     },
     {
@@ -5491,8 +5454,8 @@
       "citySlug": "phoenix",
       "cityName": "Phoenix",
       "status": "live",
-      "title": "Black Friday madness in Gilbert *unit 101*",
-      "company": "Allegro Estate Sales & Services Az LLC",
+      "title": "Black Friday madness in Gilbert **unit 101**",
+      "company": "Allegro Estate Sales & Services AZ LLC",
       "categories": [],
       "firstDate": "2026-11-27",
       "lastDate": "2026-11-28",
@@ -5503,27 +5466,23 @@
         {
           "name": "EstateSales.org",
           "url": "https://estatesales.org/estate-sales/az/gilbert/85295/black-friday-madness-in-gilbert-2475320"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/AZ/Gilbert/85295/5171475"
         }
       ],
       "digRating": "Worth a Look",
-      "photoCount": 154,
+      "photoCount": 20,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5171475/1-1/ef81e865-e551-459d-b474-0552c61f8ca7.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/e87054ff-c164-43d0-9617-e132c20bac6c.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/dc8cc773-d064-4b5a-b71e-70538c41ed99.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/106c2c5c-d0b2-45da-b3e6-b8e8e84b2914.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/a1ce9bee-de31-4e5a-9f3b-d5469cb7a5ff.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/44299830-a13d-49c9-9a27-c28bdd97a72d.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/494cccdc-38a5-4a8c-b9b2-d097c3592d66.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/5f72debf-9e56-4c43-b478-dc35683100c6.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/ad036e81-47e3-45d0-96ac-0cfb854a3615.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/23bbfac5-94a8-46af-baa9-ee7b483a74e9.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/f44d4bfa-a0c4-4e6d-80dd-9030608fc5ef.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/9d8af3cc-396d-43c2-9021-d0ccd010f55b.jpg"
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-lbppr2luwvwt0lwt.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-j1ck8y338ui42585.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-hbbrunv6yju4k7se.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-yns96p55yzv7pavq.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-ozw5xs8nyn9oog5y.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-b46lgwgthjglc9z2.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-2jfstv10o8w53rwv.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-6lx1xh4q8aqadc13.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-jqk6it2zknh7dekr.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-yd8j5f4qpzq70zk9.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-ztxebegh2wvnelsn.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-2spvwgnxv5pzup0n.jpg"
       ]
     },
     {
@@ -5823,9 +5782,9 @@
       "categories": [],
       "firstDate": "2026-11-28",
       "lastDate": "2026-11-29",
-      "lat": 33.5064348,
-      "lng": -112.08397,
-      "approximate": true,
+      "lat": 33.5056309,
+      "lng": -112.0812837,
+      "approximate": false,
       "sources": [
         {
           "name": "EstateSales.net",
@@ -5870,17 +5829,17 @@
       "categories": [],
       "firstDate": "2026-11-28",
       "lastDate": "2026-11-29",
-      "lat": 33.7545497,
-      "lng": -112.1057011,
-      "approximate": true,
+      "lat": 33.7752601,
+      "lng": -112.1076626,
+      "approximate": false,
       "sources": [
         {
           "name": "EstateSales.net",
           "url": "https://www.estatesales.net/AZ/Phoenix/85085/5173527"
         }
       ],
-      "digRating": "Worth a Look",
-      "photoCount": 2,
+      "digRating": "Deep Dig",
+      "photoCount": 147,
       "photoKeywords": [
         "furniture",
         "jewelry",
@@ -5895,7 +5854,17 @@
       "contentsLine": "Furniture, jewelry, collectibles, vehicles and clothing.",
       "photoUrls": [
         "https://picturescdn.estatesales.net/5173527/1-1/b55c7c77-0491-43d7-8881-3975bdbbda5d.jpg",
-        "https://picturescdn.estatesales.net/5173527/1-1/4bd54a84-27a2-4f17-b884-3331d6e8e76f.jpg"
+        "https://picturescdn.estatesales.net/5173527/1-1/f723b98f-5975-4657-ac90-ad7940871a77.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/365814c6-b3b9-45e4-8ebc-5f61ffa52b68.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/e7323d93-0d06-425e-9481-a0533defe0f1.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/d57203c9-fd93-4269-8e6a-3088d435fc08.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/2ff2f63f-1b36-409e-a39b-9f1787351da2.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/717f4864-dbd3-48a8-aef5-ed0b98d0d288.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/7631430b-bb27-412c-9a60-1dfd3b94d641.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/b1e25ffc-e087-4263-8919-eaa5a6f710ea.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/8d43764c-4eca-44ba-8dd4-43eef6051273.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/76d86ec7-e0df-464a-9fb2-71da484e5d0e.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/40001394-3f04-41b3-9c89-6ec21ce9c94f.jpg"
       ]
     },
     {
@@ -5903,8 +5872,8 @@
       "citySlug": "phoenix",
       "cityName": "Phoenix",
       "status": "live",
-      "title": "Scottsdale 4 Million Dollar Home Estate Sale",
-      "company": "Fresh Start Estate Sales LLC",
+      "title": "Scottsdale Estate Sale 4 Million Dollar Home",
+      "company": "Fresh Start Estate Sales",
       "categories": [],
       "firstDate": "2026-11-28",
       "lastDate": "2026-11-29",
@@ -5934,18 +5903,18 @@
       ],
       "contentsLine": "Furniture, collectibles, kitchen, figurines and rugs.",
       "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-l7jy7r6g1t2m1w8r.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-hf2yvi2z68cvy56o.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-60tmwpov3rbqya3x.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-7s3ofuc3d6ifm4ty.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-ug44yap6id9ahow7.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-efjyvrudkrann4p4.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-w6neevrba4v5bwmk.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-oca7fmp2i5b31gk9.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-0lazugb6u60i5xo4.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-cut3yyhgyw7bdu0d.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-kfv2w0vyhnawwnkw.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-9znpa9pkt659twcy.jpg"
+        "https://picturescdn.estatesales.net/5165160/1-1/c672ca61-d2a4-4e28-ad5d-c6495a078ee7.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/d6611e64-585f-405e-adff-ebb5d8cc9b64.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/91fae43a-5d64-4b7c-8d78-290594e98715.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/603e41f0-fa56-4922-ac9d-7155741c1de6.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/47905cfa-8677-4cef-b1bb-f6048eedc8a7.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/91bf8cf1-be55-4429-96d0-beee0779e00b.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/c26ed36f-b90d-40b2-9dc9-bca59b4f15df.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/b1a7e37f-1dda-4a0d-a26a-2e9a966be39c.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/62d0966b-9cec-4c1a-b873-7307ce5d9e9f.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/de18070d-32b9-48db-896c-5e9a075c9c6e.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/d34b5bc8-95a6-458e-8430-870c1d21d85f.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/6799f919-8546-458e-bcd8-dcf2243d2a67.jpg"
       ]
     },
     {
@@ -7007,55 +6976,6 @@
       ]
     },
     {
-      "id": "1ee0339953df788d",
-      "citySlug": "atlanta",
-      "cityName": "Atlanta",
-      "status": "live",
-      "title": "Antiques, Chimineas, Waterford Must See",
-      "company": "Dunwoody Estate Treasures",
-      "categories": [
-        "collectibles"
-      ],
-      "firstDate": "2026-11-27",
-      "lastDate": "2026-11-29",
-      "lat": 33.9441071,
-      "lng": -84.321633,
-      "approximate": true,
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Atlanta/30338/5170545"
-        }
-      ],
-      "digRating": "Deep Dig",
-      "photoCount": 53,
-      "photoKeywords": [
-        "grand piano",
-        "piano bench",
-        "sideboard",
-        "console table",
-        "dresser with mirror",
-        "floral table lamp",
-        "plant stand"
-      ],
-      "contentsLine": "A black grand piano and bench, a sideboard with turned legs, a mirrored dresser and a lamp with a rose-patterned shade.",
-      "photoRead": true,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5170545/1-1/f7710f06-4798-4c37-ab0f-3f406ee6b346.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/0a0c9efb-1dc0-406c-884f-fd3ddac62384.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/d906ad44-76ee-45ee-98d3-7dfdc70f1f36.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/b87e8e75-aad0-4e08-9b57-553c28010901.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/91f8f6f4-f3ba-415c-a602-51b0965dfd29.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/f28877db-e77f-4139-9b51-c69447dd38f7.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/02029e1d-e1e5-4881-af03-cc31ba8faffd.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/93d1de6a-337d-4b9a-9681-d1a5072d894e.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/844e9d35-aa9c-492d-ab7d-3562f1540782.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/3d7e4b2d-4e2e-48b9-a913-5be0f6dae9f7.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/1a04d48c-583d-4483-8ee1-43de11d3fe7d.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/c22fdb61-a8f3-4526-a439-f846eccd22f5.jpg"
-      ]
-    },
-    {
       "id": "41baec236ef58785",
       "citySlug": "atlanta",
       "cityName": "Atlanta",
@@ -7171,10 +7091,9 @@
       "photoKeywords": [
         "jewelry",
         "collectibles",
-        "books",
         "antiques"
       ],
-      "contentsLine": "Jewelry, collectibles, books and antiques.",
+      "contentsLine": "Jewelry, collectibles and antiques.",
       "photoUrls": [
         "https://picturescdn.estatesales.net/5133690/1-1/130a936d-6fd3-4072-892f-ce711e5a0226.jpg",
         "https://picturescdn.estatesales.net/5133690/1-1/d02cba1f-cf5e-4aa5-8baa-4167581ce3cd.jpg",
@@ -7236,6 +7155,55 @@
         "https://picturescdn.estatesales.net/5168808/1-1/4519db28-816d-491e-9056-3993da908082.jpg",
         "https://picturescdn.estatesales.net/5168808/1-1/b447aad7-5ba2-497f-82d6-4007f261abe0.jpg",
         "https://picturescdn.estatesales.net/5168808/1-1/494b54c3-aa1c-40c0-adfa-73af809c6308.jpg"
+      ]
+    },
+    {
+      "id": "1ee0339953df788d",
+      "citySlug": "atlanta",
+      "cityName": "Atlanta",
+      "status": "live",
+      "title": "Mahogany and Marble Antiques, Waterford, Outdoor Must Haves",
+      "company": "Dunwoody Estate Treasures",
+      "categories": [
+        "collectibles"
+      ],
+      "firstDate": "2026-11-27",
+      "lastDate": "2026-11-30",
+      "lat": 33.9441071,
+      "lng": -84.321633,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Atlanta/30338/5170545"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 53,
+      "photoKeywords": [
+        "grand piano",
+        "piano bench",
+        "sideboard",
+        "console table",
+        "dresser with mirror",
+        "floral table lamp",
+        "plant stand"
+      ],
+      "contentsLine": "A black grand piano and bench, a sideboard with turned legs, a mirrored dresser and a lamp with a rose-patterned shade.",
+      "photoRead": true,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170545/1-1/b87e8e75-aad0-4e08-9b57-553c28010901.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/5aa0299f-4703-4721-adf4-d29fe94e7d0b.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/f7710f06-4798-4c37-ab0f-3f406ee6b346.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/0a0c9efb-1dc0-406c-884f-fd3ddac62384.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/d906ad44-76ee-45ee-98d3-7dfdc70f1f36.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/91f8f6f4-f3ba-415c-a602-51b0965dfd29.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/f28877db-e77f-4139-9b51-c69447dd38f7.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/02029e1d-e1e5-4881-af03-cc31ba8faffd.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/93d1de6a-337d-4b9a-9681-d1a5072d894e.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/844e9d35-aa9c-492d-ab7d-3562f1540782.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/3d7e4b2d-4e2e-48b9-a913-5be0f6dae9f7.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/1a04d48c-583d-4483-8ee1-43de11d3fe7d.jpg"
       ]
     },
     {
@@ -7312,6 +7280,46 @@
         "https://picturescdn.estatesales.net/5169804/1-1/bcaacd4d-de65-4439-be1f-76c276473942.jpg",
         "https://picturescdn.estatesales.net/5169804/1-1/258a472b-ea61-4746-b2ec-265f77a037c4.jpg",
         "https://picturescdn.estatesales.net/5169804/1-1/05b7dce0-f665-40a7-ab66-19ba0667ebeb.jpg"
+      ]
+    },
+    {
+      "id": "ce68a043595e2ed5",
+      "citySlug": "atlanta",
+      "cityName": "Atlanta",
+      "status": "live",
+      "title": "Rare lifetime perfume bottle collection.",
+      "company": "Donna Davis Estate Sales LLC, Downsizing, Senior Moves",
+      "categories": [],
+      "firstDate": "2026-11-27",
+      "lastDate": "2026-11-29",
+      "lat": 33.8147146,
+      "lng": -84.3584602,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/ga/atlanta/30324/rare-lifetime-perfume-bottle-collection-2475705"
+        }
+      ],
+      "digRating": "Worth a Look",
+      "photoCount": 17,
+      "photoKeywords": [
+        "antiques"
+      ],
+      "contentsLine": "Antiques.",
+      "photoUrls": [
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-6b7y3egihv1m8c1c.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-3d4lcewg6acqj1mu.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-f24w6ct9jos94z7j.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-oesfwh3emldtlc71.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-bneskn5sn7o937wh.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-4189wfc2ckdmfsm2.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-0q6kk4oavpquo9d9.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-pdh8v00ese1pvn0l.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-e1wbjpx6okbkf8cc.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-3ap4yrkuzcgbrs8u.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-66nws4y82wc5m2h2.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-769vz4q4fgi61jf4.jpg"
       ]
     },
     {
@@ -7460,6 +7468,52 @@
       ]
     },
     {
+      "id": "29346df47288e76a",
+      "citySlug": "atlanta",
+      "cityName": "Atlanta",
+      "status": "live",
+      "title": "1 DAY SALE ONLY! EVERYTHING MUST GO. NO REASONABLE OFFER REFUSED. LARGE 3 LEVEL HOME IN ALPHARETTA",
+      "company": null,
+      "categories": [],
+      "firstDate": "2026-11-28",
+      "lastDate": "2026-11-28",
+      "lat": 34.0791845,
+      "lng": -84.3094246,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Alpharetta/30004/5170650"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 50,
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "books",
+        "toys & games",
+        "lamps",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, collectibles, kitchen, books and toys & games.",
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170650/1-1/0e611fac-0c26-4140-9718-bd8cd83a2989.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/6dbfd1c3-6dcf-4c71-b41f-f8a3f46d22b0.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/04f60dee-f73b-48cc-be2a-18ef093608e4.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/34dfd5b8-651d-43c0-869e-fcf1695e14f5.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/fe9d414a-745f-49ba-975f-33446c202a5c.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/c5778303-2b01-4913-86cf-10cda9882f10.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/d9d2fbae-546e-41b5-b7da-bbde41a6b007.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/6f136996-463a-43b2-ba00-96c687edd4eb.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/6037a324-9ead-4f97-aa91-885587c36944.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/5f95439a-51ec-4b4f-8213-33fca910fd70.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/b7b0ef92-3511-4ef1-8123-1c70fc262919.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/8024e913-47fb-48a0-8358-3ac9d4ebe2c9.jpg"
+      ]
+    },
+    {
       "id": "7522dffda67c7725",
       "citySlug": "atlanta",
       "cityName": "Atlanta",
@@ -7469,9 +7523,9 @@
       "categories": [],
       "firstDate": "2026-11-28",
       "lastDate": "2026-11-28",
-      "lat": 33.9664631,
-      "lng": -84.2433532,
-      "approximate": true,
+      "lat": 33.987713,
+      "lng": -84.227234,
+      "approximate": false,
       "sources": [
         {
           "name": "EstateSales.net",
@@ -7479,7 +7533,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 32,
+      "photoCount": 39,
       "photoKeywords": [
         "floral still life",
         "framed rabbit art",
@@ -7516,9 +7570,9 @@
       "categories": [],
       "firstDate": "2026-11-28",
       "lastDate": "2026-11-29",
-      "lat": 34.0352864,
-      "lng": -84.505063,
-      "approximate": true,
+      "lat": 34.012376,
+      "lng": -84.53399,
+      "approximate": false,
       "sources": [
         {
           "name": "EstateSales.net",
@@ -7742,6 +7796,42 @@
       ]
     },
     {
+      "id": "1a7a36c0aec58429",
+      "citySlug": "atlanta",
+      "cityName": "Atlanta",
+      "status": "live",
+      "title": "TIME CAPSULE IN MARIETTA!",
+      "company": "B & B Estate Sales & Appraisals",
+      "categories": [],
+      "firstDate": "2026-11-28",
+      "lastDate": "2026-11-29",
+      "lat": 33.9683663,
+      "lng": -84.5458104,
+      "approximate": false,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Marietta/30064/5168862"
+        }
+      ],
+      "digRating": "Worth a Look",
+      "photoCount": 42,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5168862/1-1/deaa0211-f6b2-456a-b192-a5f2132f175f.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/74d4cc06-3c0d-4420-94f5-3c3ccdbbdb80.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/8c7b9c78-2520-41ed-9aa5-5e588abff8ef.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/2c07c8e1-1bb0-4b02-b268-c667c7c7dc93.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/26d6e994-219b-47c7-a7eb-cb7d553eaccd.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/7fa6293c-fc09-4584-b6ae-b2bc51879f29.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/bc55d3dd-b36b-4f17-8e4a-9c84293fd5da.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/6c18cbf3-349f-4032-aec5-704f3f0012f6.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/2319d042-b271-41d7-b62c-9ee2e768e685.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/e5b8f99d-29d0-4382-8df2-beecda821ad1.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/3d7bbcaf-b49a-4415-8fac-868aef3aa0d9.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/33428650-7a2a-4c76-931a-9042290d0648.jpg"
+      ]
+    },
+    {
       "id": "410242c97c81bcd8",
       "citySlug": "atlanta",
       "cityName": "Atlanta",
@@ -7758,27 +7848,12 @@
         {
           "name": "EstateSales.org",
           "url": "https://estatesales.org/estate-sales/ga/marietta-/30060/time-capsule-in-marietta-2474967"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Marietta/30064/5168862"
         }
       ],
-      "digRating": "Worth a Look",
-      "photoCount": 42,
+      "digRating": "Slim Pickings",
+      "photoCount": 1,
       "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2474967-q3ws3pvel92t45wo.webp",
-        "https://picturescdn.estatesales.net/5168862/1-1/deaa0211-f6b2-456a-b192-a5f2132f175f.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/74d4cc06-3c0d-4420-94f5-3c3ccdbbdb80.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/8c7b9c78-2520-41ed-9aa5-5e588abff8ef.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/2c07c8e1-1bb0-4b02-b268-c667c7c7dc93.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/26d6e994-219b-47c7-a7eb-cb7d553eaccd.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/7fa6293c-fc09-4584-b6ae-b2bc51879f29.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/bc55d3dd-b36b-4f17-8e4a-9c84293fd5da.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/6c18cbf3-349f-4032-aec5-704f3f0012f6.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/2319d042-b271-41d7-b62c-9ee2e768e685.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/e5b8f99d-29d0-4382-8df2-beecda821ad1.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/3d7bbcaf-b49a-4415-8fac-868aef3aa0d9.jpg"
+        "https://eso-cdn.tlcdn.workers.dev/s-2474967-q3ws3pvel92t45wo.webp"
       ]
     },
     {
@@ -8280,7 +8355,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 50,
+      "photoCount": 53,
       "photoKeywords": [
         "wood dining table",
         "painted dining chairs",
@@ -8487,7 +8562,7 @@
         }
       ],
       "digRating": "Deep Dig",
-      "photoCount": 153,
+      "photoCount": 149,
       "photoKeywords": [
         "secretary desk",
         "mirrored sideboard",
@@ -8950,51 +9025,6 @@
       ]
     },
     {
-      "id": "cd77d480b5400b91",
-      "citySlug": "denver",
-      "cityName": "Denver",
-      "status": "proving",
-      "title": "Black Friday Estate Sale Fun",
-      "company": null,
-      "categories": [],
-      "firstDate": "2026-11-27",
-      "lastDate": "2026-11-28",
-      "lat": 39.983721,
-      "lng": -104.8110775,
-      "approximate": true,
-      "sources": [
-        {
-          "name": "Craigslist Denver",
-          "url": "https://www.craigslist.org/view/d/brighton-black-friday-estate-sale-fun/qv7kSh9zmMkTrah6c2xbpf"
-        }
-      ],
-      "digRating": "Deep Dig",
-      "photoCount": 24,
-      "photoKeywords": [
-        "lidded boxes",
-        "Coors serving tray",
-        "TV/VCR combo",
-        "screwdriver bits",
-        "rolltop desk"
-      ],
-      "contentsLine": "Two lidded boxes have laced corners. Other photos show a red Coors tray, a TV/VCR combo and a rolltop desk.",
-      "photoRead": true,
-      "photoUrls": [
-        "https://images.craigslist.org/00f0f_2TTHteJZI8j_0hq0d4_600x450.jpg",
-        "https://images.craigslist.org/00W0W_lAYhYpVyzvs_0hq0d4_600x450.jpg",
-        "https://images.craigslist.org/00h0h_5N4rgbLJER9_0d40hq_600x450.jpg",
-        "https://images.craigslist.org/00i0i_4RjdleibsTt_0d40hq_600x450.jpg",
-        "https://images.craigslist.org/00o0o_bLjlBUqHQ5_0d40hq_600x450.jpg",
-        "https://images.craigslist.org/00o0o_7v7at51DfSj_0d40hq_600x450.jpg",
-        "https://images.craigslist.org/00a0a_5GwYR4PrGIG_0hq0d4_600x450.jpg",
-        "https://images.craigslist.org/00A0A_iHGXj6VBhvn_0hq0d4_600x450.jpg",
-        "https://images.craigslist.org/00y0y_bVqHyEZqwRk_0d40hq_600x450.jpg",
-        "https://images.craigslist.org/00e0e_duYecyXZcXy_0d40hq_600x450.jpg",
-        "https://images.craigslist.org/00U0U_fMhg5d52ytg_0hq0d4_600x450.jpg",
-        "https://images.craigslist.org/01313_gIFtgDRwjAB_0d40hq_600x450.jpg"
-      ]
-    },
-    {
       "id": "c9b73de405aafe46",
       "citySlug": "denver",
       "cityName": "Denver",
@@ -9151,6 +9181,10 @@
         {
           "name": "EstateSales.org",
           "url": "https://estatesales.org/estate-sales/co/brighton/80601/from-work-bench-to-wardrobe-2475219"
+        },
+        {
+          "name": "Craigslist Denver",
+          "url": "https://www.craigslist.org/view/d/brighton-black-friday-estate-sale-fun/qv7kSh9zmMkTrah6c2xbpf"
         },
         {
           "name": "EstateSales.net",
@@ -9895,6 +9929,51 @@
         "https://picturescdn.estatesales.net/5171124/1-1/8f39f315-eee1-47c3-94df-0f904448a6d2.jpg",
         "https://picturescdn.estatesales.net/5171124/1-1/7b55fc93-42c8-476e-8244-96afb70b809b.jpg",
         "https://picturescdn.estatesales.net/5171124/1-1/abd277c4-c585-4dd7-8f42-96132d21456f.jpg"
+      ]
+    },
+    {
+      "id": "03403af350b1af68",
+      "citySlug": "nashville",
+      "cityName": "Nashville",
+      "status": "proving",
+      "title": "December in Donelson (please read description)",
+      "company": "Rooms And Boards Estate Sales",
+      "categories": [],
+      "firstDate": "2026-12-02",
+      "lastDate": "2026-12-05",
+      "lat": 36.130938,
+      "lng": -86.6754191,
+      "approximate": true,
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Nashville/37214/5173986"
+        }
+      ],
+      "digRating": "Deep Dig",
+      "photoCount": 80,
+      "photoKeywords": [
+        "furniture",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "china",
+        "rugs"
+      ],
+      "contentsLine": "Furniture, vehicles, kitchen, clothing and china.",
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173986/1-1/8cb91329-539a-4071-8938-b2df8f7d6486.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/7aafd5f2-15b7-4245-9139-e049c1fe6c74.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/a2591366-4497-4879-8dae-1b27edf8bc59.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/94225e2a-afe3-4040-9c24-04e72337d82e.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/8baf6f00-bbce-473b-bad0-c9e86dfc1537.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/560b5cb7-b788-40bb-956d-f0209dd62c89.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/af2012c2-037c-45a0-ab0e-72037b5552f0.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/f9173240-5732-48ac-b77a-36bb1c776654.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/abb535a5-f552-48c9-b0fa-f7803fa83dfd.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/aa8c45de-5ffd-46f4-964b-d7172736c5f9.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/32499a8f-94fc-4ea4-a6a0-619ebe25815b.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/e91cc9c1-2995-4fac-8605-c85e7935b665.jpg"
       ]
     },
     {

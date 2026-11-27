@@ -124,6 +124,9 @@
   "nominatim:street:4223 oak springs dr:76017": {
     "retryAfter": 1796327944491
   },
+  "nominatim:street:4332 o hare dr mesquite tx:75150": {
+    "retryAfter": 1796413698516
+  },
   "nominatim:street:4403 harbinger dr near galloway:mesquite": {
     "retryAfter": 1796307762515
   },
@@ -561,6 +564,11 @@
     "lng": -97.181046,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:4332 o hare dr mesquite tx:75150": {
+    "lat": 32.824262,
+    "lng": -96.601179,
+    "basis": "Public listing map: EstateSales.net"
+  },
   "street:4413 el campo ave:76107": {
     "lat": 32.7363656,
     "lng": -97.3847287,
@@ -671,6 +679,11 @@
     "lng": -97.2170639,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:5901 forest river dr:76112": {
+    "lat": 32.7771695,
+    "lng": -97.232241,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:5901 royalcrest dr:76017": {
     "lat": 32.650235,
     "lng": -97.131658,
@@ -699,6 +712,11 @@
   "street:6401 lorraine park:76034": {
     "lat": 32.901918,
     "lng": -97.17935,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "street:6701 shoal creek cir:75093": {
+    "lat": 33.0369966,
+    "lng": -96.8492592,
     "basis": "OpenStreetMap Nominatim"
   },
   "street:678 cr 1110:76234": {
@@ -929,6 +947,11 @@
   "zip:75244": {
     "lat": 32.9238138,
     "lng": -96.8375907,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75287": {
+    "lat": 33.001202,
+    "lng": -96.8473692,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:75454": {

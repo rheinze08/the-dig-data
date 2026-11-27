@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-27",
-  "collectedAt": "2026-11-27T14:21:42.991Z",
+  "collectedAt": "2026-11-27T19:48:19.879Z",
   "window": {
     "start": "2026-11-27",
     "end": "2026-12-10",
@@ -14,21 +14,21 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 136/137 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
-      "candidates": 77,
-      "included": 49
+      "detail": "Read the public sale sitemap. Checked 143/144 local candidate details. https://www.estatesales.net/TX/Arlington/76016/86281 — Sale detail is missing",
+      "candidates": 79,
+      "included": 50
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 28 Dallas–Fort Worth directory cards over 2 pages. Checked 12/12 in-person local candidate details.",
-      "candidates": 11,
-      "included": 9
+      "detail": "Read 33 Dallas–Fort Worth directory cards over 2 pages. Checked 14/14 in-person local candidate details.",
+      "candidates": 13,
+      "included": 11
     },
     "Craigslist Dallas / Fort Worth": {
       "status": "reached",
-      "detail": "17 directory listings discovered; 2 in-window estate listings before radius filtering",
-      "candidates": 2,
-      "included": 1
+      "detail": "0 directory listings discovered; 0 in-window estate listings before radius filtering",
+      "candidates": 0,
+      "included": 0
     },
     "GSALR.com": {
       "status": "blocked",
@@ -38,10 +38,10 @@
     }
   },
   "counts": {
-    "candidates": 90,
-    "listings": 59,
-    "sales": 52,
-    "duplicates": 7,
+    "candidates": 92,
+    "listings": 61,
+    "sales": 53,
+    "duplicates": 8,
     "outsideRadius": 30,
     "unlocatedListings": 0
   },
@@ -182,72 +182,6 @@
       "photoRead": true
     },
     {
-      "id": "a69a62e3be71bdec",
-      "title": "Estate Sale-Everything must go",
-      "company": null,
-      "streetAddress": null,
-      "city": "Arlington",
-      "state": "TX",
-      "zip": null,
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "07:00",
-          "end": null
-        },
-        {
-          "date": "2026-11-28",
-          "start": "07:00",
-          "end": null
-        },
-        {
-          "date": "2026-11-29",
-          "start": "07:00",
-          "end": null
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist Dallas / Fort Worth",
-          "url": "https://www.craigslist.org/view/d/arlington-estate-sale-everything-must-go/txqQwt1AJXHJu4Ep5yw8iV"
-        }
-      ],
-      "categories": [],
-      "photoCount": 20,
-      "photoUrls": [
-        "https://images.craigslist.org/00z0z_7a5pzgbHa2R_0CI0t2_600x450.jpg",
-        "https://images.craigslist.org/00y0y_fFJIUZsewSa_0CI0t2_600x450.jpg",
-        "https://images.craigslist.org/00L0L_5SiQdMsKJZL_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00l0l_8dJUVLMSwdP_0BE0CI_600x450.jpg",
-        "https://images.craigslist.org/00J0J_6TBk2WILB7N_0CI0t2_600x450.jpg",
-        "https://images.craigslist.org/00C0C_9mTQ2pQjjrO_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00M0M_8jmfUeQweT8_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/01515_fFfVxrpZvZq_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/00000_7ViPJX2mMwL_0CI0pe_600x450.jpg",
-        "https://images.craigslist.org/00C0C_gh6Xlfzw66b_0t20CI_600x450.jpg",
-        "https://images.craigslist.org/01414_koBugjSKpa4_0CI0t2_600x450.jpg",
-        "https://images.craigslist.org/00P0P_hxjrWuJll1Y_0t20CI_600x450.jpg"
-      ],
-      "digRating": "Worth a Look",
-      "ratingReasons": [
-        "20 photos",
-        "runs 3 days"
-      ],
-      "lat": 32.7355816,
-      "lng": -97.1071186,
-      "approximate": true,
-      "photoKeywords": [
-        "shelf headboard",
-        "nightstand",
-        "gray comforter",
-        "throw pillows",
-        "Squier electric guitar"
-      ],
-      "contentsLine": "A bed has a white shelf headboard and gray comforter. A one-drawer nightstand and black Squier guitar are also shown.",
-      "photoRead": true
-    },
-    {
       "id": "cf771fca93be4e7c",
       "title": "James Major presents Santa’s Workshop estate sale in Mansfield",
       "company": "James Major Estate Sales",
@@ -324,12 +258,12 @@
       "sessions": [
         {
           "date": "2026-11-27",
-          "start": "08:00",
+          "start": "08:30",
           "end": "17:00"
         },
         {
           "date": "2026-11-28",
-          "start": "08:00",
+          "start": "08:30",
           "end": "17:00"
         }
       ],
@@ -1695,11 +1629,11 @@
       "id": "f356dd3ddcf8883d",
       "title": "FABULOUS in PRESTONWOOD w/ANOTHER’S TREASURE ESTATE SALES",
       "company": "Another's Treasure Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "6701 SHOAL CREEK CIR",
       "city": "Plano",
       "state": "TX",
       "zip": "75093",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
@@ -1760,19 +1694,19 @@
         "cameras"
       ],
       "contentsLine": "Furniture, vehicles, kitchen, clothing and art.",
-      "lat": 33.0395247,
-      "lng": -96.8103301,
-      "approximate": true
+      "lat": 33.0369966,
+      "lng": -96.8492592,
+      "approximate": false
     },
     {
       "id": "d57229f3d023b8e8",
       "title": "Persian Rugs, Asian Decor, Mid-Century 40-50% Off",
       "company": "Dixie Chatham",
-      "streetAddress": null,
+      "streetAddress": "5901 Forest River Dr",
       "city": "Fort Worth",
       "state": "TX",
       "zip": "76112",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-28",
@@ -1814,9 +1748,9 @@
         "156 photos",
         "furniture, kitchen and clothing in the listing"
       ],
-      "lat": 32.7583875,
-      "lng": -97.2270583,
-      "approximate": true,
+      "lat": 32.7771695,
+      "lng": -97.232241,
+      "approximate": false,
       "photoKeywords": [
         "navy runner rugs",
         "cream floral runners",
@@ -1825,6 +1759,43 @@
       ],
       "contentsLine": "Fringed hallway runners have navy or cream grounds. Larger floral rugs show pink borders and a blue central medallion.",
       "photoRead": true
+    },
+    {
+      "id": "1c978166b8d0ad5a",
+      "title": "Estate Sale - Everything Discounted! Attn resellers!",
+      "company": null,
+      "streetAddress": "1600 Ross Ave",
+      "city": "Carrollton",
+      "state": "TX",
+      "zip": "75006",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "04:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/carrollton/75006/estate-sale-everything-discounted-attn-2475713"
+        }
+      ],
+      "categories": [],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "furniture, kitchen and books in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "kitchen",
+        "books"
+      ],
+      "contentsLine": "Furniture, kitchen and books.",
+      "lat": 32.950664,
+      "lng": -96.900084,
+      "approximate": false
     },
     {
       "id": "44781583afdd37a6",
@@ -2652,14 +2623,14 @@
       "approximate": true
     },
     {
-      "id": "443d7f2c4a509dff",
+      "id": "e8d9bb312fc5194c",
       "title": "~Massive *2 Phase* Garland, TX -Black Friday Weekend- Estate Sale! More info coming soon!",
-      "company": "DFW Estate Liquidators",
-      "streetAddress": null,
+      "company": "DFW ESTATE LIQUIDATORS",
+      "streetAddress": "2316 English Cir",
       "city": "Garland",
       "state": "TX",
       "zip": "75041",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-12-04",
@@ -2679,27 +2650,41 @@
       ],
       "sources": [
         {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/tx/garland/75041/massive-2-phase-garland-tx-2467701"
+        },
+        {
           "name": "EstateSales.net",
           "url": "https://www.estatesales.net/TX/Garland/75041/5114634"
         }
       ],
       "categories": [],
       "contactPhone": "(682) 239-1746",
-      "contactUrl": "http://www.dfwestateliquidators.com",
-      "photoCount": 1,
+      "contactUrl": "https://estatesales.org/estate-sale-companies/a-dfw-estate-liquidators-3768",
+      "photoCount": 126,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5114634/1-1/ab9cdcd3-d379-4f90-a437-0fe57990abab.jpg"
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-kpwc6k8i37c31cq9.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-13w77cls11vv4anp.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-ijz3v0rokljuy7ys.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-60u6qfrtz8ixk3sy.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-cdjoibthyrf0cgtz.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-x5x105qp4zaxqmun.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-c47vtt0skmk4uuhi.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-joxmdthqt6jg2ozf.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-xsp5pg2jtmja6lqe.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-2aryh1iz23tgmc7d.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-xe652eyta9jt51ky.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2467701-fmcqnv01xbkc0keu.jpg"
       ],
-      "digRating": "Slim Pickings",
+      "digRating": "Deep Dig",
       "ratingReasons": [
-        "runs 3 days",
-        "only 1 photo",
-        "few details in the listing"
+        "126 photos",
+        "runs 3 days"
       ],
       "photoKeywords": [],
-      "lat": 32.8799326,
-      "lng": -96.6494099,
-      "approximate": true
+      "lat": 32.8857903,
+      "lng": -96.6625737,
+      "approximate": false
     },
     {
       "id": "169d63e7dc07fa18",
@@ -3154,6 +3139,72 @@
       "photoRead": true
     },
     {
+      "id": "fa812e53b4216b77",
+      "title": "LANN Estate Sale - Bent Tree North (PART TWO)",
+      "company": "Lann Estate Sales",
+      "streetAddress": null,
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75287",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/Dallas/75287/5174178"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(214) 289-3553",
+      "contactUrl": "https://lannestatesales.com",
+      "photoCount": 87,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5174178/1-1/6efe4b10-d3cf-49aa-8148-197c18fc888c.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/1f998410-2d04-4551-af70-96237d1b32b9.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/01216588-4cae-4711-9542-22c45cada488.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/5e9ae9b6-7ec4-49fc-b17c-78c464553949.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/a2b28244-d0bc-4ff7-a6e6-9ba149de0783.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/74214aa2-c30d-499a-8ac1-e5d38e16312d.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/9cac2c18-a662-4f3a-9f1c-d91d48853769.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/43535602-3ed4-45f4-8bef-5c1a4cb17bc2.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/9847ff6c-c4a3-4614-bf94-28ccceacd097.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/47b4bc97-b172-4c09-be3e-ae425d73dc8a.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/dadc491d-543f-46c8-b7f3-38c80a6d5480.jpg",
+        "https://picturescdn.estatesales.net/5174178/1-1/22d1cf86-a0b4-4fa3-bbe6-0577fbb07bfd.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "87 photos",
+        "furniture, kitchen and clothing in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "toys & games",
+        "crystal",
+        "lamps",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, kitchen, clothing, books and art.",
+      "lat": 33.001202,
+      "lng": -96.8473692,
+      "approximate": true
+    },
+    {
       "id": "c2030cfb62206ddd",
       "title": "RITZY POP-UP 3 ESTATES BOUTIQUE SHOPPING EXTRAVAGANZA!",
       "company": "Cottage Classics Estate Sales",
@@ -3211,9 +3262,22 @@
       "digRating": "Deep Dig",
       "ratingReasons": [
         "403 photos",
+        "furniture, kitchen and clothing in the listing",
         "runs 4 days"
       ],
-      "photoKeywords": [],
+      "photoKeywords": [
+        "furniture",
+        "kitchen",
+        "clothing",
+        "art",
+        "antiques",
+        "rugs",
+        "lamps",
+        "mirrors",
+        "pianos",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, kitchen, clothing, art and antiques.",
       "lat": 32.7393726,
       "lng": -97.3792404,
       "approximate": true
@@ -3230,17 +3294,17 @@
       "sessions": [
         {
           "date": "2026-12-10",
-          "start": "08:00",
+          "start": "08:30",
           "end": "17:00"
         },
         {
           "date": "2026-12-11",
-          "start": "08:00",
+          "start": "08:30",
           "end": "17:00"
         },
         {
           "date": "2026-12-12",
-          "start": "08:00",
+          "start": "08:30",
           "end": "17:00"
         }
       ],

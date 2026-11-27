@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-27",
-  "collectedAt": "2026-11-27T14:23:50.947Z",
+  "collectedAt": "2026-11-27T19:50:22.337Z",
   "window": {
     "start": "2026-11-27",
     "end": "2026-12-10",
@@ -26,9 +26,9 @@
     },
     "Craigslist San Antonio": {
       "status": "reached",
-      "detail": "19 directory listings discovered; 1 in-window estate listings before radius filtering",
-      "candidates": 1,
-      "included": 1
+      "detail": "0 directory listings discovered; 0 in-window estate listings before radius filtering",
+      "candidates": 0,
+      "included": 0
     },
     "GSALR.com": {
       "status": "blocked",
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 36,
-    "listings": 25,
-    "sales": 25,
+    "candidates": 35,
+    "listings": 24,
+    "sales": 24,
     "duplicates": 0,
     "outsideRadius": 9,
     "unlocatedListings": 0
@@ -48,127 +48,6 @@
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
-    {
-      "id": "c0420bbe0c6f9d01",
-      "title": "sale! 50% OFF",
-      "company": "1dandelion LLC",
-      "streetAddress": "351 Culebra",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78201",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "start": "10:30",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-26",
-          "start": "14:00",
-          "end": "18:00"
-        },
-        {
-          "date": "2026-11-27",
-          "start": "10:30",
-          "end": "16:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TX/San-Antonio/78201/5158845"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(210) 835-7962",
-      "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78217/139760",
-      "photoCount": 69,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5158845/1-1/053528a9-09fe-45b5-ad84-91ae725ca305.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/3cc66bc4-746a-417b-98f4-525ee09e60eb.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/71324f68-16c5-46b3-b472-bebbcb8105f6.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/6df4f042-8830-4130-8cf5-18db387aba9b.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/c9bc16d8-6015-4794-aaa4-967c8e80c63d.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/02709502-514f-4129-bd05-8bc0fc43049a.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/6eac38dd-05df-4741-bbba-a7968ca8de91.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/888857dc-9b94-40cd-b1d8-9e83d1f1b68d.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/d8d0baf8-2b55-499f-83b6-dca5603439b8.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/772dd093-890d-4dad-b192-bdac58df493e.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/5dc34b3d-b1dc-448c-b21c-2dae86c1b899.jpg",
-        "https://picturescdn.estatesales.net/5158845/1-1/21902c75-090a-41ad-a79c-9c57e875828c.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "69 photos",
-        "runs 3 days"
-      ],
-      "photoKeywords": [],
-      "lat": 29.443835,
-      "lng": -98.508732,
-      "approximate": false
-    },
-    {
-      "id": "2ae505037f0dd2fd",
-      "title": "5830 Grandwood dr estate sale",
-      "company": null,
-      "streetAddress": "5830 Grandwood dr",
-      "city": "Windcrest",
-      "state": "TX",
-      "zip": null,
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "08:00",
-          "end": null
-        },
-        {
-          "date": "2026-11-28",
-          "start": "08:00",
-          "end": null
-        },
-        {
-          "date": "2026-11-29",
-          "start": "08:00",
-          "end": null
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist San Antonio",
-          "url": "https://www.craigslist.org/view/d/san-antonio-5830-grandwood-dr-estate/7XAzTnsgj1P3s5pgoJH1L6"
-        }
-      ],
-      "categories": [],
-      "photoCount": 7,
-      "photoUrls": [
-        "https://images.craigslist.org/00F0F_3eRUou5u9jk_0lM0t2_600x450.jpg",
-        "https://images.craigslist.org/00D0D_ikln0lOtgPk_0hC0t2_600x450.jpg",
-        "https://images.craigslist.org/00N0N_g6Y7rah6STj_0lM0t2_600x450.jpg",
-        "https://images.craigslist.org/00o0o_doro0ENJPF9_0lO0t2_600x450.jpg",
-        "https://images.craigslist.org/00101_lVUsu5VFQD8_0lE0t2_600x450.jpg",
-        "https://images.craigslist.org/00v0v_eTpjc2opBU9_0lN0t2_600x450.jpg",
-        "https://images.craigslist.org/00P0P_hnipP6bg87v_0lM0t2_600x450.jpg"
-      ],
-      "digRating": "Worth a Look",
-      "ratingReasons": [
-        "7 photos",
-        "runs 3 days"
-      ],
-      "lat": 29.515508,
-      "lng": -98.3802925,
-      "approximate": true,
-      "photoKeywords": [
-        "rolltop desk",
-        "round pedestal table",
-        "dining chairs",
-        "storage chest",
-        "shelving cabinet"
-      ],
-      "contentsLine": "A round pedestal table has carved-back chairs. Other photos show a rolltop desk and an open storage chest.",
-      "photoRead": true
-    },
     {
       "id": "a3e380a9b0a15a3d",
       "title": "#634: Sale of the Season!",
@@ -387,6 +266,71 @@
       ],
       "contentsLine": "A brown tufted sofa, loveseat and round armchair have matching pillows. An open flatware case rests on the dining table.",
       "photoRead": true
+    },
+    {
+      "id": "c0420bbe0c6f9d01",
+      "title": "sale! 50% OFF",
+      "company": "1dandelion LLC",
+      "streetAddress": "351 Culebra",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78201",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:30",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "12:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-30",
+          "start": "10:30",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TX/San-Antonio/78201/5158845"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(210) 835-7962",
+      "contactUrl": "https://www.estatesales.net/companies/TX/San-Antonio/78217/139760",
+      "photoCount": 74,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5158845/1-1/053528a9-09fe-45b5-ad84-91ae725ca305.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/3cc66bc4-746a-417b-98f4-525ee09e60eb.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/71324f68-16c5-46b3-b472-bebbcb8105f6.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/6df4f042-8830-4130-8cf5-18db387aba9b.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/c9bc16d8-6015-4794-aaa4-967c8e80c63d.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/02709502-514f-4129-bd05-8bc0fc43049a.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/6eac38dd-05df-4741-bbba-a7968ca8de91.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/888857dc-9b94-40cd-b1d8-9e83d1f1b68d.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/d8d0baf8-2b55-499f-83b6-dca5603439b8.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/772dd093-890d-4dad-b192-bdac58df493e.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/5dc34b3d-b1dc-448c-b21c-2dae86c1b899.jpg",
+        "https://picturescdn.estatesales.net/5158845/1-1/21902c75-090a-41ad-a79c-9c57e875828c.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "74 photos",
+        "runs 4 days"
+      ],
+      "photoKeywords": [],
+      "lat": 29.443835,
+      "lng": -98.508732,
+      "approximate": false
     },
     {
       "id": "98792a384cda71b3",

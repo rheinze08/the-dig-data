@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-27",
-  "collectedAt": "2026-11-27T14:28:47.882Z",
+  "collectedAt": "2026-11-27T19:55:14.803Z",
   "window": {
     "start": "2026-11-27",
     "end": "2026-12-10",
@@ -14,13 +14,13 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 40/41 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
-      "candidates": 29,
-      "included": 22
+      "detail": "Read the public sale sitemap. Checked 41/42 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
+      "candidates": 30,
+      "included": 23
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 10 Nashville directory cards over 1 pages. Checked 10/10 in-person local candidate details.",
+      "detail": "Read 11 Nashville directory cards over 1 pages. Checked 10/10 in-person local candidate details.",
       "candidates": 7,
       "included": 7
     },
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 36,
-    "listings": 29,
-    "sales": 22,
+    "candidates": 37,
+    "listings": 30,
+    "sales": 23,
     "duplicates": 7,
     "outsideRadius": 7,
     "unlocatedListings": 0
@@ -327,6 +327,79 @@
       ],
       "contentsLine": "Dining tables hold stemware, pitchers and serving trays. Framed landscapes sit on tables and upholstered chairs.",
       "photoRead": true
+    },
+    {
+      "id": "03403af350b1af68",
+      "title": "December in Donelson (please read description)",
+      "company": "Rooms And Boards Estate Sales",
+      "streetAddress": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37214",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-02",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-03",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Nashville/37214/5173986"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(615) 293-3245",
+      "photoCount": 80,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173986/1-1/8cb91329-539a-4071-8938-b2df8f7d6486.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/7aafd5f2-15b7-4245-9139-e049c1fe6c74.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/a2591366-4497-4879-8dae-1b27edf8bc59.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/94225e2a-afe3-4040-9c24-04e72337d82e.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/8baf6f00-bbce-473b-bad0-c9e86dfc1537.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/560b5cb7-b788-40bb-956d-f0209dd62c89.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/af2012c2-037c-45a0-ab0e-72037b5552f0.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/f9173240-5732-48ac-b77a-36bb1c776654.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/abb535a5-f552-48c9-b0fa-f7803fa83dfd.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/aa8c45de-5ffd-46f4-964b-d7172736c5f9.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/32499a8f-94fc-4ea4-a6a0-619ebe25815b.jpg",
+        "https://picturescdn.estatesales.net/5173986/1-1/e91cc9c1-2995-4fac-8605-c85e7935b665.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "80 photos",
+        "furniture, vehicles and kitchen in the listing",
+        "runs 4 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "china",
+        "rugs"
+      ],
+      "contentsLine": "Furniture, vehicles, kitchen, clothing and china.",
+      "lat": 36.130938,
+      "lng": -86.6754191,
+      "approximate": true
     },
     {
       "id": "e275ab209f26a3c1",

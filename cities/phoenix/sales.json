@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-27",
-  "collectedAt": "2026-11-27T14:25:25.298Z",
+  "collectedAt": "2026-11-27T19:51:53.382Z",
   "window": {
     "start": "2026-11-27",
     "end": "2026-12-10",
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 79/79 local candidate details.",
-      "candidates": 41,
-      "included": 37
+      "detail": "Read the public sale sitemap. Checked 77/77 local candidate details.",
+      "candidates": 40,
+      "included": 36
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 28 Phoenix directory cards over 2 pages. Checked 8/8 in-person local candidate details.",
+      "detail": "Read 29 Phoenix directory cards over 2 pages. Checked 8/8 in-person local candidate details.",
       "candidates": 8,
       "included": 7
     },
     "Craigslist Phoenix": {
       "status": "reached",
-      "detail": "54 directory listings discovered; 3 in-window estate listings before radius filtering",
+      "detail": "60 directory listings discovered; 3 in-window estate listings before radius filtering",
       "candidates": 3,
       "included": 3
     },
@@ -38,10 +38,10 @@
     }
   },
   "counts": {
-    "candidates": 52,
-    "listings": 47,
+    "candidates": 51,
+    "listings": 46,
     "sales": 41,
-    "duplicates": 6,
+    "duplicates": 5,
     "outsideRadius": 4,
     "unlocatedListings": 0
   },
@@ -494,9 +494,9 @@
     },
     {
       "id": "680bbf0855acf704",
-      "title": "Black Friday madness in Gilbert *unit 101*",
-      "company": "Allegro Estate Sales & Services Az LLC",
-      "streetAddress": "4043 E Pony Lane",
+      "title": "Black Friday madness in Gilbert **unit 101**",
+      "company": "Allegro Estate Sales & Services AZ LLC",
+      "streetAddress": "4043 E Pony Ln",
       "city": "Gilbert",
       "state": "AZ",
       "zip": "85295",
@@ -517,33 +517,29 @@
         {
           "name": "EstateSales.org",
           "url": "https://estatesales.org/estate-sales/az/gilbert/85295/black-friday-madness-in-gilbert-2475320"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/AZ/Gilbert/85295/5171475"
         }
       ],
       "categories": [],
       "contactPhone": "(602) 818-1414",
-      "contactUrl": "https://allegroestatesalesaz.net/",
-      "photoCount": 154,
+      "contactUrl": "https://estatesales.org/estate-sale-companies/allegro-estate-sales-services-az-24842",
+      "photoCount": 20,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5171475/1-1/ef81e865-e551-459d-b474-0552c61f8ca7.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/e87054ff-c164-43d0-9617-e132c20bac6c.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/dc8cc773-d064-4b5a-b71e-70538c41ed99.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/106c2c5c-d0b2-45da-b3e6-b8e8e84b2914.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/a1ce9bee-de31-4e5a-9f3b-d5469cb7a5ff.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/44299830-a13d-49c9-9a27-c28bdd97a72d.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/494cccdc-38a5-4a8c-b9b2-d097c3592d66.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/5f72debf-9e56-4c43-b478-dc35683100c6.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/ad036e81-47e3-45d0-96ac-0cfb854a3615.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/23bbfac5-94a8-46af-baa9-ee7b483a74e9.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/f44d4bfa-a0c4-4e6d-80dd-9030608fc5ef.jpg",
-        "https://picturescdn.estatesales.net/5171475/1-1/9d8af3cc-396d-43c2-9021-d0ccd010f55b.jpg"
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-lbppr2luwvwt0lwt.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-j1ck8y338ui42585.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-hbbrunv6yju4k7se.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-yns96p55yzv7pavq.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-ozw5xs8nyn9oog5y.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-b46lgwgthjglc9z2.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-2jfstv10o8w53rwv.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-6lx1xh4q8aqadc13.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-jqk6it2zknh7dekr.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-yd8j5f4qpzq70zk9.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-ztxebegh2wvnelsn.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475320-2spvwgnxv5pzup0n.jpg"
       ],
       "digRating": "Worth a Look",
       "ratingReasons": [
-        "154 photos"
+        "20 photos"
       ],
       "photoKeywords": [],
       "lat": 33.3091235,
@@ -952,11 +948,11 @@
       "id": "9f5f9f319298536d",
       "title": "Vintage antiques",
       "company": null,
-      "streetAddress": null,
+      "streetAddress": "523 west highland avenue",
       "city": "Phoenix",
       "state": "AZ",
       "zip": "85013",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-28",
@@ -995,9 +991,9 @@
       "ratingReasons": [
         "50 photos"
       ],
-      "lat": 33.5064348,
-      "lng": -112.08397,
-      "approximate": true,
+      "lat": 33.5056309,
+      "lng": -112.0812837,
+      "approximate": false,
       "photoKeywords": [
         "display hutch",
         "antlers",
@@ -1014,11 +1010,11 @@
       "id": "421d3c23be16038d",
       "title": "BLACK FRIDAY WEEKEND ESTATE SALE SPECIAL **TWO ESTATE SALES COMBINED INTO ONE HUGE WEEKEND EVENT!",
       "company": "The Encore Rummage Estate & Garage Clearance",
-      "streetAddress": null,
+      "streetAddress": "32007 N. 23rd Ave",
       "city": "Phoenix",
       "state": "AZ",
       "zip": "85085",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-28",
@@ -1040,13 +1036,24 @@
       "categories": [],
       "contactPhone": "(602) 816-0466",
       "contactUrl": "https://www.estatesales.net/companies/AZ/Phoenix/85037/175835",
-      "photoCount": 2,
+      "photoCount": 147,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5173527/1-1/b55c7c77-0491-43d7-8881-3975bdbbda5d.jpg",
-        "https://picturescdn.estatesales.net/5173527/1-1/4bd54a84-27a2-4f17-b884-3331d6e8e76f.jpg"
+        "https://picturescdn.estatesales.net/5173527/1-1/f723b98f-5975-4657-ac90-ad7940871a77.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/365814c6-b3b9-45e4-8ebc-5f61ffa52b68.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/e7323d93-0d06-425e-9481-a0533defe0f1.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/d57203c9-fd93-4269-8e6a-3088d435fc08.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/2ff2f63f-1b36-409e-a39b-9f1787351da2.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/717f4864-dbd3-48a8-aef5-ed0b98d0d288.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/7631430b-bb27-412c-9a60-1dfd3b94d641.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/b1e25ffc-e087-4263-8919-eaa5a6f710ea.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/8d43764c-4eca-44ba-8dd4-43eef6051273.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/76d86ec7-e0df-464a-9fb2-71da484e5d0e.jpg",
+        "https://picturescdn.estatesales.net/5173527/1-1/40001394-3f04-41b3-9c89-6ec21ce9c94f.jpg"
       ],
-      "digRating": "Worth a Look",
+      "digRating": "Deep Dig",
       "ratingReasons": [
+        "147 photos",
         "furniture, jewelry and collectibles in the listing"
       ],
       "photoKeywords": [
@@ -1061,15 +1068,15 @@
         "antiques"
       ],
       "contentsLine": "Furniture, jewelry, collectibles, vehicles and clothing.",
-      "lat": 33.7545497,
-      "lng": -112.1057011,
-      "approximate": true
+      "lat": 33.7752601,
+      "lng": -112.1076626,
+      "approximate": false
     },
     {
       "id": "a22e2d41fc584895",
-      "title": "Scottsdale 4 Million Dollar Home Estate Sale",
-      "company": "Fresh Start Estate Sales LLC",
-      "streetAddress": "23863 N Church Rd",
+      "title": "Scottsdale Estate Sale 4 Million Dollar Home",
+      "company": "Fresh Start Estate Sales",
+      "streetAddress": "23863 N Church Road",
       "city": "Scottsdale",
       "state": "AZ",
       "zip": "85255",
@@ -1098,21 +1105,21 @@
       ],
       "categories": [],
       "contactPhone": "(480) 486-0606",
-      "contactUrl": "https://estatesales.org/estate-sale-companies/fresh-start-estate-sales-llc-21003",
+      "contactUrl": "http://www.freshstartestatesale.com",
       "photoCount": 93,
       "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-l7jy7r6g1t2m1w8r.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-hf2yvi2z68cvy56o.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-60tmwpov3rbqya3x.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-7s3ofuc3d6ifm4ty.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-ug44yap6id9ahow7.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-efjyvrudkrann4p4.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-w6neevrba4v5bwmk.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-oca7fmp2i5b31gk9.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-0lazugb6u60i5xo4.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-cut3yyhgyw7bdu0d.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-kfv2w0vyhnawwnkw.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474735-9znpa9pkt659twcy.jpg"
+        "https://picturescdn.estatesales.net/5165160/1-1/c672ca61-d2a4-4e28-ad5d-c6495a078ee7.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/d6611e64-585f-405e-adff-ebb5d8cc9b64.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/91fae43a-5d64-4b7c-8d78-290594e98715.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/603e41f0-fa56-4922-ac9d-7155741c1de6.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/47905cfa-8677-4cef-b1bb-f6048eedc8a7.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/91bf8cf1-be55-4429-96d0-beee0779e00b.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/c26ed36f-b90d-40b2-9dc9-bca59b4f15df.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/b1a7e37f-1dda-4a0d-a26a-2e9a966be39c.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/62d0966b-9cec-4c1a-b873-7307ce5d9e9f.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/de18070d-32b9-48db-896c-5e9a075c9c6e.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/d34b5bc8-95a6-458e-8430-870c1d21d85f.jpg",
+        "https://picturescdn.estatesales.net/5165160/1-1/6799f919-8546-458e-bcd8-dcf2243d2a67.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [

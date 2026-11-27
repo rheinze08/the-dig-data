@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-27",
-  "collectedAt": "2026-11-27T14:27:22.058Z",
+  "collectedAt": "2026-11-27T19:53:49.135Z",
   "window": {
     "start": "2026-11-27",
     "end": "2026-12-10",
@@ -14,15 +14,15 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 97/97 local candidate details.",
+      "detail": "Read the public sale sitemap. Checked 98/98 local candidate details.",
       "candidates": 61,
-      "included": 44
+      "included": 45
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 26 Atlanta directory cards over 2 pages. Checked 13/13 in-person local candidate details.",
-      "candidates": 11,
-      "included": 8
+      "detail": "Read 27 Atlanta directory cards over 2 pages. Checked 14/14 in-person local candidate details.",
+      "candidates": 12,
+      "included": 9
     },
     "Craigslist Atlanta": {
       "status": "reached",
@@ -38,11 +38,11 @@
     }
   },
   "counts": {
-    "candidates": 73,
-    "listings": 53,
-    "sales": 46,
-    "duplicates": 7,
-    "outsideRadius": 19,
+    "candidates": 74,
+    "listings": 55,
+    "sales": 49,
+    "duplicates": 6,
+    "outsideRadius": 18,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -107,79 +107,6 @@
       "lat": 33.865074,
       "lng": -84.07141,
       "approximate": false
-    },
-    {
-      "id": "1ee0339953df788d",
-      "title": "Antiques, Chimineas, Waterford Must See",
-      "company": "Dunwoody Estate Treasures",
-      "streetAddress": null,
-      "city": "Atlanta",
-      "state": "GA",
-      "zip": "30338",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "10:00",
-          "end": "17:45"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "10:30",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-29",
-          "start": "10:00",
-          "end": "17:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Atlanta/30338/5170545"
-        }
-      ],
-      "categories": [
-        "collectibles"
-      ],
-      "contactPhone": "7706095146",
-      "contactUrl": "Https://www.dunwoodyestatetreasures.com ",
-      "photoCount": 53,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5170545/1-1/f7710f06-4798-4c37-ab0f-3f406ee6b346.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/0a0c9efb-1dc0-406c-884f-fd3ddac62384.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/d906ad44-76ee-45ee-98d3-7dfdc70f1f36.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/b87e8e75-aad0-4e08-9b57-553c28010901.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/91f8f6f4-f3ba-415c-a602-51b0965dfd29.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/f28877db-e77f-4139-9b51-c69447dd38f7.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/02029e1d-e1e5-4881-af03-cc31ba8faffd.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/93d1de6a-337d-4b9a-9681-d1a5072d894e.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/844e9d35-aa9c-492d-ab7d-3562f1540782.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/3d7e4b2d-4e2e-48b9-a913-5be0f6dae9f7.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/1a04d48c-583d-4483-8ee1-43de11d3fe7d.jpg",
-        "https://picturescdn.estatesales.net/5170545/1-1/c22fdb61-a8f3-4526-a439-f846eccd22f5.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "53 photos",
-        "furniture, collectibles and kitchen in the listing",
-        "runs 3 days"
-      ],
-      "lat": 33.9441071,
-      "lng": -84.321633,
-      "approximate": true,
-      "photoKeywords": [
-        "grand piano",
-        "piano bench",
-        "sideboard",
-        "console table",
-        "dresser with mirror",
-        "floral table lamp",
-        "plant stand"
-      ],
-      "contentsLine": "A black grand piano and bench, a sideboard with turned legs, a mirrored dresser and a lamp with a rose-patterned shade.",
-      "photoRead": true
     },
     {
       "id": "41baec236ef58785",
@@ -373,16 +300,15 @@
       "digRating": "Deep Dig",
       "ratingReasons": [
         "97 photos",
-        "jewelry, collectibles and books in the listing",
+        "jewelry and collectibles in the listing",
         "runs 4 days"
       ],
       "photoKeywords": [
         "jewelry",
         "collectibles",
-        "books",
         "antiques"
       ],
-      "contentsLine": "Jewelry, collectibles, books and antiques.",
+      "contentsLine": "Jewelry, collectibles and antiques.",
       "lat": 33.8085791,
       "lng": -84.3640674,
       "approximate": false
@@ -457,6 +383,84 @@
         "red stemware"
       ],
       "contentsLine": "A green floral armchair and footstool sit in front of a display cabinet. A framed cattle scene hangs above two lamps.",
+      "photoRead": true
+    },
+    {
+      "id": "1ee0339953df788d",
+      "title": "Mahogany and Marble Antiques, Waterford, Outdoor Must Haves",
+      "company": "Dunwoody Estate Treasures",
+      "streetAddress": null,
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30338",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "17:45"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-30",
+          "start": "10:30",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Atlanta/30338/5170545"
+        }
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "contactPhone": "7706095146",
+      "contactUrl": "Https://www.dunwoodyestatetreasures.com ",
+      "photoCount": 53,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170545/1-1/b87e8e75-aad0-4e08-9b57-553c28010901.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/5aa0299f-4703-4721-adf4-d29fe94e7d0b.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/f7710f06-4798-4c37-ab0f-3f406ee6b346.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/0a0c9efb-1dc0-406c-884f-fd3ddac62384.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/d906ad44-76ee-45ee-98d3-7dfdc70f1f36.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/91f8f6f4-f3ba-415c-a602-51b0965dfd29.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/f28877db-e77f-4139-9b51-c69447dd38f7.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/02029e1d-e1e5-4881-af03-cc31ba8faffd.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/93d1de6a-337d-4b9a-9681-d1a5072d894e.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/844e9d35-aa9c-492d-ab7d-3562f1540782.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/3d7e4b2d-4e2e-48b9-a913-5be0f6dae9f7.jpg",
+        "https://picturescdn.estatesales.net/5170545/1-1/1a04d48c-583d-4483-8ee1-43de11d3fe7d.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "53 photos",
+        "furniture, collectibles and kitchen in the listing",
+        "runs 4 days"
+      ],
+      "lat": 33.9441071,
+      "lng": -84.321633,
+      "approximate": true,
+      "photoKeywords": [
+        "grand piano",
+        "piano bench",
+        "sideboard",
+        "console table",
+        "dresser with mirror",
+        "floral table lamp",
+        "plant stand"
+      ],
+      "contentsLine": "A black grand piano and bench, a sideboard with turned legs, a mirrored dresser and a lamp with a rose-patterned shade.",
       "photoRead": true
     },
     {
@@ -579,6 +583,69 @@
       ],
       "contentsLine": "Bins hold packets of colorful beads and looped bead strands. Necklaces and bracelets hang on display stands.",
       "photoRead": true
+    },
+    {
+      "id": "ce68a043595e2ed5",
+      "title": "Rare lifetime perfume bottle collection.",
+      "company": "Donna Davis Estate Sales LLC, Downsizing, Senior Moves",
+      "streetAddress": "1790 Cheshire Bridge Rd NE",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30324",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/ga/atlanta/30324/rare-lifetime-perfume-bottle-collection-2475705"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(770) 235-7638",
+      "contactUrl": "https://estatesales.org/estate-sale-companies/donna-davis-estate-sales-downsizing-3634",
+      "photoCount": 17,
+      "photoUrls": [
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-6b7y3egihv1m8c1c.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-3d4lcewg6acqj1mu.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-f24w6ct9jos94z7j.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-oesfwh3emldtlc71.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-bneskn5sn7o937wh.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-4189wfc2ckdmfsm2.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-0q6kk4oavpquo9d9.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-pdh8v00ese1pvn0l.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-e1wbjpx6okbkf8cc.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-3ap4yrkuzcgbrs8u.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-66nws4y82wc5m2h2.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2475705-769vz4q4fgi61jf4.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "17 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "antiques"
+      ],
+      "contentsLine": "Antiques.",
+      "lat": 33.8147146,
+      "lng": -84.3584602,
+      "approximate": true
     },
     {
       "id": "c143ada0435fe7b6",
@@ -789,14 +856,71 @@
       "approximate": true
     },
     {
+      "id": "29346df47288e76a",
+      "title": "1 DAY SALE ONLY! EVERYTHING MUST GO. NO REASONABLE OFFER REFUSED. LARGE 3 LEVEL HOME IN ALPHARETTA",
+      "company": null,
+      "streetAddress": "1825 BROADWELL OAKS DRIVE",
+      "city": "Alpharetta",
+      "state": "GA",
+      "zip": "30004",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Alpharetta/30004/5170650"
+        }
+      ],
+      "categories": [],
+      "photoCount": 50,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5170650/1-1/0e611fac-0c26-4140-9718-bd8cd83a2989.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/6dbfd1c3-6dcf-4c71-b41f-f8a3f46d22b0.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/04f60dee-f73b-48cc-be2a-18ef093608e4.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/34dfd5b8-651d-43c0-869e-fcf1695e14f5.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/fe9d414a-745f-49ba-975f-33446c202a5c.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/c5778303-2b01-4913-86cf-10cda9882f10.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/d9d2fbae-546e-41b5-b7da-bbde41a6b007.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/6f136996-463a-43b2-ba00-96c687edd4eb.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/6037a324-9ead-4f97-aa91-885587c36944.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/5f95439a-51ec-4b4f-8213-33fca910fd70.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/b7b0ef92-3511-4ef1-8123-1c70fc262919.jpg",
+        "https://picturescdn.estatesales.net/5170650/1-1/8024e913-47fb-48a0-8358-3ac9d4ebe2c9.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "50 photos",
+        "furniture, collectibles and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "books",
+        "toys & games",
+        "lamps",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, collectibles, kitchen, books and toys & games.",
+      "lat": 34.0791845,
+      "lng": -84.3094246,
+      "approximate": false
+    },
+    {
       "id": "7522dffda67c7725",
       "title": "An Estate Sale With Something For Everyone",
       "company": null,
-      "streetAddress": null,
+      "streetAddress": "5249 Amhurst Dr",
       "city": "Peachtree Corners",
       "state": "GA",
       "zip": "30092",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-28",
@@ -811,7 +935,7 @@
         }
       ],
       "categories": [],
-      "photoCount": 32,
+      "photoCount": 39,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5170725/1-1/9a5e14f7-35fe-4b58-bd5c-a4bd5203055e.jpg",
         "https://picturescdn.estatesales.net/5170725/1-1/4e16fcc9-9265-4412-b1b9-416f0ba9171f.jpg",
@@ -828,12 +952,12 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "32 photos",
+        "39 photos",
         "furniture, vehicles and clothing in the listing"
       ],
-      "lat": 33.9664631,
-      "lng": -84.2433532,
-      "approximate": true,
+      "lat": 33.987713,
+      "lng": -84.227234,
+      "approximate": false,
       "photoKeywords": [
         "floral still life",
         "framed rabbit art",
@@ -850,11 +974,11 @@
       "id": "70bc9e5467e61921",
       "title": "Beautiful Antiques & Vintage In Marietta",
       "company": null,
-      "streetAddress": null,
+      "streetAddress": "592 hidden hills ct",
       "city": "Marietta",
       "state": "GA",
       "zip": "30066",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-28",
@@ -894,9 +1018,9 @@
         "46 photos",
         "furniture, collectibles and clothing in the listing"
       ],
-      "lat": 34.0352864,
-      "lng": -84.505063,
-      "approximate": true,
+      "lat": 34.012376,
+      "lng": -84.53399,
+      "approximate": false,
       "photoKeywords": [
         "model sailing ships",
         "pasta maker",
@@ -1157,6 +1281,60 @@
       "photoRead": true
     },
     {
+      "id": "1a7a36c0aec58429",
+      "title": "TIME CAPSULE IN MARIETTA!",
+      "company": "B & B Estate Sales & Appraisals",
+      "streetAddress": "690 Etowah Drive",
+      "city": "Marietta",
+      "state": "GA",
+      "zip": "30064",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "11:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Marietta/30064/5168862"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "7276660183",
+      "contactUrl": "https://www.estatesales.net/companies/GA/Atlanta/30326/136376",
+      "photoCount": 42,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5168862/1-1/deaa0211-f6b2-456a-b192-a5f2132f175f.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/74d4cc06-3c0d-4420-94f5-3c3ccdbbdb80.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/8c7b9c78-2520-41ed-9aa5-5e588abff8ef.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/2c07c8e1-1bb0-4b02-b268-c667c7c7dc93.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/26d6e994-219b-47c7-a7eb-cb7d553eaccd.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/7fa6293c-fc09-4584-b6ae-b2bc51879f29.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/bc55d3dd-b36b-4f17-8e4a-9c84293fd5da.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/6c18cbf3-349f-4032-aec5-704f3f0012f6.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/2319d042-b271-41d7-b62c-9ee2e768e685.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/e5b8f99d-29d0-4382-8df2-beecda821ad1.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/3d7bbcaf-b49a-4415-8fac-868aef3aa0d9.jpg",
+        "https://picturescdn.estatesales.net/5168862/1-1/33428650-7a2a-4c76-931a-9042290d0648.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "42 photos"
+      ],
+      "photoKeywords": [],
+      "lat": 33.9683663,
+      "lng": -84.5458104,
+      "approximate": false
+    },
+    {
       "id": "410242c97c81bcd8",
       "title": "TIME CAPSULE IN MARIETTA!!",
       "company": "B&B Estate Sales and Appraisals",
@@ -1181,33 +1359,19 @@
         {
           "name": "EstateSales.org",
           "url": "https://estatesales.org/estate-sales/ga/marietta-/30060/time-capsule-in-marietta-2474967"
-        },
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Marietta/30064/5168862"
         }
       ],
       "categories": [],
       "contactPhone": "(813) 924-7906",
       "contactUrl": "https://estatesales.org/estate-sale-companies/blair-burns-llc-9371",
-      "photoCount": 42,
+      "photoCount": 1,
       "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2474967-q3ws3pvel92t45wo.webp",
-        "https://picturescdn.estatesales.net/5168862/1-1/deaa0211-f6b2-456a-b192-a5f2132f175f.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/74d4cc06-3c0d-4420-94f5-3c3ccdbbdb80.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/8c7b9c78-2520-41ed-9aa5-5e588abff8ef.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/2c07c8e1-1bb0-4b02-b268-c667c7c7dc93.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/26d6e994-219b-47c7-a7eb-cb7d553eaccd.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/7fa6293c-fc09-4584-b6ae-b2bc51879f29.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/bc55d3dd-b36b-4f17-8e4a-9c84293fd5da.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/6c18cbf3-349f-4032-aec5-704f3f0012f6.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/2319d042-b271-41d7-b62c-9ee2e768e685.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/e5b8f99d-29d0-4382-8df2-beecda821ad1.jpg",
-        "https://picturescdn.estatesales.net/5168862/1-1/3d7bbcaf-b49a-4415-8fac-868aef3aa0d9.jpg"
+        "https://eso-cdn.tlcdn.workers.dev/s-2474967-q3ws3pvel92t45wo.webp"
       ],
-      "digRating": "Worth a Look",
+      "digRating": "Slim Pickings",
       "ratingReasons": [
-        "42 photos"
+        "only 1 photo",
+        "few details in the listing"
       ],
       "photoKeywords": [],
       "lat": 33.9683579,
@@ -1999,7 +2163,7 @@
         }
       ],
       "categories": [],
-      "photoCount": 50,
+      "photoCount": 53,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5146413/1-1/884aac7c-3afa-424c-b582-ac915c610c6d.jpg",
         "https://picturescdn.estatesales.net/5146413/1-1/f6bb7529-b272-4829-b0a2-7b4733db4107.jpg",
@@ -2016,7 +2180,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "50 photos",
+        "53 photos",
         "furniture, kitchen and clothing in the listing",
         "runs 3 days"
       ],
@@ -2313,7 +2477,7 @@
       ],
       "contactPhone": "(770) 235-7638",
       "contactUrl": "http://www.donnadavisestatesales.com",
-      "photoCount": 153,
+      "photoCount": 149,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5170347/1-1/1b8d0249-5c41-42f7-844a-61ec64f59267.jpg",
         "https://picturescdn.estatesales.net/5170347/1-1/72f8bc22-97a0-4fbe-b0f8-970e9214f333.jpg",
@@ -2330,8 +2494,8 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "153 photos",
-        "furniture and collectibles in the listing",
+        "149 photos",
+        "furniture, collectibles and art in the listing",
         "runs 3 days"
       ],
       "lat": 34.0013766,
