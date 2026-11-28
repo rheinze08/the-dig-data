@@ -245,7 +245,7 @@
       },
       "radiusMiles": 25,
       "timeZone": "America/Chicago",
-      "status": "proving",
+      "status": "live",
       "sources": {
         "estateSalesNet": {
           "directory": "https://www.estatesales.net/TN/Nashville/37201"

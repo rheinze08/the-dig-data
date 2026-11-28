@@ -143,7 +143,7 @@
     "retryAfter": 1795828520522
   },
   "nominatim:street:535 talbert dr:75093": {
-    "retryAfter": 1795828550061
+    "retryAfter": 1796496026797
   },
   "nominatim:street:5415 pomona ave:76114": {
     "retryAfter": 1795828571081
@@ -829,6 +829,11 @@
     "lng": -96.6049894,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:75048": {
+    "lat": 32.9644146,
+    "lng": -96.5868415,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:75051": {
     "lat": 32.7240338,
     "lng": -97.0088686,
@@ -894,6 +899,11 @@
     "lng": -96.5579547,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:75104": {
+    "lat": 32.5958559,
+    "lng": -96.9453071,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:75116": {
     "lat": 32.6572383,
     "lng": -96.9121977,
@@ -917,6 +927,11 @@
   "zip:75205": {
     "lat": 32.8366956,
     "lng": -96.7888596,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:75206": {
+    "lat": 32.8255844,
+    "lng": -96.7703749,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:75207": {
@@ -979,6 +994,11 @@
     "lng": -97.142663,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:76016": {
+    "lat": 32.6890229,
+    "lng": -97.1871517,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:76017": {
     "lat": 32.6630829,
     "lng": -97.1614206,
@@ -1039,6 +1059,11 @@
     "lng": -97.4011847,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:76116": {
+    "lat": 32.7245962,
+    "lng": -97.4472346,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:76123": {
     "lat": 32.6183232,
     "lng": -97.3993421,
@@ -1062,6 +1087,11 @@
   "zip:76148": {
     "lat": 32.8689226,
     "lng": -97.2507183,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:76179": {
+    "lat": 32.8651367,
+    "lng": -97.4128225,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:76207": {

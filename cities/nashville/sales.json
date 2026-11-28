@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-27",
-  "collectedAt": "2026-11-27T19:55:14.803Z",
+  "asOf": "2026-11-28",
+  "collectedAt": "2026-11-28T18:48:11.714Z",
   "window": {
-    "start": "2026-11-27",
-    "end": "2026-12-10",
+    "start": "2026-11-28",
+    "end": "2026-12-11",
     "timeZone": "America/Chicago"
   },
   "area": {
@@ -14,9 +14,9 @@
   "coverage": {
     "EstateSales.net": {
       "status": "partial",
-      "detail": "Read the public sale sitemap. Checked 41/42 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
-      "candidates": 30,
-      "included": 23
+      "detail": "Read the public sale sitemap. Checked 43/44 local candidate details. https://www.estatesales.net/TN/Murfreesboro/37129/86092 — Sale detail is missing",
+      "candidates": 32,
+      "included": 25
     },
     "EstateSales.org": {
       "status": "reached",
@@ -38,9 +38,9 @@
     }
   },
   "counts": {
-    "candidates": 37,
-    "listings": 30,
-    "sales": 23,
+    "candidates": 39,
+    "listings": 32,
+    "sales": 25,
     "duplicates": 7,
     "outsideRadius": 7,
     "unlocatedListings": 0
@@ -50,7 +50,7 @@
   "sales": [
     {
       "id": "1b38ea8e75acdabd",
-      "title": "Berry Hill Black Friday Sale - Phase 2",
+      "title": "30% OFF SATURDAY!! Berry Hill Black Friday Sale - Phase 2",
       "company": "Estate Greats",
       "streetAddress": "644 West Iris Dr",
       "city": "Nashville",
@@ -125,7 +125,7 @@
     },
     {
       "id": "1f717a8402c14936",
-      "title": "Black Friday Sale",
+      "title": "25% OFF Black Friday Sale",
       "company": "Shorty’s Garage Estate Sales",
       "streetAddress": "100 Lakecrest Circle",
       "city": "Hendersonville",
@@ -160,7 +160,6 @@
       "contactUrl": "https://www.facebook.com/profile.php?id=61552038952422&mibextid=LQQJ4d",
       "photoCount": 238,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5170677/1-1/6a5e296e-7b54-40d4-9e25-fee31224faa4.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/5aa54059-af5d-4928-843c-07f7b9beb2cd.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/2e6e0bf5-31be-4f8f-a616-04c40d804b16.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/c2805fa2-a6fd-419b-a6bf-47b924f2b801.jpg",
@@ -169,9 +168,10 @@
         "https://picturescdn.estatesales.net/5170677/1-1/7d5d8138-9f73-4b5a-ab0b-1692248d19fb.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/de9bdafc-a890-4c70-b9a5-5e919bc62a14.jpg",
         "https://picturescdn.estatesales.net/5170677/1-1/f2fddfc4-30c8-48e2-9876-636be80480ac.jpg",
-        "https://picturescdn.estatesales.net/5170677/1-1/b2da5db8-130b-4dce-8739-f0d923f50948.jpg",
-        "https://picturescdn.estatesales.net/5170677/1-1/9b19d7ec-bc32-4484-8d3b-fb0ab69ec683.jpg",
-        "https://picturescdn.estatesales.net/5170677/1-1/92a63e7a-ec7e-4273-add8-2e28f229da9b.jpg"
+        "https://picturescdn.estatesales.net/5170677/1-1/0d65fd91-1085-4e4e-b3bb-95d94b566263.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/4b707b98-83b7-4487-93d1-d750771dc0d2.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/5d9248c3-4c2f-4f5a-88e5-15a62606f4f0.jpg",
+        "https://picturescdn.estatesales.net/5170677/1-1/fdc6b21d-f654-4df9-aef0-061a009f8715.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
@@ -841,7 +841,7 @@
         }
       ],
       "categories": [],
-      "contactPhone": "(615) 569-4734",
+      "contactPhone": "5127882533",
       "contactUrl": "http://www.busybeemovingsales.com",
       "photoCount": 39,
       "photoUrls": [
@@ -877,51 +877,6 @@
       ],
       "contentsLine": "Two patterned armchairs have matching ottomans. A green-shaded banker's lamp sits on a drop-front desk.",
       "photoRead": true
-    },
-    {
-      "id": "958ad8deb99f9819",
-      "title": "Franklin River Rest Sale",
-      "company": "Dogwood Estate Sales",
-      "streetAddress": null,
-      "city": "Franklin",
-      "state": "TN",
-      "zip": "37069",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-12-04",
-          "start": "08:30",
-          "end": "15:00"
-        },
-        {
-          "date": "2026-12-05",
-          "start": "08:30",
-          "end": "15:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/TN/Franklin/37069/5166318"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(615) 406-8476",
-      "contactUrl": "http://www.dogwoodestatesales.com",
-      "photoCount": 0,
-      "digRating": "Slim Pickings",
-      "ratingReasons": [
-        "furniture and kitchen in the listing",
-        "no photos in the listing"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "kitchen"
-      ],
-      "contentsLine": "Furniture and kitchen.",
-      "lat": 35.9796806,
-      "lng": -86.8992191,
-      "approximate": true
     },
     {
       "id": "09cd8785c07106bd",
@@ -1278,6 +1233,83 @@
       "photoRead": true
     },
     {
+      "id": "25e07869ba3add3c",
+      "title": "Newsom Station - Holliday's Estate Sale- Vintage 70s & 80s Toys, Tools, Home Decor & Mens Clothing",
+      "company": "Best Of The Mess",
+      "streetAddress": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37221",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-07",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Nashville/37221/5174367"
+        }
+      ],
+      "categories": [
+        "tools",
+        "clothing",
+        "toys & games"
+      ],
+      "contactPhone": "(404) 259-2618",
+      "contactUrl": "https://www.estatesales.net/companies/TN/Nashville/37209/173489",
+      "photoCount": 387,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5174367/1-1/45a9987c-1159-4b07-aed6-ec0de559c466.jpg",
+        "https://picturescdn.estatesales.net/5174367/1-1/f501d320-29f7-48ac-b511-c809390081bf.jpg",
+        "https://picturescdn.estatesales.net/5174367/1-1/59acf610-ec08-4273-a086-e5cd1526a4be.jpg",
+        "https://picturescdn.estatesales.net/5174367/1-1/846b07ee-53dd-4ee5-9913-e233a57109e5.jpg",
+        "https://picturescdn.estatesales.net/5174367/1-1/70ce5e8b-8d95-4256-9321-92c652b85d16.jpg",
+        "https://picturescdn.estatesales.net/5174367/1-1/3087c223-89eb-47df-a236-4d5bfd529f8d.jpg",
+        "https://picturescdn.estatesales.net/5174367/1-1/b99f2b22-3492-48e8-b4f1-0ce6b6376a41.jpg",
+        "https://picturescdn.estatesales.net/5174367/1-1/49fc1e38-878b-4376-9edf-0d37dbaf4efb.jpg",
+        "https://picturescdn.estatesales.net/5174367/1-1/8ddf9893-1661-488b-9862-74d55d24bfbe.jpg",
+        "https://picturescdn.estatesales.net/5174367/1-1/02af3716-554f-40a0-a31c-09cd2ed17fa9.jpg",
+        "https://picturescdn.estatesales.net/5174367/1-1/66e7668d-6fdb-4ce6-916b-cc50bf6db9d7.jpg",
+        "https://picturescdn.estatesales.net/5174367/1-1/3222316b-3e37-4f44-95f5-d26438a96e29.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "387 photos",
+        "tools, furniture and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "clothing",
+        "books",
+        "electronics",
+        "toys & games",
+        "figurines"
+      ],
+      "contentsLine": "Tools, furniture, collectibles, vehicles and kitchen.",
+      "lat": 36.0663164,
+      "lng": -86.9456557,
+      "approximate": true
+    },
+    {
       "id": "1751e12df3ad6353",
       "title": "BEAUTIFUL BRENTWOOD ESTATE SALE!!",
       "company": "Estate Sales By Sheila",
@@ -1486,17 +1518,17 @@
         },
         {
           "date": "2026-12-11",
-          "start": "10:00",
+          "start": "09:00",
           "end": "15:00"
         },
         {
           "date": "2026-12-12",
-          "start": "10:00",
+          "start": "09:00",
           "end": "15:00"
         },
         {
           "date": "2026-12-13",
-          "start": "11:00",
+          "start": "10:00",
           "end": "15:00"
         }
       ],
@@ -1509,8 +1541,12 @@
       "categories": [],
       "contactPhone": "(208) 860-2280",
       "contactUrl": "https://www.estatesales.net/companies/TN/Kingston-Springs/37082/176861",
-      "photoCount": 30,
+      "photoCount": 89,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5172942/1-1/77d1ce1d-6a0f-4ae9-87db-d3ac081621a5.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/1c1658b4-d10f-4713-934b-5cc724671323.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/8dc50619-2cfa-484f-8f45-64bef3050f75.jpg",
+        "https://picturescdn.estatesales.net/5172942/1-1/ea073645-4a07-40a6-8d77-256489bc9fc0.jpg",
         "https://picturescdn.estatesales.net/5172942/1-1/68d10d6c-68e1-40c9-b265-aecea85f9633.jpg",
         "https://picturescdn.estatesales.net/5172942/1-1/58745e6d-8076-4854-9139-c0dfcb8cd6e3.jpg",
         "https://picturescdn.estatesales.net/5172942/1-1/1ce0f622-e4cf-44f7-a6ca-5acf0c0229a8.jpg",
@@ -1518,21 +1554,18 @@
         "https://picturescdn.estatesales.net/5172942/1-1/727dc417-4702-404b-bd30-57938d17016e.jpg",
         "https://picturescdn.estatesales.net/5172942/1-1/b4d9a795-ffe8-4bee-bb58-fc0e04e3a6de.jpg",
         "https://picturescdn.estatesales.net/5172942/1-1/52ec8741-b345-4cd7-8aa0-bbb2f6aab9d8.jpg",
-        "https://picturescdn.estatesales.net/5172942/1-1/9f248c36-e301-4e03-9549-5ab1b400e57f.jpg",
-        "https://picturescdn.estatesales.net/5172942/1-1/eed9e85e-ccfc-4ec2-a551-cca4b9c324c5.jpg",
-        "https://picturescdn.estatesales.net/5172942/1-1/182fa3f2-0871-47ee-98eb-28980c4e8de6.jpg",
-        "https://picturescdn.estatesales.net/5172942/1-1/4ea85984-e3d9-4e43-852d-8a7c53b238d1.jpg",
-        "https://picturescdn.estatesales.net/5172942/1-1/2592635f-b88d-4fdf-a949-e6d6e7f485dc.jpg"
+        "https://picturescdn.estatesales.net/5172942/1-1/9f248c36-e301-4e03-9549-5ab1b400e57f.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "30 photos",
-        "tools, furniture and kitchen in the listing",
+        "89 photos",
+        "tools, furniture and vehicles in the listing",
         "runs 4 days"
       ],
       "photoKeywords": [
         "tools",
         "furniture",
+        "vehicles",
         "kitchen",
         "clothing",
         "books",
@@ -1541,9 +1574,110 @@
         "antiques",
         "mid-century"
       ],
-      "contentsLine": "Tools, furniture, kitchen, clothing and books.",
+      "contentsLine": "Tools, furniture, vehicles, kitchen and clothing.",
       "lat": 36.0975857,
       "lng": -86.8212725,
+      "approximate": true
+    },
+    {
+      "id": "958ad8deb99f9819",
+      "title": "Franklin River Rest Sale",
+      "company": "Dogwood Estate Sales",
+      "streetAddress": null,
+      "city": "Franklin",
+      "state": "TN",
+      "zip": "37069",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "08:30",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "08:30",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Franklin/37069/5166318"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(615) 406-8476",
+      "contactUrl": "http://www.dogwoodestatesales.com",
+      "photoCount": 0,
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "furniture and kitchen in the listing",
+        "no photos in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "kitchen"
+      ],
+      "contentsLine": "Furniture and kitchen.",
+      "lat": 35.9796806,
+      "lng": -86.8992191,
+      "approximate": true
+    },
+    {
+      "id": "a36f7a1bafceb92b",
+      "title": "Franklin Full House | Franklin, TN Estate Sale",
+      "company": "Estate Greats",
+      "streetAddress": null,
+      "city": "Franklin",
+      "state": "TN",
+      "zip": "37064",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-13",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/TN/Franklin/37064/5167074"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(615) 899-4222",
+      "contactUrl": "https://estategreats.net",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5167074/1-1/c24d950b-3194-4e1f-ae00-d67aef7bb795.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "furniture, kitchen and art in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "kitchen",
+        "art",
+        "lamps",
+        "mirrors"
+      ],
+      "contentsLine": "Furniture, kitchen, art, lamps and mirrors.",
+      "lat": 35.9062737,
+      "lng": -86.8682941,
       "approximate": true
     }
   ]

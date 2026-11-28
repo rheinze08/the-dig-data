@@ -6,57 +6,58 @@
   },
   "cities": {
     "houston": {
-      "cleanRuns": 8,
-      "lastCleanDate": "2026-11-27",
-      "lastRunDate": "2026-11-27",
+      "cleanRuns": 9,
+      "lastCleanDate": "2026-11-28",
+      "lastRunDate": "2026-11-28",
       "lastResult": "clean"
     },
     "dallas-fort-worth": {
-      "cleanRuns": 8,
-      "lastCleanDate": "2026-11-27",
-      "lastRunDate": "2026-11-27",
+      "cleanRuns": 9,
+      "lastCleanDate": "2026-11-28",
+      "lastRunDate": "2026-11-28",
       "lastResult": "clean",
       "promotedOn": "2026-11-22"
     },
     "austin": {
-      "cleanRuns": 8,
-      "lastCleanDate": "2026-11-27",
-      "lastRunDate": "2026-11-27",
+      "cleanRuns": 9,
+      "lastCleanDate": "2026-11-28",
+      "lastRunDate": "2026-11-28",
       "lastResult": "clean",
       "promotedOn": "2026-11-22"
     },
     "san-antonio": {
-      "cleanRuns": 8,
-      "lastCleanDate": "2026-11-27",
-      "lastRunDate": "2026-11-27",
+      "cleanRuns": 9,
+      "lastCleanDate": "2026-11-28",
+      "lastRunDate": "2026-11-28",
       "lastResult": "clean",
       "promotedOn": "2026-11-22"
     },
     "phoenix": {
-      "cleanRuns": 6,
-      "lastCleanDate": "2026-11-27",
-      "lastRunDate": "2026-11-27",
+      "cleanRuns": 7,
+      "lastCleanDate": "2026-11-28",
+      "lastRunDate": "2026-11-28",
       "lastResult": "clean",
       "promotedOn": "2026-11-24"
     },
     "atlanta": {
-      "cleanRuns": 6,
-      "lastCleanDate": "2026-11-27",
-      "lastRunDate": "2026-11-27",
+      "cleanRuns": 7,
+      "lastCleanDate": "2026-11-28",
+      "lastRunDate": "2026-11-28",
       "lastResult": "clean",
       "promotedOn": "2026-11-24"
     },
     "denver": {
-      "cleanRuns": 5,
-      "lastCleanDate": "2026-11-27",
-      "lastRunDate": "2026-11-27",
+      "cleanRuns": 6,
+      "lastCleanDate": "2026-11-28",
+      "lastRunDate": "2026-11-28",
       "lastResult": "clean"
     },
     "nashville": {
-      "cleanRuns": 5,
-      "lastCleanDate": "2026-11-27",
-      "lastRunDate": "2026-11-27",
-      "lastResult": "clean"
+      "cleanRuns": 6,
+      "lastCleanDate": "2026-11-28",
+      "lastRunDate": "2026-11-28",
+      "lastResult": "clean",
+      "promotedOn": "2026-11-28"
     }
   }
 }

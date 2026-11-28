@@ -1,7 +1,17 @@
 {
+  "city:boulder": {
+    "lat": 40.0149856,
+    "lng": -105.270545,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "city:brighton": {
     "lat": 39.983721,
     "lng": -104.8110775,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "city:broomfield": {
+    "lat": 39.9403995,
+    "lng": -105.05208,
     "basis": "OpenStreetMap Nominatim"
   },
   "city:denver": {
@@ -16,6 +26,12 @@
   },
   "nominatim:street:12795 home farm dr:80234": {
     "retryAfter": 1796328321181
+  },
+  "nominatim:street:2360 dayton st:80010": {
+    "retryAfter": 1796496435466
+  },
+  "nominatim:street:3211 walnut st near 32nd st:boulder": {
+    "retryAfter": 1796496436275
   },
   "nominatim:street:6167 s dover st:80123": {
     "retryAfter": 1796394478327
@@ -37,6 +53,11 @@
     "lat": 39.7463655,
     "lng": -105.081267,
     "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2360 dayton st:80010": {
+    "lat": 39.7521388,
+    "lng": -104.8749812,
+    "basis": "Public listing map: EstateSales.net"
   },
   "street:362 s 14th ave:80601": {
     "lat": 39.9804928,
@@ -86,6 +107,21 @@
   "zip:80214": {
     "lat": 39.7460319,
     "lng": -105.0636428,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:80222": {
+    "lat": 39.6707747,
+    "lng": -104.9285199,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:80224": {
+    "lat": 39.6955662,
+    "lng": -104.9136381,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:80233": {
+    "lat": 39.904145,
+    "lng": -104.9720807,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:80234": {

@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-27",
-  "collectedAt": "2026-11-27T19:53:49.135Z",
+  "asOf": "2026-11-28",
+  "collectedAt": "2026-11-28T18:46:29.477Z",
   "window": {
-    "start": "2026-11-27",
-    "end": "2026-12-10",
+    "start": "2026-11-28",
+    "end": "2026-12-11",
     "timeZone": "America/New_York"
   },
   "area": {
@@ -14,19 +14,19 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 98/98 local candidate details.",
-      "candidates": 61,
-      "included": 45
+      "detail": "Read the public sale sitemap. Checked 101/101 local candidate details.",
+      "candidates": 67,
+      "included": 50
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 27 Atlanta directory cards over 2 pages. Checked 14/14 in-person local candidate details.",
-      "candidates": 12,
-      "included": 9
+      "detail": "Read 28 Atlanta directory cards over 2 pages. Checked 14/14 in-person local candidate details.",
+      "candidates": 13,
+      "included": 10
     },
     "Craigslist Atlanta": {
       "status": "reached",
-      "detail": "9 directory listings discovered; 1 in-window estate listings before radius filtering",
+      "detail": "11 directory listings discovered; 1 in-window estate listings before radius filtering",
       "candidates": 1,
       "included": 1
     },
@@ -38,11 +38,11 @@
     }
   },
   "counts": {
-    "candidates": 74,
-    "listings": 55,
-    "sales": 49,
+    "candidates": 81,
+    "listings": 61,
+    "sales": 55,
     "duplicates": 6,
-    "outsideRadius": 18,
+    "outsideRadius": 19,
     "unlocatedListings": 0
   },
   "unlocated": [],
@@ -50,7 +50,7 @@
   "sales": [
     {
       "id": "3f7e9b024c22aa67",
-      "title": "ANOTHER GREAT SALE IN LILBURN BY A KICKIN' & PICKIN'!!! JOHN DEERE MOWER/HOOSIER CABINET",
+      "title": "25% OFF SATURDAY IN LILBURN BY A KICKIN' & PICKIN'!!! JOHN DEERE MOWER/WASHER AND DRYER",
       "company": "A Kickin' & Pickin' Estate Sales",
       "streetAddress": "1393 CROOKED TREE COURT",
       "city": "Lilburn",
@@ -109,72 +109,76 @@
       "approximate": false
     },
     {
-      "id": "41baec236ef58785",
-      "title": "Black Friday Upscale Alpharetta estate sale",
-      "company": "Ruth's Reselling",
-      "streetAddress": "12460 Pindell Circle",
-      "city": "Alpharetta",
+      "id": "54e01ba5487c44c7",
+      "title": "Donna Davis LLC- Rare Lifetime Perfume Bottle Collection beginning 1913, Costume Jewelry",
+      "company": "Donna Davis Estate Sales LLC, Downsizing and Estate Appraisal Services",
+      "streetAddress": "1790 Cheshire Bridge Road",
+      "city": "Atlanta",
       "state": "GA",
-      "zip": "30004",
+      "zip": "30324",
       "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-27",
           "start": "10:00",
-          "end": "15:00"
+          "end": "16:00"
         },
         {
           "date": "2026-11-28",
           "start": "10:00",
-          "end": "15:00"
+          "end": "16:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "12:00",
+          "end": "16:00"
         }
       ],
       "sources": [
         {
           "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Alpharetta/30004/5166090"
+          "url": "https://www.estatesales.net/GA/Atlanta/30324/5133690"
         }
       ],
-      "categories": [],
-      "contactPhone": "(678) 628-3951",
-      "contactUrl": "https://www.estatesales.net/companies/GA/Duluth/30097/136547",
-      "photoCount": 165,
+      "categories": [
+        "jewelry"
+      ],
+      "contactPhone": "(770) 235-7638",
+      "contactUrl": "http://www.donnadavisestatesales.com",
+      "photoCount": 97,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5166090/1-1/594a7edd-1d27-4580-9ba8-c8915677fa63.jpg",
-        "https://picturescdn.estatesales.net/5166090/1-1/93b433a6-9125-4d07-ac06-d6e2d8d8c667.jpg",
-        "https://picturescdn.estatesales.net/5166090/1-1/7fe91dd0-0ec2-4fd9-bdea-082f27dffb69.jpg",
-        "https://picturescdn.estatesales.net/5166090/1-1/3e823369-11f0-4ef8-8ffe-a74efb447ca9.jpg",
-        "https://picturescdn.estatesales.net/5166090/1-1/ac4bef60-aaf5-43cf-9ae2-969deb31589a.jpg",
-        "https://picturescdn.estatesales.net/5166090/1-1/bdec6d09-416e-4071-b4af-75505d0cfadc.jpg",
-        "https://picturescdn.estatesales.net/5166090/1-1/a79e55c9-9110-477c-bcdd-2467f73ffa85.jpg",
-        "https://picturescdn.estatesales.net/5166090/1-1/0893896b-f674-40ce-9a71-0b3f5e3431cc.jpg",
-        "https://picturescdn.estatesales.net/5166090/1-1/01c7c83c-a379-4779-8d36-df4e5e5f82d0.jpg",
-        "https://picturescdn.estatesales.net/5166090/1-1/aacb908a-790b-4901-b8a4-aa6f25ee751a.jpg",
-        "https://picturescdn.estatesales.net/5166090/1-1/234a61cf-4c4c-4b25-859a-e700c9183b3e.jpg",
-        "https://picturescdn.estatesales.net/5166090/1-1/886e7f89-3f56-4dd5-9be9-4d443649b8cd.jpg"
+        "https://picturescdn.estatesales.net/5133690/1-1/130a936d-6fd3-4072-892f-ce711e5a0226.jpg",
+        "https://picturescdn.estatesales.net/5133690/1-1/d02cba1f-cf5e-4aa5-8baa-4167581ce3cd.jpg",
+        "https://picturescdn.estatesales.net/5133690/1-1/32b56da0-337f-433d-8133-35f23fb73005.jpg",
+        "https://picturescdn.estatesales.net/5133690/1-1/13399dd6-52ce-4ac1-ba10-b1616dd8382b.jpg",
+        "https://picturescdn.estatesales.net/5133690/1-1/1d49df26-018f-4d57-8c7e-4d7998020247.jpg",
+        "https://picturescdn.estatesales.net/5133690/2-1/e6490595-365e-4685-b8d9-f90f9f636be1.jpg",
+        "https://picturescdn.estatesales.net/5133690/2-1/8745c76a-6f28-4889-80ef-4f475c3c92be.jpg",
+        "https://picturescdn.estatesales.net/5133690/1-1/c4ef22dc-30c5-4e34-a50a-71a139faca79.jpg",
+        "https://picturescdn.estatesales.net/5133690/1-1/29e2d0d3-ad5b-4103-812a-e52a39341334.jpg",
+        "https://picturescdn.estatesales.net/5133690/1-1/5e5f4ad0-547d-4f56-9553-a857e1594394.jpg",
+        "https://picturescdn.estatesales.net/5133690/2-1/a07cf772-a354-4eda-99a0-cb1a355d3289.jpg",
+        "https://picturescdn.estatesales.net/5133690/1-1/033e5779-8fc4-4d1c-a5e8-7b7dc450b449.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "165 photos",
-        "tools, furniture and vinyl & records in the listing"
+        "97 photos",
+        "jewelry and collectibles in the listing",
+        "runs 3 days"
       ],
-      "lat": 34.0869477,
-      "lng": -84.3270952,
-      "approximate": false,
       "photoKeywords": [
-        "bookcase daybed",
-        "slatted bed frame",
-        "dresser",
-        "six-drawer chest",
-        "nightstand",
-        "throw pillows"
+        "jewelry",
+        "collectibles",
+        "antiques"
       ],
-      "contentsLine": "A white daybed has shelves of books behind it. A tall six-drawer chest and a low dresser have round knobs.",
-      "photoRead": true
+      "contentsLine": "Jewelry, collectibles and antiques.",
+      "lat": 33.8085791,
+      "lng": -84.3640674,
+      "approximate": false
     },
     {
       "id": "74ac7dd82bdd8e2b",
-      "title": "Black Friday Weekend Blowout 50%-70% off EVERYTHING! (Hampton) - Bargains, High-Quality Estate Sale- Modern Decor, Tech, & Harley Davidson Collectables @ Low Prices",
+      "title": "Hampton Weekend Blowout 60% & 70% off EVERYTHING! (MAKE A DEAL) - Bargains, High-Quality Estate Sale- Modern Decor, Tech, & Harley Davidson Collectables @ Low Prices",
       "company": "ESTATE SALE SOLUTIONS LLC",
       "streetAddress": "12362 Coldstream Ct",
       "city": "Hampton",
@@ -212,18 +216,18 @@
       "contactUrl": "https://estatesales.org/estate-sale-companies/estate-sale-solutions-llc-25091",
       "photoCount": 20,
       "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2474507-yfhocb2syc8j7k5w.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2474507-ph6aqhxog4c6ixl0.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/a-129085245-8frmmiaqpeiblgei.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/a-129085246-d1h09h7agyujchj1.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/a-129085247-nx0pujdb0kxog5a4.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/a-129085248-emqdm88u2xbr6sdl.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/a-129085249-b1nih34b4r7aspgg.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/a-129085251-6y1ajm35xhezomfi.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/a-129085269-p7pattue3pnyb0o7.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/a-129085285-i262a72a7nbhr0dr.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/a-129085303-4plxkvym7ucvfxbt.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/a-129085316-g4din2szfc6i9lp6.jpg"
+        "https://eso-cdn.tlcdn.workers.dev/s-2474507-f46k4tdtquxzfgvk.webp",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474507-pwazjwvmkm390epg.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474507-68lk3818z1pn562g.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474507-vyn7heq1vnx00mvp.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474507-eoc33xqswvpzcl2u.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474507-wkviss8mzm4qnvgy.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474507-iinlekqiaep3xs4k.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474507-oibmoph9p20wnxhk.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474507-hxhw5aac4wfuoa3n.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474507-4cjgymzib7rh0iln.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474507-ly8cb5s9mnx5tg5w.jpg",
+        "https://eso-cdn.tlcdn.workers.dev/s-2474507-ee8i9a5v8ih1tjg3.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
@@ -239,79 +243,6 @@
       "lat": 33.4347417,
       "lng": -84.2996112,
       "approximate": true
-    },
-    {
-      "id": "54e01ba5487c44c7",
-      "title": "Donna Davis LLC- Rare Lifetime Perfume Bottle Collection beginning 1913, Costume Jewelry",
-      "company": "Donna Davis Estate Sales LLC, Downsizing and Estate Appraisal Services",
-      "streetAddress": "1790 Cheshire Bridge Road",
-      "city": "Atlanta",
-      "state": "GA",
-      "zip": "30324",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-29",
-          "start": "10:00",
-          "end": "16:00"
-        },
-        {
-          "date": "2026-11-30",
-          "start": "10:00",
-          "end": "16:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Atlanta/30324/5133690"
-        }
-      ],
-      "categories": [
-        "jewelry"
-      ],
-      "contactPhone": "(770) 235-7638",
-      "contactUrl": "http://www.donnadavisestatesales.com",
-      "photoCount": 97,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5133690/1-1/130a936d-6fd3-4072-892f-ce711e5a0226.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/d02cba1f-cf5e-4aa5-8baa-4167581ce3cd.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/32b56da0-337f-433d-8133-35f23fb73005.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/13399dd6-52ce-4ac1-ba10-b1616dd8382b.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/1d49df26-018f-4d57-8c7e-4d7998020247.jpg",
-        "https://picturescdn.estatesales.net/5133690/2-1/e6490595-365e-4685-b8d9-f90f9f636be1.jpg",
-        "https://picturescdn.estatesales.net/5133690/2-1/8745c76a-6f28-4889-80ef-4f475c3c92be.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/c4ef22dc-30c5-4e34-a50a-71a139faca79.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/29e2d0d3-ad5b-4103-812a-e52a39341334.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/5e5f4ad0-547d-4f56-9553-a857e1594394.jpg",
-        "https://picturescdn.estatesales.net/5133690/2-1/a07cf772-a354-4eda-99a0-cb1a355d3289.jpg",
-        "https://picturescdn.estatesales.net/5133690/1-1/033e5779-8fc4-4d1c-a5e8-7b7dc450b449.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "97 photos",
-        "jewelry and collectibles in the listing",
-        "runs 4 days"
-      ],
-      "photoKeywords": [
-        "jewelry",
-        "collectibles",
-        "antiques"
-      ],
-      "contentsLine": "Jewelry, collectibles and antiques.",
-      "lat": 33.8085791,
-      "lng": -84.3640674,
-      "approximate": false
     },
     {
       "id": "169cbe358188f5b9",
@@ -518,7 +449,7 @@
     },
     {
       "id": "34163407f52ef541",
-      "title": "PRIVATE COLLECTION OF SPECIALTY BEADS * CUSTOM JEWLERY * CRAFTING SUPPLIES",
+      "title": "NEW BEADS & JEWLERY ADDED FOR SATURDAY! PRIVATE COLLECTION OF SPECIALTY BEADS",
       "company": "McHenry Estate Sales",
       "streetAddress": "161 RIVER RIDGE LANE",
       "city": "Roswell",
@@ -648,8 +579,72 @@
       "approximate": true
     },
     {
+      "id": "41baec236ef58785",
+      "title": "Shop Small Saturday Upscale Alpharetta estate sale",
+      "company": "Ruth's Reselling",
+      "streetAddress": "12460 Pindell Circle",
+      "city": "Alpharetta",
+      "state": "GA",
+      "zip": "30004",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Alpharetta/30004/5166090"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(678) 628-3951",
+      "contactUrl": "https://www.estatesales.net/companies/GA/Duluth/30097/136547",
+      "photoCount": 165,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5166090/1-1/594a7edd-1d27-4580-9ba8-c8915677fa63.jpg",
+        "https://picturescdn.estatesales.net/5166090/1-1/93b433a6-9125-4d07-ac06-d6e2d8d8c667.jpg",
+        "https://picturescdn.estatesales.net/5166090/1-1/a79e55c9-9110-477c-bcdd-2467f73ffa85.jpg",
+        "https://picturescdn.estatesales.net/5166090/1-1/0893896b-f674-40ce-9a71-0b3f5e3431cc.jpg",
+        "https://picturescdn.estatesales.net/5166090/1-1/886e7f89-3f56-4dd5-9be9-4d443649b8cd.jpg",
+        "https://picturescdn.estatesales.net/5166090/1-1/a8d7b643-0056-4e98-bfb2-add665a0dfa9.jpg",
+        "https://picturescdn.estatesales.net/5166090/1-1/f5d26264-05c3-429a-bf4f-69d9882c33bc.jpg",
+        "https://picturescdn.estatesales.net/5166090/1-1/b49b137a-5675-4b45-858a-3de25c3dd7ed.jpg",
+        "https://picturescdn.estatesales.net/5166090/1-1/a8e72d29-1708-4d46-a82e-333671734505.jpg",
+        "https://picturescdn.estatesales.net/5166090/1-1/a66fc2ea-d6d8-4fbc-b1e8-ccdcfdd726fb.jpg",
+        "https://picturescdn.estatesales.net/5166090/1-1/d10419cd-2707-4cf7-9a2e-b6f41ea07fad.jpg",
+        "https://picturescdn.estatesales.net/5166090/1-1/3c24d165-7ae2-419c-9699-ab26ae7b87d0.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "165 photos",
+        "tools, furniture and vinyl & records in the listing"
+      ],
+      "lat": 34.0869477,
+      "lng": -84.3270952,
+      "approximate": false,
+      "photoKeywords": [
+        "bookcase daybed",
+        "slatted bed frame",
+        "dresser",
+        "six-drawer chest",
+        "nightstand",
+        "throw pillows"
+      ],
+      "contentsLine": "A white daybed has shelves of books behind it. A tall six-drawer chest and a low dresser have round knobs.",
+      "photoRead": true
+    },
+    {
       "id": "c143ada0435fe7b6",
-      "title": "EAST COBB - Complete Estate-60’s/70’s Rock Albums-Art-MCM",
+      "title": "Saturday 2nd Day Everything 25% Off-Except Jewelry - Complete Estate-60’s/70’s Rock Albums-Art-MCM",
       "company": "Sandy B King A Division Of Fit For A Queen Antiques",
       "streetAddress": "994 Soaring Way NE",
       "city": "Marietta",
@@ -681,6 +676,7 @@
       ],
       "categories": [
         "vinyl & records",
+        "jewelry",
         "art"
       ],
       "contactPhone": "(404) 272-6610",
@@ -722,6 +718,77 @@
       "lat": 33.973393,
       "lng": -84.510003,
       "approximate": false
+    },
+    {
+      "id": "0382b9e09b8a6751",
+      "title": "Bedroom Sets, Leather Couch, MCM, French Pieces and More in Sandy Springs",
+      "company": "Dunwoody Estate Treasures",
+      "streetAddress": null,
+      "city": "Sandy Springs",
+      "state": "GA",
+      "zip": "30328",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "11:15",
+          "end": "17:45"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "10:30",
+          "end": "17:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "10:00",
+          "end": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Atlanta/30328/5136282"
+        }
+      ],
+      "categories": [
+        "furniture"
+      ],
+      "contactPhone": "7706095146",
+      "contactUrl": "Https://www.dunwoodyestatetreasures.com ",
+      "photoCount": 65,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5136282/1-1/7d697398-f286-4494-b525-003c81fa2086.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/eb8e1384-3515-4695-864f-fe5029439e06.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/c92be611-2802-4cc5-9016-2303d2a65771.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/50e18e82-390e-466c-bf06-b21aef3530c5.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/f5b36b92-181f-424a-99a7-d3cdfa1f785c.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/af171c4b-078c-4c34-92aa-e36a86e12405.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/ab13de86-eaa1-42fe-af2b-5d5556b6d265.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/bdd9ed3f-cd6e-475d-88fd-0c58cee636e0.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/c8449fd6-dc64-4d7d-bff0-7bbddb3d490b.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/a8fe1a95-8b11-459a-bba1-5fdeae927f9d.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/da0df414-46cb-4f3f-8093-9790db31c7d3.jpg",
+        "https://picturescdn.estatesales.net/5136282/1-1/6e68fcde-4c05-4cc7-9f3d-2c06ea3411f9.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "65 photos",
+        "furniture and electronics in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "electronics",
+        "crystal",
+        "mid-century",
+        "silver",
+        "patio furniture"
+      ],
+      "contentsLine": "Furniture, electronics, crystal, mid-century and silver.",
+      "lat": 33.9332303,
+      "lng": -84.3827283,
+      "approximate": true
     },
     {
       "id": "af319494cbb49347",
@@ -783,77 +850,6 @@
       ],
       "contentsLine": "Collectibles include a No. 3 Oreo model car, boxed Rachel and Phoebe pins, and a Mickey Mouse pocket watch.",
       "photoRead": true
-    },
-    {
-      "id": "0382b9e09b8a6751",
-      "title": "Bob Timberlake Bedroom Sets, Leather Couch, French Pieces and More in Sandy Springs",
-      "company": "Dunwoody Estate Treasures",
-      "streetAddress": null,
-      "city": "Sandy Springs",
-      "state": "GA",
-      "zip": "30328",
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "11:15",
-          "end": "17:45"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "10:30",
-          "end": "17:00"
-        },
-        {
-          "date": "2026-11-29",
-          "start": "10:00",
-          "end": "17:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Atlanta/30328/5136282"
-        }
-      ],
-      "categories": [
-        "furniture"
-      ],
-      "contactPhone": "7706095146",
-      "contactUrl": "Https://www.dunwoodyestatetreasures.com ",
-      "photoCount": 64,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5136282/1-1/eb8e1384-3515-4695-864f-fe5029439e06.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/d479e326-d6ef-4dd1-af81-fa66430ce585.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/c92be611-2802-4cc5-9016-2303d2a65771.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/50e18e82-390e-466c-bf06-b21aef3530c5.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/f5b36b92-181f-424a-99a7-d3cdfa1f785c.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/af171c4b-078c-4c34-92aa-e36a86e12405.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/ab13de86-eaa1-42fe-af2b-5d5556b6d265.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/bdd9ed3f-cd6e-475d-88fd-0c58cee636e0.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/c8449fd6-dc64-4d7d-bff0-7bbddb3d490b.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/a8fe1a95-8b11-459a-bba1-5fdeae927f9d.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/da0df414-46cb-4f3f-8093-9790db31c7d3.jpg",
-        "https://picturescdn.estatesales.net/5136282/1-1/6e68fcde-4c05-4cc7-9f3d-2c06ea3411f9.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "64 photos",
-        "furniture and electronics in the listing",
-        "runs 3 days"
-      ],
-      "photoKeywords": [
-        "furniture",
-        "electronics",
-        "crystal",
-        "mid-century",
-        "silver",
-        "patio furniture"
-      ],
-      "contentsLine": "Furniture, electronics, crystal, mid-century and silver.",
-      "lat": 33.9332303,
-      "lng": -84.3827283,
-      "approximate": true
     },
     {
       "id": "29346df47288e76a",
@@ -925,7 +921,7 @@
         {
           "date": "2026-11-28",
           "start": "09:00",
-          "end": "15:30"
+          "end": "15:00"
         }
       ],
       "sources": [
@@ -1097,65 +1093,6 @@
       "photoRead": true
     },
     {
-      "id": "ce276e29f90285ec",
-      "title": "FREE - Everything is FREE - All American Home!",
-      "company": "J&C Consignment & Estate Sales",
-      "streetAddress": "165 Monmouth Dr.",
-      "city": "Fayetteville",
-      "state": "GA",
-      "zip": "30214",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-28",
-          "start": "09:00",
-          "end": "11:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/GA/Fayetteville/30214/5169111"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(562) 372-1104",
-      "contactUrl": "https://www.jcconsignestate.com",
-      "photoCount": 61,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5150595/1-1/7a8e4197-8e28-4720-9504-a9032d0e1b9f.jpg",
-        "https://picturescdn.estatesales.net/5150595/1-1/00d72438-340e-469a-b77f-b5cbddd5a155.jpg",
-        "https://picturescdn.estatesales.net/5169111/1-1/1bd83a25-1653-448e-a314-9ddf0e57be38.jpg",
-        "https://picturescdn.estatesales.net/5150595/1-1/8404e4fe-09c1-4f7d-8e59-390eb7fb73d1.jpg",
-        "https://picturescdn.estatesales.net/5169111/1-1/75a32196-ce28-4b61-819d-408f552be09a.jpg",
-        "https://picturescdn.estatesales.net/5169111/1-1/96bc3da9-167d-40c0-80f5-a2bce2f3d05f.jpg",
-        "https://picturescdn.estatesales.net/5150595/1-1/ab8faa5c-4c08-4c77-9138-2b89f9dcb96d.jpg",
-        "https://picturescdn.estatesales.net/5150595/1-1/4633f5ec-931a-4ae2-ba4f-be4775cca5d1.jpg",
-        "https://picturescdn.estatesales.net/5150595/1-1/12bd4b83-58e0-4c5a-b928-cbd2e5815e59.jpg",
-        "https://picturescdn.estatesales.net/5150595/1-1/ab83e9d5-53d7-44eb-bb6a-52fc1947eb94.jpg",
-        "https://picturescdn.estatesales.net/5150595/1-1/d11fbe3b-4e37-40b5-878b-49592e9a5701.jpg",
-        "https://picturescdn.estatesales.net/5150595/1-1/c4e0c674-ef28-40f3-83a5-d7255adda0d3.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "61 photos",
-        "tools, furniture and collectibles in the listing"
-      ],
-      "lat": 33.4523496,
-      "lng": -84.4774683,
-      "approximate": false,
-      "photoKeywords": [
-        "Whirlpool refrigerator",
-        "Holiday Barbie ornament",
-        "Monopoly board game",
-        "jigsaw puzzles",
-        "display cabinet",
-        "knitting books"
-      ],
-      "contentsLine": "A Holiday Barbie ornament box, Monopoly and stacks of jigsaw puzzles appear alongside a Whirlpool refrigerator.",
-      "photoRead": true
-    },
-    {
       "id": "9edf020a15019786",
       "title": "Marietta Time Capsule- Saturday and Sunday!",
       "company": "Professional Estate Sales, LLC",
@@ -1249,7 +1186,7 @@
       "categories": [],
       "contactPhone": "(770) 527-1313",
       "contactUrl": "http://www.unclebucksestatesales.com",
-      "photoCount": 96,
+      "photoCount": 101,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5169405/1-1/cfc82e58-a102-41a5-b679-c5977cf07e07.jpg",
         "https://picturescdn.estatesales.net/5169405/1-1/885da39d-38f2-4e0e-9241-5590bce8ed58.jpg",
@@ -1266,7 +1203,7 @@
       ],
       "digRating": "Worth a Look",
       "ratingReasons": [
-        "96 photos"
+        "101 photos"
       ],
       "lat": 34.0505764,
       "lng": -84.6166562,
@@ -1310,7 +1247,7 @@
       "categories": [],
       "contactPhone": "7276660183",
       "contactUrl": "https://www.estatesales.net/companies/GA/Atlanta/30326/136376",
-      "photoCount": 42,
+      "photoCount": 46,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5168862/1-1/deaa0211-f6b2-456a-b192-a5f2132f175f.jpg",
         "https://picturescdn.estatesales.net/5168862/1-1/74d4cc06-3c0d-4420-94f5-3c3ccdbbdb80.jpg",
@@ -1327,7 +1264,7 @@
       ],
       "digRating": "Worth a Look",
       "ratingReasons": [
-        "42 photos"
+        "46 photos"
       ],
       "photoKeywords": [],
       "lat": 33.9683663,
@@ -1335,7 +1272,7 @@
       "approximate": false
     },
     {
-      "id": "410242c97c81bcd8",
+      "id": "8702397415c040f4",
       "title": "TIME CAPSULE IN MARIETTA!!",
       "company": "B&B Estate Sales and Appraisals",
       "streetAddress": "690 Etowah Dr NE",
@@ -1347,7 +1284,7 @@
         {
           "date": "2026-11-28",
           "start": "10:00",
-          "end": "15:00"
+          "end": "14:30"
         },
         {
           "date": "2026-11-29",
@@ -1358,7 +1295,7 @@
       "sources": [
         {
           "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/ga/marietta-/30060/time-capsule-in-marietta-2474967"
+          "url": "https://estatesales.org/estate-sales/ga/marietta/30060/time-capsule-in-marietta-2474967"
         }
       ],
       "categories": [],
@@ -1813,7 +1750,7 @@
       "categories": [],
       "contactPhone": "(770) 552-1899",
       "contactUrl": "https://estatesales.org/estate-sale-companies/peter-brandi-estate-sales-5830",
-      "photoCount": 271,
+      "photoCount": 338,
       "photoUrls": [
         "https://eso-cdn.tlcdn.workers.dev/s-2475101-jig1rtqb7kyc4a19.webp",
         "https://picturescdn.estatesales.net/5168280/1-1/b1788a4f-1a3a-4004-9047-4bf58ca5615f.jpg",
@@ -1830,7 +1767,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "271 photos",
+        "338 photos",
         "furniture, jewelry and kitchen in the listing",
         "runs 3 days"
       ],
@@ -1871,11 +1808,6 @@
           "date": "2026-12-05",
           "start": "10:00",
           "end": "16:00"
-        },
-        {
-          "date": "2026-12-06",
-          "start": "10:00",
-          "end": "16:00"
         }
       ],
       "sources": [
@@ -1905,7 +1837,7 @@
       "digRating": "Deep Dig",
       "ratingReasons": [
         "153 photos",
-        "runs 4 days"
+        "runs 3 days"
       ],
       "lat": 33.940102,
       "lng": -84.607778,
@@ -2028,7 +1960,7 @@
       "categories": [],
       "contactPhone": "(470) 373-0774",
       "contactUrl": "https://cottco.co/",
-      "photoCount": 497,
+      "photoCount": 622,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5160546/1-1/264117b4-cceb-4636-bcb8-ab5d3d13040b.jpg",
         "https://picturescdn.estatesales.net/5160546/1-1/9450a183-a588-49e5-8b64-3a4826838e83.jpg",
@@ -2045,7 +1977,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "497 photos",
+        "622 photos",
         "runs 3 days"
       ],
       "lat": 33.8147146,
@@ -2163,7 +2095,7 @@
         }
       ],
       "categories": [],
-      "photoCount": 53,
+      "photoCount": 59,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5146413/1-1/884aac7c-3afa-424c-b582-ac915c610c6d.jpg",
         "https://picturescdn.estatesales.net/5146413/1-1/f6bb7529-b272-4829-b0a2-7b4733db4107.jpg",
@@ -2180,7 +2112,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "53 photos",
+        "59 photos",
         "furniture, kitchen and clothing in the listing",
         "runs 3 days"
       ],
@@ -2326,6 +2258,78 @@
       "photoRead": true
     },
     {
+      "id": "0b8df582fd33c5aa",
+      "title": "40 YEAR ATTIC TREASURES COLLECTION",
+      "company": "Happy To Help",
+      "streetAddress": null,
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30328",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "11:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Atlanta/30328/5156988"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(404) 660-5399",
+      "photoCount": 160,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5156988/1-1/2bb264a5-d311-46a5-a8da-c5e351aa9ab8.jpg",
+        "https://picturescdn.estatesales.net/5156988/1-1/32a23747-a7b5-4b25-8521-f6b005eecf65.jpg",
+        "https://picturescdn.estatesales.net/5156988/1-1/47174c66-67b8-4b21-8cfd-dce916b34824.jpg",
+        "https://picturescdn.estatesales.net/5156988/1-1/cce4e986-6eac-4352-9615-f0959998e838.jpg",
+        "https://picturescdn.estatesales.net/5156988/1-1/310af583-5b1d-4702-b87c-73b3cb361895.jpg",
+        "https://picturescdn.estatesales.net/5156988/1-1/95b73576-0e02-4040-851d-34733d056ea0.jpg",
+        "https://picturescdn.estatesales.net/5156988/1-1/24bef7e1-eb41-447e-9c78-68a18b64d176.jpg",
+        "https://picturescdn.estatesales.net/5156988/1-1/6899d42c-8282-4dd6-ad7f-513dc4b99fc4.jpg",
+        "https://picturescdn.estatesales.net/5156988/1-1/37764a99-7be1-464b-a0ff-27c8f0dea737.jpg",
+        "https://picturescdn.estatesales.net/5156988/1-1/2c02a7ba-7297-4a03-b822-7b2ad3bd6fbf.jpg",
+        "https://picturescdn.estatesales.net/5156988/1-1/98399acd-ab25-4e2b-96e8-eb8121a7b1de.jpg",
+        "https://picturescdn.estatesales.net/5156988/1-1/45db0da8-7472-4d0d-aeeb-e69ff4fbf560.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "160 photos",
+        "furniture, jewelry and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "books",
+        "art",
+        "toys & games",
+        "crystal",
+        "lamps"
+      ],
+      "contentsLine": "Furniture, jewelry, collectibles, kitchen and clothing.",
+      "lat": 33.9332303,
+      "lng": -84.3827283,
+      "approximate": true
+    },
+    {
       "id": "f673574549115166",
       "title": "Chastain Park Lake Forrest",
       "company": "Estate Sales By Ventes",
@@ -2360,7 +2364,7 @@
       "categories": [],
       "contactPhone": "(404) 849-3700",
       "contactUrl": "http://www.EstateSalesbyVENTES.com",
-      "photoCount": 320,
+      "photoCount": 343,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5150223/1-1/6f95e811-6c6c-4118-a7cd-31e46175bbbc.jpg",
         "https://picturescdn.estatesales.net/5150223/1-1/aa6b9c5a-1926-4a69-9f66-8bd2563f67d2.jpg",
@@ -2377,8 +2381,8 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "320 photos",
-        "tools, furniture and collectibles in the listing",
+        "343 photos",
+        "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
       "lat": 33.8787605,
@@ -3189,6 +3193,394 @@
       "lat": 33.955369,
       "lng": -84.430908,
       "approximate": false
+    },
+    {
+      "id": "786547c93b912c22",
+      "title": "A Single Man. Decorators Estate in Dunwoody",
+      "company": "Rhett's Estate Sales",
+      "streetAddress": null,
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30350",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "09:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-13",
+          "start": "09:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Atlanta/30350/5171064"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(678) 900-8443",
+      "contactUrl": "https://www.estatesales.net/companies/GA/Atlanta/30318/133754",
+      "photoCount": 67,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5171064/1-1/ab37d3ad-3a6d-4c35-8e0d-8be637cd51da.jpg",
+        "https://picturescdn.estatesales.net/5171064/1-1/53fd45e2-19e9-49b6-ae59-2ad4bd143fe8.jpg",
+        "https://picturescdn.estatesales.net/5171064/1-1/80335144-dbed-468f-beb0-4769ec408187.jpg",
+        "https://picturescdn.estatesales.net/5171064/1-1/2bd239d7-8bc7-4f8d-aac0-79d1b555f310.jpg",
+        "https://picturescdn.estatesales.net/5171064/1-1/c733ad0b-b292-446a-8118-b6812fa30c35.jpg",
+        "https://picturescdn.estatesales.net/5171064/1-1/b975fe03-647f-4333-92c1-a2c96abb52ad.jpg",
+        "https://picturescdn.estatesales.net/5171064/1-1/d3e92e82-1c53-411f-a24a-fc1882919e5c.jpg",
+        "https://picturescdn.estatesales.net/5171064/1-1/9ea77777-32e9-4985-84bc-8a591b0500a3.jpg",
+        "https://picturescdn.estatesales.net/5171064/1-1/88c474ee-b717-45c4-a158-7f516a09e34e.jpg",
+        "https://picturescdn.estatesales.net/5171064/1-1/4bb651d1-141d-47f8-9dbc-8b7d72775ea3.jpg",
+        "https://picturescdn.estatesales.net/5171064/1-1/51f10c9e-6ce2-4d3f-8e37-daf88a7fbf9f.jpg",
+        "https://picturescdn.estatesales.net/5171064/1-1/68cbfdc2-2004-473f-bf6e-d3d98497e015.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "67 photos",
+        "furniture, clothing and art in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "clothing",
+        "art",
+        "crystal",
+        "rugs",
+        "patio furniture"
+      ],
+      "contentsLine": "Furniture, clothing, art, crystal and rugs.",
+      "lat": 33.9762223,
+      "lng": -84.3232906,
+      "approximate": true
+    },
+    {
+      "id": "bf0122139cb3da39",
+      "title": "Designer Johns Creek Estate Sale",
+      "company": "Georgia Bean Estate Sales",
+      "streetAddress": null,
+      "city": "Johns Creek",
+      "state": "GA",
+      "zip": "30022",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "10:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-13",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Alpharetta/30022/5172342"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(404) 630-0774",
+      "contactUrl": "https://georgiabeanes.com",
+      "photoCount": 16,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172342/1-1/3bdee8af-9b12-4a0f-861a-64abf8f59775.jpg",
+        "https://picturescdn.estatesales.net/5172342/1-1/0b43a2ee-b149-471d-b972-a32bc9d94265.jpg",
+        "https://picturescdn.estatesales.net/5172342/1-1/a47c8ad7-72eb-4b59-84af-a6c61f6b1dc4.jpg",
+        "https://picturescdn.estatesales.net/5172342/1-1/5a793676-436d-4fcd-b3d0-2c5a3fbbece0.jpg",
+        "https://picturescdn.estatesales.net/5172342/1-1/639a0138-6767-4a31-99ad-56cb058baf02.jpg",
+        "https://picturescdn.estatesales.net/5172342/1-1/e4bb7d13-86fc-4563-94b3-a9e5ef885025.jpg",
+        "https://picturescdn.estatesales.net/5172342/1-1/86ddbf36-21e7-4857-9f5c-ca8ff3b53ada.jpg",
+        "https://picturescdn.estatesales.net/5172342/1-1/67b7e786-a84f-46fa-b629-2b08f41d4eaf.jpg",
+        "https://picturescdn.estatesales.net/5172342/1-1/f60d6e08-edcc-41a8-aa76-68b68439c189.jpg",
+        "https://picturescdn.estatesales.net/5172342/1-1/dfdd7ace-591a-46b2-885c-915ece888bfd.jpg",
+        "https://picturescdn.estatesales.net/5172342/1-1/93281104-1563-45df-8646-e762324c5055.jpg",
+        "https://picturescdn.estatesales.net/5172342/1-1/beed0a3b-e212-4724-9187-9026662539c1.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "16 photos",
+        "runs 3 days"
+      ],
+      "photoKeywords": [],
+      "lat": 34.0168061,
+      "lng": -84.2570891,
+      "approximate": true
+    },
+    {
+      "id": "8d54f40e3c82961f",
+      "title": "Donna Davis LLC - Estate of Author Margaret Bowles, Orginal paintings,furniture",
+      "company": "Donna Davis Estate Sales LLC, Downsizing and Estate Appraisal Services",
+      "streetAddress": null,
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30350",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-13",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Atlanta/30350/5172864"
+        }
+      ],
+      "categories": [
+        "furniture",
+        "art"
+      ],
+      "contactPhone": "(770) 235-7638",
+      "contactUrl": "http://www.donnadavisestatesales.com",
+      "photoCount": 123,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5172864/1-1/5dc78e79-ff73-4eb1-804a-3baa1d8a6197.jpg",
+        "https://picturescdn.estatesales.net/5172864/1-1/17c06610-52bb-4692-ac37-2f2dd09a9880.jpg",
+        "https://picturescdn.estatesales.net/5172864/1-1/bff73d6e-7781-4d7a-ad3c-8b88802cea1b.jpg",
+        "https://picturescdn.estatesales.net/5172864/1-1/eebcc6d3-7e79-45fe-b044-23249f16b24a.jpg",
+        "https://picturescdn.estatesales.net/5172864/1-1/a623ba17-2144-43c0-b403-6c8f6640f2c1.jpg",
+        "https://picturescdn.estatesales.net/5172864/1-1/daafce72-ed21-40ed-8786-ff7aee26c9bc.jpg",
+        "https://picturescdn.estatesales.net/5172864/1-1/c1a40455-3ea8-409f-8acb-ca7e51a08199.jpg",
+        "https://picturescdn.estatesales.net/5172864/1-1/6632edec-fce7-497c-b639-a1fd820f97bd.jpg",
+        "https://picturescdn.estatesales.net/5172864/1-1/029c10e9-327e-4eb9-bf83-06b60e689181.jpg",
+        "https://picturescdn.estatesales.net/5172864/1-1/45c4d9b6-d490-4394-876a-b7992c6571fe.jpg",
+        "https://picturescdn.estatesales.net/5172864/1-1/2074f121-630e-40ff-ba53-b0ed2ddbfe75.jpg",
+        "https://picturescdn.estatesales.net/5172864/1-1/060eba47-0114-404b-a859-9716bc49f8ef.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "123 photos",
+        "furniture, clothing and books in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "clothing",
+        "books",
+        "art",
+        "toys & games",
+        "antiques",
+        "rugs",
+        "lamps",
+        "mirrors",
+        "dolls"
+      ],
+      "contentsLine": "Furniture, clothing, books, art and toys & games.",
+      "lat": 33.9762223,
+      "lng": -84.3232906,
+      "approximate": true
+    },
+    {
+      "id": "0391280e4ffc6da9",
+      "title": "Vintage appliances, gadgets and tools - Home liquidation of Tinkerer Extraordinaire",
+      "company": null,
+      "streetAddress": null,
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30316",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-13",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/ga/atlanta/30316/vintage-appliances-gadgets-and-tools-2470658"
+        }
+      ],
+      "categories": [
+        "tools"
+      ],
+      "photoCount": 1,
+      "photoUrls": [
+        "https://eso-cdn.tlcdn.workers.dev/s-2470658-8326xgybg0bw106n.webp"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "tools, furniture and kitchen in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "kitchen",
+        "electronics"
+      ],
+      "contentsLine": "Tools, furniture, kitchen and electronics.",
+      "lat": 33.7379309,
+      "lng": -84.3510342,
+      "approximate": true
+    },
+    {
+      "id": "c621b860f5d83996",
+      "title": "Vintage appliances, gadgets and tools - Home liquidation of Tinkerer Extraordinaire",
+      "company": null,
+      "streetAddress": null,
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30316",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-13",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Atlanta/30316/5136564"
+        }
+      ],
+      "categories": [
+        "tools"
+      ],
+      "photoCount": 47,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5136564/1-1/24cf64d9-1940-4031-95e3-67d4036039e5.jpg",
+        "https://picturescdn.estatesales.net/5136564/1-1/83a0f9b4-0ea5-4bc7-80ea-d12969a33bfd.jpg",
+        "https://picturescdn.estatesales.net/5136564/1-1/389862aa-5a0f-40f0-99a0-5cd5d734ce99.jpg",
+        "https://picturescdn.estatesales.net/5136564/1-1/a686ebff-c64e-4541-bf3d-8c9e6cfb6df4.jpg",
+        "https://picturescdn.estatesales.net/5136564/1-1/afa49785-514d-4414-ab44-193b0242c1e8.jpg",
+        "https://picturescdn.estatesales.net/5136564/1-1/2adc6eb0-5eb8-4220-9268-50fcfb417144.jpg",
+        "https://picturescdn.estatesales.net/5136564/1-1/8eea4ea9-3fd7-476e-9b08-4ea6a5fd1bee.jpg",
+        "https://picturescdn.estatesales.net/5136564/1-1/98a9fc9d-0cef-4029-b585-7c4e2b88f072.jpg",
+        "https://picturescdn.estatesales.net/5136564/1-1/918fa163-a7eb-4dae-85d0-9313cb0559f7.jpg",
+        "https://picturescdn.estatesales.net/5136564/1-1/62d35e94-a305-4890-b78d-ec534a0f2519.jpg",
+        "https://picturescdn.estatesales.net/5136564/1-1/f928313a-aa04-4887-b2d9-acd815d4cbf7.jpg",
+        "https://picturescdn.estatesales.net/5136564/1-1/ba2d9cf0-eca3-495e-8034-cde21e888a81.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "47 photos",
+        "tools, furniture and vinyl & records in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "books",
+        "electronics",
+        "cameras"
+      ],
+      "contentsLine": "Tools, furniture, vinyl & records, collectibles and vehicles.",
+      "lat": 33.7379309,
+      "lng": -84.3510342,
+      "approximate": true
+    },
+    {
+      "id": "83c7cb241d4df837",
+      "title": "*MUST SEE* PACKED 1970s Time Capsule, Art & Chinoiserie in Buckhead",
+      "company": "Certified Estate Sales",
+      "streetAddress": null,
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30327",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "13:00",
+          "end": "16:30"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "10:00",
+          "end": "16:00"
+        },
+        {
+          "date": "2026-12-13",
+          "start": "10:00",
+          "end": "16:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/GA/Atlanta/30327/5169924"
+        }
+      ],
+      "categories": [
+        "art"
+      ],
+      "contactUrl": "http://www.certifiedestatesales.com",
+      "photoCount": 0,
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "furniture, vinyl & records and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "vinyl & records",
+        "collectibles",
+        "clothing",
+        "art",
+        "mid-century",
+        "pianos"
+      ],
+      "contentsLine": "Furniture, vinyl & records, collectibles, clothing and art.",
+      "lat": 33.8644888,
+      "lng": -84.4185391,
+      "approximate": true
     }
   ]
 }

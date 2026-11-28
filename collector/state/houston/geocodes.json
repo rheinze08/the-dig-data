@@ -7,6 +7,11 @@
   "city:friensdwood": {
     "retryAfter": 1795780880574
   },
+  "city:houston": {
+    "lat": 29.7589382,
+    "lng": -95.3676974,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "nominatim:street:107 clearview ave near fm518:friendswood": {
     "retryAfter": 1795829179204
   },
@@ -18,6 +23,9 @@
   },
   "nominatim:street:14435 hwy 6:77517": {
     "retryAfter": 1796327786092
+  },
+  "nominatim:street:2014 engelmohr:77054": {
+    "retryAfter": 1796495858916
   },
   "nominatim:street:2505 shadybend dr:77581": {
     "retryAfter": 1795734173387
@@ -48,6 +56,9 @@
   },
   "nominatim:street:806 d anders ln:77565": {
     "retryAfter": 1796327785190
+  },
+  "nominatim:street:901 kipling st near roseland:houston": {
+    "retryAfter": 1796495859824
   },
   "nominatim:street:904 vivian st:77565": {
     "retryAfter": 1795829177440
@@ -107,6 +118,11 @@
     "lat": 29.681483,
     "lng": -95.4012959,
     "basis": "OpenStreetMap Nominatim"
+  },
+  "street:2014 engelmohr:77054": {
+    "lat": 29.681314,
+    "lng": -95.400806,
+    "basis": "Public listing map: EstateSales.net"
   },
   "street:212 timber lake dr:76092": {
     "lat": 32.939229,
@@ -303,6 +319,11 @@
     "lng": -95.4231826,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:77009": {
+    "lat": 29.7944547,
+    "lng": -95.3711337,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:77018": {
     "lat": 29.8206419,
     "lng": -95.4238762,
@@ -446,6 +467,11 @@
   "zip:77581": {
     "lat": 29.5605101,
     "lng": -95.2650553,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:77587": {
+    "lat": 29.6625921,
+    "lng": -95.2313034,
     "basis": "OpenStreetMap Nominatim"
   }
 }

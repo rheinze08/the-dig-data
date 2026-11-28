@@ -62,10 +62,10 @@
     "retryAfter": 1795828856681
   },
   "nominatim:street:351 culebra:78201": {
-    "retryAfter": 1795828832106
+    "retryAfter": 1796496165467
   },
   "nominatim:street:3903 eisenhauer:78218": {
-    "retryAfter": 1795828833816
+    "retryAfter": 1796496167711
   },
   "nominatim:street:410 e bandera:78006": {
     "retryAfter": 1796221435005
@@ -200,6 +200,11 @@
     "lng": -98.3897374,
     "basis": "OpenStreetMap Nominatim"
   },
+  "street:3355 cadbury dr:78247": {
+    "lat": 29.5746802,
+    "lng": -98.4232606,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:342 cable dr:78227": {
     "lat": 29.401803,
     "lng": -98.6548287,
@@ -293,6 +298,11 @@
   "zip:78006": {
     "lat": 29.8012929,
     "lng": -98.7037755,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78013": {
+    "lat": 29.973022,
+    "lng": -98.8954011,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:78015": {
@@ -400,14 +410,29 @@
     "lng": -98.6155369,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:78254": {
+    "lat": 29.5282282,
+    "lng": -98.6947844,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:78256": {
     "lat": 29.6116987,
     "lng": -98.6190257,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:78259": {
+    "lat": 29.6325173,
+    "lng": -98.4400121,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:78260": {
     "lat": 29.717573,
     "lng": -98.4637654,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78261": {
+    "lat": 29.6551952,
+    "lng": -98.3811908,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:78266": {

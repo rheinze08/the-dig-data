@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-27",
-  "collectedAt": "2026-11-27T19:54:26.928Z",
+  "asOf": "2026-11-28",
+  "collectedAt": "2026-11-28T18:47:21.773Z",
   "window": {
-    "start": "2026-11-27",
-    "end": "2026-12-10",
+    "start": "2026-11-28",
+    "end": "2026-12-11",
     "timeZone": "America/Denver"
   },
   "area": {
@@ -14,21 +14,21 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 33/33 local candidate details.",
-      "candidates": 10,
-      "included": 10
+      "detail": "Read the public sale sitemap. Checked 39/39 local candidate details.",
+      "candidates": 14,
+      "included": 14
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 16 Denver directory cards over 1 pages. Checked 7/7 in-person local candidate details.",
+      "detail": "Read 15 Denver directory cards over 1 pages. Checked 7/7 in-person local candidate details.",
       "candidates": 7,
       "included": 7
     },
     "Craigslist Denver": {
       "status": "reached",
-      "detail": "15 directory listings discovered; 4 in-window estate listings before radius filtering",
-      "candidates": 4,
-      "included": 4
+      "detail": "15 directory listings discovered; 6 in-window estate listings before radius filtering",
+      "candidates": 6,
+      "included": 6
     },
     "GSALR.com": {
       "status": "blocked",
@@ -38,72 +38,16 @@
     }
   },
   "counts": {
-    "candidates": 21,
-    "listings": 21,
-    "sales": 16,
-    "duplicates": 5,
+    "candidates": 27,
+    "listings": 27,
+    "sales": 21,
+    "duplicates": 6,
     "outsideRadius": 0,
     "unlocatedListings": 0
   },
   "unlocated": [],
   "geocodingNotes": [],
   "sales": [
-    {
-      "id": "c9b73de405aafe46",
-      "title": "Estate Sale In Thornton",
-      "company": null,
-      "streetAddress": null,
-      "city": "Thornton",
-      "state": "CO",
-      "zip": null,
-      "addressHidden": true,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "09:00",
-          "end": null
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist Denver",
-          "url": "https://www.craigslist.org/view/d/denver-estate-sale-in-thornton/mRDfVw5acRumtXaZfgZxdY"
-        }
-      ],
-      "categories": [],
-      "photoCount": 24,
-      "photoUrls": [
-        "https://images.craigslist.org/00H0H_4k0LTkMSgjo_0x20oM_600x450.jpg",
-        "https://images.craigslist.org/00505_gA3GaP4dIMf_0lM0t2_600x450.jpg",
-        "https://images.craigslist.org/00z0z_5S7Xmk4qW92_0lM0t2_600x450.jpg",
-        "https://images.craigslist.org/00L0L_ky1WzwDmI3W_0lM0t2_600x450.jpg",
-        "https://images.craigslist.org/00f0f_j7fnuZZkiNL_0lM0t2_600x450.jpg",
-        "https://images.craigslist.org/01313_afiLNCYiAoS_0lM0t2_600x450.jpg",
-        "https://images.craigslist.org/00j0j_bkHfWXtL04_0lM0t2_600x450.jpg",
-        "https://images.craigslist.org/00C0C_7tobL3bIRmQ_0x20oM_600x450.jpg",
-        "https://images.craigslist.org/00r0r_dZXiIPBJzHG_0lM0t2_600x450.jpg",
-        "https://images.craigslist.org/00S0S_jsktlfkB3_0x20oM_600x450.jpg",
-        "https://images.craigslist.org/00707_aTGGkl5cQq1_0x20oM_600x450.jpg",
-        "https://images.craigslist.org/00606_52hu1KRhLEs_0lM0t2_600x450.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "24 photos",
-        "tools, furniture and collectibles in the listing"
-      ],
-      "lat": 39.8695516,
-      "lng": -104.985181,
-      "approximate": true,
-      "photoKeywords": [
-        "three-wheel motorcycle",
-        "patchwork jacket",
-        "model airplanes",
-        "cowboy boots",
-        "sewing magazines"
-      ],
-      "contentsLine": "A black motorcycle has two rear wheels. Other photos show a patchwork jacket, model planes and stitched cowboy boots.",
-      "photoRead": true
-    },
     {
       "id": "97c9696a9704a971",
       "title": "Garage / Estate sale. Lots to see",
@@ -433,52 +377,6 @@
       "photoRead": true
     },
     {
-      "id": "0996b11d8b268783",
-      "title": "THE BIGGEST SALE OF THE YEAR IS HERE — AND IT'S ONLY ONE DAY.",
-      "company": "Cobblestone Too",
-      "streetAddress": "1862 Wadsworth Blvd",
-      "city": "Lakewood",
-      "state": "CO",
-      "zip": "80214",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "10:00",
-          "end": "18:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.org",
-          "url": "https://estatesales.org/estate-sales/co/lakewood/80214/the-biggest-sale-of-the-2475181"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(303) 274-0235",
-      "contactUrl": "https://estatesales.org/estate-sale-companies/cobblestone-too-9907",
-      "photoCount": 1,
-      "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2475181-9sd6hnt0pymknjsy.webp"
-      ],
-      "digRating": "Slim Pickings",
-      "ratingReasons": [
-        "only 1 photo",
-        "few details in the listing"
-      ],
-      "lat": 39.7463655,
-      "lng": -105.081267,
-      "approximate": false,
-      "photoKeywords": [
-        "pottery vases",
-        "glazed bowls",
-        "handled cups",
-        "shallow dishes"
-      ],
-      "contentsLine": "Shelves hold narrow-necked vases, small handled cups, shallow dishes and bowls in blue, green and brown glazes.",
-      "photoRead": true
-    },
-    {
       "id": "c4a96f34ec02f0eb",
       "title": "Connie's Antiques & Treasures-In Store Shopping of Vintage, Antiques and Collectibles",
       "company": "Connie's Antiques & Treasures",
@@ -541,11 +439,11 @@
       "id": "9c6ecef6a9af9c74",
       "title": "Nostalgic November Discount Sale",
       "company": "Caring Transitions Of North Aurora",
-      "streetAddress": null,
+      "streetAddress": "2360 Dayton St.",
       "city": "Aurora",
       "state": "CO",
       "zip": "80010",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-28",
@@ -591,9 +489,9 @@
         "100 photos",
         "tools, furniture and books in the listing"
       ],
-      "lat": 39.7393612,
-      "lng": -104.8648676,
-      "approximate": true,
+      "lat": 39.7521388,
+      "lng": -104.8749812,
+      "approximate": false,
       "photoKeywords": [
         "Heroscape game sets",
         "miniature terrain",
@@ -605,6 +503,63 @@
       ],
       "contentsLine": "Boxed Heroscape sets and miniature terrain share a table. Other photos show four-drawer chests, jeans and jackets.",
       "photoRead": true
+    },
+    {
+      "id": "2aae870591f363ce",
+      "title": "Vintage Art & Artifacts & Art Books Estate Sale",
+      "company": null,
+      "streetAddress": "3211 Walnut Street near 32nd Street",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "1;00 PM",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Denver",
+          "url": "https://www.craigslist.org/view/d/boulder-vintage-art-artifacts-art-books/99TMQYb7x39DQyRR6Mh79E"
+        }
+      ],
+      "categories": [
+        "books",
+        "art"
+      ],
+      "photoCount": 15,
+      "photoUrls": [
+        "https://images.craigslist.org/00z0z_2xnK7lbF82t_0j10f4_600x450.jpg",
+        "https://images.craigslist.org/00o0o_faObGcfbjRD_0jI0d9_600x450.jpg",
+        "https://images.craigslist.org/00q0q_jyd1NJOHQQ7_0jI0fC_600x450.jpg",
+        "https://images.craigslist.org/00E0E_cMCBRQK9Zr2_0ak07K_600x450.jpg",
+        "https://images.craigslist.org/00b0b_2c9QV3d3tMp_0jm0jm_600x450.jpg",
+        "https://images.craigslist.org/01616_119WvR28eZW_0jI0dn_600x450.jpg",
+        "https://images.craigslist.org/00808_alZXll3Dt7K_0mc0t2_600x450.jpg",
+        "https://images.craigslist.org/00K0K_4hp8MJ7Xjrv_0jI0d9_600x450.jpg",
+        "https://images.craigslist.org/01010_hTRtR8MBX2k_0vC0t2_600x450.jpg",
+        "https://images.craigslist.org/00l0l_ctwbvZFHkML_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00E0E_2ACCCYMEV2F_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/01616_lL5bXV8AkL_0jI0eN_600x450.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "15 photos",
+        "jewelry, collectibles and books in the listing"
+      ],
+      "photoKeywords": [
+        "jewelry",
+        "collectibles",
+        "books",
+        "art"
+      ],
+      "contentsLine": "Jewelry, collectibles, books and art.",
+      "lat": 40.0149856,
+      "lng": -105.270545,
+      "approximate": true
     },
     {
       "id": "83dfa1107bb6d4f9",
@@ -640,6 +595,179 @@
       "contentsLine": "Christmas decor.",
       "lat": 39.6153639,
       "lng": -105.0776216,
+      "approximate": true
+    },
+    {
+      "id": "dcf428626e992c21",
+      "title": "Estate Sale today til 3",
+      "company": null,
+      "streetAddress": null,
+      "city": "Broomfield",
+      "state": "CO",
+      "zip": null,
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "9 (AM/PM unspecified)",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Denver",
+          "url": "https://www.craigslist.org/view/d/broomfield-estate-sale-today-til/xtTqSxaGeJcztY1tpoeKf5"
+        }
+      ],
+      "categories": [],
+      "photoCount": 24,
+      "photoUrls": [
+        "https://images.craigslist.org/00P0P_kpkjCYSfAPD_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/01616_1ZrhT0BE0po_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00505_is1ceeNXR0i_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00U0U_cX81HJQWPES_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00p0p_xaKqJLhLfQ_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00n0n_fq9kcBSgeBN_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00s0s_1wIE7IvQDDl_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/01616_dsx9PLqNlRp_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00l0l_dpIYcdQ9xId_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00i0i_blt4cbwQ648_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00d0d_6khgbWinjJb_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00I0I_3PRqqwrFScX_0t20CI_600x450.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "24 photos"
+      ],
+      "photoKeywords": [],
+      "lat": 39.9403995,
+      "lng": -105.05208,
+      "approximate": true
+    },
+    {
+      "id": "6a615bc00645118a",
+      "title": "Affordable Estate sale",
+      "company": null,
+      "streetAddress": null,
+      "city": "Broomfield",
+      "state": "CO",
+      "zip": null,
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "9:30 (AM/PM unspecified)",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Denver",
+          "url": "https://www.craigslist.org/view/d/broomfield-affordable-estate-sale/swvj37sTapicyvVNAZknje"
+        }
+      ],
+      "categories": [],
+      "photoCount": 24,
+      "photoUrls": [
+        "https://images.craigslist.org/00Y0Y_b55WgKr25cy_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00y0y_7W0S8jseNCB_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00F0F_4QsjYVqydLF_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00I0I_al3cjKtCdOV_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00404_jVjIN5cHBgs_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00707_chWkNMVRmng_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00F0F_fXfCvo1MxDm_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00A0A_hHOVGnVfLlv_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/01212_1FufZFwxbwu_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00S0S_kpAb06oduZO_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00606_hzSDxxgn9nB_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00f0f_9vd25eUtSO0_0t20CI_600x450.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "24 photos"
+      ],
+      "photoKeywords": [],
+      "lat": 39.9403995,
+      "lng": -105.05208,
+      "approximate": true
+    },
+    {
+      "id": "86186f34d2f94748",
+      "title": "Denver Hybrid Estate Sale | Antique & Mid-Century Furniture, Stoneware & More",
+      "company": "Grasons Of Southwest Denver, CO",
+      "streetAddress": null,
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80224",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.org",
+          "url": "https://estatesales.org/estate-sales/co/denver/80224/denver-hybrid-estate-sale-antique-2475688"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Denver/80224/5174046"
+        }
+      ],
+      "categories": [
+        "furniture"
+      ],
+      "contactPhone": "(303) 250-0000",
+      "contactUrl": "http://www.grasons.com",
+      "photoCount": 39,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5174046/1-1/8f7ebf41-9366-4532-a4fa-b3d5cc4d0232.jpg",
+        "https://picturescdn.estatesales.net/5174046/1-1/3cc738c2-6629-47a0-a127-840532a999a3.jpg",
+        "https://picturescdn.estatesales.net/5174046/1-1/8041e5ff-b863-41a4-a58f-ead5517408b1.jpg",
+        "https://picturescdn.estatesales.net/5174046/1-1/9f7dd0c6-2378-4d95-910b-c1cd3efd4bd8.jpg",
+        "https://picturescdn.estatesales.net/5174046/1-1/eec233d7-4ad1-46a5-8ee9-1c20b1ed5795.jpg",
+        "https://picturescdn.estatesales.net/5174046/1-1/0f35ef3a-8091-418c-9198-7048b3925ad0.jpg",
+        "https://picturescdn.estatesales.net/5174046/1-1/e51e37e4-e2b2-4000-86cb-090f3575603b.jpg",
+        "https://picturescdn.estatesales.net/5174046/1-1/2642e6b7-07b0-4a08-b052-fd5edcf6f61d.jpg",
+        "https://picturescdn.estatesales.net/5174046/1-1/910faf5d-2a89-470f-b660-e8371e3b1ba4.jpg",
+        "https://picturescdn.estatesales.net/5174046/1-1/4516668e-cf47-40b2-97a9-9614aa0f1e3c.jpg",
+        "https://picturescdn.estatesales.net/5174046/1-1/0e0b86ff-dda4-4029-a3aa-04e40a56d853.jpg",
+        "https://picturescdn.estatesales.net/5174046/1-1/7a661082-b981-4b6e-8860-5a0c2c9bfa94.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "39 photos",
+        "furniture, jewelry and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "art",
+        "toys & games",
+        "antiques",
+        "mid-century",
+        "lamps"
+      ],
+      "contentsLine": "Furniture, jewelry, collectibles, kitchen and clothing.",
+      "lat": 39.6955662,
+      "lng": -104.9136381,
       "approximate": true
     },
     {
@@ -971,7 +1099,7 @@
       ],
       "contactPhone": "(720) 507-7587",
       "contactUrl": "https://centennialestatesales.com",
-      "photoCount": 105,
+      "photoCount": 139,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5173212/1-1/09f8fe17-74e9-4ad4-8f57-c130536d806c.jpg",
         "https://picturescdn.estatesales.net/5173212/1-1/4ccf5e75-302e-4edf-8455-70d1562b3a69.jpg",
@@ -988,7 +1116,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "105 photos",
+        "139 photos",
         "tools, furniture and kitchen in the listing",
         "runs 3 days"
       ],
@@ -1070,6 +1198,196 @@
       ],
       "contentsLine": "Colored stemware fills a shelf. A floral tureen, glass bowls and candelabra sit beneath a framed picture of poppies.",
       "photoRead": true
+    },
+    {
+      "id": "efb7ef716f2d19f0",
+      "title": "Holiday Treasures & Fabulous Finds – A Five-Consignor Estate Sale in One Location!",
+      "company": "Clearpath Estate Sales, LLC",
+      "streetAddress": null,
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80222",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "start": "09:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-06",
+          "start": "09:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Denver/80222/5174253"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(303) 321-2884",
+      "contactUrl": "https://www.clearpathestatesales.com/",
+      "photoCount": 6,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5174253/1-1/0da76175-297b-4211-b7ee-361ea238a4d2.jpg",
+        "https://picturescdn.estatesales.net/5174253/1-1/b5c8df40-3db5-422c-86a1-ab52cc02a323.jpg",
+        "https://picturescdn.estatesales.net/5174253/1-1/4692af42-9440-448b-b4d2-67d8f3ce4079.jpg",
+        "https://picturescdn.estatesales.net/5174253/1-1/16aa4ee4-1bf9-44b5-bb6f-7403f6349464.jpg",
+        "https://picturescdn.estatesales.net/5174253/1-1/26fdb790-1bba-4072-bf80-38f18f66f6f1.jpg",
+        "https://picturescdn.estatesales.net/5174253/1-1/f7f59c87-9d75-416f-96e9-9dd1ad2771e0.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "6 photos",
+        "tools, furniture and jewelry in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "jewelry",
+        "collectibles",
+        "art",
+        "christmas decor"
+      ],
+      "contentsLine": "Tools, furniture, jewelry, collectibles and art.",
+      "lat": 39.6707747,
+      "lng": -104.9285199,
+      "approximate": true
+    },
+    {
+      "id": "8028246df06dacad",
+      "title": "Aurora Just in Time for the Holidays Blue Moon Estate Sale",
+      "company": "Blue Moon Estate Sales",
+      "streetAddress": null,
+      "city": "Aurora",
+      "state": "CO",
+      "zip": "80016",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "09:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "10:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Aurora/80016/5173215"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(303) 646-6000",
+      "contactUrl": "https://www.bluemoonestatesales.com/se-denver",
+      "photoCount": 792,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5173215/1-1/baa5c2d5-fa5f-40ea-acd9-d1dd4172e265.jpg",
+        "https://picturescdn.estatesales.net/5173215/1-1/b57aa1e6-3d57-4a12-b9ea-496cbf46643a.jpg",
+        "https://picturescdn.estatesales.net/5173215/1-1/f444b077-f5a3-4c4a-a170-f1f72301fc08.jpg",
+        "https://picturescdn.estatesales.net/5173215/1-1/7cc42963-de20-443f-90b3-901cbb69762c.jpg",
+        "https://picturescdn.estatesales.net/5173215/1-1/35fa37c1-b1ce-4895-8183-2e4ca5064d8a.jpg",
+        "https://picturescdn.estatesales.net/5173215/1-1/afc14506-68a5-40e8-8944-c3bcb140a4f5.jpg",
+        "https://picturescdn.estatesales.net/5173215/1-1/fc3cb7f7-daa4-4d52-9f6f-d74c4b00a1a3.jpg",
+        "https://picturescdn.estatesales.net/5173215/1-1/a57aea68-ca45-44aa-876a-03717b785caa.jpg",
+        "https://picturescdn.estatesales.net/5173215/1-1/f5b18a00-973e-4889-bfb2-3de62efc0789.jpg",
+        "https://picturescdn.estatesales.net/5173215/1-1/d6f86d21-f75b-400c-9fa9-04706aba07f6.jpg",
+        "https://picturescdn.estatesales.net/5173215/1-1/7d32ea4a-85d4-4483-99b2-946e3003a4ea.jpg",
+        "https://picturescdn.estatesales.net/5173215/1-1/82216748-8a1e-40b4-b2b8-88c5207c2a7c.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "792 photos",
+        "furniture, collectibles and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "art",
+        "toys & games",
+        "figurines",
+        "china",
+        "crystal",
+        "mid-century"
+      ],
+      "contentsLine": "Furniture, collectibles, kitchen, clothing and art.",
+      "lat": 39.5904609,
+      "lng": -104.721906,
+      "approximate": true
+    },
+    {
+      "id": "e24bb02171bfce74",
+      "title": "Lots of Gifts and Goodies in Northglenn",
+      "company": "Meadowlark Estate Services",
+      "streetAddress": null,
+      "city": "Northglenn",
+      "state": "CO",
+      "zip": "80233",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "10:00",
+          "end": "15:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "10:00",
+          "end": "15:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/CO/Denver/80233/5171919"
+        }
+      ],
+      "categories": [],
+      "contactUrl": "https://www.meadowlarkestateservices.net/",
+      "photoCount": 162,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5171919/1-1/84094ba8-2dfb-4258-8cc8-f596b90ee6ea.jpg",
+        "https://picturescdn.estatesales.net/5171919/1-1/b3974613-d06b-4f68-947d-653cec16265d.jpg",
+        "https://picturescdn.estatesales.net/5171919/1-1/4630cf92-bbcb-45eb-b8f7-b6c1dcfbc284.jpg",
+        "https://picturescdn.estatesales.net/5171919/1-1/78876638-4f40-42d8-ade8-d403e9155d43.jpg",
+        "https://picturescdn.estatesales.net/5171919/1-1/df9d5d28-de8c-49bb-a344-95883c915143.jpg",
+        "https://picturescdn.estatesales.net/5171919/1-1/d5c2272a-3ac2-4bb7-959e-0e6c2eaf48df.jpg",
+        "https://picturescdn.estatesales.net/5171919/1-1/97d059ef-9d24-45ad-87b1-97d5a8a0e6e7.jpg",
+        "https://picturescdn.estatesales.net/5171919/1-1/141dd55d-5b7e-4422-84e0-8fda83aed4c1.jpg",
+        "https://picturescdn.estatesales.net/5171919/1-1/88d444c4-f25d-408f-a00c-8e1f81cafebd.jpg",
+        "https://picturescdn.estatesales.net/5171919/1-1/3a09fbce-7c42-44c8-9ae2-b18f94b4f21f.jpg",
+        "https://picturescdn.estatesales.net/5171919/1-1/ac8e857d-eb24-4a0d-9adf-16fa6cbdcf90.jpg",
+        "https://picturescdn.estatesales.net/5171919/1-1/e9ccd42f-327e-4e07-aa9e-3635592e3a31.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "162 photos",
+        "tools, furniture and vinyl & records in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "vinyl & records",
+        "jewelry",
+        "collectibles",
+        "kitchen",
+        "clothing",
+        "art",
+        "electronics",
+        "toys & games"
+      ],
+      "contentsLine": "Tools, furniture, vinyl & records, jewelry and collectibles.",
+      "lat": 39.904145,
+      "lng": -104.9720807,
+      "approximate": true
     }
   ]
 }

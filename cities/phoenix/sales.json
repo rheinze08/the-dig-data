@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-27",
-  "collectedAt": "2026-11-27T19:51:53.382Z",
+  "asOf": "2026-11-28",
+  "collectedAt": "2026-11-28T18:44:33.411Z",
   "window": {
-    "start": "2026-11-27",
-    "end": "2026-12-10",
+    "start": "2026-11-28",
+    "end": "2026-12-11",
     "timeZone": "America/Phoenix"
   },
   "area": {
@@ -14,21 +14,21 @@
   "coverage": {
     "EstateSales.net": {
       "status": "reached",
-      "detail": "Read the public sale sitemap. Checked 77/77 local candidate details.",
-      "candidates": 40,
-      "included": 36
+      "detail": "Read the public sale sitemap. Checked 81/81 local candidate details.",
+      "candidates": 47,
+      "included": 43
     },
     "EstateSales.org": {
       "status": "reached",
-      "detail": "Read 29 Phoenix directory cards over 2 pages. Checked 8/8 in-person local candidate details.",
+      "detail": "Read 32 Phoenix directory cards over 2 pages. Checked 9/9 in-person local candidate details.",
       "candidates": 8,
       "included": 7
     },
     "Craigslist Phoenix": {
       "status": "reached",
-      "detail": "60 directory listings discovered; 3 in-window estate listings before radius filtering",
-      "candidates": 3,
-      "included": 3
+      "detail": "86 directory listings discovered; 5 in-window estate listings before radius filtering",
+      "candidates": 5,
+      "included": 5
     },
     "GSALR.com": {
       "status": "blocked",
@@ -38,10 +38,10 @@
     }
   },
   "counts": {
-    "candidates": 51,
-    "listings": 46,
-    "sales": 41,
-    "duplicates": 5,
+    "candidates": 60,
+    "listings": 55,
+    "sales": 49,
+    "duplicates": 6,
     "outsideRadius": 4,
     "unlocatedListings": 0
   },
@@ -71,7 +71,7 @@
         {
           "date": "2026-11-28",
           "start": "07:30",
-          "end": "12:30"
+          "end": "13:00"
         }
       ],
       "sources": [
@@ -87,18 +87,18 @@
       "contactUrl": "https://www.estatesales.net/companies/AZ/Sun-City/85351/145172",
       "photoCount": 94,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5168328/1-1/c39b0877-08cd-4ab4-ad0e-9886cfd8e927.jpg",
+        "https://picturescdn.estatesales.net/5168328/1-1/433115ba-baf1-47d9-a246-c7136581428e.jpg",
+        "https://picturescdn.estatesales.net/5168328/1-1/ce1a0cc6-7e8f-42d6-9d54-532b3ec2f499.jpg",
         "https://picturescdn.estatesales.net/5168328/1-1/03096a22-fdb5-4020-99f5-e9152bbb0aeb.jpg",
         "https://picturescdn.estatesales.net/5168328/1-1/77f63632-f9e3-4e0f-9a4c-a13573d4560f.jpg",
         "https://picturescdn.estatesales.net/5168328/1-1/9827a82a-3e87-4b4b-a2c9-1b1bb4a0491b.jpg",
-        "https://picturescdn.estatesales.net/5168328/1-1/00a6a15f-b19e-4d5f-9743-3f6077f3b3ac.jpg",
+        "https://picturescdn.estatesales.net/5168328/1-1/56ab12ba-a09a-4320-8fe7-168055540358.jpg",
         "https://picturescdn.estatesales.net/5168328/1-1/c4e608f9-2ace-4c18-be49-55a2ce02f89e.jpg",
         "https://picturescdn.estatesales.net/5168328/1-1/ed4c4bd1-b0b8-4107-a299-736e47cd7f9e.jpg",
         "https://picturescdn.estatesales.net/5168328/1-1/3e7440b2-aa94-4759-8077-e467416c32d5.jpg",
-        "https://picturescdn.estatesales.net/5168328/1-1/433115ba-baf1-47d9-a246-c7136581428e.jpg",
         "https://picturescdn.estatesales.net/5168328/1-1/a0e89a4d-133c-40b0-8de1-3b3ddd43f4c4.jpg",
-        "https://picturescdn.estatesales.net/5168328/1-1/c39b0877-08cd-4ab4-ad0e-9886cfd8e927.jpg",
-        "https://picturescdn.estatesales.net/5168328/1-1/59eebe83-55ad-450e-b032-3e18f216e6d5.jpg",
-        "https://picturescdn.estatesales.net/5168328/1-1/4da390d9-d04c-4ae8-83c8-4b85fbea06c7.jpg"
+        "https://picturescdn.estatesales.net/5168328/1-1/59eebe83-55ad-450e-b032-3e18f216e6d5.jpg"
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
@@ -318,7 +318,7 @@
       "id": "d4598ea7781d594b",
       "title": "Tools tools and more",
       "company": null,
-      "streetAddress": "7432 e Roosevelt street, Scottsdale AZ",
+      "streetAddress": "7432 e Roosevelt St",
       "city": "Scottsdale",
       "state": "AZ",
       "zip": "85257",
@@ -370,8 +370,8 @@
         "vehicles"
       ],
       "contentsLine": "Tools and vehicles.",
-      "lat": 33.458698,
-      "lng": -111.919722,
+      "lat": 33.458689,
+      "lng": -111.919743,
       "approximate": false
     },
     {
@@ -493,10 +493,73 @@
       "approximate": true
     },
     {
+      "id": "32367a54e4d3fcc5",
+      "title": "25% / 50% OFF Surprise Coyote Lakes Estate Sale by Radiant Estate Sales",
+      "company": "Radiant Estate Sales",
+      "streetAddress": "11527 W Mountain Lion Ct",
+      "city": "Surprise",
+      "state": "AZ",
+      "zip": "85378",
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start": "08:00",
+          "end": "13:00"
+        },
+        {
+          "date": "2026-11-28",
+          "start": "08:00",
+          "end": "13:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Surprise/85378/5163819"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(480) 215-9409",
+      "contactUrl": "http://www.radiantestatesales.com",
+      "photoCount": 480,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5163819/1-1/1cba4bf2-f500-4df7-9731-031b1ce5ee05.jpg",
+        "https://picturescdn.estatesales.net/5163819/1-1/55d5b5ec-f455-4ff5-9096-5c76c3325691.jpg",
+        "https://picturescdn.estatesales.net/5163819/1-1/56c9c691-50e2-4cd5-b29f-4ab993ee8798.jpg",
+        "https://picturescdn.estatesales.net/5163819/1-1/bbc24f7b-33aa-44e8-96d1-b0e89433680e.jpg",
+        "https://picturescdn.estatesales.net/5163819/1-1/6f562fb5-d913-4a2c-97e5-acdeaa29c0c6.jpg",
+        "https://picturescdn.estatesales.net/5163819/1-1/3f4ec299-aa83-4579-9b3f-11c6037d66b8.jpg",
+        "https://picturescdn.estatesales.net/5163819/1-1/083ca262-49b4-4d54-8d1d-f369f0f7ef1e.jpg",
+        "https://picturescdn.estatesales.net/5163819/1-1/79c75a1f-8ddf-443b-8ceb-189789ee4681.jpg",
+        "https://picturescdn.estatesales.net/5163819/1-1/ec59146c-6c83-490c-8a26-c0f2a9d8c6f7.jpg",
+        "https://picturescdn.estatesales.net/5163819/1-1/bc55a0e6-aeea-4c9a-977d-76251ab261f9.jpg",
+        "https://picturescdn.estatesales.net/5163819/1-1/3a28cdc6-93a9-4b31-9f6a-ba0c9158a105.jpg",
+        "https://picturescdn.estatesales.net/5163819/1-1/daf3d8f4-c353-4169-8fff-19a89e8aeb73.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "480 photos",
+        "tools, furniture and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "tools",
+        "furniture",
+        "kitchen",
+        "art",
+        "mid-century",
+        "mirrors"
+      ],
+      "contentsLine": "Tools, furniture, kitchen, art and mid-century.",
+      "lat": 33.649121,
+      "lng": -112.3082825,
+      "approximate": false
+    },
+    {
       "id": "680bbf0855acf704",
-      "title": "Black Friday madness in Gilbert **unit 101**",
-      "company": "Allegro Estate Sales & Services AZ LLC",
-      "streetAddress": "4043 E Pony Ln",
+      "title": "Black Friday madness in Gilbert *unit 101*",
+      "company": "Allegro Estate Sales & Services Az LLC",
+      "streetAddress": "4043 E Pony Lane",
       "city": "Gilbert",
       "state": "AZ",
       "zip": "85295",
@@ -517,94 +580,38 @@
         {
           "name": "EstateSales.org",
           "url": "https://estatesales.org/estate-sales/az/gilbert/85295/black-friday-madness-in-gilbert-2475320"
+        },
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Gilbert/85295/5171475"
         }
       ],
       "categories": [],
       "contactPhone": "(602) 818-1414",
-      "contactUrl": "https://estatesales.org/estate-sale-companies/allegro-estate-sales-services-az-24842",
-      "photoCount": 20,
+      "contactUrl": "https://allegroestatesalesaz.net/",
+      "photoCount": 154,
       "photoUrls": [
-        "https://eso-cdn.tlcdn.workers.dev/s-2475320-lbppr2luwvwt0lwt.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2475320-j1ck8y338ui42585.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2475320-hbbrunv6yju4k7se.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2475320-yns96p55yzv7pavq.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2475320-ozw5xs8nyn9oog5y.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2475320-b46lgwgthjglc9z2.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2475320-2jfstv10o8w53rwv.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2475320-6lx1xh4q8aqadc13.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2475320-jqk6it2zknh7dekr.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2475320-yd8j5f4qpzq70zk9.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2475320-ztxebegh2wvnelsn.jpg",
-        "https://eso-cdn.tlcdn.workers.dev/s-2475320-2spvwgnxv5pzup0n.jpg"
+        "https://picturescdn.estatesales.net/5171475/1-1/ef81e865-e551-459d-b474-0552c61f8ca7.jpg",
+        "https://picturescdn.estatesales.net/5171475/1-1/e87054ff-c164-43d0-9617-e132c20bac6c.jpg",
+        "https://picturescdn.estatesales.net/5171475/1-1/dc8cc773-d064-4b5a-b71e-70538c41ed99.jpg",
+        "https://picturescdn.estatesales.net/5171475/1-1/106c2c5c-d0b2-45da-b3e6-b8e8e84b2914.jpg",
+        "https://picturescdn.estatesales.net/5171475/1-1/a1ce9bee-de31-4e5a-9f3b-d5469cb7a5ff.jpg",
+        "https://picturescdn.estatesales.net/5171475/1-1/44299830-a13d-49c9-9a27-c28bdd97a72d.jpg",
+        "https://picturescdn.estatesales.net/5171475/1-1/494cccdc-38a5-4a8c-b9b2-d097c3592d66.jpg",
+        "https://picturescdn.estatesales.net/5171475/1-1/5f72debf-9e56-4c43-b478-dc35683100c6.jpg",
+        "https://picturescdn.estatesales.net/5171475/1-1/ad036e81-47e3-45d0-96ac-0cfb854a3615.jpg",
+        "https://picturescdn.estatesales.net/5171475/1-1/23bbfac5-94a8-46af-baa9-ee7b483a74e9.jpg",
+        "https://picturescdn.estatesales.net/5171475/1-1/f44d4bfa-a0c4-4e6d-80dd-9030608fc5ef.jpg",
+        "https://picturescdn.estatesales.net/5171475/1-1/9d8af3cc-396d-43c2-9021-d0ccd010f55b.jpg"
       ],
       "digRating": "Worth a Look",
       "ratingReasons": [
-        "20 photos"
+        "154 photos"
       ],
       "photoKeywords": [],
       "lat": 33.3091235,
       "lng": -111.7029637,
       "approximate": false
-    },
-    {
-      "id": "200044c7268e650a",
-      "title": "Estate sale 61 yrs 50% off friday nov27 8 am to 6",
-      "company": null,
-      "streetAddress": "51st ave. . near Komatke lane",
-      "city": "Laveen",
-      "state": "AZ",
-      "zip": null,
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "08:00",
-          "end": "18:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Craigslist Phoenix",
-          "url": "https://www.craigslist.org/view/d/laveen-estate-sale-61-yrs-50-off-friday/nMkJymcHKeF3iPFGS2USYG"
-        }
-      ],
-      "categories": [],
-      "photoCount": 23,
-      "photoUrls": [
-        "https://images.craigslist.org/00L0L_j5MMqQEwkMU_13O0Nm_600x450.jpg",
-        "https://images.craigslist.org/00202_dZexOBVE0HV_0Nm13O_600x450.jpg",
-        "https://images.craigslist.org/00F0F_6gASe69j8PJ_13O0Nm_600x450.jpg",
-        "https://images.craigslist.org/00g0g_7afE11XFgEk_0Nm13O_600x450.jpg",
-        "https://images.craigslist.org/00D0D_geSklITD8SV_13O0Nm_600x450.jpg",
-        "https://images.craigslist.org/00Q0Q_7IT5TFI4h26_0Nm13O_600x450.jpg",
-        "https://images.craigslist.org/00m0m_ly96iHhWYA6_0Nm13O_600x450.jpg",
-        "https://images.craigslist.org/00P0P_19ohewi5g0Q_13O0Nm_600x450.jpg",
-        "https://images.craigslist.org/00y0y_j6AC5OPP16L_0Nm13O_600x450.jpg",
-        "https://images.craigslist.org/00C0C_CHXgLQeLu7_13O0Nm_600x450.jpg",
-        "https://images.craigslist.org/00z0z_7L9fIu2uMAP_13O0Nm_600x450.jpg",
-        "https://images.craigslist.org/00u0u_uiBL9vvHsR_0Nm13O_600x450.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "23 photos",
-        "collectibles, vehicles and kitchen in the listing"
-      ],
-      "photoKeywords": [
-        "collectibles",
-        "vehicles",
-        "kitchen",
-        "electronics",
-        "toys & games",
-        "antiques",
-        "silver",
-        "coins",
-        "dolls",
-        "christmas decor"
-      ],
-      "contentsLine": "Collectibles, vehicles, kitchen, electronics and toys & games.",
-      "lat": 33.3618814,
-      "lng": -112.1533861,
-      "approximate": true
     },
     {
       "id": "743e8108da2462a7",
@@ -677,69 +684,6 @@
       ],
       "contentsLine": "Pairs of earrings and necklaces cover a table. Shelves hold board games and birdhouses, and a counter holds stemware.",
       "photoRead": true
-    },
-    {
-      "id": "32367a54e4d3fcc5",
-      "title": "Surprise Coyote Lakes Estate Sale by Radiant Estate Sales",
-      "company": "Radiant Estate Sales",
-      "streetAddress": "11527 W Mountain Lion Ct",
-      "city": "Surprise",
-      "state": "AZ",
-      "zip": "85378",
-      "addressHidden": false,
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "start": "08:00",
-          "end": "13:00"
-        },
-        {
-          "date": "2026-11-28",
-          "start": "08:00",
-          "end": "13:00"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EstateSales.net",
-          "url": "https://www.estatesales.net/AZ/Surprise/85378/5163819"
-        }
-      ],
-      "categories": [],
-      "contactPhone": "(480) 215-9409",
-      "contactUrl": "http://www.radiantestatesales.com",
-      "photoCount": 480,
-      "photoUrls": [
-        "https://picturescdn.estatesales.net/5163819/1-1/1cba4bf2-f500-4df7-9731-031b1ce5ee05.jpg",
-        "https://picturescdn.estatesales.net/5163819/1-1/55d5b5ec-f455-4ff5-9096-5c76c3325691.jpg",
-        "https://picturescdn.estatesales.net/5163819/1-1/56c9c691-50e2-4cd5-b29f-4ab993ee8798.jpg",
-        "https://picturescdn.estatesales.net/5163819/1-1/bbc24f7b-33aa-44e8-96d1-b0e89433680e.jpg",
-        "https://picturescdn.estatesales.net/5163819/1-1/6f562fb5-d913-4a2c-97e5-acdeaa29c0c6.jpg",
-        "https://picturescdn.estatesales.net/5163819/1-1/3f4ec299-aa83-4579-9b3f-11c6037d66b8.jpg",
-        "https://picturescdn.estatesales.net/5163819/1-1/083ca262-49b4-4d54-8d1d-f369f0f7ef1e.jpg",
-        "https://picturescdn.estatesales.net/5163819/1-1/79c75a1f-8ddf-443b-8ceb-189789ee4681.jpg",
-        "https://picturescdn.estatesales.net/5163819/1-1/ec59146c-6c83-490c-8a26-c0f2a9d8c6f7.jpg",
-        "https://picturescdn.estatesales.net/5163819/1-1/bc55a0e6-aeea-4c9a-977d-76251ab261f9.jpg",
-        "https://picturescdn.estatesales.net/5163819/1-1/3a28cdc6-93a9-4b31-9f6a-ba0c9158a105.jpg",
-        "https://picturescdn.estatesales.net/5163819/1-1/daf3d8f4-c353-4169-8fff-19a89e8aeb73.jpg"
-      ],
-      "digRating": "Deep Dig",
-      "ratingReasons": [
-        "480 photos",
-        "tools, furniture and kitchen in the listing"
-      ],
-      "photoKeywords": [
-        "tools",
-        "furniture",
-        "kitchen",
-        "art",
-        "mid-century",
-        "mirrors"
-      ],
-      "contentsLine": "Tools, furniture, kitchen, art and mid-century.",
-      "lat": 33.649121,
-      "lng": -112.3082825,
-      "approximate": false
     },
     {
       "id": "7b90411317ffbd45",
@@ -945,6 +889,49 @@
       "approximate": false
     },
     {
+      "id": "33592695d13bef7c",
+      "title": "Garage/Estate Sale",
+      "company": null,
+      "streetAddress": "8932 W Sandra Terrace near 91st Ave South of Bell Rd",
+      "city": "Peoria",
+      "state": "AZ",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "07:00",
+          "end": "13:00"
+        },
+        {
+          "date": "2026-11-29",
+          "start": "07:00",
+          "end": "13:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Phoenix",
+          "url": "https://www.craigslist.org/view/d/peoria-garage-estate-sale/iJW9ZZsqdfShoc3BjVJu6C"
+        }
+      ],
+      "categories": [],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "furniture, kitchen and clothing in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "kitchen",
+        "clothing",
+        "christmas decor"
+      ],
+      "contentsLine": "Furniture, kitchen, clothing and christmas decor.",
+      "lat": 33.6104446,
+      "lng": -112.242265,
+      "approximate": true
+    },
+    {
       "id": "9f5f9f319298536d",
       "title": "Vintage antiques",
       "company": null,
@@ -1005,6 +992,115 @@
       ],
       "contentsLine": "Antlers, a horse figurine and a large decorative star sit atop a display hutch with glass-front doors.",
       "photoRead": true
+    },
+    {
+      "id": "8b4671f39ae83f9c",
+      "title": "ESTATE SALE - EVERYTHING MUST GO.",
+      "company": null,
+      "streetAddress": null,
+      "city": "Gilbert",
+      "state": "AZ",
+      "zip": null,
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "08:00",
+          "end": null
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Phoenix",
+          "url": "https://www.craigslist.org/view/d/higley-estate-sale-everything-must-go/5HXzBJm9AJSYkgwdHdjHtP"
+        }
+      ],
+      "categories": [],
+      "photoCount": 9,
+      "photoUrls": [
+        "https://images.craigslist.org/00B0B_84xzSXDHW36_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/01010_lojdwTQMJ4A_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00P0P_6Z6JDtxWNYG_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00V0V_4KSU6GzPRLs_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00t0t_hfYbcjbNTUY_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00A0A_b0aOm7FSsyL_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00R0R_66Rdcan41SF_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00303_9NEN6b7fbF0_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00707_1WI3cp8BpCB_0CI0t2_600x450.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "9 photos",
+        "vinyl & records and collectibles in the listing"
+      ],
+      "photoKeywords": [
+        "vinyl & records",
+        "collectibles"
+      ],
+      "contentsLine": "Vinyl & records and collectibles.",
+      "lat": 33.3527632,
+      "lng": -111.789037,
+      "approximate": true
+    },
+    {
+      "id": "d962063c862adefa",
+      "title": "Estate sale 61 yrs 50% off Saturday nov28 8 am to 6",
+      "company": null,
+      "streetAddress": "51st ave. . near Komatke lane",
+      "city": "Laveen",
+      "state": "AZ",
+      "zip": null,
+      "addressHidden": false,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start": "08:00",
+          "end": "18:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Craigslist Phoenix",
+          "url": "https://www.craigslist.org/view/d/laveen-estate-sale-61-yrs-50-off/nMkJymcHKeF3iPFGS2USYG"
+        }
+      ],
+      "categories": [],
+      "photoCount": 24,
+      "photoUrls": [
+        "https://images.craigslist.org/00n0n_jLwc8GQ4PIT_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00L0L_j5MMqQEwkMU_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00303_aoExRBO3nKl_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00202_dZexOBVE0HV_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00808_cBbHpbyg0VW_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00F0F_6gASe69j8PJ_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00g0g_7afE11XFgEk_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00D0D_geSklITD8SV_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00m0m_ly96iHhWYA6_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00P0P_19ohewi5g0Q_13O0Nm_600x450.jpg",
+        "https://images.craigslist.org/00y0y_j6AC5OPP16L_0Nm13O_600x450.jpg",
+        "https://images.craigslist.org/00C0C_CHXgLQeLu7_13O0Nm_600x450.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "24 photos",
+        "collectibles, vehicles and kitchen in the listing"
+      ],
+      "photoKeywords": [
+        "collectibles",
+        "vehicles",
+        "kitchen",
+        "electronics",
+        "toys & games",
+        "antiques",
+        "silver",
+        "coins",
+        "dolls",
+        "christmas decor"
+      ],
+      "contentsLine": "Collectibles, vehicles, kitchen, electronics and toys & games.",
+      "lat": 33.3618814,
+      "lng": -112.1533861,
+      "approximate": true
     },
     {
       "id": "421d3c23be16038d",
@@ -1144,11 +1240,11 @@
       "id": "b7dca1684fd837ab",
       "title": "CLEAR THE HOUSE! 50% OFF TO START! BUNDLE & SAVE MORE! SUNDAY ONLY – NORTH PHOENIX!",
       "company": "Milton Estate Sales",
-      "streetAddress": null,
+      "streetAddress": "2513 W Corrine Dr",
       "city": "Phoenix",
       "state": "AZ",
       "zip": "85029",
-      "addressHidden": true,
+      "addressHidden": false,
       "sessions": [
         {
           "date": "2026-11-29",
@@ -1185,9 +1281,9 @@
         "437 photos",
         "tools, furniture and collectibles in the listing"
       ],
-      "lat": 33.5978768,
-      "lng": -112.1222953,
-      "approximate": true,
+      "lat": 33.60024,
+      "lng": -112.113541,
+      "approximate": false,
       "photoKeywords": [
         "push-button desk phones",
         "portable record player",
@@ -1211,11 +1307,6 @@
       "addressHidden": true,
       "sessions": [
         {
-          "date": "2026-11-30",
-          "start": "07:00",
-          "end": "13:00"
-        },
-        {
           "date": "2026-12-01",
           "start": "07:00",
           "end": "13:00"
@@ -1229,6 +1320,11 @@
           "date": "2026-12-03",
           "start": "07:00",
           "end": "13:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "07:00",
+          "end": "11:00"
         }
       ],
       "sources": [
@@ -1240,7 +1336,7 @@
       "categories": [],
       "contactPhone": "(623) 888-0134",
       "contactUrl": "https://www.estatesales.net/companies/AZ/Peoria/85382/35432",
-      "photoCount": 165,
+      "photoCount": 182,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5164986/1-1/429d9224-dd30-4fcc-bab7-dc6ceb0fc24b.jpg",
         "https://picturescdn.estatesales.net/5164986/1-1/fbe8c853-c1e5-4bd0-b58e-77b9245da23a.jpg",
@@ -1257,7 +1353,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "165 photos",
+        "182 photos",
         "art and electronics in the listing",
         "runs 4 days"
       ],
@@ -1376,7 +1472,7 @@
         }
       ],
       "categories": [],
-      "photoCount": 20,
+      "photoCount": 27,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5172129/1-1/8ea98378-797c-4459-a33a-4013e4627fd4.jpg",
         "https://picturescdn.estatesales.net/5172129/1-1/d3fa7fe6-e4b4-4ec6-ae3e-63b57baf6f80.jpg",
@@ -1393,7 +1489,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "20 photos",
+        "27 photos",
         "furniture, collectibles and kitchen in the listing",
         "runs 3 days"
       ],
@@ -1410,6 +1506,66 @@
       ],
       "contentsLine": "A Singer treadle sewing machine sits in a drawer cabinet. Other pieces include a drop-leaf tea cart and a rocking chair.",
       "photoRead": true
+    },
+    {
+      "id": "2a42b863b6e5c233",
+      "title": "Contemporary & Vintage Furniture & Everyday Household",
+      "company": "His & Hers Estate Sale Services",
+      "streetAddress": null,
+      "city": "Sun City West",
+      "state": "AZ",
+      "zip": "85375",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start": "07:30",
+          "end": "13:00"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "07:30",
+          "end": "13:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Sun-City-West/85375/5174562"
+        }
+      ],
+      "categories": [
+        "furniture"
+      ],
+      "contactPhone": "(623) 419-2701",
+      "contactUrl": "https://www.estatesales.net/companies/AZ/Sun-City/85351/145172",
+      "photoCount": 15,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5174562/1-1/4bc10a63-0450-4ed0-9447-bd781edc542d.jpg",
+        "https://picturescdn.estatesales.net/5174562/1-1/d96d0dc7-c4ce-4b7b-9738-1af54b09930f.jpg",
+        "https://picturescdn.estatesales.net/5174562/1-1/d99dd88b-aa7a-4e97-a2b5-81b30e4a0a96.jpg",
+        "https://picturescdn.estatesales.net/5174562/1-1/d184e6b8-e829-4973-b659-fa440ee9dfc4.jpg",
+        "https://picturescdn.estatesales.net/5174562/1-1/eba70253-72af-4636-8df9-99f4c04ae10b.jpg",
+        "https://picturescdn.estatesales.net/5174562/1-1/3b9acca0-5170-461f-b4b3-3f1cd4ae14d8.jpg",
+        "https://picturescdn.estatesales.net/5174562/1-1/ead11618-f3ec-469f-a989-09597458b0ce.jpg",
+        "https://picturescdn.estatesales.net/5174562/1-1/5ac6224f-2301-4661-8db3-bc77aa811050.jpg",
+        "https://picturescdn.estatesales.net/5174562/1-1/2d3ee6d1-5eab-4da9-95f4-de5c54cc1bfc.jpg",
+        "https://picturescdn.estatesales.net/5174562/1-1/4e1a55ed-5b8b-496d-9a89-707a6eae555f.jpg",
+        "https://picturescdn.estatesales.net/5174562/1-1/bd7d7966-a462-4e33-b775-e3d81d26148e.jpg",
+        "https://picturescdn.estatesales.net/5174562/1-1/4c9df801-cf61-4ca7-be86-52c3454aabcd.jpg"
+      ],
+      "digRating": "Worth a Look",
+      "ratingReasons": [
+        "15 photos"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "mirrors"
+      ],
+      "contentsLine": "Furniture and mirrors.",
+      "lat": 33.6709975,
+      "lng": -112.3552134,
+      "approximate": true
     },
     {
       "id": "9d83ced8155c2239",
@@ -1446,7 +1602,7 @@
       "categories": [],
       "contactPhone": "(623) 215-5552",
       "contactUrl": "https://www.phxestatesales.com",
-      "photoCount": 117,
+      "photoCount": 114,
       "photoUrls": [
         "https://picturescdn.estatesales.net/5170521/1-1/3f2ce52b-668a-4a26-bf5e-70b9a3b41459.jpg",
         "https://picturescdn.estatesales.net/5170521/1-1/4690e78e-3085-4c61-ae93-b3489bf0058d.jpg",
@@ -1463,7 +1619,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "117 photos",
+        "114 photos",
         "tools, furniture and jewelry in the listing",
         "runs 3 days"
       ],
@@ -2083,15 +2239,15 @@
       "contactUrl": "http://www.radiantestatesales.com",
       "photoCount": 1601,
       "photoUrls": [
+        "https://picturescdn.estatesales.net/5163063/1-1/c9442e52-eef4-4ef8-8ea4-b19143644e53.jpg",
+        "https://picturescdn.estatesales.net/5163063/1-1/d5c177c4-5adb-4296-84a4-5479f69e2b52.jpg",
+        "https://picturescdn.estatesales.net/5163063/1-1/57a32d1a-a701-482e-b22b-915c025664e3.jpg",
+        "https://picturescdn.estatesales.net/5163063/1-1/886302c2-4cf8-4d6f-b2c8-0df37b957b35.jpg",
         "https://picturescdn.estatesales.net/5163063/1-1/8ba385ef-b26c-4512-8bb5-fe4513fc4025.jpg",
         "https://picturescdn.estatesales.net/5163063/1-1/fa554c73-d2eb-48a5-87c3-1da36c5b432c.jpg",
         "https://picturescdn.estatesales.net/5163063/1-1/2eb7a7cc-11c1-430d-95ac-36640bd25440.jpg",
         "https://picturescdn.estatesales.net/5163063/1-1/cb877185-a607-43fb-a971-c65742dbded3.jpg",
         "https://picturescdn.estatesales.net/5163063/1-1/2ad0bbf6-9454-4d58-84a9-32d5f977558a.jpg",
-        "https://picturescdn.estatesales.net/5163063/1-1/c9442e52-eef4-4ef8-8ea4-b19143644e53.jpg",
-        "https://picturescdn.estatesales.net/5163063/1-1/d5c177c4-5adb-4296-84a4-5479f69e2b52.jpg",
-        "https://picturescdn.estatesales.net/5163063/1-1/57a32d1a-a701-482e-b22b-915c025664e3.jpg",
-        "https://picturescdn.estatesales.net/5163063/1-1/886302c2-4cf8-4d6f-b2c8-0df37b957b35.jpg",
         "https://picturescdn.estatesales.net/5163063/1-1/27bdd91c-cf6b-41e0-bc65-94edf6c8de64.jpg",
         "https://picturescdn.estatesales.net/5163063/1-1/53ea118a-d1bb-4f18-a445-44e104c4ecac.jpg",
         "https://picturescdn.estatesales.net/5163063/1-1/22885b5f-e6b9-4814-aeed-047671b7ac10.jpg"
@@ -2153,9 +2309,9 @@
       "categories": [],
       "contactPhone": "4805400098",
       "contactUrl": "https://www.estatesales.net/companies/AZ/Chandler/85248/142496",
-      "photoCount": 101,
+      "photoCount": 108,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5169927/1-1/ee7e3b9c-bda2-4305-bb49-f816c58b7574.jpg",
+        "https://picturescdn.estatesales.net/5169927/1-1/ea938d78-db14-4f53-a948-87d70654f53e.jpg",
         "https://picturescdn.estatesales.net/5169927/1-1/823e668e-58e8-4a1d-8d7e-81b4ac5ef519.jpg",
         "https://picturescdn.estatesales.net/5169927/1-1/1de41815-0648-4204-a2b2-9792c179f019.jpg",
         "https://picturescdn.estatesales.net/5169927/1-1/2ff89fec-8380-429e-975b-a8ede85446ab.jpg",
@@ -2170,7 +2326,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "101 photos",
+        "108 photos",
         "runs 3 days"
       ],
       "lat": 33.2232339,
@@ -2261,15 +2417,15 @@
       ],
       "categories": [],
       "contactUrl": "https://www.estatesales.net/companies/AZ/Scottsdale/85254/22760",
-      "photoCount": 109,
+      "photoCount": 103,
       "photoUrls": [
-        "https://picturescdn.estatesales.net/5165754/1-1/868f921a-4ef1-4353-bc2d-b045e11306a5.jpg",
+        "https://picturescdn.estatesales.net/5165754/1-1/7796ade9-c056-4cab-a0ed-07ad45d25c29.jpg",
+        "https://picturescdn.estatesales.net/5165754/1-1/8c77df94-decf-465f-9134-8a4877871eff.jpg",
         "https://picturescdn.estatesales.net/5165754/1-1/22c5219f-ae31-4745-8d16-0a1126fe3dc1.jpg",
         "https://picturescdn.estatesales.net/5165754/1-1/0e553432-f7bf-452f-b6a0-330ea58c02da.jpg",
         "https://picturescdn.estatesales.net/5165754/1-1/409778ab-84f2-4a5f-b42c-4e9eb98bd1f7.jpg",
         "https://picturescdn.estatesales.net/5165754/1-1/217bc07a-8502-4584-b55d-b3381265574f.jpg",
         "https://picturescdn.estatesales.net/5165754/1-1/fece3309-9f81-427c-ba7b-c76ebe8bee51.jpg",
-        "https://picturescdn.estatesales.net/5165754/1-1/8c77df94-decf-465f-9134-8a4877871eff.jpg",
         "https://picturescdn.estatesales.net/5165754/1-1/f885b9ee-6d4a-4ce4-a453-c00ae0336bb3.jpg",
         "https://picturescdn.estatesales.net/5165754/1-1/8b90749a-cd54-48fa-aa45-75f36ffb3dab.jpg",
         "https://picturescdn.estatesales.net/5165754/1-1/1b8e5b76-7a5a-4780-8f35-c7b3458e13db.jpg",
@@ -2278,7 +2434,7 @@
       ],
       "digRating": "Deep Dig",
       "ratingReasons": [
-        "109 photos",
+        "103 photos",
         "furniture, jewelry and art in the listing"
       ],
       "lat": 33.5865332,
@@ -2726,6 +2882,285 @@
       "photoKeywords": [],
       "lat": 33.566012,
       "lng": -111.8833334,
+      "approximate": true
+    },
+    {
+      "id": "4c2c130c3e67b5ce",
+      "title": "***SUN CITY WEST SOUTHWEST ESTATE SALE***",
+      "company": "Anderson Family Estate Sales & Services, LLC",
+      "streetAddress": null,
+      "city": "Sun City West",
+      "state": "AZ",
+      "zip": "85375",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "08:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "08:00",
+          "end": "14:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Sun-City-West/85375/5168058"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(602) 319-0272",
+      "contactUrl": "http://www.azestatesellers.com",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5168058/1-1/e5e7df1d-d08e-4199-9b86-69df1629c864.jpg"
+      ],
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "only 1 photo",
+        "few details in the listing"
+      ],
+      "photoKeywords": [
+        "furniture"
+      ],
+      "contentsLine": "Furniture.",
+      "lat": 33.6709975,
+      "lng": -112.3552134,
+      "approximate": true
+    },
+    {
+      "id": "e5e167a7a780d78b",
+      "title": "Good Finds in Goodyear",
+      "company": "Allegro Estate Sales & Services Az LLC",
+      "streetAddress": null,
+      "city": "Goodyear",
+      "state": "AZ",
+      "zip": "85395",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "08:00",
+          "end": "12:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "08:00",
+          "end": "12:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Goodyear/85395/5164629"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(602) 818-1414",
+      "contactUrl": "https://allegroestatesalesaz.net/",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5164629/1-1/29e3b4bd-5a8a-4f18-8c1e-77faa8d33a26.jpg"
+      ],
+      "digRating": "Slim Pickings",
+      "ratingReasons": [
+        "only 1 photo",
+        "few details in the listing"
+      ],
+      "photoKeywords": [],
+      "lat": 33.483369,
+      "lng": -112.3940798,
+      "approximate": true
+    },
+    {
+      "id": "792cf42bd70ee262",
+      "title": "Paradise Valley Gem! Featuring Excellent Quality Furniture, Decor, Antiques, Garage, Patio & More!",
+      "company": "Full House Estate Sales",
+      "streetAddress": null,
+      "city": "Paradise Valley",
+      "state": "AZ",
+      "zip": "85253",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "08:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "08:00",
+          "end": "14:00"
+        },
+        {
+          "date": "2026-12-13",
+          "start": "08:00",
+          "end": "12:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Paradise-Valley/85253/5157996"
+        }
+      ],
+      "categories": [
+        "furniture"
+      ],
+      "contactPhone": "(623) 628-4987",
+      "contactUrl": "http://www.fullhouseestatesales.net",
+      "photoCount": 17,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5157996/1-1/72c48034-68f7-4b20-aa0b-17304ba35451.jpg",
+        "https://picturescdn.estatesales.net/5157996/1-1/554e8c36-c748-4e76-87d9-c075214cb9af.jpg",
+        "https://picturescdn.estatesales.net/5157996/1-1/44dcaa6c-e77d-4c15-a54a-3366c4fbc0e9.jpg",
+        "https://picturescdn.estatesales.net/5157996/1-1/439727ef-5083-465f-81fb-73a5f2faeaa6.jpg",
+        "https://picturescdn.estatesales.net/5157996/1-1/a1424ffd-f955-4746-a971-37d93a9f487d.jpg",
+        "https://picturescdn.estatesales.net/5157996/1-1/86337e64-954a-4d4a-ae60-5a21998f6102.jpg",
+        "https://picturescdn.estatesales.net/5157996/1-1/7f93779e-9f64-4503-aa3b-208fc4f0fd09.jpg",
+        "https://picturescdn.estatesales.net/5157996/1-1/84b81c63-a10d-4906-96d0-cbdadaff8031.jpg",
+        "https://picturescdn.estatesales.net/5157996/1-1/84c1f5f5-ccf8-4ce1-a38a-7ff1ed3e428e.jpg",
+        "https://picturescdn.estatesales.net/5157996/1-1/679279f8-f13c-4369-ad65-79e0d9a8c8ec.jpg",
+        "https://picturescdn.estatesales.net/5157996/1-1/590e6aba-aa67-4232-adcb-a62b078e9db1.jpg",
+        "https://picturescdn.estatesales.net/5157996/1-1/7baad7ae-211e-46e5-bf29-5c1e94ffba0b.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "17 photos",
+        "furniture, vinyl & records and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "vinyl & records",
+        "collectibles",
+        "books",
+        "antiques",
+        "mid-century"
+      ],
+      "contentsLine": "Furniture, vinyl & records, collectibles, books and antiques.",
+      "lat": 33.5530221,
+      "lng": -111.9622767,
+      "approximate": true
+    },
+    {
+      "id": "c6c2b1e68a23fece",
+      "title": "Tumbleweed Estate Sales- Fun& Funky Glendale sale",
+      "company": "Tumbleweed Estate Sales",
+      "streetAddress": null,
+      "city": "Glendale",
+      "state": "AZ",
+      "zip": "85303",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "08:00",
+          "end": "13:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "08:00",
+          "end": "13:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Glendale/85303/5168985"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(623) 810-5755",
+      "contactUrl": "https://www.estatesales.net/companies/AZ/Surprise/85388/163754",
+      "photoCount": 202,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5168985/1-1/cd05526b-a833-4e3f-aa7b-8476a1207df1.jpg",
+        "https://picturescdn.estatesales.net/5168985/1-1/1f1e7738-caed-41f5-abc8-712bb1e5f1da.jpg",
+        "https://picturescdn.estatesales.net/5168985/1-1/cce1dfc4-6623-4bce-b976-977a86eee5fb.jpg",
+        "https://picturescdn.estatesales.net/5168985/1-1/905cbdad-b748-4283-b8ff-d6c0159da951.jpg",
+        "https://picturescdn.estatesales.net/5168985/1-1/79444667-abf8-44ec-8244-f7d4c7f642a9.jpg",
+        "https://picturescdn.estatesales.net/5168985/1-1/bec43960-6a16-4f6f-8cdc-5d5b08484af6.jpg",
+        "https://picturescdn.estatesales.net/5168985/1-1/73d5c1c8-f955-4e52-813d-da73459d1e88.jpg",
+        "https://picturescdn.estatesales.net/5168985/1-1/f1493e7d-0b2a-4e91-8f6e-2893eaa39d08.jpg",
+        "https://picturescdn.estatesales.net/5168985/1-1/f9b6a058-361b-4d5d-980a-3aee06cc89b9.jpg",
+        "https://picturescdn.estatesales.net/5168985/1-1/bc111aad-1a34-4a60-badb-fb187ef101b3.jpg",
+        "https://picturescdn.estatesales.net/5168985/1-1/e19128fe-eb59-4ff2-97ef-b6c241299345.jpg",
+        "https://picturescdn.estatesales.net/5168985/1-1/070a9870-7740-4e43-800b-bbcf55f8e8f7.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "202 photos",
+        "furniture and art in the listing"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "art",
+        "patio furniture"
+      ],
+      "contentsLine": "Furniture, art and patio furniture.",
+      "lat": 33.5287479,
+      "lng": -112.2193173,
+      "approximate": true
+    },
+    {
+      "id": "f2880beee37d16e6",
+      "title": "Mid-Century Chandler Estate Sale",
+      "company": "Blue Barn Estate Sales",
+      "streetAddress": null,
+      "city": "Chandler",
+      "state": "AZ",
+      "zip": "85224",
+      "addressHidden": true,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "start": "09:00",
+          "end": "13:00"
+        },
+        {
+          "date": "2026-12-12",
+          "start": "08:00",
+          "end": "13:00"
+        },
+        {
+          "date": "2026-12-13",
+          "start": "09:00",
+          "end": "13:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EstateSales.net",
+          "url": "https://www.estatesales.net/AZ/Chandler/85224/5142696"
+        }
+      ],
+      "categories": [],
+      "contactPhone": "(480) 720-7310",
+      "contactUrl": "http://www.bluebarnestatesales.com",
+      "photoCount": 1,
+      "photoUrls": [
+        "https://picturescdn.estatesales.net/5142696/1-1/f0e380bc-f78d-41bb-984c-a3266738ea4a.jpg"
+      ],
+      "digRating": "Deep Dig",
+      "ratingReasons": [
+        "furniture, vinyl & records and collectibles in the listing",
+        "runs 3 days"
+      ],
+      "photoKeywords": [
+        "furniture",
+        "vinyl & records",
+        "collectibles",
+        "kitchen",
+        "mid-century",
+        "patio furniture"
+      ],
+      "contentsLine": "Furniture, vinyl & records, collectibles, kitchen and mid-century.",
+      "lat": 33.3255635,
+      "lng": -111.875376,
       "approximate": true
     }
   ]

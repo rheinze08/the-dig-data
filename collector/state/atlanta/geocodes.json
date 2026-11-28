@@ -519,6 +519,11 @@
     "lng": -83.9016884,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:30022": {
+    "lat": 34.0168061,
+    "lng": -84.2570891,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:30039": {
     "lat": 33.8108899,
     "lng": -84.043116,
@@ -654,6 +659,11 @@
     "lng": -84.5899128,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:30316": {
+    "lat": 33.7379309,
+    "lng": -84.3510342,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:30324": {
     "lat": 33.8147146,
     "lng": -84.3584602,
@@ -687,6 +697,11 @@
   "zip:30345": {
     "lat": 33.846057,
     "lng": -84.2877262,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:30350": {
+    "lat": 33.9762223,
+    "lng": -84.3232906,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:30519": {

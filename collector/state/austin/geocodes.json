@@ -40,7 +40,7 @@
     "retryAfter": 1795828725141
   },
   "nominatim:street:1304 leander dr unit 630:78641": {
-    "retryAfter": 1795828735962
+    "retryAfter": 1796496092509
   },
   "nominatim:street:13402 montview dr:78732": {
     "retryAfter": 1795828717411
@@ -115,7 +115,7 @@
     "retryAfter": 1796413754600
   },
   "nominatim:street:900 e 53 1 2 st:78751": {
-    "retryAfter": 1795828710071
+    "retryAfter": 1796496091913
   },
   "street:102 duck lake dr:78734": {
     "lat": 30.358218,
@@ -327,6 +327,11 @@
     "lng": -98.1660006,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:78602": {
+    "lat": 30.1120297,
+    "lng": -97.3239712,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:78611": {
     "lat": 30.752811,
     "lng": -98.2411824,
@@ -355,6 +360,11 @@
   "zip:78634": {
     "lat": 30.5445634,
     "lng": -97.5598875,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78640": {
+    "lat": 29.97916,
+    "lng": -97.8547029,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:78653": {
@@ -402,6 +412,11 @@
     "lng": -97.9431628,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:78737": {
+    "lat": 30.2096979,
+    "lng": -97.9331525,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:78748": {
     "lat": 30.1636136,
     "lng": -97.8277134,
@@ -425,6 +440,11 @@
   "zip:78758": {
     "lat": 30.3813323,
     "lng": -97.7080251,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:78759": {
+    "lat": 30.3950589,
+    "lng": -97.7519302,
     "basis": "OpenStreetMap Nominatim"
   }
 }

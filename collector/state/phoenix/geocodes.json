@@ -4,6 +4,11 @@
     "lng": -112.626199,
     "basis": "OpenStreetMap Nominatim"
   },
+  "city:gilbert": {
+    "lat": 33.3527632,
+    "lng": -111.789037,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "city:laveen": {
     "lat": 33.3618814,
     "lng": -112.1533861,
@@ -17,6 +22,11 @@
   "city:new river": {
     "lat": 33.9158687,
     "lng": -112.13599,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "city:peoria": {
+    "lat": 33.6104446,
+    "lng": -112.242265,
     "basis": "OpenStreetMap Nominatim"
   },
   "city:phoenix": {
@@ -61,6 +71,9 @@
   },
   "nominatim:street:7834 w monterey way near 75th ave thomas rd maryvale w phoenix:phoenix": {
     "retryAfter": 1795976206854
+  },
+  "nominatim:street:8932 w sandra terrace near 91st ave s of bell rd:peoria": {
+    "retryAfter": 1796496268104
   },
   "nominatim:street:903 n revere unit e near rio salado alma school:mesa": {
     "retryAfter": 1795962960605
@@ -203,6 +216,11 @@
     "lng": -111.919722,
     "basis": "Public listing map: EstateSales.net"
   },
+  "street:7432 e roosevelt st:85257": {
+    "lat": 33.458689,
+    "lng": -111.919743,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "street:7834 w monterey way:phoenix": {
     "lat": 33.4836165,
     "lng": -112.2279769,
@@ -283,9 +301,19 @@
     "lng": -111.6199787,
     "basis": "OpenStreetMap Nominatim"
   },
+  "zip:85224": {
+    "lat": 33.3255635,
+    "lng": -111.875376,
+    "basis": "OpenStreetMap Nominatim"
+  },
   "zip:85249": {
     "lat": 33.2232339,
     "lng": -111.7981001,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:85253": {
+    "lat": 33.5530221,
+    "lng": -111.9622767,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:85254": {
@@ -326,6 +354,11 @@
   "zip:85302": {
     "lat": 33.5683962,
     "lng": -112.176042,
+    "basis": "OpenStreetMap Nominatim"
+  },
+  "zip:85303": {
+    "lat": 33.5287479,
+    "lng": -112.2193173,
     "basis": "OpenStreetMap Nominatim"
   },
   "zip:85306": {
